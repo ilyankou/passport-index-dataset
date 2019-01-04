@@ -1,7 +1,7 @@
 # passport-index-dataset
-**Passport Index 2018: travel visa requirements for 199 countries, in .csv**
+**Passport Index 2019: travel visa requirements for 199 countries, in .csv**
 
-* Last updated on December 08, 2018
+* Last updated on January 04, 2019
 * The first column represents a passport (=from), each remaining column represents a foreign country (=to)
 * Values:
   * `3` = visa-free travel
