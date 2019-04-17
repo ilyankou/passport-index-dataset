@@ -1,7 +1,7 @@
 import pandas as pd
 
-input = 'passport-index-iso3-matrix.csv'
-output = 'passport-index-iso3-tidy.csv'
+input = 'passport-index-matrix.csv'
+output = 'passport-index-tidy.csv'
 
 df = pd.read_csv(input, index_col=0)
 df = df.stack()
