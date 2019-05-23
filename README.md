@@ -4,7 +4,7 @@
 
 **Passport Index 2019: travel visa requirements for 199 countries, in .csv**
 
-* Last updated on April 17, 2019
+* Last updated on May 23, 2019
 * In distance matrices (files containing `-matrix*.csv`), the first column represents a passport (=from), each remaining column represents a foreign country (=to). Files in tidy format (`-tidy*.csv`) have the first column as passport (from), the second column as destination (=to), and the third column as value.
 * Values:
   * `3` = visa-free travel
