@@ -127,7 +127,7 @@ Afghanistan,Netherlands,0
 Afghanistan,New Zealand,0
 Afghanistan,Nicaragua,0
 Afghanistan,Niger,0
-Afghanistan,Nigeria,0
+Afghanistan,Nigeria,1
 Afghanistan,North Korea,0
 Afghanistan,North Macedonia,0
 Afghanistan,Norway,0
@@ -152,7 +152,7 @@ Afghanistan,Samoa,1
 Afghanistan,San Marino,0
 Afghanistan,Sao Tome and Principe,0
 Afghanistan,Saudi Arabia,0
-Afghanistan,Senegal,0
+Afghanistan,Senegal,1
 Afghanistan,Serbia,0
 Afghanistan,Seychelles,1
 Afghanistan,Sierra Leone,0
@@ -168,7 +168,7 @@ Afghanistan,Spain,0
 Afghanistan,Sri Lanka,0
 Afghanistan,Saint Vincent and the Grenadines,3
 Afghanistan,Sudan,0
-Afghanistan,Suriname,0
+Afghanistan,Suriname,1
 Afghanistan,Sweden,0
 Afghanistan,Switzerland,0
 Afghanistan,Syria,0
@@ -181,7 +181,7 @@ Afghanistan,Togo,1
 Afghanistan,Tonga,0
 Afghanistan,Trinidad and Tobago,0
 Afghanistan,Tunisia,0
-Afghanistan,Turkey,0
+Afghanistan,Turkey,1
 Afghanistan,Turkmenistan,0
 Afghanistan,Tuvalu,1
 Afghanistan,Uganda,1
@@ -525,7 +525,7 @@ Algeria,Netherlands,0
 Algeria,New Zealand,0
 Algeria,Nicaragua,1
 Algeria,Niger,0
-Algeria,Nigeria,0
+Algeria,Nigeria,1
 Algeria,North Korea,0
 Algeria,North Macedonia,0
 Algeria,Norway,0
@@ -566,7 +566,7 @@ Algeria,Spain,0
 Algeria,Sri Lanka,2
 Algeria,Saint Vincent and the Grenadines,3
 Algeria,Sudan,0
-Algeria,Suriname,0
+Algeria,Suriname,1
 Algeria,Sweden,0
 Algeria,Switzerland,0
 Algeria,Syria,3
@@ -748,7 +748,7 @@ Andorra,Saint Lucia,3
 Andorra,Samoa,1
 Andorra,San Marino,3
 Andorra,Sao Tome and Principe,3
-Andorra,Saudi Arabia,0
+Andorra,Saudi Arabia,1
 Andorra,Senegal,1
 Andorra,Serbia,3
 Andorra,Seychelles,1
@@ -845,7 +845,7 @@ Angola,Denmark,0
 Angola,Djibouti,1
 Angola,Dominica,3
 Angola,Dominican Republic,0
-Angola,Ecuador,3
+Angola,Ecuador,0
 Angola,Egypt,0
 Angola,El Salvador,0
 Angola,Equatorial Guinea,0
@@ -1743,7 +1743,7 @@ Australia,Saint Lucia,3
 Australia,Samoa,1
 Australia,San Marino,3
 Australia,Sao Tome and Principe,0
-Australia,Saudi Arabia,0
+Australia,Saudi Arabia,1
 Australia,Senegal,1
 Australia,Serbia,3
 Australia,Seychelles,1
@@ -1757,7 +1757,7 @@ Australia,South Africa,3
 Australia,South Korea,3
 Australia,South Sudan,0
 Australia,Spain,3
-Australia,Sri Lanka,2
+Australia,Sri Lanka,3
 Australia,Saint Vincent and the Grenadines,3
 Australia,Sudan,0
 Australia,Suriname,1
@@ -1942,11 +1942,11 @@ Austria,Saint Lucia,3
 Austria,Samoa,3
 Austria,San Marino,3
 Austria,Sao Tome and Principe,3
-Austria,Saudi Arabia,0
+Austria,Saudi Arabia,1
 Austria,Senegal,3
 Austria,Serbia,3
 Austria,Seychelles,1
-Austria,Sierra Leone,0
+Austria,Sierra Leone,1
 Austria,Singapore,3
 Austria,Slovakia,3
 Austria,Slovenia,3
@@ -1956,7 +1956,7 @@ Austria,South Africa,3
 Austria,South Korea,3
 Austria,South Sudan,0
 Austria,Spain,3
-Austria,Sri Lanka,2
+Austria,Sri Lanka,3
 Austria,Saint Vincent and the Grenadines,3
 Austria,Sudan,0
 Austria,Suriname,1
@@ -2543,7 +2543,7 @@ Bahrain,Saudi Arabia,3
 Bahrain,Senegal,1
 Bahrain,Serbia,3
 Bahrain,Seychelles,1
-Bahrain,Sierra Leone,0
+Bahrain,Sierra Leone,1
 Bahrain,Singapore,3
 Bahrain,Slovakia,0
 Bahrain,Slovenia,0
@@ -2679,7 +2679,7 @@ Bangladesh,Kiribati,0
 Bangladesh,Kosovo,0
 Bangladesh,Kuwait,0
 Bangladesh,Kyrgyzstan,0
-Bangladesh,Laos,1
+Bangladesh,Laos,0
 Bangladesh,Latvia,0
 Bangladesh,Lebanon,0
 Bangladesh,Lesotho,3
@@ -2850,7 +2850,7 @@ Barbados,Gabon,1
 Barbados,Gambia,3
 Barbados,Georgia,3
 Barbados,Germany,3
-Barbados,Ghana,0
+Barbados,Ghana,3
 Barbados,Greece,3
 Barbados,Grenada,3
 Barbados,Guatemala,3
@@ -2972,7 +2972,7 @@ Barbados,Turkmenistan,0
 Barbados,Tuvalu,1
 Barbados,Uganda,3
 Barbados,Ukraine,0
-Barbados,United Arab Emirates,1
+Barbados,United Arab Emirates,3
 Barbados,United Kingdom,3
 Barbados,United States,0
 Barbados,Uruguay,3
@@ -3131,7 +3131,7 @@ Belarus,Qatar,3
 Belarus,Romania,0
 Belarus,Russian Federation,3
 Belarus,Rwanda,1
-Belarus,Saint Kitts and Nevis,0
+Belarus,Saint Kitts and Nevis,3
 Belarus,Saint Lucia,0
 Belarus,Samoa,1
 Belarus,San Marino,0
@@ -3335,11 +3335,11 @@ Belgium,Saint Lucia,3
 Belgium,Samoa,3
 Belgium,San Marino,3
 Belgium,Sao Tome and Principe,3
-Belgium,Saudi Arabia,0
+Belgium,Saudi Arabia,1
 Belgium,Senegal,3
 Belgium,Serbia,3
 Belgium,Seychelles,1
-Belgium,Sierra Leone,0
+Belgium,Sierra Leone,1
 Belgium,Singapore,3
 Belgium,Slovakia,3
 Belgium,Slovenia,3
@@ -3349,7 +3349,7 @@ Belgium,South Africa,3
 Belgium,South Korea,3
 Belgium,South Sudan,0
 Belgium,Spain,3
-Belgium,Sri Lanka,2
+Belgium,Sri Lanka,3
 Belgium,Saint Vincent and the Grenadines,3
 Belgium,Sudan,0
 Belgium,Suriname,1
@@ -3702,7 +3702,7 @@ Benin,Montenegro,0
 Benin,Morocco,0
 Benin,Mozambique,1
 Benin,Myanmar,0
-Benin,Namibia,0
+Benin,Namibia,1
 Benin,Nauru,0
 Benin,Nepal,1
 Benin,Netherlands,0
@@ -3908,7 +3908,7 @@ Bhutan,Netherlands,0
 Bhutan,New Zealand,0
 Bhutan,Nicaragua,1
 Bhutan,Niger,0
-Bhutan,Nigeria,0
+Bhutan,Nigeria,1
 Bhutan,North Korea,0
 Bhutan,North Macedonia,0
 Bhutan,Norway,0
@@ -3933,7 +3933,7 @@ Bhutan,Samoa,1
 Bhutan,San Marino,0
 Bhutan,Sao Tome and Principe,0
 Bhutan,Saudi Arabia,0
-Bhutan,Senegal,0
+Bhutan,Senegal,1
 Bhutan,Serbia,0
 Bhutan,Seychelles,1
 Bhutan,Sierra Leone,0
@@ -3949,7 +3949,7 @@ Bhutan,Spain,0
 Bhutan,Sri Lanka,2
 Bhutan,Saint Vincent and the Grenadines,3
 Bhutan,Sudan,0
-Bhutan,Suriname,0
+Bhutan,Suriname,1
 Bhutan,Sweden,0
 Bhutan,Switzerland,0
 Bhutan,Syria,0
@@ -4135,7 +4135,7 @@ Bolivia,Saudi Arabia,0
 Bolivia,Senegal,1
 Bolivia,Serbia,3
 Bolivia,Seychelles,1
-Bolivia,Sierra Leone,0
+Bolivia,Sierra Leone,1
 Bolivia,Singapore,3
 Bolivia,Slovakia,0
 Bolivia,Slovenia,0
@@ -4732,7 +4732,7 @@ Brazil,Saudi Arabia,0
 Brazil,Senegal,1
 Brazil,Serbia,3
 Brazil,Seychelles,1
-Brazil,Sierra Leone,0
+Brazil,Sierra Leone,1
 Brazil,Singapore,3
 Brazil,Slovakia,3
 Brazil,Slovenia,3
@@ -4927,7 +4927,7 @@ Brunei,Saint Lucia,3
 Brunei,Samoa,1
 Brunei,San Marino,3
 Brunei,Sao Tome and Principe,0
-Brunei,Saudi Arabia,0
+Brunei,Saudi Arabia,1
 Brunei,Senegal,1
 Brunei,Serbia,0
 Brunei,Seychelles,1
@@ -5095,7 +5095,7 @@ Bulgaria,Montenegro,3
 Bulgaria,Morocco,3
 Bulgaria,Mozambique,1
 Bulgaria,Myanmar,1
-Bulgaria,Namibia,0
+Bulgaria,Namibia,1
 Bulgaria,Nauru,0
 Bulgaria,Nepal,1
 Bulgaria,Netherlands,3
@@ -5126,11 +5126,11 @@ Bulgaria,Saint Lucia,3
 Bulgaria,Samoa,3
 Bulgaria,San Marino,3
 Bulgaria,Sao Tome and Principe,3
-Bulgaria,Saudi Arabia,0
+Bulgaria,Saudi Arabia,1
 Bulgaria,Senegal,3
 Bulgaria,Serbia,3
 Bulgaria,Seychelles,1
-Bulgaria,Sierra Leone,0
+Bulgaria,Sierra Leone,1
 Bulgaria,Singapore,3
 Bulgaria,Slovakia,3
 Bulgaria,Slovenia,3
@@ -5140,7 +5140,7 @@ Bulgaria,South Africa,0
 Bulgaria,South Korea,3
 Bulgaria,South Sudan,0
 Bulgaria,Spain,3
-Bulgaria,Sri Lanka,2
+Bulgaria,Sri Lanka,3
 Bulgaria,Saint Vincent and the Grenadines,3
 Bulgaria,Sudan,0
 Bulgaria,Suriname,1
@@ -5294,7 +5294,7 @@ Burkina Faso,Montenegro,0
 Burkina Faso,Morocco,0
 Burkina Faso,Mozambique,1
 Burkina Faso,Myanmar,0
-Burkina Faso,Namibia,0
+Burkina Faso,Namibia,1
 Burkina Faso,Nauru,0
 Burkina Faso,Nepal,1
 Burkina Faso,Netherlands,0
@@ -5386,7 +5386,7 @@ Burundi,Azerbaijan,0
 Burundi,Bahamas,0
 Burundi,Bahrain,0
 Burundi,Bangladesh,1
-Burundi,Barbados,0
+Burundi,Barbados,3
 Burundi,Belarus,0
 Burundi,Belgium,0
 Burundi,Belize,0
@@ -5493,14 +5493,14 @@ Burundi,Montenegro,0
 Burundi,Morocco,0
 Burundi,Mozambique,1
 Burundi,Myanmar,0
-Burundi,Namibia,0
+Burundi,Namibia,1
 Burundi,Nauru,0
 Burundi,Nepal,1
 Burundi,Netherlands,0
 Burundi,New Zealand,0
 Burundi,Nicaragua,1
 Burundi,Niger,0
-Burundi,Nigeria,0
+Burundi,Nigeria,1
 Burundi,North Korea,0
 Burundi,North Macedonia,0
 Burundi,Norway,0
@@ -5541,7 +5541,7 @@ Burundi,Spain,0
 Burundi,Sri Lanka,2
 Burundi,Saint Vincent and the Grenadines,3
 Burundi,Sudan,0
-Burundi,Suriname,0
+Burundi,Suriname,1
 Burundi,Sweden,0
 Burundi,Switzerland,0
 Burundi,Syria,0
@@ -5554,7 +5554,7 @@ Burundi,Togo,1
 Burundi,Tonga,0
 Burundi,Trinidad and Tobago,0
 Burundi,Tunisia,0
-Burundi,Turkey,0
+Burundi,Turkey,1
 Burundi,Turkmenistan,0
 Burundi,Tuvalu,1
 Burundi,Uganda,3
@@ -5692,7 +5692,7 @@ Cambodia,Montenegro,0
 Cambodia,Morocco,0
 Cambodia,Mozambique,1
 Cambodia,Myanmar,3
-Cambodia,Namibia,0
+Cambodia,Namibia,1
 Cambodia,Nauru,0
 Cambodia,Nepal,1
 Cambodia,Netherlands,0
@@ -5727,7 +5727,7 @@ Cambodia,Saudi Arabia,0
 Cambodia,Senegal,1
 Cambodia,Serbia,0
 Cambodia,Seychelles,1
-Cambodia,Sierra Leone,0
+Cambodia,Sierra Leone,1
 Cambodia,Singapore,3
 Cambodia,Slovakia,0
 Cambodia,Slovenia,0
@@ -5737,7 +5737,7 @@ Cambodia,South Africa,0
 Cambodia,South Korea,0
 Cambodia,South Sudan,0
 Cambodia,Spain,0
-Cambodia,Sri Lanka,2
+Cambodia,Sri Lanka,3
 Cambodia,Saint Vincent and the Grenadines,3
 Cambodia,Sudan,0
 Cambodia,Suriname,1
@@ -5784,7 +5784,7 @@ Cameroon,Azerbaijan,0
 Cameroon,Bahamas,0
 Cameroon,Bahrain,0
 Cameroon,Bangladesh,1
-Cameroon,Barbados,0
+Cameroon,Barbados,3
 Cameroon,Belarus,0
 Cameroon,Belgium,0
 Cameroon,Belize,0
@@ -5820,7 +5820,7 @@ Cameroon,Denmark,0
 Cameroon,Djibouti,1
 Cameroon,Dominica,3
 Cameroon,Dominican Republic,0
-Cameroon,Ecuador,3
+Cameroon,Ecuador,0
 Cameroon,Egypt,0
 Cameroon,El Salvador,0
 Cameroon,Equatorial Guinea,0
@@ -5891,7 +5891,7 @@ Cameroon,Montenegro,0
 Cameroon,Morocco,0
 Cameroon,Mozambique,1
 Cameroon,Myanmar,1
-Cameroon,Namibia,0
+Cameroon,Namibia,1
 Cameroon,Nauru,0
 Cameroon,Nepal,0
 Cameroon,Netherlands,0
@@ -5939,7 +5939,7 @@ Cameroon,Spain,0
 Cameroon,Sri Lanka,0
 Cameroon,Saint Vincent and the Grenadines,3
 Cameroon,Sudan,0
-Cameroon,Suriname,0
+Cameroon,Suriname,1
 Cameroon,Sweden,0
 Cameroon,Switzerland,0
 Cameroon,Syria,0
@@ -5952,7 +5952,7 @@ Cameroon,Togo,1
 Cameroon,Tonga,0
 Cameroon,Trinidad and Tobago,0
 Cameroon,Tunisia,0
-Cameroon,Turkey,0
+Cameroon,Turkey,1
 Cameroon,Turkmenistan,0
 Cameroon,Tuvalu,1
 Cameroon,Uganda,1
@@ -6121,7 +6121,7 @@ Canada,Saint Lucia,3
 Canada,Samoa,1
 Canada,San Marino,3
 Canada,Sao Tome and Principe,3
-Canada,Saudi Arabia,0
+Canada,Saudi Arabia,1
 Canada,Senegal,3
 Canada,Serbia,3
 Canada,Seychelles,1
@@ -6135,7 +6135,7 @@ Canada,South Africa,3
 Canada,South Korea,3
 Canada,South Sudan,0
 Canada,Spain,3
-Canada,Sri Lanka,2
+Canada,Sri Lanka,3
 Canada,Saint Vincent and the Grenadines,3
 Canada,Sudan,0
 Canada,Suriname,1
@@ -6163,7 +6163,7 @@ Canada,Uruguay,3
 Canada,Uzbekistan,3
 Canada,Vanuatu,3
 Canada,Vatican,3
-Canada,Venezuela,3
+Canada,Venezuela,0
 Canada,Viet Nam,1
 Canada,Yemen,0
 Canada,Zambia,1
@@ -6289,7 +6289,7 @@ Cape Verde,Montenegro,0
 Cape Verde,Morocco,0
 Cape Verde,Mozambique,1
 Cape Verde,Myanmar,0
-Cape Verde,Namibia,0
+Cape Verde,Namibia,1
 Cape Verde,Nauru,0
 Cape Verde,Nepal,1
 Cape Verde,Netherlands,0
@@ -6488,14 +6488,14 @@ Central African Republic,Montenegro,0
 Central African Republic,Morocco,0
 Central African Republic,Mozambique,1
 Central African Republic,Myanmar,0
-Central African Republic,Namibia,0
+Central African Republic,Namibia,1
 Central African Republic,Nauru,0
 Central African Republic,Nepal,1
 Central African Republic,Netherlands,0
 Central African Republic,New Zealand,0
 Central African Republic,Nicaragua,1
 Central African Republic,Niger,0
-Central African Republic,Nigeria,0
+Central African Republic,Nigeria,1
 Central African Republic,North Korea,0
 Central African Republic,North Macedonia,0
 Central African Republic,Norway,0
@@ -6536,7 +6536,7 @@ Central African Republic,Spain,0
 Central African Republic,Sri Lanka,2
 Central African Republic,Saint Vincent and the Grenadines,3
 Central African Republic,Sudan,0
-Central African Republic,Suriname,0
+Central African Republic,Suriname,1
 Central African Republic,Sweden,0
 Central African Republic,Switzerland,0
 Central African Republic,Syria,0
@@ -6549,7 +6549,7 @@ Central African Republic,Togo,1
 Central African Republic,Tonga,0
 Central African Republic,Trinidad and Tobago,0
 Central African Republic,Tunisia,0
-Central African Republic,Turkey,0
+Central African Republic,Turkey,1
 Central African Republic,Turkmenistan,0
 Central African Republic,Tuvalu,1
 Central African Republic,Uganda,1
@@ -6687,7 +6687,7 @@ Chad,Montenegro,0
 Chad,Morocco,0
 Chad,Mozambique,1
 Chad,Myanmar,0
-Chad,Namibia,0
+Chad,Namibia,1
 Chad,Nauru,0
 Chad,Nepal,1
 Chad,Netherlands,0
@@ -6735,7 +6735,7 @@ Chad,Spain,0
 Chad,Sri Lanka,2
 Chad,Saint Vincent and the Grenadines,3
 Chad,Sudan,0
-Chad,Suriname,0
+Chad,Suriname,1
 Chad,Sweden,0
 Chad,Switzerland,0
 Chad,Syria,0
@@ -6748,7 +6748,7 @@ Chad,Togo,1
 Chad,Tonga,0
 Chad,Trinidad and Tobago,0
 Chad,Tunisia,0
-Chad,Turkey,0
+Chad,Turkey,1
 Chad,Turkmenistan,0
 Chad,Tuvalu,1
 Chad,Uganda,1
@@ -6886,7 +6886,7 @@ Chile,Montenegro,3
 Chile,Morocco,3
 Chile,Mozambique,1
 Chile,Myanmar,1
-Chile,Namibia,0
+Chile,Namibia,1
 Chile,Nauru,0
 Chile,Nepal,1
 Chile,Netherlands,3
@@ -6959,7 +6959,7 @@ Chile,Uruguay,3
 Chile,Uzbekistan,3
 Chile,Vanuatu,3
 Chile,Vatican,3
-Chile,Venezuela,3
+Chile,Venezuela,0
 Chile,Viet Nam,3
 Chile,Yemen,0
 Chile,Zambia,1
@@ -7043,7 +7043,7 @@ China,Hungary,0
 China,Iceland,0
 China,India,2
 China,Indonesia,3
-China,Iran,1
+China,Iran,3
 China,Iraq,0
 China,Ireland,0
 China,Israel,0
@@ -7092,7 +7092,7 @@ China,Netherlands,0
 China,New Zealand,0
 China,Nicaragua,0
 China,Niger,0
-China,Nigeria,0
+China,Nigeria,1
 China,North Korea,0
 China,North Macedonia,0
 China,Norway,0
@@ -7116,11 +7116,11 @@ China,Saint Lucia,3
 China,Samoa,1
 China,San Marino,0
 China,Sao Tome and Principe,1
-China,Saudi Arabia,0
-China,Senegal,1
+China,Saudi Arabia,1
+China,Senegal,3
 China,Serbia,3
 China,Seychelles,1
-China,Sierra Leone,0
+China,Sierra Leone,1
 China,Singapore,0
 China,Slovakia,0
 China,Slovenia,0
@@ -7130,7 +7130,7 @@ China,South Africa,0
 China,South Korea,0
 China,South Sudan,0
 China,Spain,0
-China,Sri Lanka,2
+China,Sri Lanka,3
 China,Saint Vincent and the Grenadines,0
 China,Sudan,0
 China,Suriname,1
@@ -7483,7 +7483,7 @@ Comoros,Montenegro,0
 Comoros,Morocco,0
 Comoros,Mozambique,1
 Comoros,Myanmar,0
-Comoros,Namibia,0
+Comoros,Namibia,1
 Comoros,Nauru,0
 Comoros,Nepal,1
 Comoros,Netherlands,0
@@ -7689,7 +7689,7 @@ Congo,Netherlands,0
 Congo,New Zealand,0
 Congo,Nicaragua,0
 Congo,Niger,0
-Congo,Nigeria,0
+Congo,Nigeria,1
 Congo,North Korea,0
 Congo,North Macedonia,0
 Congo,Norway,0
@@ -7730,7 +7730,7 @@ Congo,Spain,0
 Congo,Sri Lanka,0
 Congo,Saint Vincent and the Grenadines,3
 Congo,Sudan,0
-Congo,Suriname,0
+Congo,Suriname,1
 Congo,Sweden,0
 Congo,Switzerland,0
 Congo,Syria,0
@@ -7743,7 +7743,7 @@ Congo,Togo,1
 Congo,Tonga,0
 Congo,Trinidad and Tobago,0
 Congo,Tunisia,0
-Congo,Turkey,0
+Congo,Turkey,1
 Congo,Turkmenistan,0
 Congo,Tuvalu,1
 Congo,Uganda,1
@@ -7810,7 +7810,7 @@ DR Congo,Denmark,0
 DR Congo,Djibouti,1
 DR Congo,Dominica,3
 DR Congo,Dominican Republic,0
-DR Congo,Ecuador,3
+DR Congo,Ecuador,0
 DR Congo,Egypt,0
 DR Congo,El Salvador,0
 DR Congo,Equatorial Guinea,0
@@ -7853,7 +7853,7 @@ DR Congo,Kiribati,0
 DR Congo,Kosovo,0
 DR Congo,Kuwait,0
 DR Congo,Kyrgyzstan,0
-DR Congo,Laos,0
+DR Congo,Laos,1
 DR Congo,Latvia,0
 DR Congo,Lebanon,0
 DR Congo,Lesotho,1
@@ -7888,7 +7888,7 @@ DR Congo,Netherlands,0
 DR Congo,New Zealand,0
 DR Congo,Nicaragua,0
 DR Congo,Niger,0
-DR Congo,Nigeria,0
+DR Congo,Nigeria,1
 DR Congo,North Korea,0
 DR Congo,North Macedonia,0
 DR Congo,Norway,0
@@ -7929,7 +7929,7 @@ DR Congo,Spain,0
 DR Congo,Sri Lanka,0
 DR Congo,Saint Vincent and the Grenadines,3
 DR Congo,Sudan,0
-DR Congo,Suriname,0
+DR Congo,Suriname,1
 DR Congo,Sweden,0
 DR Congo,Switzerland,0
 DR Congo,Syria,0
@@ -7942,7 +7942,7 @@ DR Congo,Togo,1
 DR Congo,Tonga,0
 DR Congo,Trinidad and Tobago,0
 DR Congo,Tunisia,0
-DR Congo,Turkey,0
+DR Congo,Turkey,1
 DR Congo,Turkmenistan,0
 DR Congo,Tuvalu,1
 DR Congo,Uganda,1
@@ -8146,7 +8146,7 @@ Costa Rica,Turkmenistan,0
 Costa Rica,Tuvalu,1
 Costa Rica,Uganda,1
 Costa Rica,Ukraine,0
-Costa Rica,United Arab Emirates,1
+Costa Rica,United Arab Emirates,3
 Costa Rica,United Kingdom,3
 Costa Rica,United States,0
 Costa Rica,Uruguay,3
@@ -8279,7 +8279,7 @@ Ivory Coast,Montenegro,0
 Ivory Coast,Morocco,3
 Ivory Coast,Mozambique,1
 Ivory Coast,Myanmar,1
-Ivory Coast,Namibia,0
+Ivory Coast,Namibia,1
 Ivory Coast,Nauru,0
 Ivory Coast,Nepal,1
 Ivory Coast,Netherlands,0
@@ -8327,7 +8327,7 @@ Ivory Coast,Spain,0
 Ivory Coast,Sri Lanka,0
 Ivory Coast,Saint Vincent and the Grenadines,3
 Ivory Coast,Sudan,0
-Ivory Coast,Suriname,0
+Ivory Coast,Suriname,1
 Ivory Coast,Sweden,0
 Ivory Coast,Switzerland,0
 Ivory Coast,Syria,0
@@ -8340,7 +8340,7 @@ Ivory Coast,Togo,3
 Ivory Coast,Tonga,0
 Ivory Coast,Trinidad and Tobago,0
 Ivory Coast,Tunisia,3
-Ivory Coast,Turkey,0
+Ivory Coast,Turkey,1
 Ivory Coast,Turkmenistan,0
 Ivory Coast,Tuvalu,1
 Ivory Coast,Uganda,1
@@ -8509,11 +8509,11 @@ Croatia,Saint Lucia,3
 Croatia,Samoa,3
 Croatia,San Marino,3
 Croatia,Sao Tome and Principe,3
-Croatia,Saudi Arabia,0
+Croatia,Saudi Arabia,1
 Croatia,Senegal,3
 Croatia,Serbia,3
 Croatia,Seychelles,1
-Croatia,Sierra Leone,0
+Croatia,Sierra Leone,1
 Croatia,Singapore,3
 Croatia,Slovakia,3
 Croatia,Slovenia,3
@@ -8523,7 +8523,7 @@ Croatia,South Africa,0
 Croatia,South Korea,3
 Croatia,South Sudan,0
 Croatia,Spain,3
-Croatia,Sri Lanka,2
+Croatia,Sri Lanka,3
 Croatia,Saint Vincent and the Grenadines,3
 Croatia,Sudan,0
 Croatia,Suriname,1
@@ -8907,11 +8907,11 @@ Cyprus,Saint Lucia,3
 Cyprus,Samoa,3
 Cyprus,San Marino,3
 Cyprus,Sao Tome and Principe,3
-Cyprus,Saudi Arabia,0
+Cyprus,Saudi Arabia,1
 Cyprus,Senegal,3
 Cyprus,Serbia,3
 Cyprus,Seychelles,1
-Cyprus,Sierra Leone,0
+Cyprus,Sierra Leone,1
 Cyprus,Singapore,3
 Cyprus,Slovakia,3
 Cyprus,Slovenia,3
@@ -8921,7 +8921,7 @@ Cyprus,South Africa,3
 Cyprus,South Korea,3
 Cyprus,South Sudan,0
 Cyprus,Spain,3
-Cyprus,Sri Lanka,2
+Cyprus,Sri Lanka,3
 Cyprus,Saint Vincent and the Grenadines,3
 Cyprus,Sudan,0
 Cyprus,Suriname,1
@@ -9075,7 +9075,7 @@ Czech Republic,Montenegro,3
 Czech Republic,Morocco,3
 Czech Republic,Mozambique,1
 Czech Republic,Myanmar,1
-Czech Republic,Namibia,0
+Czech Republic,Namibia,1
 Czech Republic,Nauru,0
 Czech Republic,Nepal,1
 Czech Republic,Netherlands,3
@@ -9106,11 +9106,11 @@ Czech Republic,Saint Lucia,3
 Czech Republic,Samoa,3
 Czech Republic,San Marino,3
 Czech Republic,Sao Tome and Principe,3
-Czech Republic,Saudi Arabia,0
+Czech Republic,Saudi Arabia,1
 Czech Republic,Senegal,3
 Czech Republic,Serbia,3
 Czech Republic,Seychelles,1
-Czech Republic,Sierra Leone,0
+Czech Republic,Sierra Leone,1
 Czech Republic,Singapore,3
 Czech Republic,Slovakia,3
 Czech Republic,Slovenia,3
@@ -9120,7 +9120,7 @@ Czech Republic,South Africa,3
 Czech Republic,South Korea,3
 Czech Republic,South Sudan,0
 Czech Republic,Spain,3
-Czech Republic,Sri Lanka,2
+Czech Republic,Sri Lanka,3
 Czech Republic,Saint Vincent and the Grenadines,3
 Czech Republic,Sudan,0
 Czech Republic,Suriname,1
@@ -9305,11 +9305,11 @@ Denmark,Saint Lucia,3
 Denmark,Samoa,3
 Denmark,San Marino,3
 Denmark,Sao Tome and Principe,3
-Denmark,Saudi Arabia,0
+Denmark,Saudi Arabia,1
 Denmark,Senegal,3
 Denmark,Serbia,3
 Denmark,Seychelles,1
-Denmark,Sierra Leone,0
+Denmark,Sierra Leone,1
 Denmark,Singapore,3
 Denmark,Slovakia,3
 Denmark,Slovenia,3
@@ -9319,7 +9319,7 @@ Denmark,South Africa,3
 Denmark,South Korea,3
 Denmark,South Sudan,0
 Denmark,Spain,3
-Denmark,Sri Lanka,2
+Denmark,Sri Lanka,3
 Denmark,Saint Vincent and the Grenadines,3
 Denmark,Sudan,0
 Denmark,Suriname,1
@@ -9473,7 +9473,7 @@ Djibouti,Montenegro,0
 Djibouti,Morocco,0
 Djibouti,Mozambique,1
 Djibouti,Myanmar,0
-Djibouti,Namibia,0
+Djibouti,Namibia,1
 Djibouti,Nauru,0
 Djibouti,Nepal,1
 Djibouti,Netherlands,0
@@ -10017,7 +10017,7 @@ Ecuador,Germany,0
 Ecuador,Ghana,0
 Ecuador,Greece,0
 Ecuador,Grenada,0
-Ecuador,Guatemala,0
+Ecuador,Guatemala,3
 Ecuador,Guinea,0
 Ecuador,Guinea-Bissau,1
 Ecuador,Guyana,3
@@ -10534,7 +10534,7 @@ El Salvador,Turkmenistan,0
 El Salvador,Tuvalu,1
 El Salvador,Uganda,1
 El Salvador,Ukraine,0
-El Salvador,United Arab Emirates,1
+El Salvador,United Arab Emirates,3
 El Salvador,United Kingdom,3
 El Salvador,United States,0
 El Salvador,Uruguay,3
@@ -10667,14 +10667,14 @@ Equatorial Guinea,Montenegro,0
 Equatorial Guinea,Morocco,0
 Equatorial Guinea,Mozambique,1
 Equatorial Guinea,Myanmar,0
-Equatorial Guinea,Namibia,0
+Equatorial Guinea,Namibia,1
 Equatorial Guinea,Nauru,0
 Equatorial Guinea,Nepal,1
 Equatorial Guinea,Netherlands,0
 Equatorial Guinea,New Zealand,0
 Equatorial Guinea,Nicaragua,1
 Equatorial Guinea,Niger,0
-Equatorial Guinea,Nigeria,0
+Equatorial Guinea,Nigeria,1
 Equatorial Guinea,North Korea,0
 Equatorial Guinea,North Macedonia,0
 Equatorial Guinea,Norway,0
@@ -10715,7 +10715,7 @@ Equatorial Guinea,Spain,0
 Equatorial Guinea,Sri Lanka,2
 Equatorial Guinea,Saint Vincent and the Grenadines,3
 Equatorial Guinea,Sudan,0
-Equatorial Guinea,Suriname,0
+Equatorial Guinea,Suriname,1
 Equatorial Guinea,Sweden,0
 Equatorial Guinea,Switzerland,0
 Equatorial Guinea,Syria,0
@@ -10728,7 +10728,7 @@ Equatorial Guinea,Togo,1
 Equatorial Guinea,Tonga,0
 Equatorial Guinea,Trinidad and Tobago,0
 Equatorial Guinea,Tunisia,3
-Equatorial Guinea,Turkey,0
+Equatorial Guinea,Turkey,1
 Equatorial Guinea,Turkmenistan,0
 Equatorial Guinea,Tuvalu,1
 Equatorial Guinea,Uganda,1
@@ -10866,14 +10866,14 @@ Eritrea,Montenegro,0
 Eritrea,Morocco,0
 Eritrea,Mozambique,1
 Eritrea,Myanmar,1
-Eritrea,Namibia,0
+Eritrea,Namibia,1
 Eritrea,Nauru,0
 Eritrea,Nepal,1
 Eritrea,Netherlands,0
 Eritrea,New Zealand,0
 Eritrea,Nicaragua,0
 Eritrea,Niger,0
-Eritrea,Nigeria,0
+Eritrea,Nigeria,1
 Eritrea,North Korea,0
 Eritrea,North Macedonia,0
 Eritrea,Norway,0
@@ -10898,7 +10898,7 @@ Eritrea,Samoa,1
 Eritrea,San Marino,0
 Eritrea,Sao Tome and Principe,0
 Eritrea,Saudi Arabia,0
-Eritrea,Senegal,0
+Eritrea,Senegal,1
 Eritrea,Serbia,0
 Eritrea,Seychelles,1
 Eritrea,Sierra Leone,0
@@ -10914,7 +10914,7 @@ Eritrea,Spain,0
 Eritrea,Sri Lanka,2
 Eritrea,Saint Vincent and the Grenadines,3
 Eritrea,Sudan,0
-Eritrea,Suriname,0
+Eritrea,Suriname,1
 Eritrea,Sweden,0
 Eritrea,Switzerland,0
 Eritrea,Syria,0
@@ -10927,7 +10927,7 @@ Eritrea,Togo,1
 Eritrea,Tonga,0
 Eritrea,Trinidad and Tobago,0
 Eritrea,Tunisia,0
-Eritrea,Turkey,0
+Eritrea,Turkey,1
 Eritrea,Turkmenistan,0
 Eritrea,Tuvalu,1
 Eritrea,Uganda,3
@@ -11096,11 +11096,11 @@ Estonia,Saint Lucia,3
 Estonia,Samoa,3
 Estonia,San Marino,3
 Estonia,Sao Tome and Principe,3
-Estonia,Saudi Arabia,0
+Estonia,Saudi Arabia,1
 Estonia,Senegal,3
 Estonia,Serbia,3
 Estonia,Seychelles,1
-Estonia,Sierra Leone,0
+Estonia,Sierra Leone,1
 Estonia,Singapore,3
 Estonia,Slovakia,3
 Estonia,Slovenia,3
@@ -11110,7 +11110,7 @@ Estonia,South Africa,0
 Estonia,South Korea,3
 Estonia,South Sudan,0
 Estonia,Spain,3
-Estonia,Sri Lanka,2
+Estonia,Sri Lanka,3
 Estonia,Saint Vincent and the Grenadines,3
 Estonia,Sudan,0
 Estonia,Suriname,1
@@ -11236,7 +11236,7 @@ Swaziland,Kiribati,0
 Swaziland,Kosovo,3
 Swaziland,Kuwait,1
 Swaziland,Kyrgyzstan,0
-Swaziland,Laos,1
+Swaziland,Laos,0
 Swaziland,Latvia,0
 Swaziland,Lebanon,0
 Swaziland,Lesotho,3
@@ -11892,11 +11892,11 @@ Finland,Saint Lucia,3
 Finland,Samoa,3
 Finland,San Marino,3
 Finland,Sao Tome and Principe,3
-Finland,Saudi Arabia,0
+Finland,Saudi Arabia,1
 Finland,Senegal,3
 Finland,Serbia,3
 Finland,Seychelles,1
-Finland,Sierra Leone,0
+Finland,Sierra Leone,1
 Finland,Singapore,3
 Finland,Slovakia,3
 Finland,Slovenia,3
@@ -11906,7 +11906,7 @@ Finland,South Africa,3
 Finland,South Korea,3
 Finland,South Sudan,0
 Finland,Spain,3
-Finland,Sri Lanka,2
+Finland,Sri Lanka,3
 Finland,Saint Vincent and the Grenadines,3
 Finland,Sudan,0
 Finland,Suriname,1
@@ -12091,11 +12091,11 @@ France,Saint Lucia,3
 France,Samoa,3
 France,San Marino,3
 France,Sao Tome and Principe,3
-France,Saudi Arabia,0
+France,Saudi Arabia,1
 France,Senegal,3
 France,Serbia,3
 France,Seychelles,1
-France,Sierra Leone,0
+France,Sierra Leone,1
 France,Singapore,3
 France,Slovakia,3
 France,Slovenia,3
@@ -12105,7 +12105,7 @@ France,South Africa,3
 France,South Korea,3
 France,South Sudan,0
 France,Spain,3
-France,Sri Lanka,2
+France,Sri Lanka,3
 France,Saint Vincent and the Grenadines,3
 France,Sudan,0
 France,Suriname,1
@@ -12259,7 +12259,7 @@ Gabon,Montenegro,0
 Gabon,Morocco,3
 Gabon,Mozambique,1
 Gabon,Myanmar,0
-Gabon,Namibia,0
+Gabon,Namibia,1
 Gabon,Nauru,0
 Gabon,Nepal,1
 Gabon,Netherlands,0
@@ -12387,7 +12387,7 @@ Gambia,Denmark,0
 Gambia,Djibouti,1
 Gambia,Dominica,3
 Gambia,Dominican Republic,0
-Gambia,Ecuador,3
+Gambia,Ecuador,0
 Gambia,Egypt,0
 Gambia,El Salvador,0
 Gambia,Equatorial Guinea,0
@@ -12458,7 +12458,7 @@ Gambia,Montenegro,0
 Gambia,Morocco,0
 Gambia,Mozambique,1
 Gambia,Myanmar,0
-Gambia,Namibia,0
+Gambia,Namibia,1
 Gambia,Nauru,0
 Gambia,Nepal,1
 Gambia,Netherlands,0
@@ -12863,7 +12863,7 @@ Germany,Netherlands,3
 Germany,New Zealand,3
 Germany,Nicaragua,3
 Germany,Niger,0
-Germany,Nigeria,0
+Germany,Nigeria,1
 Germany,North Korea,0
 Germany,North Macedonia,3
 Germany,Norway,3
@@ -12887,11 +12887,11 @@ Germany,Saint Lucia,3
 Germany,Samoa,3
 Germany,San Marino,3
 Germany,Sao Tome and Principe,3
-Germany,Saudi Arabia,0
+Germany,Saudi Arabia,1
 Germany,Senegal,3
 Germany,Serbia,3
 Germany,Seychelles,1
-Germany,Sierra Leone,0
+Germany,Sierra Leone,1
 Germany,Singapore,3
 Germany,Slovakia,3
 Germany,Slovenia,3
@@ -12901,7 +12901,7 @@ Germany,South Africa,3
 Germany,South Korea,3
 Germany,South Sudan,0
 Germany,Spain,3
-Germany,Sri Lanka,2
+Germany,Sri Lanka,3
 Germany,Saint Vincent and the Grenadines,3
 Germany,Sudan,0
 Germany,Suriname,1
@@ -12984,7 +12984,7 @@ Ghana,Denmark,0
 Ghana,Djibouti,1
 Ghana,Dominica,3
 Ghana,Dominican Republic,0
-Ghana,Ecuador,3
+Ghana,Ecuador,0
 Ghana,Egypt,0
 Ghana,El Salvador,0
 Ghana,Equatorial Guinea,0
@@ -13027,7 +13027,7 @@ Ghana,Kiribati,0
 Ghana,Kosovo,0
 Ghana,Kuwait,0
 Ghana,Kyrgyzstan,0
-Ghana,Laos,1
+Ghana,Laos,0
 Ghana,Latvia,0
 Ghana,Lebanon,1
 Ghana,Lesotho,1
@@ -13285,11 +13285,11 @@ Greece,Saint Lucia,3
 Greece,Samoa,3
 Greece,San Marino,3
 Greece,Sao Tome and Principe,3
-Greece,Saudi Arabia,0
+Greece,Saudi Arabia,1
 Greece,Senegal,3
 Greece,Serbia,3
 Greece,Seychelles,1
-Greece,Sierra Leone,0
+Greece,Sierra Leone,1
 Greece,Singapore,3
 Greece,Slovakia,3
 Greece,Slovenia,3
@@ -13299,7 +13299,7 @@ Greece,South Africa,3
 Greece,South Korea,3
 Greece,South Sudan,0
 Greece,Spain,3
-Greece,Sri Lanka,2
+Greece,Sri Lanka,3
 Greece,Saint Vincent and the Grenadines,3
 Greece,Sudan,0
 Greece,Suriname,1
@@ -13725,7 +13725,7 @@ Guatemala,Uruguay,3
 Guatemala,Uzbekistan,1
 Guatemala,Vanuatu,0
 Guatemala,Vatican,3
-Guatemala,Venezuela,3
+Guatemala,Venezuela,0
 Guatemala,Viet Nam,0
 Guatemala,Yemen,0
 Guatemala,Zambia,1
@@ -13780,7 +13780,7 @@ Guinea,Denmark,0
 Guinea,Djibouti,1
 Guinea,Dominica,3
 Guinea,Dominican Republic,0
-Guinea,Ecuador,3
+Guinea,Ecuador,0
 Guinea,Egypt,1
 Guinea,El Salvador,0
 Guinea,Equatorial Guinea,0
@@ -13851,7 +13851,7 @@ Guinea,Montenegro,0
 Guinea,Morocco,0
 Guinea,Mozambique,1
 Guinea,Myanmar,1
-Guinea,Namibia,0
+Guinea,Namibia,1
 Guinea,Nauru,0
 Guinea,Nepal,1
 Guinea,Netherlands,0
@@ -13899,7 +13899,7 @@ Guinea,Spain,0
 Guinea,Sri Lanka,0
 Guinea,Saint Vincent and the Grenadines,3
 Guinea,Sudan,0
-Guinea,Suriname,0
+Guinea,Suriname,1
 Guinea,Sweden,0
 Guinea,Switzerland,0
 Guinea,Syria,0
@@ -14022,7 +14022,7 @@ Guinea-Bissau,Kiribati,0
 Guinea-Bissau,Kosovo,0
 Guinea-Bissau,Kuwait,0
 Guinea-Bissau,Kyrgyzstan,0
-Guinea-Bissau,Laos,1
+Guinea-Bissau,Laos,0
 Guinea-Bissau,Latvia,0
 Guinea-Bissau,Lebanon,0
 Guinea-Bissau,Lesotho,1
@@ -14050,7 +14050,7 @@ Guinea-Bissau,Montenegro,0
 Guinea-Bissau,Morocco,0
 Guinea-Bissau,Mozambique,1
 Guinea-Bissau,Myanmar,0
-Guinea-Bissau,Namibia,0
+Guinea-Bissau,Namibia,1
 Guinea-Bissau,Nauru,0
 Guinea-Bissau,Nepal,1
 Guinea-Bissau,Netherlands,0
@@ -14377,7 +14377,7 @@ Haiti,Denmark,0
 Haiti,Djibouti,1
 Haiti,Dominica,3
 Haiti,Dominican Republic,0
-Haiti,Ecuador,3
+Haiti,Ecuador,1
 Haiti,Egypt,1
 Haiti,El Salvador,0
 Haiti,Equatorial Guinea,0
@@ -14804,7 +14804,7 @@ Hong Kong,Hungary,3
 Hong Kong,Iceland,3
 Hong Kong,India,2
 Hong Kong,Indonesia,3
-Hong Kong,Iran,1
+Hong Kong,Iran,3
 Hong Kong,Iraq,0
 Hong Kong,Ireland,3
 Hong Kong,Israel,3
@@ -14877,7 +14877,7 @@ Hong Kong,Saint Lucia,3
 Hong Kong,Samoa,1
 Hong Kong,San Marino,3
 Hong Kong,Sao Tome and Principe,0
-Hong Kong,Saudi Arabia,0
+Hong Kong,Saudi Arabia,1
 Hong Kong,Senegal,0
 Hong Kong,Serbia,3
 Hong Kong,Seychelles,1
@@ -15045,7 +15045,7 @@ Hungary,Montenegro,3
 Hungary,Morocco,3
 Hungary,Mozambique,1
 Hungary,Myanmar,1
-Hungary,Namibia,0
+Hungary,Namibia,1
 Hungary,Nauru,0
 Hungary,Nepal,1
 Hungary,Netherlands,3
@@ -15076,11 +15076,11 @@ Hungary,Saint Lucia,3
 Hungary,Samoa,3
 Hungary,San Marino,3
 Hungary,Sao Tome and Principe,3
-Hungary,Saudi Arabia,0
+Hungary,Saudi Arabia,1
 Hungary,Senegal,3
 Hungary,Serbia,3
 Hungary,Seychelles,1
-Hungary,Sierra Leone,0
+Hungary,Sierra Leone,1
 Hungary,Singapore,3
 Hungary,Slovakia,3
 Hungary,Slovenia,3
@@ -15090,7 +15090,7 @@ Hungary,South Africa,3
 Hungary,South Korea,3
 Hungary,South Sudan,0
 Hungary,Spain,3
-Hungary,Sri Lanka,2
+Hungary,Sri Lanka,3
 Hungary,Saint Vincent and the Grenadines,3
 Hungary,Sudan,0
 Hungary,Suriname,1
@@ -15275,7 +15275,7 @@ Iceland,Saint Lucia,3
 Iceland,Samoa,1
 Iceland,San Marino,3
 Iceland,Sao Tome and Principe,3
-Iceland,Saudi Arabia,0
+Iceland,Saudi Arabia,1
 Iceland,Senegal,1
 Iceland,Serbia,3
 Iceland,Seychelles,1
@@ -15289,7 +15289,7 @@ Iceland,South Africa,3
 Iceland,South Korea,3
 Iceland,South Sudan,0
 Iceland,Spain,3
-Iceland,Sri Lanka,2
+Iceland,Sri Lanka,3
 Iceland,Saint Vincent and the Grenadines,3
 Iceland,Sudan,0
 Iceland,Suriname,1
@@ -15372,7 +15372,7 @@ India,Denmark,0
 India,Djibouti,1
 India,Dominica,3
 India,Dominican Republic,0
-India,Ecuador,3
+India,Ecuador,0
 India,Egypt,0
 India,El Salvador,3
 India,Equatorial Guinea,0
@@ -15478,7 +15478,7 @@ India,Saudi Arabia,0
 India,Senegal,3
 India,Serbia,3
 India,Seychelles,1
-India,Sierra Leone,0
+India,Sierra Leone,1
 India,Singapore,0
 India,Slovakia,0
 India,Slovenia,0
@@ -15488,7 +15488,7 @@ India,South Africa,0
 India,South Korea,0
 India,South Sudan,0
 India,Spain,0
-India,Sri Lanka,2
+India,Sri Lanka,3
 India,Saint Vincent and the Grenadines,3
 India,Sudan,0
 India,Suriname,1
@@ -15677,7 +15677,7 @@ Indonesia,Saudi Arabia,0
 Indonesia,Senegal,1
 Indonesia,Serbia,3
 Indonesia,Seychelles,1
-Indonesia,Sierra Leone,0
+Indonesia,Sierra Leone,1
 Indonesia,Singapore,3
 Indonesia,Slovakia,0
 Indonesia,Slovenia,0
@@ -15687,7 +15687,7 @@ Indonesia,South Africa,0
 Indonesia,South Korea,0
 Indonesia,South Sudan,0
 Indonesia,Spain,0
-Indonesia,Sri Lanka,2
+Indonesia,Sri Lanka,3
 Indonesia,Saint Vincent and the Grenadines,3
 Indonesia,Sudan,0
 Indonesia,Suriname,1
@@ -15876,7 +15876,7 @@ Iran,Saudi Arabia,0
 Iran,Senegal,1
 Iran,Serbia,0
 Iran,Seychelles,1
-Iran,Sierra Leone,0
+Iran,Sierra Leone,1
 Iran,Singapore,0
 Iran,Slovakia,0
 Iran,Slovenia,0
@@ -15969,7 +15969,7 @@ Iraq,Denmark,0
 Iraq,Djibouti,1
 Iraq,Dominica,3
 Iraq,Dominican Republic,0
-Iraq,Ecuador,3
+Iraq,Ecuador,0
 Iraq,Egypt,0
 Iraq,El Salvador,0
 Iraq,Equatorial Guinea,0
@@ -16012,7 +16012,7 @@ Iraq,Kiribati,0
 Iraq,Kosovo,0
 Iraq,Kuwait,0
 Iraq,Kyrgyzstan,0
-Iraq,Laos,0
+Iraq,Laos,1
 Iraq,Latvia,0
 Iraq,Lebanon,1
 Iraq,Lesotho,1
@@ -16047,7 +16047,7 @@ Iraq,Netherlands,0
 Iraq,New Zealand,0
 Iraq,Nicaragua,0
 Iraq,Niger,0
-Iraq,Nigeria,0
+Iraq,Nigeria,1
 Iraq,North Korea,0
 Iraq,North Macedonia,0
 Iraq,Norway,0
@@ -16072,7 +16072,7 @@ Iraq,Samoa,1
 Iraq,San Marino,0
 Iraq,Sao Tome and Principe,0
 Iraq,Saudi Arabia,0
-Iraq,Senegal,0
+Iraq,Senegal,1
 Iraq,Serbia,0
 Iraq,Seychelles,1
 Iraq,Sierra Leone,0
@@ -16088,20 +16088,20 @@ Iraq,Spain,0
 Iraq,Sri Lanka,2
 Iraq,Saint Vincent and the Grenadines,0
 Iraq,Sudan,0
-Iraq,Suriname,0
+Iraq,Suriname,1
 Iraq,Sweden,0
 Iraq,Switzerland,0
 Iraq,Syria,0
 Iraq,Taiwan,0
 Iraq,Tajikistan,0
-Iraq,Tanzania,1
+Iraq,Tanzania,0
 Iraq,Thailand,0
 Iraq,Timor-Leste,1
 Iraq,Togo,1
 Iraq,Tonga,0
 Iraq,Trinidad and Tobago,0
 Iraq,Tunisia,0
-Iraq,Turkey,0
+Iraq,Turkey,1
 Iraq,Turkmenistan,0
 Iraq,Tuvalu,1
 Iraq,Uganda,1
@@ -16270,11 +16270,11 @@ Ireland,Saint Lucia,3
 Ireland,Samoa,1
 Ireland,San Marino,3
 Ireland,Sao Tome and Principe,3
-Ireland,Saudi Arabia,0
+Ireland,Saudi Arabia,1
 Ireland,Senegal,3
 Ireland,Serbia,3
 Ireland,Seychelles,1
-Ireland,Sierra Leone,0
+Ireland,Sierra Leone,1
 Ireland,Singapore,3
 Ireland,Slovakia,3
 Ireland,Slovenia,3
@@ -16284,7 +16284,7 @@ Ireland,South Africa,3
 Ireland,South Korea,3
 Ireland,South Sudan,0
 Ireland,Spain,3
-Ireland,Sri Lanka,2
+Ireland,Sri Lanka,3
 Ireland,Saint Vincent and the Grenadines,3
 Ireland,Sudan,0
 Ireland,Suriname,1
@@ -16473,7 +16473,7 @@ Israel,Saudi Arabia,0
 Israel,Senegal,1
 Israel,Serbia,3
 Israel,Seychelles,1
-Israel,Sierra Leone,0
+Israel,Sierra Leone,1
 Israel,Singapore,3
 Israel,Slovakia,3
 Israel,Slovenia,3
@@ -16483,7 +16483,7 @@ Israel,South Africa,3
 Israel,South Korea,3
 Israel,South Sudan,0
 Israel,Spain,3
-Israel,Sri Lanka,2
+Israel,Sri Lanka,3
 Israel,Saint Vincent and the Grenadines,3
 Israel,Sudan,0
 Israel,Suriname,3
@@ -16668,11 +16668,11 @@ Italy,Saint Lucia,3
 Italy,Samoa,3
 Italy,San Marino,3
 Italy,Sao Tome and Principe,3
-Italy,Saudi Arabia,0
+Italy,Saudi Arabia,1
 Italy,Senegal,3
 Italy,Serbia,3
 Italy,Seychelles,1
-Italy,Sierra Leone,0
+Italy,Sierra Leone,1
 Italy,Singapore,3
 Italy,Slovakia,3
 Italy,Slovenia,3
@@ -16682,7 +16682,7 @@ Italy,South Africa,3
 Italy,South Korea,3
 Italy,South Sudan,0
 Italy,Spain,3
-Italy,Sri Lanka,2
+Italy,Sri Lanka,3
 Italy,Saint Vincent and the Grenadines,3
 Italy,Sudan,0
 Italy,Suriname,1
@@ -16780,7 +16780,7 @@ Jamaica,Gabon,1
 Jamaica,Gambia,3
 Jamaica,Georgia,0
 Jamaica,Germany,0
-Jamaica,Ghana,0
+Jamaica,Ghana,3
 Jamaica,Greece,0
 Jamaica,Grenada,3
 Jamaica,Guatemala,0
@@ -17066,11 +17066,11 @@ Japan,Saint Lucia,3
 Japan,Samoa,1
 Japan,San Marino,3
 Japan,Sao Tome and Principe,3
-Japan,Saudi Arabia,0
+Japan,Saudi Arabia,1
 Japan,Senegal,3
 Japan,Serbia,3
 Japan,Seychelles,1
-Japan,Sierra Leone,0
+Japan,Sierra Leone,1
 Japan,Singapore,3
 Japan,Slovakia,3
 Japan,Slovenia,3
@@ -17080,7 +17080,7 @@ Japan,South Africa,3
 Japan,South Korea,3
 Japan,South Sudan,0
 Japan,Spain,3
-Japan,Sri Lanka,2
+Japan,Sri Lanka,3
 Japan,Saint Vincent and the Grenadines,3
 Japan,Sudan,0
 Japan,Suriname,3
@@ -17206,7 +17206,7 @@ Jordan,Kiribati,0
 Jordan,Kosovo,3
 Jordan,Kuwait,0
 Jordan,Kyrgyzstan,0
-Jordan,Laos,1
+Jordan,Laos,0
 Jordan,Latvia,0
 Jordan,Lebanon,3
 Jordan,Lesotho,1
@@ -17464,7 +17464,7 @@ Kazakhstan,Saint Lucia,0
 Kazakhstan,Samoa,1
 Kazakhstan,San Marino,0
 Kazakhstan,Sao Tome and Principe,0
-Kazakhstan,Saudi Arabia,0
+Kazakhstan,Saudi Arabia,1
 Kazakhstan,Senegal,1
 Kazakhstan,Serbia,3
 Kazakhstan,Seychelles,1
@@ -18264,7 +18264,7 @@ Kuwait,Saudi Arabia,3
 Kuwait,Senegal,1
 Kuwait,Serbia,3
 Kuwait,Seychelles,1
-Kuwait,Sierra Leone,0
+Kuwait,Sierra Leone,1
 Kuwait,Singapore,3
 Kuwait,Slovakia,0
 Kuwait,Slovenia,0
@@ -18384,7 +18384,7 @@ Kyrgyzstan,Honduras,0
 Kyrgyzstan,Hong Kong,0
 Kyrgyzstan,Hungary,0
 Kyrgyzstan,Iceland,0
-Kyrgyzstan,India,0
+Kyrgyzstan,India,2
 Kyrgyzstan,Indonesia,3
 Kyrgyzstan,Iran,1
 Kyrgyzstan,Iraq,0
@@ -18857,11 +18857,11 @@ Latvia,Saint Lucia,3
 Latvia,Samoa,3
 Latvia,San Marino,3
 Latvia,Sao Tome and Principe,3
-Latvia,Saudi Arabia,0
+Latvia,Saudi Arabia,1
 Latvia,Senegal,3
 Latvia,Serbia,3
 Latvia,Seychelles,1
-Latvia,Sierra Leone,0
+Latvia,Sierra Leone,1
 Latvia,Singapore,3
 Latvia,Slovakia,3
 Latvia,Slovenia,3
@@ -18871,7 +18871,7 @@ Latvia,South Africa,0
 Latvia,South Korea,3
 Latvia,South Sudan,0
 Latvia,Spain,3
-Latvia,Sri Lanka,2
+Latvia,Sri Lanka,3
 Latvia,Saint Vincent and the Grenadines,3
 Latvia,Sudan,0
 Latvia,Suriname,1
@@ -19168,7 +19168,7 @@ Lesotho,Gabon,1
 Lesotho,Gambia,3
 Lesotho,Georgia,0
 Lesotho,Germany,0
-Lesotho,Ghana,1
+Lesotho,Ghana,3
 Lesotho,Greece,0
 Lesotho,Grenada,3
 Lesotho,Guatemala,0
@@ -19196,7 +19196,7 @@ Lesotho,Kiribati,3
 Lesotho,Kosovo,3
 Lesotho,Kuwait,0
 Lesotho,Kyrgyzstan,0
-Lesotho,Laos,1
+Lesotho,Laos,0
 Lesotho,Latvia,0
 Lesotho,Lebanon,0
 Lesotho,Lesotho,-1
@@ -19316,7 +19316,7 @@ Liberia,Azerbaijan,0
 Liberia,Bahamas,0
 Liberia,Bahrain,0
 Liberia,Bangladesh,1
-Liberia,Barbados,0
+Liberia,Barbados,3
 Liberia,Belarus,0
 Liberia,Belgium,0
 Liberia,Belize,0
@@ -19423,7 +19423,7 @@ Liberia,Montenegro,0
 Liberia,Morocco,0
 Liberia,Mozambique,1
 Liberia,Myanmar,0
-Liberia,Namibia,0
+Liberia,Namibia,1
 Liberia,Nauru,0
 Liberia,Nepal,0
 Liberia,Netherlands,0
@@ -19465,13 +19465,13 @@ Liberia,Slovenia,0
 Liberia,Solomon Islands,0
 Liberia,Somalia,1
 Liberia,South Africa,0
-Liberia,South Korea,3
+Liberia,South Korea,0
 Liberia,South Sudan,0
 Liberia,Spain,0
 Liberia,Sri Lanka,0
 Liberia,Saint Vincent and the Grenadines,3
 Liberia,Sudan,0
-Liberia,Suriname,0
+Liberia,Suriname,1
 Liberia,Sweden,0
 Liberia,Switzerland,0
 Liberia,Syria,0
@@ -19484,7 +19484,7 @@ Liberia,Togo,3
 Liberia,Tonga,0
 Liberia,Trinidad and Tobago,0
 Liberia,Tunisia,0
-Liberia,Turkey,0
+Liberia,Turkey,1
 Liberia,Turkmenistan,0
 Liberia,Tuvalu,1
 Liberia,Uganda,1
@@ -19551,7 +19551,7 @@ Libya,Denmark,0
 Libya,Djibouti,1
 Libya,Dominica,3
 Libya,Dominican Republic,0
-Libya,Ecuador,3
+Libya,Ecuador,0
 Libya,Egypt,0
 Libya,El Salvador,0
 Libya,Equatorial Guinea,0
@@ -19629,7 +19629,7 @@ Libya,Netherlands,0
 Libya,New Zealand,0
 Libya,Nicaragua,0
 Libya,Niger,0
-Libya,Nigeria,0
+Libya,Nigeria,1
 Libya,North Korea,0
 Libya,North Macedonia,0
 Libya,Norway,0
@@ -19654,7 +19654,7 @@ Libya,Samoa,1
 Libya,San Marino,0
 Libya,Sao Tome and Principe,0
 Libya,Saudi Arabia,0
-Libya,Senegal,0
+Libya,Senegal,1
 Libya,Serbia,0
 Libya,Seychelles,1
 Libya,Sierra Leone,0
@@ -19670,7 +19670,7 @@ Libya,Spain,0
 Libya,Sri Lanka,2
 Libya,Saint Vincent and the Grenadines,3
 Libya,Sudan,0
-Libya,Suriname,0
+Libya,Suriname,1
 Libya,Sweden,0
 Libya,Switzerland,0
 Libya,Syria,0
@@ -19683,7 +19683,7 @@ Libya,Togo,1
 Libya,Tonga,0
 Libya,Trinidad and Tobago,0
 Libya,Tunisia,3
-Libya,Turkey,0
+Libya,Turkey,1
 Libya,Turkmenistan,0
 Libya,Tuvalu,1
 Libya,Uganda,1
@@ -19852,7 +19852,7 @@ Liechtenstein,Saint Lucia,3
 Liechtenstein,Samoa,1
 Liechtenstein,San Marino,3
 Liechtenstein,Sao Tome and Principe,3
-Liechtenstein,Saudi Arabia,0
+Liechtenstein,Saudi Arabia,1
 Liechtenstein,Senegal,1
 Liechtenstein,Serbia,3
 Liechtenstein,Seychelles,1
@@ -20051,11 +20051,11 @@ Lithuania,Saint Lucia,3
 Lithuania,Samoa,3
 Lithuania,San Marino,3
 Lithuania,Sao Tome and Principe,3
-Lithuania,Saudi Arabia,0
+Lithuania,Saudi Arabia,1
 Lithuania,Senegal,3
 Lithuania,Serbia,3
 Lithuania,Seychelles,1
-Lithuania,Sierra Leone,0
+Lithuania,Sierra Leone,1
 Lithuania,Singapore,3
 Lithuania,Slovakia,3
 Lithuania,Slovenia,3
@@ -20065,7 +20065,7 @@ Lithuania,South Africa,0
 Lithuania,South Korea,3
 Lithuania,South Sudan,0
 Lithuania,Spain,3
-Lithuania,Sri Lanka,2
+Lithuania,Sri Lanka,3
 Lithuania,Saint Vincent and the Grenadines,3
 Lithuania,Sudan,0
 Lithuania,Suriname,1
@@ -20250,11 +20250,11 @@ Luxembourg,Saint Lucia,3
 Luxembourg,Samoa,3
 Luxembourg,San Marino,3
 Luxembourg,Sao Tome and Principe,3
-Luxembourg,Saudi Arabia,0
+Luxembourg,Saudi Arabia,1
 Luxembourg,Senegal,3
 Luxembourg,Serbia,3
 Luxembourg,Seychelles,1
-Luxembourg,Sierra Leone,0
+Luxembourg,Sierra Leone,1
 Luxembourg,Singapore,3
 Luxembourg,Slovakia,3
 Luxembourg,Slovenia,3
@@ -20264,7 +20264,7 @@ Luxembourg,South Africa,3
 Luxembourg,South Korea,3
 Luxembourg,South Sudan,0
 Luxembourg,Spain,3
-Luxembourg,Sri Lanka,2
+Luxembourg,Sri Lanka,3
 Luxembourg,Saint Vincent and the Grenadines,3
 Luxembourg,Sudan,0
 Luxembourg,Suriname,1
@@ -20376,7 +20376,7 @@ Macao,Hungary,3
 Macao,Iceland,3
 Macao,India,2
 Macao,Indonesia,3
-Macao,Iran,1
+Macao,Iran,3
 Macao,Iraq,0
 Macao,Ireland,3
 Macao,Israel,3
@@ -20449,11 +20449,11 @@ Macao,Saint Lucia,1
 Macao,Samoa,3
 Macao,San Marino,3
 Macao,Sao Tome and Principe,0
-Macao,Saudi Arabia,0
+Macao,Saudi Arabia,1
 Macao,Senegal,0
 Macao,Serbia,3
 Macao,Seychelles,1
-Macao,Sierra Leone,0
+Macao,Sierra Leone,1
 Macao,Singapore,3
 Macao,Slovakia,3
 Macao,Slovenia,3
@@ -20617,7 +20617,7 @@ Madagascar,Montenegro,0
 Madagascar,Morocco,0
 Madagascar,Mozambique,1
 Madagascar,Myanmar,0
-Madagascar,Namibia,0
+Madagascar,Namibia,1
 Madagascar,Nauru,0
 Madagascar,Nepal,1
 Madagascar,Netherlands,0
@@ -20658,7 +20658,7 @@ Madagascar,Slovakia,0
 Madagascar,Slovenia,0
 Madagascar,Solomon Islands,0
 Madagascar,Somalia,1
-Madagascar,South Africa,0
+Madagascar,South Africa,3
 Madagascar,South Korea,0
 Madagascar,South Sudan,0
 Madagascar,Spain,0
@@ -21046,11 +21046,11 @@ Malaysia,Saint Lucia,1
 Malaysia,Samoa,1
 Malaysia,San Marino,3
 Malaysia,Sao Tome and Principe,0
-Malaysia,Saudi Arabia,0
+Malaysia,Saudi Arabia,1
 Malaysia,Senegal,1
 Malaysia,Serbia,0
 Malaysia,Seychelles,1
-Malaysia,Sierra Leone,0
+Malaysia,Sierra Leone,1
 Malaysia,Singapore,3
 Malaysia,Slovakia,3
 Malaysia,Slovenia,3
@@ -21060,7 +21060,7 @@ Malaysia,South Africa,3
 Malaysia,South Korea,3
 Malaysia,South Sudan,0
 Malaysia,Spain,3
-Malaysia,Sri Lanka,2
+Malaysia,Sri Lanka,3
 Malaysia,Saint Vincent and the Grenadines,3
 Malaysia,Sudan,1
 Malaysia,Suriname,3
@@ -21238,7 +21238,7 @@ Maldives,Poland,0
 Maldives,Portugal,0
 Maldives,Qatar,3
 Maldives,Romania,0
-Maldives,Russian Federation,0
+Maldives,Russian Federation,3
 Maldives,Rwanda,1
 Maldives,Saint Kitts and Nevis,3
 Maldives,Saint Lucia,3
@@ -21280,7 +21280,7 @@ Maldives,Turkmenistan,0
 Maldives,Tuvalu,1
 Maldives,Uganda,1
 Maldives,Ukraine,0
-Maldives,United Arab Emirates,1
+Maldives,United Arab Emirates,3
 Maldives,United Kingdom,3
 Maldives,United States,0
 Maldives,Uruguay,0
@@ -21461,7 +21461,7 @@ Mali,Spain,0
 Mali,Sri Lanka,0
 Mali,Saint Vincent and the Grenadines,3
 Mali,Sudan,0
-Mali,Suriname,0
+Mali,Suriname,1
 Mali,Sweden,0
 Mali,Switzerland,0
 Mali,Syria,0
@@ -21474,7 +21474,7 @@ Mali,Togo,3
 Mali,Tonga,0
 Mali,Trinidad and Tobago,0
 Mali,Tunisia,3
-Mali,Turkey,0
+Mali,Turkey,1
 Mali,Turkmenistan,0
 Mali,Tuvalu,1
 Mali,Uganda,1
@@ -21643,11 +21643,11 @@ Malta,Saint Lucia,3
 Malta,Samoa,3
 Malta,San Marino,3
 Malta,Sao Tome and Principe,3
-Malta,Saudi Arabia,0
+Malta,Saudi Arabia,1
 Malta,Senegal,3
 Malta,Serbia,3
 Malta,Seychelles,1
-Malta,Sierra Leone,0
+Malta,Sierra Leone,1
 Malta,Singapore,3
 Malta,Slovakia,3
 Malta,Slovenia,3
@@ -21657,7 +21657,7 @@ Malta,South Africa,3
 Malta,South Korea,3
 Malta,South Sudan,0
 Malta,Spain,3
-Malta,Sri Lanka,2
+Malta,Sri Lanka,3
 Malta,Saint Vincent and the Grenadines,3
 Malta,Sudan,0
 Malta,Suriname,1
@@ -22408,7 +22408,7 @@ Mexico,Montenegro,3
 Mexico,Morocco,3
 Mexico,Mozambique,1
 Mexico,Myanmar,1
-Mexico,Namibia,0
+Mexico,Namibia,1
 Mexico,Nauru,0
 Mexico,Nepal,1
 Mexico,Netherlands,3
@@ -23036,7 +23036,7 @@ Monaco,Saint Lucia,3
 Monaco,Samoa,1
 Monaco,San Marino,3
 Monaco,Sao Tome and Principe,3
-Monaco,Saudi Arabia,0
+Monaco,Saudi Arabia,1
 Monaco,Senegal,1
 Monaco,Serbia,3
 Monaco,Seychelles,1
@@ -23270,7 +23270,7 @@ Mongolia,Turkmenistan,0
 Mongolia,Tuvalu,1
 Mongolia,Uganda,1
 Mongolia,Ukraine,3
-Mongolia,United Arab Emirates,0
+Mongolia,United Arab Emirates,1
 Mongolia,United Kingdom,0
 Mongolia,United States,0
 Mongolia,Uruguay,3
@@ -23434,7 +23434,7 @@ Montenegro,Saint Lucia,3
 Montenegro,Samoa,1
 Montenegro,San Marino,3
 Montenegro,Sao Tome and Principe,0
-Montenegro,Saudi Arabia,0
+Montenegro,Saudi Arabia,1
 Montenegro,Senegal,1
 Montenegro,Serbia,3
 Montenegro,Seychelles,1
@@ -23773,7 +23773,7 @@ Mozambique,Kiribati,0
 Mozambique,Kosovo,0
 Mozambique,Kuwait,0
 Mozambique,Kyrgyzstan,0
-Mozambique,Laos,1
+Mozambique,Laos,0
 Mozambique,Latvia,0
 Mozambique,Lebanon,0
 Mozambique,Lesotho,1
@@ -24147,7 +24147,7 @@ Namibia,Ghana,1
 Namibia,Greece,0
 Namibia,Grenada,3
 Namibia,Guatemala,0
-Namibia,Guinea,0
+Namibia,Guinea,3
 Namibia,Guinea-Bissau,1
 Namibia,Guyana,0
 Namibia,Haiti,3
@@ -24405,7 +24405,7 @@ Nauru,Netherlands,0
 Nauru,New Zealand,0
 Nauru,Nicaragua,1
 Nauru,Niger,0
-Nauru,Nigeria,0
+Nauru,Nigeria,1
 Nauru,North Korea,0
 Nauru,North Macedonia,0
 Nauru,Norway,0
@@ -24430,7 +24430,7 @@ Nauru,Samoa,1
 Nauru,San Marino,0
 Nauru,Sao Tome and Principe,0
 Nauru,Saudi Arabia,0
-Nauru,Senegal,0
+Nauru,Senegal,1
 Nauru,Serbia,0
 Nauru,Seychelles,1
 Nauru,Sierra Leone,0
@@ -24446,14 +24446,14 @@ Nauru,Spain,0
 Nauru,Sri Lanka,2
 Nauru,Saint Vincent and the Grenadines,3
 Nauru,Sudan,0
-Nauru,Suriname,0
+Nauru,Suriname,1
 Nauru,Sweden,0
 Nauru,Switzerland,0
 Nauru,Syria,0
 Nauru,Taiwan,3
 Nauru,Tajikistan,0
 Nauru,Tanzania,3
-Nauru,Thailand,0
+Nauru,Thailand,1
 Nauru,Timor-Leste,1
 Nauru,Togo,1
 Nauru,Tonga,1
@@ -24464,7 +24464,7 @@ Nauru,Turkmenistan,0
 Nauru,Tuvalu,1
 Nauru,Uganda,1
 Nauru,Ukraine,0
-Nauru,United Arab Emirates,0
+Nauru,United Arab Emirates,3
 Nauru,United Kingdom,3
 Nauru,United States,0
 Nauru,Uruguay,0
@@ -24827,11 +24827,11 @@ Netherlands,Saint Lucia,3
 Netherlands,Samoa,3
 Netherlands,San Marino,3
 Netherlands,Sao Tome and Principe,3
-Netherlands,Saudi Arabia,0
+Netherlands,Saudi Arabia,1
 Netherlands,Senegal,3
 Netherlands,Serbia,3
 Netherlands,Seychelles,1
-Netherlands,Sierra Leone,0
+Netherlands,Sierra Leone,1
 Netherlands,Singapore,3
 Netherlands,Slovakia,3
 Netherlands,Slovenia,3
@@ -24841,7 +24841,7 @@ Netherlands,South Africa,3
 Netherlands,South Korea,3
 Netherlands,South Sudan,0
 Netherlands,Spain,3
-Netherlands,Sri Lanka,2
+Netherlands,Sri Lanka,3
 Netherlands,Saint Vincent and the Grenadines,3
 Netherlands,Sudan,0
 Netherlands,Suriname,1
@@ -25026,7 +25026,7 @@ New Zealand,Saint Lucia,3
 New Zealand,Samoa,1
 New Zealand,San Marino,3
 New Zealand,Sao Tome and Principe,0
-New Zealand,Saudi Arabia,0
+New Zealand,Saudi Arabia,1
 New Zealand,Senegal,1
 New Zealand,Serbia,3
 New Zealand,Seychelles,1
@@ -25036,11 +25036,11 @@ New Zealand,Slovakia,3
 New Zealand,Slovenia,3
 New Zealand,Solomon Islands,1
 New Zealand,Somalia,1
-New Zealand,South Africa,0
+New Zealand,South Africa,3
 New Zealand,South Korea,3
 New Zealand,South Sudan,0
 New Zealand,Spain,3
-New Zealand,Sri Lanka,2
+New Zealand,Sri Lanka,3
 New Zealand,Saint Vincent and the Grenadines,3
 New Zealand,Sudan,0
 New Zealand,Suriname,1
@@ -25194,7 +25194,7 @@ Nicaragua,Montenegro,3
 Nicaragua,Morocco,0
 Nicaragua,Mozambique,1
 Nicaragua,Myanmar,0
-Nicaragua,Namibia,0
+Nicaragua,Namibia,1
 Nicaragua,Nauru,0
 Nicaragua,Nepal,1
 Nicaragua,Netherlands,3
@@ -25441,7 +25441,7 @@ Niger,Spain,0
 Niger,Sri Lanka,2
 Niger,Saint Vincent and the Grenadines,3
 Niger,Sudan,0
-Niger,Suriname,0
+Niger,Suriname,1
 Niger,Sweden,0
 Niger,Switzerland,0
 Niger,Syria,0
@@ -25454,7 +25454,7 @@ Niger,Togo,3
 Niger,Tonga,0
 Niger,Trinidad and Tobago,0
 Niger,Tunisia,3
-Niger,Turkey,0
+Niger,Turkey,1
 Niger,Turkmenistan,0
 Niger,Tuvalu,1
 Niger,Uganda,1
@@ -25564,7 +25564,7 @@ Nigeria,Kiribati,0
 Nigeria,Kosovo,0
 Nigeria,Kuwait,0
 Nigeria,Kyrgyzstan,0
-Nigeria,Laos,1
+Nigeria,Laos,0
 Nigeria,Latvia,0
 Nigeria,Lebanon,1
 Nigeria,Lesotho,1
@@ -25592,7 +25592,7 @@ Nigeria,Montenegro,0
 Nigeria,Morocco,0
 Nigeria,Mozambique,1
 Nigeria,Myanmar,0
-Nigeria,Namibia,0
+Nigeria,Namibia,1
 Nigeria,Nauru,0
 Nigeria,Nepal,0
 Nigeria,Netherlands,0
@@ -25798,7 +25798,7 @@ North Korea,Netherlands,0
 North Korea,New Zealand,0
 North Korea,Nicaragua,1
 North Korea,Niger,0
-North Korea,Nigeria,0
+North Korea,Nigeria,1
 North Korea,North Korea,-1
 North Korea,North Macedonia,0
 North Korea,Norway,0
@@ -25823,7 +25823,7 @@ North Korea,Samoa,1
 North Korea,San Marino,0
 North Korea,Sao Tome and Principe,0
 North Korea,Saudi Arabia,0
-North Korea,Senegal,0
+North Korea,Senegal,1
 North Korea,Serbia,0
 North Korea,Seychelles,1
 North Korea,Sierra Leone,0
@@ -25839,7 +25839,7 @@ North Korea,Spain,0
 North Korea,Sri Lanka,2
 North Korea,Saint Vincent and the Grenadines,3
 North Korea,Sudan,0
-North Korea,Suriname,0
+North Korea,Suriname,1
 North Korea,Sweden,0
 North Korea,Switzerland,0
 North Korea,Syria,0
@@ -26220,11 +26220,11 @@ Norway,Saint Lucia,3
 Norway,Samoa,1
 Norway,San Marino,3
 Norway,Sao Tome and Principe,3
-Norway,Saudi Arabia,0
+Norway,Saudi Arabia,1
 Norway,Senegal,1
 Norway,Serbia,3
 Norway,Seychelles,1
-Norway,Sierra Leone,0
+Norway,Sierra Leone,1
 Norway,Singapore,3
 Norway,Slovakia,3
 Norway,Slovenia,3
@@ -26234,7 +26234,7 @@ Norway,South Africa,3
 Norway,South Korea,3
 Norway,South Sudan,0
 Norway,Spain,3
-Norway,Sri Lanka,2
+Norway,Sri Lanka,3
 Norway,Saint Vincent and the Grenadines,3
 Norway,Sudan,0
 Norway,Suriname,1
@@ -26423,7 +26423,7 @@ Oman,Saudi Arabia,3
 Oman,Senegal,1
 Oman,Serbia,3
 Oman,Seychelles,1
-Oman,Sierra Leone,0
+Oman,Sierra Leone,1
 Oman,Singapore,3
 Oman,Slovakia,0
 Oman,Slovenia,0
@@ -26559,7 +26559,7 @@ Pakistan,Kiribati,0
 Pakistan,Kosovo,0
 Pakistan,Kuwait,0
 Pakistan,Kyrgyzstan,0
-Pakistan,Laos,1
+Pakistan,Laos,0
 Pakistan,Latvia,0
 Pakistan,Lebanon,0
 Pakistan,Lesotho,1
@@ -27046,7 +27046,7 @@ Palestine,Togo,1
 Palestine,Tonga,0
 Palestine,Trinidad and Tobago,0
 Palestine,Tunisia,0
-Palestine,Turkey,1
+Palestine,Turkey,0
 Palestine,Turkmenistan,0
 Palestine,Tuvalu,1
 Palestine,Uganda,1
@@ -28025,7 +28025,7 @@ Philippines,South Africa,0
 Philippines,South Korea,0
 Philippines,South Sudan,0
 Philippines,Spain,0
-Philippines,Sri Lanka,2
+Philippines,Sri Lanka,3
 Philippines,Saint Vincent and the Grenadines,3
 Philippines,Sudan,0
 Philippines,Suriname,3
@@ -28179,7 +28179,7 @@ Poland,Montenegro,3
 Poland,Morocco,3
 Poland,Mozambique,1
 Poland,Myanmar,1
-Poland,Namibia,0
+Poland,Namibia,1
 Poland,Nauru,0
 Poland,Nepal,1
 Poland,Netherlands,3
@@ -28210,11 +28210,11 @@ Poland,Saint Lucia,3
 Poland,Samoa,3
 Poland,San Marino,3
 Poland,Sao Tome and Principe,3
-Poland,Saudi Arabia,0
+Poland,Saudi Arabia,1
 Poland,Senegal,3
 Poland,Serbia,3
 Poland,Seychelles,1
-Poland,Sierra Leone,0
+Poland,Sierra Leone,1
 Poland,Singapore,3
 Poland,Slovakia,3
 Poland,Slovenia,3
@@ -28224,7 +28224,7 @@ Poland,South Africa,3
 Poland,South Korea,3
 Poland,South Sudan,0
 Poland,Spain,3
-Poland,Sri Lanka,2
+Poland,Sri Lanka,3
 Poland,Saint Vincent and the Grenadines,3
 Poland,Sudan,0
 Poland,Suriname,1
@@ -28409,11 +28409,11 @@ Portugal,Saint Lucia,3
 Portugal,Samoa,3
 Portugal,San Marino,3
 Portugal,Sao Tome and Principe,3
-Portugal,Saudi Arabia,0
+Portugal,Saudi Arabia,1
 Portugal,Senegal,3
 Portugal,Serbia,3
 Portugal,Seychelles,1
-Portugal,Sierra Leone,0
+Portugal,Sierra Leone,1
 Portugal,Singapore,3
 Portugal,Slovakia,3
 Portugal,Slovenia,3
@@ -28423,7 +28423,7 @@ Portugal,South Africa,3
 Portugal,South Korea,3
 Portugal,South Sudan,0
 Portugal,Spain,3
-Portugal,Sri Lanka,2
+Portugal,Sri Lanka,3
 Portugal,Saint Vincent and the Grenadines,3
 Portugal,Sudan,0
 Portugal,Suriname,1
@@ -28612,13 +28612,13 @@ Qatar,Saudi Arabia,0
 Qatar,Senegal,1
 Qatar,Serbia,3
 Qatar,Seychelles,1
-Qatar,Sierra Leone,0
+Qatar,Sierra Leone,1
 Qatar,Singapore,3
 Qatar,Slovakia,0
 Qatar,Slovenia,0
 Qatar,Solomon Islands,0
 Qatar,Somalia,1
-Qatar,South Africa,0
+Qatar,South Africa,3
 Qatar,South Korea,3
 Qatar,South Sudan,0
 Qatar,Spain,0
@@ -28776,7 +28776,7 @@ Romania,Montenegro,3
 Romania,Morocco,3
 Romania,Mozambique,1
 Romania,Myanmar,1
-Romania,Namibia,0
+Romania,Namibia,1
 Romania,Nauru,0
 Romania,Nepal,1
 Romania,Netherlands,3
@@ -28807,11 +28807,11 @@ Romania,Saint Lucia,3
 Romania,Samoa,3
 Romania,San Marino,3
 Romania,Sao Tome and Principe,3
-Romania,Saudi Arabia,0
+Romania,Saudi Arabia,1
 Romania,Senegal,3
 Romania,Serbia,3
 Romania,Seychelles,1
-Romania,Sierra Leone,0
+Romania,Sierra Leone,1
 Romania,Singapore,3
 Romania,Slovakia,3
 Romania,Slovenia,3
@@ -28821,7 +28821,7 @@ Romania,South Africa,0
 Romania,South Korea,3
 Romania,South Sudan,0
 Romania,Spain,3
-Romania,Sri Lanka,2
+Romania,Sri Lanka,3
 Romania,Saint Vincent and the Grenadines,3
 Romania,Sudan,0
 Romania,Suriname,1
@@ -28960,7 +28960,7 @@ Russian Federation,Macao,3
 Russian Federation,Madagascar,1
 Russian Federation,Malawi,0
 Russian Federation,Malaysia,3
-Russian Federation,Maldives,1
+Russian Federation,Maldives,3
 Russian Federation,Mali,0
 Russian Federation,Malta,0
 Russian Federation,Marshall Islands,1
@@ -29006,11 +29006,11 @@ Russian Federation,Saint Lucia,3
 Russian Federation,Samoa,3
 Russian Federation,San Marino,0
 Russian Federation,Sao Tome and Principe,3
-Russian Federation,Saudi Arabia,0
+Russian Federation,Saudi Arabia,1
 Russian Federation,Senegal,1
 Russian Federation,Serbia,3
-Russian Federation,Seychelles,3
-Russian Federation,Sierra Leone,0
+Russian Federation,Seychelles,1
+Russian Federation,Sierra Leone,1
 Russian Federation,Singapore,0
 Russian Federation,Slovakia,0
 Russian Federation,Slovenia,0
@@ -29020,7 +29020,7 @@ Russian Federation,South Africa,3
 Russian Federation,South Korea,3
 Russian Federation,South Sudan,0
 Russian Federation,Spain,0
-Russian Federation,Sri Lanka,2
+Russian Federation,Sri Lanka,3
 Russian Federation,Saint Vincent and the Grenadines,3
 Russian Federation,Sudan,0
 Russian Federation,Suriname,0
@@ -29118,11 +29118,11 @@ Rwanda,Gabon,1
 Rwanda,Gambia,0
 Rwanda,Georgia,0
 Rwanda,Germany,0
-Rwanda,Ghana,1
+Rwanda,Ghana,3
 Rwanda,Greece,0
 Rwanda,Grenada,3
 Rwanda,Guatemala,0
-Rwanda,Guinea,0
+Rwanda,Guinea,3
 Rwanda,Guinea-Bissau,1
 Rwanda,Guyana,0
 Rwanda,Haiti,3
@@ -29174,7 +29174,7 @@ Rwanda,Montenegro,0
 Rwanda,Morocco,0
 Rwanda,Mozambique,1
 Rwanda,Myanmar,0
-Rwanda,Namibia,0
+Rwanda,Namibia,1
 Rwanda,Nauru,0
 Rwanda,Nepal,1
 Rwanda,Netherlands,0
@@ -29267,7 +29267,7 @@ Saint Kitts and Nevis,Bahamas,3
 Saint Kitts and Nevis,Bahrain,0
 Saint Kitts and Nevis,Bangladesh,3
 Saint Kitts and Nevis,Barbados,3
-Saint Kitts and Nevis,Belarus,0
+Saint Kitts and Nevis,Belarus,3
 Saint Kitts and Nevis,Belgium,3
 Saint Kitts and Nevis,Belize,3
 Saint Kitts and Nevis,Benin,0
@@ -29806,7 +29806,7 @@ Samoa,Saudi Arabia,0
 Samoa,Senegal,1
 Samoa,Serbia,0
 Samoa,Seychelles,1
-Samoa,Sierra Leone,0
+Samoa,Sierra Leone,1
 Samoa,Singapore,3
 Samoa,Slovakia,3
 Samoa,Slovenia,3
@@ -30001,7 +30001,7 @@ San Marino,Saint Lucia,3
 San Marino,Samoa,1
 San Marino,San Marino,-1
 San Marino,Sao Tome and Principe,3
-San Marino,Saudi Arabia,0
+San Marino,Saudi Arabia,1
 San Marino,Senegal,1
 San Marino,Serbia,3
 San Marino,Seychelles,1
@@ -30169,7 +30169,7 @@ Sao Tome and Principe,Montenegro,0
 Sao Tome and Principe,Morocco,0
 Sao Tome and Principe,Mozambique,1
 Sao Tome and Principe,Myanmar,0
-Sao Tome and Principe,Namibia,0
+Sao Tome and Principe,Namibia,1
 Sao Tome and Principe,Nauru,0
 Sao Tome and Principe,Nepal,1
 Sao Tome and Principe,Netherlands,0
@@ -30261,7 +30261,7 @@ Saudi Arabia,Azerbaijan,1
 Saudi Arabia,Bahamas,0
 Saudi Arabia,Bahrain,3
 Saudi Arabia,Bangladesh,1
-Saudi Arabia,Barbados,0
+Saudi Arabia,Barbados,3
 Saudi Arabia,Belarus,3
 Saudi Arabia,Belgium,0
 Saudi Arabia,Belize,0
@@ -30324,7 +30324,7 @@ Saudi Arabia,Honduras,3
 Saudi Arabia,Hong Kong,3
 Saudi Arabia,Hungary,0
 Saudi Arabia,Iceland,0
-Saudi Arabia,India,0
+Saudi Arabia,India,2
 Saudi Arabia,Indonesia,3
 Saudi Arabia,Iran,1
 Saudi Arabia,Iraq,0
@@ -30375,7 +30375,7 @@ Saudi Arabia,Netherlands,0
 Saudi Arabia,New Zealand,3
 Saudi Arabia,Nicaragua,3
 Saudi Arabia,Niger,0
-Saudi Arabia,Nigeria,0
+Saudi Arabia,Nigeria,1
 Saudi Arabia,North Korea,0
 Saudi Arabia,North Macedonia,0
 Saudi Arabia,Norway,0
@@ -30400,23 +30400,23 @@ Saudi Arabia,Samoa,1
 Saudi Arabia,San Marino,0
 Saudi Arabia,Sao Tome and Principe,0
 Saudi Arabia,Saudi Arabia,-1
-Saudi Arabia,Senegal,0
+Saudi Arabia,Senegal,1
 Saudi Arabia,Serbia,0
 Saudi Arabia,Seychelles,1
-Saudi Arabia,Sierra Leone,0
+Saudi Arabia,Sierra Leone,1
 Saudi Arabia,Singapore,0
 Saudi Arabia,Slovakia,0
 Saudi Arabia,Slovenia,0
 Saudi Arabia,Solomon Islands,0
 Saudi Arabia,Somalia,1
-Saudi Arabia,South Africa,0
+Saudi Arabia,South Africa,3
 Saudi Arabia,South Korea,3
 Saudi Arabia,South Sudan,0
 Saudi Arabia,Spain,0
 Saudi Arabia,Sri Lanka,2
 Saudi Arabia,Saint Vincent and the Grenadines,3
 Saudi Arabia,Sudan,0
-Saudi Arabia,Suriname,0
+Saudi Arabia,Suriname,1
 Saudi Arabia,Sweden,0
 Saudi Arabia,Switzerland,0
 Saudi Arabia,Syria,3
@@ -30539,7 +30539,7 @@ Senegal,Kiribati,0
 Senegal,Kosovo,0
 Senegal,Kuwait,0
 Senegal,Kyrgyzstan,0
-Senegal,Laos,1
+Senegal,Laos,0
 Senegal,Latvia,0
 Senegal,Lebanon,0
 Senegal,Lesotho,1
@@ -30909,7 +30909,7 @@ Seychelles,Gabon,1
 Seychelles,Gambia,3
 Seychelles,Georgia,3
 Seychelles,Germany,3
-Seychelles,Ghana,1
+Seychelles,Ghana,3
 Seychelles,Greece,3
 Seychelles,Grenada,3
 Seychelles,Guatemala,0
@@ -31164,7 +31164,7 @@ Sierra Leone,Montenegro,0
 Sierra Leone,Morocco,0
 Sierra Leone,Mozambique,1
 Sierra Leone,Myanmar,0
-Sierra Leone,Namibia,0
+Sierra Leone,Namibia,1
 Sierra Leone,Nauru,0
 Sierra Leone,Nepal,1
 Sierra Leone,Netherlands,0
@@ -31212,7 +31212,7 @@ Sierra Leone,Spain,0
 Sierra Leone,Sri Lanka,0
 Sierra Leone,Saint Vincent and the Grenadines,3
 Sierra Leone,Sudan,0
-Sierra Leone,Suriname,0
+Sierra Leone,Suriname,1
 Sierra Leone,Sweden,0
 Sierra Leone,Switzerland,0
 Sierra Leone,Syria,0
@@ -31225,12 +31225,12 @@ Sierra Leone,Togo,3
 Sierra Leone,Tonga,0
 Sierra Leone,Trinidad and Tobago,3
 Sierra Leone,Tunisia,0
-Sierra Leone,Turkey,0
+Sierra Leone,Turkey,1
 Sierra Leone,Turkmenistan,0
 Sierra Leone,Tuvalu,1
 Sierra Leone,Uganda,3
 Sierra Leone,Ukraine,0
-Sierra Leone,United Arab Emirates,3
+Sierra Leone,United Arab Emirates,0
 Sierra Leone,United Kingdom,0
 Sierra Leone,United States,0
 Sierra Leone,Uruguay,0
@@ -31370,7 +31370,7 @@ Singapore,Netherlands,3
 Singapore,New Zealand,3
 Singapore,Nicaragua,3
 Singapore,Niger,0
-Singapore,Nigeria,0
+Singapore,Nigeria,1
 Singapore,North Korea,0
 Singapore,North Macedonia,3
 Singapore,Norway,3
@@ -31394,11 +31394,11 @@ Singapore,Saint Lucia,3
 Singapore,Samoa,1
 Singapore,San Marino,3
 Singapore,Sao Tome and Principe,0
-Singapore,Saudi Arabia,0
+Singapore,Saudi Arabia,1
 Singapore,Senegal,3
 Singapore,Serbia,3
 Singapore,Seychelles,1
-Singapore,Sierra Leone,0
+Singapore,Sierra Leone,1
 Singapore,Singapore,-1
 Singapore,Slovakia,3
 Singapore,Slovenia,3
@@ -31408,7 +31408,7 @@ Singapore,South Africa,3
 Singapore,South Korea,3
 Singapore,South Sudan,0
 Singapore,Spain,3
-Singapore,Sri Lanka,1
+Singapore,Sri Lanka,3
 Singapore,Saint Vincent and the Grenadines,3
 Singapore,Sudan,0
 Singapore,Suriname,1
@@ -31562,7 +31562,7 @@ Slovakia,Montenegro,3
 Slovakia,Morocco,3
 Slovakia,Mozambique,1
 Slovakia,Myanmar,1
-Slovakia,Namibia,0
+Slovakia,Namibia,1
 Slovakia,Nauru,0
 Slovakia,Nepal,1
 Slovakia,Netherlands,3
@@ -31593,11 +31593,11 @@ Slovakia,Saint Lucia,3
 Slovakia,Samoa,3
 Slovakia,San Marino,3
 Slovakia,Sao Tome and Principe,3
-Slovakia,Saudi Arabia,0
+Slovakia,Saudi Arabia,1
 Slovakia,Senegal,3
 Slovakia,Serbia,3
 Slovakia,Seychelles,1
-Slovakia,Sierra Leone,0
+Slovakia,Sierra Leone,1
 Slovakia,Singapore,3
 Slovakia,Slovakia,-1
 Slovakia,Slovenia,3
@@ -31607,7 +31607,7 @@ Slovakia,South Africa,0
 Slovakia,South Korea,3
 Slovakia,South Sudan,0
 Slovakia,Spain,3
-Slovakia,Sri Lanka,2
+Slovakia,Sri Lanka,3
 Slovakia,Saint Vincent and the Grenadines,3
 Slovakia,Sudan,0
 Slovakia,Suriname,1
@@ -31792,11 +31792,11 @@ Slovenia,Saint Lucia,3
 Slovenia,Samoa,3
 Slovenia,San Marino,3
 Slovenia,Sao Tome and Principe,3
-Slovenia,Saudi Arabia,0
+Slovenia,Saudi Arabia,1
 Slovenia,Senegal,3
 Slovenia,Serbia,3
 Slovenia,Seychelles,1
-Slovenia,Sierra Leone,0
+Slovenia,Sierra Leone,1
 Slovenia,Singapore,3
 Slovenia,Slovakia,3
 Slovenia,Slovenia,-1
@@ -31806,7 +31806,7 @@ Slovenia,South Africa,0
 Slovenia,South Korea,3
 Slovenia,South Sudan,0
 Slovenia,Spain,3
-Slovenia,Sri Lanka,2
+Slovenia,Sri Lanka,3
 Slovenia,Saint Vincent and the Grenadines,3
 Slovenia,Sudan,0
 Slovenia,Suriname,1
@@ -32026,7 +32026,7 @@ Solomon Islands,Turkmenistan,0
 Solomon Islands,Tuvalu,1
 Solomon Islands,Uganda,3
 Solomon Islands,Ukraine,0
-Solomon Islands,United Arab Emirates,1
+Solomon Islands,United Arab Emirates,3
 Solomon Islands,United Kingdom,3
 Solomon Islands,United States,0
 Solomon Islands,Uruguay,0
@@ -32393,7 +32393,7 @@ South Africa,Saudi Arabia,0
 South Africa,Senegal,1
 South Africa,Serbia,0
 South Africa,Seychelles,1
-South Africa,Sierra Leone,0
+South Africa,Sierra Leone,1
 South Africa,Singapore,3
 South Africa,Slovakia,0
 South Africa,Slovenia,0
@@ -32533,7 +32533,7 @@ South Korea,Laos,3
 South Korea,Latvia,3
 South Korea,Lebanon,1
 South Korea,Lesotho,3
-South Korea,Liberia,3
+South Korea,Liberia,0
 South Korea,Libya,0
 South Korea,Liechtenstein,3
 South Korea,Lithuania,3
@@ -32557,7 +32557,7 @@ South Korea,Montenegro,3
 South Korea,Morocco,3
 South Korea,Mozambique,1
 South Korea,Myanmar,3
-South Korea,Namibia,0
+South Korea,Namibia,1
 South Korea,Nauru,0
 South Korea,Nepal,1
 South Korea,Netherlands,3
@@ -32588,11 +32588,11 @@ South Korea,Saint Lucia,3
 South Korea,Samoa,1
 South Korea,San Marino,3
 South Korea,Sao Tome and Principe,3
-South Korea,Saudi Arabia,0
+South Korea,Saudi Arabia,1
 South Korea,Senegal,3
 South Korea,Serbia,3
 South Korea,Seychelles,1
-South Korea,Sierra Leone,0
+South Korea,Sierra Leone,1
 South Korea,Singapore,3
 South Korea,Slovakia,3
 South Korea,Slovenia,3
@@ -32602,7 +32602,7 @@ South Korea,South Africa,3
 South Korea,South Korea,-1
 South Korea,South Sudan,0
 South Korea,Spain,3
-South Korea,Sri Lanka,2
+South Korea,Sri Lanka,3
 South Korea,Saint Vincent and the Grenadines,3
 South Korea,Sudan,0
 South Korea,Suriname,3
@@ -32763,7 +32763,7 @@ South Sudan,Netherlands,0
 South Sudan,New Zealand,0
 South Sudan,Nicaragua,0
 South Sudan,Niger,0
-South Sudan,Nigeria,0
+South Sudan,Nigeria,1
 South Sudan,North Korea,0
 South Sudan,North Macedonia,0
 South Sudan,Norway,0
@@ -32788,7 +32788,7 @@ South Sudan,Samoa,1
 South Sudan,San Marino,0
 South Sudan,Sao Tome and Principe,0
 South Sudan,Saudi Arabia,0
-South Sudan,Senegal,0
+South Sudan,Senegal,1
 South Sudan,Serbia,0
 South Sudan,Seychelles,1
 South Sudan,Sierra Leone,0
@@ -32804,7 +32804,7 @@ South Sudan,Spain,0
 South Sudan,Sri Lanka,2
 South Sudan,Saint Vincent and the Grenadines,3
 South Sudan,Sudan,0
-South Sudan,Suriname,0
+South Sudan,Suriname,1
 South Sudan,Sweden,0
 South Sudan,Switzerland,0
 South Sudan,Syria,0
@@ -32986,11 +32986,11 @@ Spain,Saint Lucia,3
 Spain,Samoa,3
 Spain,San Marino,3
 Spain,Sao Tome and Principe,3
-Spain,Saudi Arabia,0
+Spain,Saudi Arabia,1
 Spain,Senegal,3
 Spain,Serbia,3
 Spain,Seychelles,1
-Spain,Sierra Leone,0
+Spain,Sierra Leone,1
 Spain,Singapore,3
 Spain,Slovakia,3
 Spain,Slovenia,3
@@ -33000,7 +33000,7 @@ Spain,South Africa,3
 Spain,South Korea,3
 Spain,South Sudan,0
 Spain,Spain,-1
-Spain,Sri Lanka,2
+Spain,Sri Lanka,3
 Spain,Saint Vincent and the Grenadines,3
 Spain,Sudan,0
 Spain,Suriname,1
@@ -33083,7 +33083,7 @@ Sri Lanka,Denmark,0
 Sri Lanka,Djibouti,1
 Sri Lanka,Dominica,3
 Sri Lanka,Dominican Republic,0
-Sri Lanka,Ecuador,3
+Sri Lanka,Ecuador,0
 Sri Lanka,Egypt,0
 Sri Lanka,El Salvador,0
 Sri Lanka,Equatorial Guinea,0
@@ -33161,7 +33161,7 @@ Sri Lanka,Netherlands,0
 Sri Lanka,New Zealand,0
 Sri Lanka,Nicaragua,0
 Sri Lanka,Niger,0
-Sri Lanka,Nigeria,0
+Sri Lanka,Nigeria,1
 Sri Lanka,North Korea,0
 Sri Lanka,North Macedonia,0
 Sri Lanka,Norway,0
@@ -33186,7 +33186,7 @@ Sri Lanka,Samoa,1
 Sri Lanka,San Marino,0
 Sri Lanka,Sao Tome and Principe,0
 Sri Lanka,Saudi Arabia,0
-Sri Lanka,Senegal,0
+Sri Lanka,Senegal,1
 Sri Lanka,Serbia,0
 Sri Lanka,Seychelles,1
 Sri Lanka,Sierra Leone,0
@@ -33202,7 +33202,7 @@ Sri Lanka,Spain,0
 Sri Lanka,Sri Lanka,-1
 Sri Lanka,Saint Vincent and the Grenadines,3
 Sri Lanka,Sudan,0
-Sri Lanka,Suriname,0
+Sri Lanka,Suriname,1
 Sri Lanka,Sweden,0
 Sri Lanka,Switzerland,0
 Sri Lanka,Syria,0
@@ -33215,7 +33215,7 @@ Sri Lanka,Togo,1
 Sri Lanka,Tonga,0
 Sri Lanka,Trinidad and Tobago,0
 Sri Lanka,Tunisia,0
-Sri Lanka,Turkey,0
+Sri Lanka,Turkey,1
 Sri Lanka,Turkmenistan,0
 Sri Lanka,Tuvalu,1
 Sri Lanka,Uganda,1
@@ -33496,7 +33496,7 @@ Sudan,Gabon,1
 Sudan,Gambia,0
 Sudan,Georgia,0
 Sudan,Germany,0
-Sudan,Ghana,1
+Sudan,Ghana,3
 Sudan,Greece,0
 Sudan,Grenada,0
 Sudan,Guatemala,0
@@ -33559,7 +33559,7 @@ Sudan,Netherlands,0
 Sudan,New Zealand,0
 Sudan,Nicaragua,0
 Sudan,Niger,0
-Sudan,Nigeria,0
+Sudan,Nigeria,1
 Sudan,North Korea,0
 Sudan,North Macedonia,0
 Sudan,Norway,0
@@ -33584,7 +33584,7 @@ Sudan,Samoa,1
 Sudan,San Marino,0
 Sudan,Sao Tome and Principe,0
 Sudan,Saudi Arabia,0
-Sudan,Senegal,0
+Sudan,Senegal,1
 Sudan,Serbia,0
 Sudan,Seychelles,1
 Sudan,Sierra Leone,0
@@ -33600,7 +33600,7 @@ Sudan,Spain,0
 Sudan,Sri Lanka,0
 Sudan,Saint Vincent and the Grenadines,3
 Sudan,Sudan,-1
-Sudan,Suriname,0
+Sudan,Suriname,1
 Sudan,Sweden,0
 Sudan,Switzerland,0
 Sudan,Syria,3
@@ -33723,7 +33723,7 @@ Suriname,Kiribati,0
 Suriname,Kosovo,0
 Suriname,Kuwait,0
 Suriname,Kyrgyzstan,0
-Suriname,Laos,1
+Suriname,Laos,0
 Suriname,Latvia,0
 Suriname,Lebanon,0
 Suriname,Lesotho,1
@@ -33981,11 +33981,11 @@ Sweden,Saint Lucia,3
 Sweden,Samoa,3
 Sweden,San Marino,3
 Sweden,Sao Tome and Principe,3
-Sweden,Saudi Arabia,0
+Sweden,Saudi Arabia,1
 Sweden,Senegal,3
 Sweden,Serbia,3
 Sweden,Seychelles,1
-Sweden,Sierra Leone,0
+Sweden,Sierra Leone,1
 Sweden,Singapore,3
 Sweden,Slovakia,3
 Sweden,Slovenia,3
@@ -33995,7 +33995,7 @@ Sweden,South Africa,3
 Sweden,South Korea,3
 Sweden,South Sudan,0
 Sweden,Spain,3
-Sweden,Sri Lanka,2
+Sweden,Sri Lanka,3
 Sweden,Saint Vincent and the Grenadines,3
 Sweden,Sudan,0
 Sweden,Suriname,1
@@ -34180,7 +34180,7 @@ Switzerland,Saint Lucia,3
 Switzerland,Samoa,1
 Switzerland,San Marino,3
 Switzerland,Sao Tome and Principe,3
-Switzerland,Saudi Arabia,0
+Switzerland,Saudi Arabia,1
 Switzerland,Senegal,1
 Switzerland,Serbia,3
 Switzerland,Seychelles,1
@@ -34194,7 +34194,7 @@ Switzerland,South Africa,3
 Switzerland,South Korea,3
 Switzerland,South Sudan,0
 Switzerland,Spain,3
-Switzerland,Sri Lanka,2
+Switzerland,Sri Lanka,3
 Switzerland,Saint Vincent and the Grenadines,3
 Switzerland,Sudan,0
 Switzerland,Suriname,1
@@ -34277,7 +34277,7 @@ Syria,Denmark,0
 Syria,Djibouti,1
 Syria,Dominica,3
 Syria,Dominican Republic,0
-Syria,Ecuador,3
+Syria,Ecuador,0
 Syria,Egypt,0
 Syria,El Salvador,0
 Syria,Equatorial Guinea,0
@@ -34355,7 +34355,7 @@ Syria,Netherlands,0
 Syria,New Zealand,0
 Syria,Nicaragua,0
 Syria,Niger,0
-Syria,Nigeria,0
+Syria,Nigeria,1
 Syria,North Korea,0
 Syria,North Macedonia,0
 Syria,Norway,0
@@ -34380,7 +34380,7 @@ Syria,Samoa,1
 Syria,San Marino,0
 Syria,Sao Tome and Principe,0
 Syria,Saudi Arabia,0
-Syria,Senegal,0
+Syria,Senegal,1
 Syria,Serbia,0
 Syria,Seychelles,1
 Syria,Sierra Leone,0
@@ -34396,7 +34396,7 @@ Syria,Spain,0
 Syria,Sri Lanka,0
 Syria,Saint Vincent and the Grenadines,0
 Syria,Sudan,3
-Syria,Suriname,0
+Syria,Suriname,1
 Syria,Sweden,0
 Syria,Switzerland,0
 Syria,Syria,-1
@@ -34500,7 +34500,7 @@ Taiwan,Guinea-Bissau,1
 Taiwan,Guyana,0
 Taiwan,Haiti,3
 Taiwan,Honduras,3
-Taiwan,Hong Kong,0
+Taiwan,Hong Kong,2
 Taiwan,Hungary,3
 Taiwan,Iceland,3
 Taiwan,India,2
@@ -34578,7 +34578,7 @@ Taiwan,Saint Lucia,3
 Taiwan,Samoa,1
 Taiwan,San Marino,3
 Taiwan,Sao Tome and Principe,0
-Taiwan,Saudi Arabia,0
+Taiwan,Saudi Arabia,1
 Taiwan,Senegal,1
 Taiwan,Serbia,0
 Taiwan,Seychelles,1
@@ -34616,7 +34616,7 @@ Taiwan,Ukraine,0
 Taiwan,United Arab Emirates,0
 Taiwan,United Kingdom,3
 Taiwan,United States,2
-Taiwan,Uruguay,3
+Taiwan,Uruguay,0
 Taiwan,Uzbekistan,0
 Taiwan,Vanuatu,3
 Taiwan,Vatican,3
@@ -34889,7 +34889,7 @@ Tanzania,Gabon,1
 Tanzania,Gambia,3
 Tanzania,Georgia,0
 Tanzania,Germany,0
-Tanzania,Ghana,1
+Tanzania,Ghana,3
 Tanzania,Greece,0
 Tanzania,Grenada,3
 Tanzania,Guatemala,0
@@ -35144,7 +35144,7 @@ Thailand,Montenegro,0
 Thailand,Morocco,0
 Thailand,Mozambique,1
 Thailand,Myanmar,3
-Thailand,Namibia,0
+Thailand,Namibia,1
 Thailand,Nauru,0
 Thailand,Nepal,1
 Thailand,Netherlands,0
@@ -35179,7 +35179,7 @@ Thailand,Saudi Arabia,0
 Thailand,Senegal,1
 Thailand,Serbia,0
 Thailand,Seychelles,1
-Thailand,Sierra Leone,0
+Thailand,Sierra Leone,1
 Thailand,Singapore,3
 Thailand,Slovakia,0
 Thailand,Slovenia,0
@@ -35189,7 +35189,7 @@ Thailand,South Africa,3
 Thailand,South Korea,3
 Thailand,South Sudan,0
 Thailand,Spain,0
-Thailand,Sri Lanka,2
+Thailand,Sri Lanka,3
 Thailand,Saint Vincent and the Grenadines,3
 Thailand,Sudan,0
 Thailand,Suriname,1
@@ -35378,7 +35378,7 @@ Timor-Leste,Saudi Arabia,0
 Timor-Leste,Senegal,1
 Timor-Leste,Serbia,0
 Timor-Leste,Seychelles,1
-Timor-Leste,Sierra Leone,0
+Timor-Leste,Sierra Leone,1
 Timor-Leste,Singapore,3
 Timor-Leste,Slovakia,3
 Timor-Leste,Slovenia,3
@@ -35542,7 +35542,7 @@ Togo,Montenegro,0
 Togo,Morocco,0
 Togo,Mozambique,1
 Togo,Myanmar,0
-Togo,Namibia,0
+Togo,Namibia,1
 Togo,Nauru,0
 Togo,Nepal,1
 Togo,Netherlands,0
@@ -35713,7 +35713,7 @@ Tonga,Kiribati,3
 Tonga,Kosovo,3
 Tonga,Kuwait,0
 Tonga,Kyrgyzstan,0
-Tonga,Laos,1
+Tonga,Laos,0
 Tonga,Latvia,3
 Tonga,Lebanon,0
 Tonga,Lesotho,3
@@ -36139,7 +36139,7 @@ Tunisia,Montenegro,0
 Tunisia,Morocco,3
 Tunisia,Mozambique,1
 Tunisia,Myanmar,0
-Tunisia,Namibia,0
+Tunisia,Namibia,1
 Tunisia,Nauru,0
 Tunisia,Nepal,1
 Tunisia,Netherlands,0
@@ -36227,7 +36227,7 @@ Turkey,Argentina,3
 Turkey,Armenia,1
 Turkey,Australia,0
 Turkey,Austria,0
-Turkey,Azerbaijan,1
+Turkey,Azerbaijan,3
 Turkey,Bahamas,3
 Turkey,Bahrain,1
 Turkey,Bangladesh,1
@@ -36338,7 +36338,7 @@ Turkey,Montenegro,3
 Turkey,Morocco,3
 Turkey,Mozambique,1
 Turkey,Myanmar,1
-Turkey,Namibia,0
+Turkey,Namibia,1
 Turkey,Nauru,0
 Turkey,Nepal,1
 Turkey,Netherlands,0
@@ -36373,7 +36373,7 @@ Turkey,Saudi Arabia,0
 Turkey,Senegal,1
 Turkey,Serbia,3
 Turkey,Seychelles,1
-Turkey,Sierra Leone,0
+Turkey,Sierra Leone,1
 Turkey,Singapore,3
 Turkey,Slovakia,0
 Turkey,Slovenia,0
@@ -36544,7 +36544,7 @@ Turkmenistan,Netherlands,0
 Turkmenistan,New Zealand,0
 Turkmenistan,Nicaragua,1
 Turkmenistan,Niger,0
-Turkmenistan,Nigeria,0
+Turkmenistan,Nigeria,1
 Turkmenistan,North Korea,0
 Turkmenistan,North Macedonia,0
 Turkmenistan,Norway,0
@@ -36569,7 +36569,7 @@ Turkmenistan,Samoa,1
 Turkmenistan,San Marino,0
 Turkmenistan,Sao Tome and Principe,0
 Turkmenistan,Saudi Arabia,0
-Turkmenistan,Senegal,0
+Turkmenistan,Senegal,1
 Turkmenistan,Serbia,0
 Turkmenistan,Seychelles,1
 Turkmenistan,Sierra Leone,0
@@ -36585,7 +36585,7 @@ Turkmenistan,Spain,0
 Turkmenistan,Sri Lanka,2
 Turkmenistan,Saint Vincent and the Grenadines,3
 Turkmenistan,Sudan,0
-Turkmenistan,Suriname,0
+Turkmenistan,Suriname,1
 Turkmenistan,Sweden,0
 Turkmenistan,Switzerland,0
 Turkmenistan,Syria,0
@@ -36771,7 +36771,7 @@ Tuvalu,Saudi Arabia,0
 Tuvalu,Senegal,1
 Tuvalu,Serbia,0
 Tuvalu,Seychelles,1
-Tuvalu,Sierra Leone,0
+Tuvalu,Sierra Leone,1
 Tuvalu,Singapore,3
 Tuvalu,Slovakia,3
 Tuvalu,Slovenia,3
@@ -36879,7 +36879,7 @@ Uganda,Gabon,1
 Uganda,Gambia,3
 Uganda,Georgia,0
 Uganda,Germany,0
-Uganda,Ghana,1
+Uganda,Ghana,3
 Uganda,Greece,0
 Uganda,Grenada,3
 Uganda,Guatemala,0
@@ -36935,7 +36935,7 @@ Uganda,Montenegro,0
 Uganda,Morocco,0
 Uganda,Mozambique,1
 Uganda,Myanmar,1
-Uganda,Namibia,0
+Uganda,Namibia,1
 Uganda,Nauru,0
 Uganda,Nepal,1
 Uganda,Netherlands,0
@@ -37025,7 +37025,7 @@ Ukraine,Australia,0
 Ukraine,Austria,3
 Ukraine,Azerbaijan,3
 Ukraine,Bahamas,0
-Ukraine,Bahrain,0
+Ukraine,Bahrain,1
 Ukraine,Bangladesh,1
 Ukraine,Barbados,3
 Ukraine,Belarus,3
@@ -37165,7 +37165,7 @@ Ukraine,Saint Lucia,0
 Ukraine,Samoa,1
 Ukraine,San Marino,3
 Ukraine,Sao Tome and Principe,0
-Ukraine,Saudi Arabia,0
+Ukraine,Saudi Arabia,1
 Ukraine,Senegal,1
 Ukraine,Serbia,3
 Ukraine,Seychelles,1
@@ -37179,7 +37179,7 @@ Ukraine,South Africa,0
 Ukraine,South Korea,0
 Ukraine,South Sudan,0
 Ukraine,Spain,3
-Ukraine,Sri Lanka,2
+Ukraine,Sri Lanka,3
 Ukraine,Saint Vincent and the Grenadines,3
 Ukraine,Sudan,0
 Ukraine,Suriname,1
@@ -37265,7 +37265,7 @@ United Arab Emirates,Dominican Republic,3
 United Arab Emirates,Ecuador,3
 United Arab Emirates,Egypt,3
 United Arab Emirates,El Salvador,3
-United Arab Emirates,Equatorial Guinea,0
+United Arab Emirates,Equatorial Guinea,1
 United Arab Emirates,Eritrea,0
 United Arab Emirates,Estonia,3
 United Arab Emirates,Swaziland,3
@@ -37333,7 +37333,7 @@ United Arab Emirates,Montenegro,3
 United Arab Emirates,Morocco,3
 United Arab Emirates,Mozambique,1
 United Arab Emirates,Myanmar,0
-United Arab Emirates,Namibia,0
+United Arab Emirates,Namibia,1
 United Arab Emirates,Nauru,3
 United Arab Emirates,Nepal,1
 United Arab Emirates,Netherlands,3
@@ -37350,7 +37350,7 @@ United Arab Emirates,Palau,1
 United Arab Emirates,Palestine,3
 United Arab Emirates,Panama,3
 United Arab Emirates,Papua New Guinea,0
-United Arab Emirates,Paraguay,1
+United Arab Emirates,Paraguay,3
 United Arab Emirates,Peru,0
 United Arab Emirates,Philippines,3
 United Arab Emirates,Poland,3
@@ -37367,18 +37367,18 @@ United Arab Emirates,Sao Tome and Principe,3
 United Arab Emirates,Saudi Arabia,3
 United Arab Emirates,Senegal,1
 United Arab Emirates,Serbia,3
-United Arab Emirates,Seychelles,3
+United Arab Emirates,Seychelles,1
 United Arab Emirates,Sierra Leone,1
 United Arab Emirates,Singapore,3
 United Arab Emirates,Slovakia,3
 United Arab Emirates,Slovenia,3
 United Arab Emirates,Solomon Islands,3
 United Arab Emirates,Somalia,1
-United Arab Emirates,South Africa,0
+United Arab Emirates,South Africa,3
 United Arab Emirates,South Korea,3
 United Arab Emirates,South Sudan,3
 United Arab Emirates,Spain,3
-United Arab Emirates,Sri Lanka,1
+United Arab Emirates,Sri Lanka,2
 United Arab Emirates,Saint Vincent and the Grenadines,3
 United Arab Emirates,Sudan,3
 United Arab Emirates,Suriname,1
@@ -37563,11 +37563,11 @@ United Kingdom,Saint Lucia,3
 United Kingdom,Samoa,1
 United Kingdom,San Marino,3
 United Kingdom,Sao Tome and Principe,3
-United Kingdom,Saudi Arabia,0
+United Kingdom,Saudi Arabia,1
 United Kingdom,Senegal,3
 United Kingdom,Serbia,3
 United Kingdom,Seychelles,1
-United Kingdom,Sierra Leone,0
+United Kingdom,Sierra Leone,1
 United Kingdom,Singapore,3
 United Kingdom,Slovakia,3
 United Kingdom,Slovenia,3
@@ -37577,7 +37577,7 @@ United Kingdom,South Africa,3
 United Kingdom,South Korea,3
 United Kingdom,South Sudan,0
 United Kingdom,Spain,3
-United Kingdom,Sri Lanka,2
+United Kingdom,Sri Lanka,3
 United Kingdom,Saint Vincent and the Grenadines,3
 United Kingdom,Sudan,0
 United Kingdom,Suriname,1
@@ -37762,11 +37762,11 @@ United States,Saint Lucia,3
 United States,Samoa,1
 United States,San Marino,3
 United States,Sao Tome and Principe,3
-United States,Saudi Arabia,0
+United States,Saudi Arabia,1
 United States,Senegal,3
 United States,Serbia,3
 United States,Seychelles,1
-United States,Sierra Leone,0
+United States,Sierra Leone,1
 United States,Singapore,3
 United States,Slovakia,3
 United States,Slovenia,3
@@ -37776,7 +37776,7 @@ United States,South Africa,3
 United States,South Korea,3
 United States,South Sudan,0
 United States,Spain,3
-United States,Sri Lanka,2
+United States,Sri Lanka,3
 United States,Saint Vincent and the Grenadines,3
 United States,Sudan,0
 United States,Suriname,1
@@ -38655,7 +38655,7 @@ Venezuela,Denmark,3
 Venezuela,Djibouti,1
 Venezuela,Dominica,3
 Venezuela,Dominican Republic,3
-Venezuela,Ecuador,3
+Venezuela,Ecuador,0
 Venezuela,Egypt,1
 Venezuela,El Salvador,0
 Venezuela,Equatorial Guinea,0
@@ -38726,7 +38726,7 @@ Venezuela,Montenegro,3
 Venezuela,Morocco,0
 Venezuela,Mozambique,1
 Venezuela,Myanmar,1
-Venezuela,Namibia,0
+Venezuela,Namibia,1
 Venezuela,Nauru,0
 Venezuela,Nepal,1
 Venezuela,Netherlands,3
@@ -38925,7 +38925,7 @@ Viet Nam,Montenegro,0
 Viet Nam,Morocco,0
 Viet Nam,Mozambique,1
 Viet Nam,Myanmar,3
-Viet Nam,Namibia,0
+Viet Nam,Namibia,1
 Viet Nam,Nauru,0
 Viet Nam,Nepal,1
 Viet Nam,Netherlands,0
@@ -38960,7 +38960,7 @@ Viet Nam,Saudi Arabia,0
 Viet Nam,Senegal,1
 Viet Nam,Serbia,0
 Viet Nam,Seychelles,1
-Viet Nam,Sierra Leone,0
+Viet Nam,Sierra Leone,1
 Viet Nam,Singapore,3
 Viet Nam,Slovakia,0
 Viet Nam,Slovenia,0
@@ -39131,7 +39131,7 @@ Yemen,Netherlands,0
 Yemen,New Zealand,0
 Yemen,Nicaragua,0
 Yemen,Niger,0
-Yemen,Nigeria,0
+Yemen,Nigeria,1
 Yemen,North Korea,0
 Yemen,North Macedonia,0
 Yemen,Norway,0
@@ -39172,7 +39172,7 @@ Yemen,Spain,0
 Yemen,Sri Lanka,2
 Yemen,Saint Vincent and the Grenadines,3
 Yemen,Sudan,3
-Yemen,Suriname,0
+Yemen,Suriname,1
 Yemen,Sweden,0
 Yemen,Switzerland,0
 Yemen,Syria,3
@@ -39185,7 +39185,7 @@ Yemen,Togo,1
 Yemen,Tonga,0
 Yemen,Trinidad and Tobago,0
 Yemen,Tunisia,0
-Yemen,Turkey,0
+Yemen,Turkey,1
 Yemen,Turkmenistan,0
 Yemen,Tuvalu,1
 Yemen,Uganda,1
@@ -39295,7 +39295,7 @@ Zambia,Kiribati,3
 Zambia,Kosovo,0
 Zambia,Kuwait,0
 Zambia,Kyrgyzstan,0
-Zambia,Laos,1
+Zambia,Laos,0
 Zambia,Latvia,0
 Zambia,Lebanon,0
 Zambia,Lesotho,3
@@ -39494,7 +39494,7 @@ Zimbabwe,Kiribati,3
 Zimbabwe,Kosovo,0
 Zimbabwe,Kuwait,0
 Zimbabwe,Kyrgyzstan,0
-Zimbabwe,Laos,1
+Zimbabwe,Laos,0
 Zimbabwe,Latvia,0
 Zimbabwe,Lebanon,0
 Zimbabwe,Lesotho,3
