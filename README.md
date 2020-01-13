@@ -1,6 +1,6 @@
 # Passport Index Dataset
 ## Travel visa requirements for 199 countries, in .csv
-Last updated on December 17, 2019
+Last updated on January 13, 2020
 
 ![Passport](passport.png)
 
