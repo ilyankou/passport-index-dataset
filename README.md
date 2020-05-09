@@ -1,6 +1,6 @@
 # 2020 Passport Index Dataset
 ## Travel visa requirements for 199 countries, in .csv
-Last updated on April 02, 2020
+Last updated on May 09, 2020 (weird changes to the dataset due to Covid-19, including visa-required travel to South Africa for passport holders of Germany, Italy, US, etc).
 
 ![Passport](passport.png)
 
