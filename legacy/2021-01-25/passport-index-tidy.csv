@@ -611,7 +611,7 @@ Andorra,Bahrain,covid ban
 Andorra,Bangladesh,covid ban
 Andorra,Barbados,visa required
 Andorra,Belarus,30
-Andorra,Belgium,covid ban
+Andorra,Belgium,90
 Andorra,Belize,visa free
 Andorra,Benin,e-visa
 Andorra,Bhutan,visa required
@@ -726,7 +726,7 @@ Andorra,Niger,visa required
 Andorra,Nigeria,visa on arrival
 Andorra,North Korea,visa required
 Andorra,North Macedonia,90
-Andorra,Norway,covid ban
+Andorra,Norway,90
 Andorra,Oman,covid ban
 Andorra,Pakistan,e-visa
 Andorra,Palau,visa on arrival
@@ -1599,14 +1599,14 @@ Australia,Antigua and Barbuda,180
 Australia,Argentina,covid ban
 Australia,Armenia,180
 Australia,Australia,-1
-Australia,Austria,covid ban
+Australia,Austria,90
 Australia,Azerbaijan,covid ban
 Australia,Bahamas,90
 Australia,Bahrain,covid ban
 Australia,Bangladesh,covid ban
 Australia,Barbados,180
 Australia,Belarus,30
-Australia,Belgium,covid ban
+Australia,Belgium,90
 Australia,Belize,visa free
 Australia,Benin,e-visa
 Australia,Bhutan,visa required
@@ -1805,7 +1805,7 @@ Austria,Bahrain,covid ban
 Austria,Bangladesh,covid ban
 Austria,Barbados,90
 Austria,Belarus,30
-Austria,Belgium,covid ban
+Austria,Belgium,visa free
 Austria,Belize,visa free
 Austria,Benin,e-visa
 Austria,Bhutan,visa required
@@ -1852,7 +1852,7 @@ Austria,Finland,visa free
 Austria,France,visa free
 Austria,Gabon,visa on arrival
 Austria,Gambia,90
-Austria,Georgia,360
+Austria,Georgia,covid ban
 Austria,Germany,visa free
 Austria,Ghana,visa required
 Austria,Greece,visa free
@@ -1920,7 +1920,7 @@ Austria,Niger,visa required
 Austria,Nigeria,visa on arrival
 Austria,North Korea,visa required
 Austria,North Macedonia,90
-Austria,Norway,covid ban
+Austria,Norway,visa free
 Austria,Oman,covid ban
 Austria,Pakistan,visa on arrival
 Austria,Palau,90
@@ -2449,7 +2449,7 @@ Bahrain,Finland,covid ban
 Bahrain,France,covid ban
 Bahrain,Gabon,visa on arrival
 Bahrain,Gambia,visa required
-Bahrain,Georgia,360
+Bahrain,Georgia,covid ban
 Bahrain,Germany,covid ban
 Bahrain,Ghana,visa required
 Bahrain,Greece,covid ban
@@ -2477,7 +2477,7 @@ Bahrain,Kazakhstan,covid ban
 Bahrain,Kenya,visa on arrival
 Bahrain,Kiribati,visa required
 Bahrain,Kosovo,90
-Bahrain,Kuwait,visa required
+Bahrain,Kuwait,visa free
 Bahrain,Kyrgyzstan,60
 Bahrain,Laos,covid ban
 Bahrain,Latvia,covid ban
@@ -2529,7 +2529,7 @@ Bahrain,Peru,visa required
 Bahrain,Philippines,covid ban
 Bahrain,Poland,covid ban
 Bahrain,Portugal,covid ban
-Bahrain,Qatar,visa free
+Bahrain,Qatar,covid ban
 Bahrain,Romania,covid ban
 Bahrain,Russia,covid ban
 Bahrain,Rwanda,visa on arrival
@@ -3245,7 +3245,7 @@ Belgium,Finland,visa free
 Belgium,France,visa free
 Belgium,Gabon,visa on arrival
 Belgium,Gambia,90
-Belgium,Georgia,360
+Belgium,Georgia,covid ban
 Belgium,Germany,visa free
 Belgium,Ghana,visa required
 Belgium,Greece,visa free
@@ -3313,7 +3313,7 @@ Belgium,Niger,visa required
 Belgium,Nigeria,visa on arrival
 Belgium,North Korea,visa required
 Belgium,North Macedonia,90
-Belgium,Norway,covid ban
+Belgium,Norway,visa free
 Belgium,Oman,covid ban
 Belgium,Pakistan,e-visa
 Belgium,Palau,90
@@ -4193,7 +4193,7 @@ Bosnia and Herzegovina,Bahrain,covid ban
 Bosnia and Herzegovina,Bangladesh,covid ban
 Bosnia and Herzegovina,Barbados,visa required
 Bosnia and Herzegovina,Belarus,30
-Bosnia and Herzegovina,Belgium,covid ban
+Bosnia and Herzegovina,Belgium,90
 Bosnia and Herzegovina,Belize,visa required
 Bosnia and Herzegovina,Benin,e-visa
 Bosnia and Herzegovina,Bhutan,visa required
@@ -4989,7 +4989,7 @@ Bulgaria,Bahrain,covid ban
 Bulgaria,Bangladesh,covid ban
 Bulgaria,Barbados,90
 Bulgaria,Belarus,30
-Bulgaria,Belgium,covid ban
+Bulgaria,Belgium,visa free
 Bulgaria,Belize,visa free
 Bulgaria,Benin,e-visa
 Bulgaria,Bhutan,visa required
@@ -5036,7 +5036,7 @@ Bulgaria,Finland,visa free
 Bulgaria,France,visa free
 Bulgaria,Gabon,visa on arrival
 Bulgaria,Gambia,90
-Bulgaria,Georgia,360
+Bulgaria,Georgia,covid ban
 Bulgaria,Germany,visa free
 Bulgaria,Ghana,visa required
 Bulgaria,Greece,visa free
@@ -5104,7 +5104,7 @@ Bulgaria,Niger,visa required
 Bulgaria,Nigeria,visa on arrival
 Bulgaria,North Korea,visa required
 Bulgaria,North Macedonia,90
-Bulgaria,Norway,covid ban
+Bulgaria,Norway,visa free
 Bulgaria,Oman,covid ban
 Bulgaria,Pakistan,e-visa
 Bulgaria,Palau,90
@@ -5977,7 +5977,7 @@ Canada,Antigua and Barbuda,180
 Canada,Argentina,covid ban
 Canada,Armenia,e-visa
 Canada,Australia,covid ban
-Canada,Austria,covid ban
+Canada,Austria,90
 Canada,Azerbaijan,covid ban
 Canada,Bahamas,240
 Canada,Bahrain,covid ban
@@ -8372,7 +8372,7 @@ Croatia,Bahrain,covid ban
 Croatia,Bangladesh,covid ban
 Croatia,Barbados,90
 Croatia,Belarus,30
-Croatia,Belgium,covid ban
+Croatia,Belgium,visa free
 Croatia,Belize,visa free
 Croatia,Benin,e-visa
 Croatia,Bhutan,visa required
@@ -8487,7 +8487,7 @@ Croatia,Niger,visa required
 Croatia,Nigeria,visa on arrival
 Croatia,North Korea,visa required
 Croatia,North Macedonia,90
-Croatia,Norway,covid ban
+Croatia,Norway,visa free
 Croatia,Oman,covid ban
 Croatia,Pakistan,e-visa
 Croatia,Palau,90
@@ -8770,7 +8770,7 @@ Cyprus,Bahrain,covid ban
 Cyprus,Bangladesh,covid ban
 Cyprus,Barbados,90
 Cyprus,Belarus,30
-Cyprus,Belgium,covid ban
+Cyprus,Belgium,visa free
 Cyprus,Belize,visa free
 Cyprus,Benin,e-visa
 Cyprus,Bhutan,visa required
@@ -8885,7 +8885,7 @@ Cyprus,Niger,visa required
 Cyprus,Nigeria,visa on arrival
 Cyprus,North Korea,visa required
 Cyprus,North Macedonia,90
-Cyprus,Norway,covid ban
+Cyprus,Norway,visa free
 Cyprus,Oman,covid ban
 Cyprus,Pakistan,e-visa
 Cyprus,Palau,90
@@ -8969,7 +8969,7 @@ Czech Republic,Bahrain,covid ban
 Czech Republic,Bangladesh,covid ban
 Czech Republic,Barbados,90
 Czech Republic,Belarus,30
-Czech Republic,Belgium,covid ban
+Czech Republic,Belgium,visa free
 Czech Republic,Belize,visa free
 Czech Republic,Benin,e-visa
 Czech Republic,Bhutan,visa required
@@ -9016,7 +9016,7 @@ Czech Republic,Finland,visa free
 Czech Republic,France,visa free
 Czech Republic,Gabon,visa on arrival
 Czech Republic,Gambia,90
-Czech Republic,Georgia,360
+Czech Republic,Georgia,covid ban
 Czech Republic,Germany,visa free
 Czech Republic,Ghana,visa required
 Czech Republic,Greece,visa free
@@ -9084,7 +9084,7 @@ Czech Republic,Niger,visa required
 Czech Republic,Nigeria,visa on arrival
 Czech Republic,North Korea,visa required
 Czech Republic,North Macedonia,90
-Czech Republic,Norway,covid ban
+Czech Republic,Norway,visa free
 Czech Republic,Oman,covid ban
 Czech Republic,Pakistan,e-visa
 Czech Republic,Palau,90
@@ -9168,7 +9168,7 @@ Denmark,Bahrain,covid ban
 Denmark,Bangladesh,covid ban
 Denmark,Barbados,90
 Denmark,Belarus,30
-Denmark,Belgium,covid ban
+Denmark,Belgium,visa free
 Denmark,Belize,visa free
 Denmark,Benin,e-visa
 Denmark,Bhutan,visa required
@@ -9215,7 +9215,7 @@ Denmark,Finland,visa free
 Denmark,France,visa free
 Denmark,Gabon,visa on arrival
 Denmark,Gambia,90
-Denmark,Georgia,360
+Denmark,Georgia,covid ban
 Denmark,Germany,visa free
 Denmark,Ghana,visa required
 Denmark,Greece,visa free
@@ -9283,7 +9283,7 @@ Denmark,Niger,visa required
 Denmark,Nigeria,visa on arrival
 Denmark,North Korea,visa required
 Denmark,North Macedonia,90
-Denmark,Norway,covid ban
+Denmark,Norway,visa free
 Denmark,Oman,covid ban
 Denmark,Pakistan,e-visa
 Denmark,Palau,90
@@ -10959,7 +10959,7 @@ Estonia,Bahrain,covid ban
 Estonia,Bangladesh,covid ban
 Estonia,Barbados,90
 Estonia,Belarus,30
-Estonia,Belgium,covid ban
+Estonia,Belgium,visa free
 Estonia,Belize,visa free
 Estonia,Benin,e-visa
 Estonia,Bhutan,visa required
@@ -11074,7 +11074,7 @@ Estonia,Niger,visa required
 Estonia,Nigeria,visa on arrival
 Estonia,North Korea,visa required
 Estonia,North Macedonia,90
-Estonia,Norway,covid ban
+Estonia,Norway,visa free
 Estonia,Oman,covid ban
 Estonia,Pakistan,e-visa
 Estonia,Palau,90
@@ -11755,7 +11755,7 @@ Finland,Bahrain,covid ban
 Finland,Bangladesh,covid ban
 Finland,Barbados,90
 Finland,Belarus,30
-Finland,Belgium,covid ban
+Finland,Belgium,visa free
 Finland,Belize,visa free
 Finland,Benin,e-visa
 Finland,Bhutan,visa required
@@ -11802,7 +11802,7 @@ Finland,Finland,-1
 Finland,France,visa free
 Finland,Gabon,visa on arrival
 Finland,Gambia,90
-Finland,Georgia,360
+Finland,Georgia,covid ban
 Finland,Germany,visa free
 Finland,Ghana,visa required
 Finland,Greece,visa free
@@ -11870,7 +11870,7 @@ Finland,Niger,visa required
 Finland,Nigeria,visa on arrival
 Finland,North Korea,visa required
 Finland,North Macedonia,90
-Finland,Norway,covid ban
+Finland,Norway,visa free
 Finland,Oman,covid ban
 Finland,Pakistan,visa on arrival
 Finland,Palau,90
@@ -11884,7 +11884,7 @@ Finland,Poland,visa free
 Finland,Portugal,visa free
 Finland,Qatar,covid ban
 Finland,Romania,visa free
-Finland,Russia,e-visa
+Finland,Russia,covid ban
 Finland,Rwanda,visa on arrival
 Finland,Saint Kitts and Nevis,90
 Finland,Saint Lucia,90
@@ -11954,7 +11954,7 @@ France,Bahrain,covid ban
 France,Bangladesh,covid ban
 France,Barbados,90
 France,Belarus,30
-France,Belgium,covid ban
+France,Belgium,visa free
 France,Belize,visa free
 France,Benin,e-visa
 France,Bhutan,visa required
@@ -12069,7 +12069,7 @@ France,Niger,visa required
 France,Nigeria,visa on arrival
 France,North Korea,visa required
 France,North Macedonia,90
-France,Norway,covid ban
+France,Norway,visa free
 France,Oman,covid ban
 France,Pakistan,e-visa
 France,Palau,90
@@ -12750,7 +12750,7 @@ Germany,Bahrain,covid ban
 Germany,Bangladesh,covid ban
 Germany,Barbados,90
 Germany,Belarus,30
-Germany,Belgium,covid ban
+Germany,Belgium,visa free
 Germany,Belize,visa free
 Germany,Benin,e-visa
 Germany,Bhutan,visa required
@@ -12865,7 +12865,7 @@ Germany,Niger,visa required
 Germany,Nigeria,visa on arrival
 Germany,North Korea,visa required
 Germany,North Macedonia,90
-Germany,Norway,covid ban
+Germany,Norway,visa free
 Germany,Oman,covid ban
 Germany,Pakistan,visa on arrival
 Germany,Palau,90
@@ -13148,7 +13148,7 @@ Greece,Bahrain,covid ban
 Greece,Bangladesh,covid ban
 Greece,Barbados,90
 Greece,Belarus,30
-Greece,Belgium,covid ban
+Greece,Belgium,visa free
 Greece,Belize,visa free
 Greece,Benin,e-visa
 Greece,Bhutan,visa required
@@ -13263,7 +13263,7 @@ Greece,Niger,visa required
 Greece,Nigeria,visa on arrival
 Greece,North Korea,visa required
 Greece,North Macedonia,90
-Greece,Norway,covid ban
+Greece,Norway,visa free
 Greece,Oman,covid ban
 Greece,Pakistan,e-visa
 Greece,Palau,90
@@ -14939,7 +14939,7 @@ Hungary,Bahrain,covid ban
 Hungary,Bangladesh,covid ban
 Hungary,Barbados,90
 Hungary,Belarus,30
-Hungary,Belgium,covid ban
+Hungary,Belgium,visa free
 Hungary,Belize,visa free
 Hungary,Benin,e-visa
 Hungary,Bhutan,visa required
@@ -14986,7 +14986,7 @@ Hungary,Finland,visa free
 Hungary,France,visa free
 Hungary,Gabon,visa on arrival
 Hungary,Gambia,90
-Hungary,Georgia,360
+Hungary,Georgia,covid ban
 Hungary,Germany,visa free
 Hungary,Ghana,visa required
 Hungary,Greece,visa free
@@ -15054,7 +15054,7 @@ Hungary,Niger,visa required
 Hungary,Nigeria,visa on arrival
 Hungary,North Korea,visa required
 Hungary,North Macedonia,90
-Hungary,Norway,covid ban
+Hungary,Norway,visa free
 Hungary,Oman,covid ban
 Hungary,Pakistan,e-visa
 Hungary,Palau,90
@@ -15138,7 +15138,7 @@ Iceland,Bahrain,covid ban
 Iceland,Bangladesh,covid ban
 Iceland,Barbados,90
 Iceland,Belarus,30
-Iceland,Belgium,covid ban
+Iceland,Belgium,visa free
 Iceland,Belize,visa free
 Iceland,Benin,e-visa
 Iceland,Bhutan,visa required
@@ -15253,7 +15253,7 @@ Iceland,Niger,visa required
 Iceland,Nigeria,visa on arrival
 Iceland,North Korea,visa required
 Iceland,North Macedonia,90
-Iceland,Norway,covid ban
+Iceland,Norway,visa free
 Iceland,Oman,covid ban
 Iceland,Pakistan,visa on arrival
 Iceland,Palau,visa on arrival
@@ -15466,7 +15466,7 @@ India,Poland,covid ban
 India,Portugal,covid ban
 India,Qatar,covid ban
 India,Romania,covid ban
-India,Russia,e-visa
+India,Russia,covid ban
 India,Rwanda,visa on arrival
 India,Saint Kitts and Nevis,90
 India,Saint Lucia,visa on arrival
@@ -16133,7 +16133,7 @@ Ireland,Bahrain,covid ban
 Ireland,Bangladesh,covid ban
 Ireland,Barbados,180
 Ireland,Belarus,30
-Ireland,Belgium,covid ban
+Ireland,Belgium,visa free
 Ireland,Belize,visa free
 Ireland,Benin,e-visa
 Ireland,Bhutan,visa required
@@ -16180,7 +16180,7 @@ Ireland,Finland,visa free
 Ireland,France,visa free
 Ireland,Gabon,visa on arrival
 Ireland,Gambia,90
-Ireland,Georgia,360
+Ireland,Georgia,covid ban
 Ireland,Germany,visa free
 Ireland,Ghana,visa required
 Ireland,Greece,visa free
@@ -16248,7 +16248,7 @@ Ireland,Niger,visa required
 Ireland,Nigeria,visa on arrival
 Ireland,North Korea,visa required
 Ireland,North Macedonia,90
-Ireland,Norway,covid ban
+Ireland,Norway,visa free
 Ireland,Oman,covid ban
 Ireland,Pakistan,e-visa
 Ireland,Palau,visa on arrival
@@ -16379,7 +16379,7 @@ Israel,Finland,covid ban
 Israel,France,covid ban
 Israel,Gabon,e-visa
 Israel,Gambia,visa required
-Israel,Georgia,360
+Israel,Georgia,covid ban
 Israel,Germany,covid ban
 Israel,Ghana,visa required
 Israel,Greece,90
@@ -16531,7 +16531,7 @@ Italy,Bahrain,covid ban
 Italy,Bangladesh,covid ban
 Italy,Barbados,90
 Italy,Belarus,30
-Italy,Belgium,covid ban
+Italy,Belgium,visa free
 Italy,Belize,visa free
 Italy,Benin,e-visa
 Italy,Bhutan,visa required
@@ -16578,7 +16578,7 @@ Italy,Finland,visa free
 Italy,France,visa free
 Italy,Gabon,visa on arrival
 Italy,Gambia,90
-Italy,Georgia,360
+Italy,Georgia,covid ban
 Italy,Germany,visa free
 Italy,Ghana,visa required
 Italy,Greece,visa free
@@ -16646,7 +16646,7 @@ Italy,Niger,visa required
 Italy,Nigeria,visa on arrival
 Italy,North Korea,visa required
 Italy,North Macedonia,90
-Italy,Norway,covid ban
+Italy,Norway,visa free
 Italy,Oman,covid ban
 Italy,Pakistan,visa on arrival
 Italy,Palau,90
@@ -16929,7 +16929,7 @@ Japan,Bahrain,covid ban
 Japan,Bangladesh,covid ban
 Japan,Barbados,90
 Japan,Belarus,30
-Japan,Belgium,covid ban
+Japan,Belgium,90
 Japan,Belize,90
 Japan,Benin,e-visa
 Japan,Bhutan,visa required
@@ -17058,7 +17058,7 @@ Japan,Poland,90
 Japan,Portugal,90
 Japan,Qatar,covid ban
 Japan,Romania,90
-Japan,Russia,covid ban
+Japan,Russia,e-visa
 Japan,Rwanda,visa on arrival
 Japan,Saint Kitts and Nevis,90
 Japan,Saint Lucia,42
@@ -18250,7 +18250,7 @@ Kuwait,Peru,visa required
 Kuwait,Philippines,covid ban
 Kuwait,Poland,covid ban
 Kuwait,Portugal,covid ban
-Kuwait,Qatar,visa free
+Kuwait,Qatar,covid ban
 Kuwait,Romania,covid ban
 Kuwait,Russia,covid ban
 Kuwait,Rwanda,visa on arrival
@@ -18720,7 +18720,7 @@ Latvia,Bahrain,covid ban
 Latvia,Bangladesh,covid ban
 Latvia,Barbados,90
 Latvia,Belarus,30
-Latvia,Belgium,covid ban
+Latvia,Belgium,visa free
 Latvia,Belize,visa free
 Latvia,Benin,e-visa
 Latvia,Bhutan,visa required
@@ -18835,7 +18835,7 @@ Latvia,Niger,visa required
 Latvia,Nigeria,visa on arrival
 Latvia,North Korea,visa required
 Latvia,North Macedonia,90
-Latvia,Norway,covid ban
+Latvia,Norway,visa free
 Latvia,Oman,covid ban
 Latvia,Pakistan,e-visa
 Latvia,Palau,90
@@ -19715,7 +19715,7 @@ Liechtenstein,Bahrain,covid ban
 Liechtenstein,Bangladesh,covid ban
 Liechtenstein,Barbados,180
 Liechtenstein,Belarus,30
-Liechtenstein,Belgium,covid ban
+Liechtenstein,Belgium,visa free
 Liechtenstein,Belize,visa required
 Liechtenstein,Benin,e-visa
 Liechtenstein,Bhutan,visa required
@@ -19830,7 +19830,7 @@ Liechtenstein,Niger,visa required
 Liechtenstein,Nigeria,visa on arrival
 Liechtenstein,North Korea,visa required
 Liechtenstein,North Macedonia,90
-Liechtenstein,Norway,covid ban
+Liechtenstein,Norway,visa free
 Liechtenstein,Oman,covid ban
 Liechtenstein,Pakistan,e-visa
 Liechtenstein,Palau,visa on arrival
@@ -19914,7 +19914,7 @@ Lithuania,Bahrain,covid ban
 Lithuania,Bangladesh,covid ban
 Lithuania,Barbados,90
 Lithuania,Belarus,30
-Lithuania,Belgium,covid ban
+Lithuania,Belgium,visa free
 Lithuania,Belize,visa free
 Lithuania,Benin,e-visa
 Lithuania,Bhutan,visa required
@@ -20029,7 +20029,7 @@ Lithuania,Niger,visa required
 Lithuania,Nigeria,visa on arrival
 Lithuania,North Korea,visa required
 Lithuania,North Macedonia,90
-Lithuania,Norway,covid ban
+Lithuania,Norway,visa free
 Lithuania,Oman,covid ban
 Lithuania,Pakistan,visa on arrival
 Lithuania,Palau,90
@@ -20113,7 +20113,7 @@ Luxembourg,Bahrain,covid ban
 Luxembourg,Bangladesh,covid ban
 Luxembourg,Barbados,90
 Luxembourg,Belarus,30
-Luxembourg,Belgium,covid ban
+Luxembourg,Belgium,visa free
 Luxembourg,Belize,visa free
 Luxembourg,Benin,e-visa
 Luxembourg,Bhutan,visa required
@@ -20228,7 +20228,7 @@ Luxembourg,Niger,visa required
 Luxembourg,Nigeria,visa on arrival
 Luxembourg,North Korea,visa required
 Luxembourg,North Macedonia,90
-Luxembourg,Norway,covid ban
+Luxembourg,Norway,visa free
 Luxembourg,Oman,covid ban
 Luxembourg,Pakistan,visa on arrival
 Luxembourg,Palau,90
@@ -21506,7 +21506,7 @@ Malta,Bahrain,covid ban
 Malta,Bangladesh,covid ban
 Malta,Barbados,90
 Malta,Belarus,30
-Malta,Belgium,covid ban
+Malta,Belgium,visa free
 Malta,Belize,visa free
 Malta,Benin,e-visa
 Malta,Bhutan,visa required
@@ -21553,7 +21553,7 @@ Malta,Finland,visa free
 Malta,France,visa free
 Malta,Gabon,visa on arrival
 Malta,Gambia,90
-Malta,Georgia,360
+Malta,Georgia,covid ban
 Malta,Germany,visa free
 Malta,Ghana,visa required
 Malta,Greece,visa free
@@ -21621,7 +21621,7 @@ Malta,Niger,visa required
 Malta,Nigeria,visa on arrival
 Malta,North Korea,visa required
 Malta,North Macedonia,90
-Malta,Norway,covid ban
+Malta,Norway,visa free
 Malta,Oman,covid ban
 Malta,Pakistan,visa on arrival
 Malta,Palau,90
@@ -22899,7 +22899,7 @@ Monaco,Bahrain,covid ban
 Monaco,Bangladesh,covid ban
 Monaco,Barbados,90
 Monaco,Belarus,30
-Monaco,Belgium,covid ban
+Monaco,Belgium,visa free
 Monaco,Belize,visa free
 Monaco,Benin,e-visa
 Monaco,Bhutan,visa required
@@ -23014,7 +23014,7 @@ Monaco,Niger,visa required
 Monaco,Nigeria,visa on arrival
 Monaco,North Korea,visa required
 Monaco,North Macedonia,90
-Monaco,Norway,covid ban
+Monaco,Norway,visa free
 Monaco,Oman,covid ban
 Monaco,Pakistan,visa on arrival
 Monaco,Palau,visa on arrival
@@ -24690,7 +24690,7 @@ Netherlands,Bahrain,covid ban
 Netherlands,Bangladesh,covid ban
 Netherlands,Barbados,90
 Netherlands,Belarus,30
-Netherlands,Belgium,covid ban
+Netherlands,Belgium,visa free
 Netherlands,Belize,visa free
 Netherlands,Benin,e-visa
 Netherlands,Bhutan,visa required
@@ -24805,7 +24805,7 @@ Netherlands,Niger,visa required
 Netherlands,Nigeria,visa on arrival
 Netherlands,North Korea,visa required
 Netherlands,North Macedonia,90
-Netherlands,Norway,covid ban
+Netherlands,Norway,visa free
 Netherlands,Oman,covid ban
 Netherlands,Pakistan,e-visa
 Netherlands,Palau,90
@@ -24882,14 +24882,14 @@ New Zealand,Antigua and Barbuda,180
 New Zealand,Argentina,covid ban
 New Zealand,Armenia,180
 New Zealand,Australia,visa free
-New Zealand,Austria,covid ban
+New Zealand,Austria,90
 New Zealand,Azerbaijan,covid ban
 New Zealand,Bahamas,90
 New Zealand,Bahrain,covid ban
 New Zealand,Bangladesh,covid ban
 New Zealand,Barbados,180
 New Zealand,Belarus,30
-New Zealand,Belgium,covid ban
+New Zealand,Belgium,90
 New Zealand,Belize,visa free
 New Zealand,Benin,e-visa
 New Zealand,Bhutan,visa required
@@ -26083,7 +26083,7 @@ Norway,Bahrain,covid ban
 Norway,Bangladesh,covid ban
 Norway,Barbados,90
 Norway,Belarus,30
-Norway,Belgium,covid ban
+Norway,Belgium,visa free
 Norway,Belize,visa free
 Norway,Benin,e-visa
 Norway,Bhutan,visa required
@@ -26130,7 +26130,7 @@ Norway,Finland,visa free
 Norway,France,visa free
 Norway,Gabon,e-visa
 Norway,Gambia,90
-Norway,Georgia,360
+Norway,Georgia,covid ban
 Norway,Germany,visa free
 Norway,Ghana,visa required
 Norway,Greece,visa free
@@ -26357,7 +26357,7 @@ Oman,Kazakhstan,covid ban
 Oman,Kenya,visa on arrival
 Oman,Kiribati,visa required
 Oman,Kosovo,90
-Oman,Kuwait,visa required
+Oman,Kuwait,visa free
 Oman,Kyrgyzstan,visa required
 Oman,Laos,covid ban
 Oman,Latvia,covid ban
@@ -26409,7 +26409,7 @@ Oman,Peru,visa required
 Oman,Philippines,covid ban
 Oman,Poland,covid ban
 Oman,Portugal,covid ban
-Oman,Qatar,visa free
+Oman,Qatar,covid ban
 Oman,Romania,covid ban
 Oman,Russia,covid ban
 Oman,Rwanda,visa on arrival
@@ -28073,7 +28073,7 @@ Poland,Bahrain,covid ban
 Poland,Bangladesh,covid ban
 Poland,Barbados,90
 Poland,Belarus,30
-Poland,Belgium,covid ban
+Poland,Belgium,visa free
 Poland,Belize,visa free
 Poland,Benin,e-visa
 Poland,Bhutan,visa required
@@ -28188,7 +28188,7 @@ Poland,Niger,visa required
 Poland,Nigeria,visa on arrival
 Poland,North Korea,visa required
 Poland,North Macedonia,90
-Poland,Norway,covid ban
+Poland,Norway,visa free
 Poland,Oman,covid ban
 Poland,Pakistan,e-visa
 Poland,Palau,90
@@ -28272,7 +28272,7 @@ Portugal,Bahrain,covid ban
 Portugal,Bangladesh,covid ban
 Portugal,Barbados,90
 Portugal,Belarus,30
-Portugal,Belgium,covid ban
+Portugal,Belgium,visa free
 Portugal,Belize,visa free
 Portugal,Benin,e-visa
 Portugal,Bhutan,visa required
@@ -28387,7 +28387,7 @@ Portugal,Niger,visa required
 Portugal,Nigeria,visa on arrival
 Portugal,North Korea,visa required
 Portugal,North Macedonia,90
-Portugal,Norway,covid ban
+Portugal,Norway,visa free
 Portugal,Oman,covid ban
 Portugal,Pakistan,e-visa
 Portugal,Palau,90
@@ -28518,7 +28518,7 @@ Qatar,Finland,covid ban
 Qatar,France,covid ban
 Qatar,Gabon,visa on arrival
 Qatar,Gambia,visa required
-Qatar,Georgia,360
+Qatar,Georgia,covid ban
 Qatar,Germany,covid ban
 Qatar,Ghana,visa required
 Qatar,Greece,covid ban
@@ -28546,7 +28546,7 @@ Qatar,Kazakhstan,covid ban
 Qatar,Kenya,visa on arrival
 Qatar,Kiribati,visa required
 Qatar,Kosovo,90
-Qatar,Kuwait,visa required
+Qatar,Kuwait,visa free
 Qatar,Kyrgyzstan,e-visa
 Qatar,Laos,covid ban
 Qatar,Latvia,covid ban
@@ -28600,7 +28600,7 @@ Qatar,Poland,covid ban
 Qatar,Portugal,covid ban
 Qatar,Qatar,-1
 Qatar,Romania,covid ban
-Qatar,Russia,90
+Qatar,Russia,covid ban
 Qatar,Rwanda,90
 Qatar,Saint Kitts and Nevis,90
 Qatar,Saint Lucia,visa required
@@ -28670,7 +28670,7 @@ Romania,Bahrain,covid ban
 Romania,Bangladesh,covid ban
 Romania,Barbados,180
 Romania,Belarus,30
-Romania,Belgium,covid ban
+Romania,Belgium,visa free
 Romania,Belize,visa free
 Romania,Benin,e-visa
 Romania,Bhutan,visa required
@@ -28785,7 +28785,7 @@ Romania,Niger,visa required
 Romania,Nigeria,visa on arrival
 Romania,North Korea,visa required
 Romania,North Macedonia,90
-Romania,Norway,covid ban
+Romania,Norway,visa free
 Romania,Oman,covid ban
 Romania,Pakistan,e-visa
 Romania,Palau,90
@@ -29864,7 +29864,7 @@ San Marino,Bahrain,covid ban
 San Marino,Bangladesh,covid ban
 San Marino,Barbados,180
 San Marino,Belarus,30
-San Marino,Belgium,covid ban
+San Marino,Belgium,90
 San Marino,Belize,visa required
 San Marino,Benin,e-visa
 San Marino,Bhutan,visa required
@@ -29979,7 +29979,7 @@ San Marino,Niger,visa required
 San Marino,Nigeria,visa on arrival
 San Marino,North Korea,visa required
 San Marino,North Macedonia,90
-San Marino,Norway,covid ban
+San Marino,Norway,90
 San Marino,Oman,covid ban
 San Marino,Pakistan,e-visa
 San Marino,Palau,visa on arrival
@@ -30309,7 +30309,7 @@ Saudi Arabia,Finland,covid ban
 Saudi Arabia,France,covid ban
 Saudi Arabia,Gabon,visa on arrival
 Saudi Arabia,Gambia,visa required
-Saudi Arabia,Georgia,360
+Saudi Arabia,Georgia,covid ban
 Saudi Arabia,Germany,covid ban
 Saudi Arabia,Ghana,visa required
 Saudi Arabia,Greece,covid ban
@@ -30337,7 +30337,7 @@ Saudi Arabia,Kazakhstan,covid ban
 Saudi Arabia,Kenya,visa on arrival
 Saudi Arabia,Kiribati,visa required
 Saudi Arabia,Kosovo,90
-Saudi Arabia,Kuwait,visa required
+Saudi Arabia,Kuwait,visa free
 Saudi Arabia,Kyrgyzstan,60
 Saudi Arabia,Laos,covid ban
 Saudi Arabia,Latvia,covid ban
@@ -30389,7 +30389,7 @@ Saudi Arabia,Peru,visa required
 Saudi Arabia,Philippines,covid ban
 Saudi Arabia,Poland,covid ban
 Saudi Arabia,Portugal,covid ban
-Saudi Arabia,Qatar,visa free
+Saudi Arabia,Qatar,covid ban
 Saudi Arabia,Romania,covid ban
 Saudi Arabia,Russia,covid ban
 Saudi Arabia,Rwanda,visa on arrival
@@ -31257,7 +31257,7 @@ Singapore,Bahrain,covid ban
 Singapore,Bangladesh,covid ban
 Singapore,Barbados,180
 Singapore,Belarus,30
-Singapore,Belgium,covid ban
+Singapore,Belgium,90
 Singapore,Belize,visa free
 Singapore,Benin,e-visa
 Singapore,Bhutan,visa required
@@ -31305,7 +31305,7 @@ Singapore,France,90
 Singapore,Gabon,e-visa
 Singapore,Gambia,90
 Singapore,Georgia,covid ban
-Singapore,Germany,90
+Singapore,Germany,covid ban
 Singapore,Ghana,90
 Singapore,Greece,90
 Singapore,Grenada,90
@@ -31456,7 +31456,7 @@ Slovakia,Bahrain,covid ban
 Slovakia,Bangladesh,covid ban
 Slovakia,Barbados,90
 Slovakia,Belarus,30
-Slovakia,Belgium,covid ban
+Slovakia,Belgium,visa free
 Slovakia,Belize,visa free
 Slovakia,Benin,e-visa
 Slovakia,Bhutan,visa required
@@ -31503,7 +31503,7 @@ Slovakia,Finland,visa free
 Slovakia,France,visa free
 Slovakia,Gabon,visa on arrival
 Slovakia,Gambia,90
-Slovakia,Georgia,360
+Slovakia,Georgia,covid ban
 Slovakia,Germany,visa free
 Slovakia,Ghana,visa required
 Slovakia,Greece,visa free
@@ -31571,7 +31571,7 @@ Slovakia,Niger,visa required
 Slovakia,Nigeria,visa on arrival
 Slovakia,North Korea,visa required
 Slovakia,North Macedonia,90
-Slovakia,Norway,covid ban
+Slovakia,Norway,visa free
 Slovakia,Oman,covid ban
 Slovakia,Pakistan,e-visa
 Slovakia,Palau,90
@@ -31655,7 +31655,7 @@ Slovenia,Bahrain,covid ban
 Slovenia,Bangladesh,covid ban
 Slovenia,Barbados,90
 Slovenia,Belarus,30
-Slovenia,Belgium,covid ban
+Slovenia,Belgium,visa free
 Slovenia,Belize,visa free
 Slovenia,Benin,e-visa
 Slovenia,Bhutan,visa required
@@ -31770,7 +31770,7 @@ Slovenia,Niger,visa required
 Slovenia,Nigeria,visa on arrival
 Slovenia,North Korea,visa required
 Slovenia,North Macedonia,90
-Slovenia,Norway,covid ban
+Slovenia,Norway,visa free
 Slovenia,Oman,covid ban
 Slovenia,Pakistan,e-visa
 Slovenia,Palau,90
@@ -32451,7 +32451,7 @@ South Korea,Bahrain,covid ban
 South Korea,Bangladesh,covid ban
 South Korea,Barbados,90
 South Korea,Belarus,30
-South Korea,Belgium,covid ban
+South Korea,Belgium,90
 South Korea,Belize,90
 South Korea,Benin,e-visa
 South Korea,Bhutan,visa required
@@ -32849,7 +32849,7 @@ Spain,Bahrain,covid ban
 Spain,Bangladesh,covid ban
 Spain,Barbados,90
 Spain,Belarus,30
-Spain,Belgium,covid ban
+Spain,Belgium,visa free
 Spain,Belize,visa free
 Spain,Benin,e-visa
 Spain,Bhutan,visa required
@@ -32964,7 +32964,7 @@ Spain,Niger,visa required
 Spain,Nigeria,visa on arrival
 Spain,North Korea,visa required
 Spain,North Macedonia,90
-Spain,Norway,covid ban
+Spain,Norway,visa free
 Spain,Oman,covid ban
 Spain,Pakistan,visa on arrival
 Spain,Palau,90
@@ -33844,7 +33844,7 @@ Sweden,Bahrain,covid ban
 Sweden,Bangladesh,covid ban
 Sweden,Barbados,90
 Sweden,Belarus,30
-Sweden,Belgium,covid ban
+Sweden,Belgium,visa free
 Sweden,Belize,visa free
 Sweden,Benin,e-visa
 Sweden,Bhutan,visa required
@@ -33959,7 +33959,7 @@ Sweden,Niger,visa required
 Sweden,Nigeria,visa on arrival
 Sweden,North Korea,visa required
 Sweden,North Macedonia,90
-Sweden,Norway,covid ban
+Sweden,Norway,visa free
 Sweden,Oman,covid ban
 Sweden,Pakistan,e-visa
 Sweden,Palau,90
@@ -34043,7 +34043,7 @@ Switzerland,Bahrain,covid ban
 Switzerland,Bangladesh,covid ban
 Switzerland,Barbados,180
 Switzerland,Belarus,30
-Switzerland,Belgium,covid ban
+Switzerland,Belgium,visa free
 Switzerland,Belize,30
 Switzerland,Benin,e-visa
 Switzerland,Bhutan,visa required
@@ -34090,7 +34090,7 @@ Switzerland,Finland,visa free
 Switzerland,France,visa free
 Switzerland,Gabon,e-visa
 Switzerland,Gambia,90
-Switzerland,Georgia,360
+Switzerland,Georgia,covid ban
 Switzerland,Germany,visa free
 Switzerland,Ghana,visa required
 Switzerland,Greece,visa free
@@ -34158,7 +34158,7 @@ Switzerland,Niger,visa required
 Switzerland,Nigeria,visa on arrival
 Switzerland,North Korea,visa required
 Switzerland,North Macedonia,90
-Switzerland,Norway,covid ban
+Switzerland,Norway,visa free
 Switzerland,Oman,covid ban
 Switzerland,Pakistan,visa on arrival
 Switzerland,Palau,visa on arrival
@@ -37274,7 +37274,7 @@ United Arab Emirates,Finland,covid ban
 United Arab Emirates,France,covid ban
 United Arab Emirates,Gabon,visa on arrival
 United Arab Emirates,Gambia,90
-United Arab Emirates,Georgia,360
+United Arab Emirates,Georgia,covid ban
 United Arab Emirates,Germany,covid ban
 United Arab Emirates,Ghana,visa required
 United Arab Emirates,Greece,90
@@ -37302,7 +37302,7 @@ United Arab Emirates,Kazakhstan,covid ban
 United Arab Emirates,Kenya,visa on arrival
 United Arab Emirates,Kiribati,visa required
 United Arab Emirates,Kosovo,90
-United Arab Emirates,Kuwait,visa required
+United Arab Emirates,Kuwait,visa free
 United Arab Emirates,Kyrgyzstan,60
 United Arab Emirates,Laos,covid ban
 United Arab Emirates,Latvia,covid ban
@@ -37354,7 +37354,7 @@ United Arab Emirates,Peru,90
 United Arab Emirates,Philippines,covid ban
 United Arab Emirates,Poland,covid ban
 United Arab Emirates,Portugal,covid ban
-United Arab Emirates,Qatar,visa free
+United Arab Emirates,Qatar,covid ban
 United Arab Emirates,Romania,covid ban
 United Arab Emirates,Russia,90
 United Arab Emirates,Rwanda,visa on arrival
@@ -37419,14 +37419,14 @@ United Kingdom,Antigua and Barbuda,180
 United Kingdom,Argentina,covid ban
 United Kingdom,Armenia,180
 United Kingdom,Australia,covid ban
-United Kingdom,Austria,covid ban
+United Kingdom,Austria,90
 United Kingdom,Azerbaijan,covid ban
 United Kingdom,Bahamas,240
 United Kingdom,Bahrain,covid ban
 United Kingdom,Bangladesh,covid ban
 United Kingdom,Barbados,180
 United Kingdom,Belarus,30
-United Kingdom,Belgium,covid ban
+United Kingdom,Belgium,90
 United Kingdom,Belize,visa free
 United Kingdom,Benin,e-visa
 United Kingdom,Bhutan,visa required
@@ -37473,7 +37473,7 @@ United Kingdom,Finland,90
 United Kingdom,France,90
 United Kingdom,Gabon,visa on arrival
 United Kingdom,Gambia,90
-United Kingdom,Georgia,360
+United Kingdom,Georgia,covid ban
 United Kingdom,Germany,90
 United Kingdom,Ghana,visa required
 United Kingdom,Greece,90
@@ -37541,7 +37541,7 @@ United Kingdom,Niger,visa required
 United Kingdom,Nigeria,visa on arrival
 United Kingdom,North Korea,visa required
 United Kingdom,North Macedonia,90
-United Kingdom,Norway,covid ban
+United Kingdom,Norway,90
 United Kingdom,Oman,covid ban
 United Kingdom,Pakistan,e-visa
 United Kingdom,Palau,visa on arrival
@@ -37672,7 +37672,7 @@ United States,Finland,covid ban
 United States,France,covid ban
 United States,Gabon,visa on arrival
 United States,Gambia,visa on arrival
-United States,Georgia,360
+United States,Georgia,covid ban
 United States,Germany,covid ban
 United States,Ghana,visa required
 United States,Greece,covid ban
@@ -37824,7 +37824,7 @@ Uruguay,Bahrain,covid ban
 Uruguay,Bangladesh,covid ban
 Uruguay,Barbados,90
 Uruguay,Belarus,30
-Uruguay,Belgium,covid ban
+Uruguay,Belgium,90
 Uruguay,Belize,visa free
 Uruguay,Benin,e-visa
 Uruguay,Bhutan,visa required
@@ -38421,7 +38421,7 @@ Vatican,Bahrain,covid ban
 Vatican,Bangladesh,covid ban
 Vatican,Barbados,visa required
 Vatican,Belarus,30
-Vatican,Belgium,covid ban
+Vatican,Belgium,90
 Vatican,Belize,visa free
 Vatican,Benin,e-visa
 Vatican,Bhutan,visa required
@@ -38536,7 +38536,7 @@ Vatican,Niger,visa required
 Vatican,Nigeria,visa on arrival
 Vatican,North Korea,visa required
 Vatican,North Macedonia,90
-Vatican,Norway,covid ban
+Vatican,Norway,90
 Vatican,Oman,covid ban
 Vatican,Pakistan,e-visa
 Vatican,Palau,visa on arrival

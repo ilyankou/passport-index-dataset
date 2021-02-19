@@ -611,7 +611,7 @@ AND,BHR,covid ban
 AND,BGD,covid ban
 AND,BRB,visa required
 AND,BLR,30
-AND,BEL,covid ban
+AND,BEL,90
 AND,BLZ,visa free
 AND,BEN,e-visa
 AND,BTN,visa required
@@ -726,7 +726,7 @@ AND,NER,visa required
 AND,NGA,visa on arrival
 AND,PRK,visa required
 AND,MKD,90
-AND,NOR,covid ban
+AND,NOR,90
 AND,OMN,covid ban
 AND,PAK,e-visa
 AND,PLW,visa on arrival
@@ -1599,14 +1599,14 @@ AUS,ATG,180
 AUS,ARG,covid ban
 AUS,ARM,180
 AUS,AUS,-1
-AUS,AUT,covid ban
+AUS,AUT,90
 AUS,AZE,covid ban
 AUS,BHS,90
 AUS,BHR,covid ban
 AUS,BGD,covid ban
 AUS,BRB,180
 AUS,BLR,30
-AUS,BEL,covid ban
+AUS,BEL,90
 AUS,BLZ,visa free
 AUS,BEN,e-visa
 AUS,BTN,visa required
@@ -1805,7 +1805,7 @@ AUT,BHR,covid ban
 AUT,BGD,covid ban
 AUT,BRB,90
 AUT,BLR,30
-AUT,BEL,covid ban
+AUT,BEL,visa free
 AUT,BLZ,visa free
 AUT,BEN,e-visa
 AUT,BTN,visa required
@@ -1852,7 +1852,7 @@ AUT,FIN,visa free
 AUT,FRA,visa free
 AUT,GAB,visa on arrival
 AUT,GMB,90
-AUT,GEO,360
+AUT,GEO,covid ban
 AUT,DEU,visa free
 AUT,GHA,visa required
 AUT,GRC,visa free
@@ -1920,7 +1920,7 @@ AUT,NER,visa required
 AUT,NGA,visa on arrival
 AUT,PRK,visa required
 AUT,MKD,90
-AUT,NOR,covid ban
+AUT,NOR,visa free
 AUT,OMN,covid ban
 AUT,PAK,visa on arrival
 AUT,PLW,90
@@ -2449,7 +2449,7 @@ BHR,FIN,covid ban
 BHR,FRA,covid ban
 BHR,GAB,visa on arrival
 BHR,GMB,visa required
-BHR,GEO,360
+BHR,GEO,covid ban
 BHR,DEU,covid ban
 BHR,GHA,visa required
 BHR,GRC,covid ban
@@ -2477,7 +2477,7 @@ BHR,KAZ,covid ban
 BHR,KEN,visa on arrival
 BHR,KIR,visa required
 BHR,XKX,90
-BHR,KWT,visa required
+BHR,KWT,visa free
 BHR,KGZ,60
 BHR,LAO,covid ban
 BHR,LVA,covid ban
@@ -2529,7 +2529,7 @@ BHR,PER,visa required
 BHR,PHL,covid ban
 BHR,POL,covid ban
 BHR,PRT,covid ban
-BHR,QAT,visa free
+BHR,QAT,covid ban
 BHR,ROU,covid ban
 BHR,RUS,covid ban
 BHR,RWA,visa on arrival
@@ -3245,7 +3245,7 @@ BEL,FIN,visa free
 BEL,FRA,visa free
 BEL,GAB,visa on arrival
 BEL,GMB,90
-BEL,GEO,360
+BEL,GEO,covid ban
 BEL,DEU,visa free
 BEL,GHA,visa required
 BEL,GRC,visa free
@@ -3313,7 +3313,7 @@ BEL,NER,visa required
 BEL,NGA,visa on arrival
 BEL,PRK,visa required
 BEL,MKD,90
-BEL,NOR,covid ban
+BEL,NOR,visa free
 BEL,OMN,covid ban
 BEL,PAK,e-visa
 BEL,PLW,90
@@ -4193,7 +4193,7 @@ BIH,BHR,covid ban
 BIH,BGD,covid ban
 BIH,BRB,visa required
 BIH,BLR,30
-BIH,BEL,covid ban
+BIH,BEL,90
 BIH,BLZ,visa required
 BIH,BEN,e-visa
 BIH,BTN,visa required
@@ -4989,7 +4989,7 @@ BGR,BHR,covid ban
 BGR,BGD,covid ban
 BGR,BRB,90
 BGR,BLR,30
-BGR,BEL,covid ban
+BGR,BEL,visa free
 BGR,BLZ,visa free
 BGR,BEN,e-visa
 BGR,BTN,visa required
@@ -5036,7 +5036,7 @@ BGR,FIN,visa free
 BGR,FRA,visa free
 BGR,GAB,visa on arrival
 BGR,GMB,90
-BGR,GEO,360
+BGR,GEO,covid ban
 BGR,DEU,visa free
 BGR,GHA,visa required
 BGR,GRC,visa free
@@ -5104,7 +5104,7 @@ BGR,NER,visa required
 BGR,NGA,visa on arrival
 BGR,PRK,visa required
 BGR,MKD,90
-BGR,NOR,covid ban
+BGR,NOR,visa free
 BGR,OMN,covid ban
 BGR,PAK,e-visa
 BGR,PLW,90
@@ -5977,7 +5977,7 @@ CAN,ATG,180
 CAN,ARG,covid ban
 CAN,ARM,e-visa
 CAN,AUS,covid ban
-CAN,AUT,covid ban
+CAN,AUT,90
 CAN,AZE,covid ban
 CAN,BHS,240
 CAN,BHR,covid ban
@@ -8372,7 +8372,7 @@ HRV,BHR,covid ban
 HRV,BGD,covid ban
 HRV,BRB,90
 HRV,BLR,30
-HRV,BEL,covid ban
+HRV,BEL,visa free
 HRV,BLZ,visa free
 HRV,BEN,e-visa
 HRV,BTN,visa required
@@ -8487,7 +8487,7 @@ HRV,NER,visa required
 HRV,NGA,visa on arrival
 HRV,PRK,visa required
 HRV,MKD,90
-HRV,NOR,covid ban
+HRV,NOR,visa free
 HRV,OMN,covid ban
 HRV,PAK,e-visa
 HRV,PLW,90
@@ -8770,7 +8770,7 @@ CYP,BHR,covid ban
 CYP,BGD,covid ban
 CYP,BRB,90
 CYP,BLR,30
-CYP,BEL,covid ban
+CYP,BEL,visa free
 CYP,BLZ,visa free
 CYP,BEN,e-visa
 CYP,BTN,visa required
@@ -8885,7 +8885,7 @@ CYP,NER,visa required
 CYP,NGA,visa on arrival
 CYP,PRK,visa required
 CYP,MKD,90
-CYP,NOR,covid ban
+CYP,NOR,visa free
 CYP,OMN,covid ban
 CYP,PAK,e-visa
 CYP,PLW,90
@@ -8969,7 +8969,7 @@ CZE,BHR,covid ban
 CZE,BGD,covid ban
 CZE,BRB,90
 CZE,BLR,30
-CZE,BEL,covid ban
+CZE,BEL,visa free
 CZE,BLZ,visa free
 CZE,BEN,e-visa
 CZE,BTN,visa required
@@ -9016,7 +9016,7 @@ CZE,FIN,visa free
 CZE,FRA,visa free
 CZE,GAB,visa on arrival
 CZE,GMB,90
-CZE,GEO,360
+CZE,GEO,covid ban
 CZE,DEU,visa free
 CZE,GHA,visa required
 CZE,GRC,visa free
@@ -9084,7 +9084,7 @@ CZE,NER,visa required
 CZE,NGA,visa on arrival
 CZE,PRK,visa required
 CZE,MKD,90
-CZE,NOR,covid ban
+CZE,NOR,visa free
 CZE,OMN,covid ban
 CZE,PAK,e-visa
 CZE,PLW,90
@@ -9168,7 +9168,7 @@ DNK,BHR,covid ban
 DNK,BGD,covid ban
 DNK,BRB,90
 DNK,BLR,30
-DNK,BEL,covid ban
+DNK,BEL,visa free
 DNK,BLZ,visa free
 DNK,BEN,e-visa
 DNK,BTN,visa required
@@ -9215,7 +9215,7 @@ DNK,FIN,visa free
 DNK,FRA,visa free
 DNK,GAB,visa on arrival
 DNK,GMB,90
-DNK,GEO,360
+DNK,GEO,covid ban
 DNK,DEU,visa free
 DNK,GHA,visa required
 DNK,GRC,visa free
@@ -9283,7 +9283,7 @@ DNK,NER,visa required
 DNK,NGA,visa on arrival
 DNK,PRK,visa required
 DNK,MKD,90
-DNK,NOR,covid ban
+DNK,NOR,visa free
 DNK,OMN,covid ban
 DNK,PAK,e-visa
 DNK,PLW,90
@@ -10959,7 +10959,7 @@ EST,BHR,covid ban
 EST,BGD,covid ban
 EST,BRB,90
 EST,BLR,30
-EST,BEL,covid ban
+EST,BEL,visa free
 EST,BLZ,visa free
 EST,BEN,e-visa
 EST,BTN,visa required
@@ -11074,7 +11074,7 @@ EST,NER,visa required
 EST,NGA,visa on arrival
 EST,PRK,visa required
 EST,MKD,90
-EST,NOR,covid ban
+EST,NOR,visa free
 EST,OMN,covid ban
 EST,PAK,e-visa
 EST,PLW,90
@@ -11755,7 +11755,7 @@ FIN,BHR,covid ban
 FIN,BGD,covid ban
 FIN,BRB,90
 FIN,BLR,30
-FIN,BEL,covid ban
+FIN,BEL,visa free
 FIN,BLZ,visa free
 FIN,BEN,e-visa
 FIN,BTN,visa required
@@ -11802,7 +11802,7 @@ FIN,FIN,-1
 FIN,FRA,visa free
 FIN,GAB,visa on arrival
 FIN,GMB,90
-FIN,GEO,360
+FIN,GEO,covid ban
 FIN,DEU,visa free
 FIN,GHA,visa required
 FIN,GRC,visa free
@@ -11870,7 +11870,7 @@ FIN,NER,visa required
 FIN,NGA,visa on arrival
 FIN,PRK,visa required
 FIN,MKD,90
-FIN,NOR,covid ban
+FIN,NOR,visa free
 FIN,OMN,covid ban
 FIN,PAK,visa on arrival
 FIN,PLW,90
@@ -11884,7 +11884,7 @@ FIN,POL,visa free
 FIN,PRT,visa free
 FIN,QAT,covid ban
 FIN,ROU,visa free
-FIN,RUS,e-visa
+FIN,RUS,covid ban
 FIN,RWA,visa on arrival
 FIN,KNA,90
 FIN,LCA,90
@@ -11954,7 +11954,7 @@ FRA,BHR,covid ban
 FRA,BGD,covid ban
 FRA,BRB,90
 FRA,BLR,30
-FRA,BEL,covid ban
+FRA,BEL,visa free
 FRA,BLZ,visa free
 FRA,BEN,e-visa
 FRA,BTN,visa required
@@ -12069,7 +12069,7 @@ FRA,NER,visa required
 FRA,NGA,visa on arrival
 FRA,PRK,visa required
 FRA,MKD,90
-FRA,NOR,covid ban
+FRA,NOR,visa free
 FRA,OMN,covid ban
 FRA,PAK,e-visa
 FRA,PLW,90
@@ -12750,7 +12750,7 @@ DEU,BHR,covid ban
 DEU,BGD,covid ban
 DEU,BRB,90
 DEU,BLR,30
-DEU,BEL,covid ban
+DEU,BEL,visa free
 DEU,BLZ,visa free
 DEU,BEN,e-visa
 DEU,BTN,visa required
@@ -12865,7 +12865,7 @@ DEU,NER,visa required
 DEU,NGA,visa on arrival
 DEU,PRK,visa required
 DEU,MKD,90
-DEU,NOR,covid ban
+DEU,NOR,visa free
 DEU,OMN,covid ban
 DEU,PAK,visa on arrival
 DEU,PLW,90
@@ -13148,7 +13148,7 @@ GRC,BHR,covid ban
 GRC,BGD,covid ban
 GRC,BRB,90
 GRC,BLR,30
-GRC,BEL,covid ban
+GRC,BEL,visa free
 GRC,BLZ,visa free
 GRC,BEN,e-visa
 GRC,BTN,visa required
@@ -13263,7 +13263,7 @@ GRC,NER,visa required
 GRC,NGA,visa on arrival
 GRC,PRK,visa required
 GRC,MKD,90
-GRC,NOR,covid ban
+GRC,NOR,visa free
 GRC,OMN,covid ban
 GRC,PAK,e-visa
 GRC,PLW,90
@@ -14939,7 +14939,7 @@ HUN,BHR,covid ban
 HUN,BGD,covid ban
 HUN,BRB,90
 HUN,BLR,30
-HUN,BEL,covid ban
+HUN,BEL,visa free
 HUN,BLZ,visa free
 HUN,BEN,e-visa
 HUN,BTN,visa required
@@ -14986,7 +14986,7 @@ HUN,FIN,visa free
 HUN,FRA,visa free
 HUN,GAB,visa on arrival
 HUN,GMB,90
-HUN,GEO,360
+HUN,GEO,covid ban
 HUN,DEU,visa free
 HUN,GHA,visa required
 HUN,GRC,visa free
@@ -15054,7 +15054,7 @@ HUN,NER,visa required
 HUN,NGA,visa on arrival
 HUN,PRK,visa required
 HUN,MKD,90
-HUN,NOR,covid ban
+HUN,NOR,visa free
 HUN,OMN,covid ban
 HUN,PAK,e-visa
 HUN,PLW,90
@@ -15138,7 +15138,7 @@ ISL,BHR,covid ban
 ISL,BGD,covid ban
 ISL,BRB,90
 ISL,BLR,30
-ISL,BEL,covid ban
+ISL,BEL,visa free
 ISL,BLZ,visa free
 ISL,BEN,e-visa
 ISL,BTN,visa required
@@ -15253,7 +15253,7 @@ ISL,NER,visa required
 ISL,NGA,visa on arrival
 ISL,PRK,visa required
 ISL,MKD,90
-ISL,NOR,covid ban
+ISL,NOR,visa free
 ISL,OMN,covid ban
 ISL,PAK,visa on arrival
 ISL,PLW,visa on arrival
@@ -15466,7 +15466,7 @@ IND,POL,covid ban
 IND,PRT,covid ban
 IND,QAT,covid ban
 IND,ROU,covid ban
-IND,RUS,e-visa
+IND,RUS,covid ban
 IND,RWA,visa on arrival
 IND,KNA,90
 IND,LCA,visa on arrival
@@ -16133,7 +16133,7 @@ IRL,BHR,covid ban
 IRL,BGD,covid ban
 IRL,BRB,180
 IRL,BLR,30
-IRL,BEL,covid ban
+IRL,BEL,visa free
 IRL,BLZ,visa free
 IRL,BEN,e-visa
 IRL,BTN,visa required
@@ -16180,7 +16180,7 @@ IRL,FIN,visa free
 IRL,FRA,visa free
 IRL,GAB,visa on arrival
 IRL,GMB,90
-IRL,GEO,360
+IRL,GEO,covid ban
 IRL,DEU,visa free
 IRL,GHA,visa required
 IRL,GRC,visa free
@@ -16248,7 +16248,7 @@ IRL,NER,visa required
 IRL,NGA,visa on arrival
 IRL,PRK,visa required
 IRL,MKD,90
-IRL,NOR,covid ban
+IRL,NOR,visa free
 IRL,OMN,covid ban
 IRL,PAK,e-visa
 IRL,PLW,visa on arrival
@@ -16379,7 +16379,7 @@ ISR,FIN,covid ban
 ISR,FRA,covid ban
 ISR,GAB,e-visa
 ISR,GMB,visa required
-ISR,GEO,360
+ISR,GEO,covid ban
 ISR,DEU,covid ban
 ISR,GHA,visa required
 ISR,GRC,90
@@ -16531,7 +16531,7 @@ ITA,BHR,covid ban
 ITA,BGD,covid ban
 ITA,BRB,90
 ITA,BLR,30
-ITA,BEL,covid ban
+ITA,BEL,visa free
 ITA,BLZ,visa free
 ITA,BEN,e-visa
 ITA,BTN,visa required
@@ -16578,7 +16578,7 @@ ITA,FIN,visa free
 ITA,FRA,visa free
 ITA,GAB,visa on arrival
 ITA,GMB,90
-ITA,GEO,360
+ITA,GEO,covid ban
 ITA,DEU,visa free
 ITA,GHA,visa required
 ITA,GRC,visa free
@@ -16646,7 +16646,7 @@ ITA,NER,visa required
 ITA,NGA,visa on arrival
 ITA,PRK,visa required
 ITA,MKD,90
-ITA,NOR,covid ban
+ITA,NOR,visa free
 ITA,OMN,covid ban
 ITA,PAK,visa on arrival
 ITA,PLW,90
@@ -16929,7 +16929,7 @@ JPN,BHR,covid ban
 JPN,BGD,covid ban
 JPN,BRB,90
 JPN,BLR,30
-JPN,BEL,covid ban
+JPN,BEL,90
 JPN,BLZ,90
 JPN,BEN,e-visa
 JPN,BTN,visa required
@@ -17058,7 +17058,7 @@ JPN,POL,90
 JPN,PRT,90
 JPN,QAT,covid ban
 JPN,ROU,90
-JPN,RUS,covid ban
+JPN,RUS,e-visa
 JPN,RWA,visa on arrival
 JPN,KNA,90
 JPN,LCA,42
@@ -18250,7 +18250,7 @@ KWT,PER,visa required
 KWT,PHL,covid ban
 KWT,POL,covid ban
 KWT,PRT,covid ban
-KWT,QAT,visa free
+KWT,QAT,covid ban
 KWT,ROU,covid ban
 KWT,RUS,covid ban
 KWT,RWA,visa on arrival
@@ -18720,7 +18720,7 @@ LVA,BHR,covid ban
 LVA,BGD,covid ban
 LVA,BRB,90
 LVA,BLR,30
-LVA,BEL,covid ban
+LVA,BEL,visa free
 LVA,BLZ,visa free
 LVA,BEN,e-visa
 LVA,BTN,visa required
@@ -18835,7 +18835,7 @@ LVA,NER,visa required
 LVA,NGA,visa on arrival
 LVA,PRK,visa required
 LVA,MKD,90
-LVA,NOR,covid ban
+LVA,NOR,visa free
 LVA,OMN,covid ban
 LVA,PAK,e-visa
 LVA,PLW,90
@@ -19715,7 +19715,7 @@ LIE,BHR,covid ban
 LIE,BGD,covid ban
 LIE,BRB,180
 LIE,BLR,30
-LIE,BEL,covid ban
+LIE,BEL,visa free
 LIE,BLZ,visa required
 LIE,BEN,e-visa
 LIE,BTN,visa required
@@ -19830,7 +19830,7 @@ LIE,NER,visa required
 LIE,NGA,visa on arrival
 LIE,PRK,visa required
 LIE,MKD,90
-LIE,NOR,covid ban
+LIE,NOR,visa free
 LIE,OMN,covid ban
 LIE,PAK,e-visa
 LIE,PLW,visa on arrival
@@ -19914,7 +19914,7 @@ LTU,BHR,covid ban
 LTU,BGD,covid ban
 LTU,BRB,90
 LTU,BLR,30
-LTU,BEL,covid ban
+LTU,BEL,visa free
 LTU,BLZ,visa free
 LTU,BEN,e-visa
 LTU,BTN,visa required
@@ -20029,7 +20029,7 @@ LTU,NER,visa required
 LTU,NGA,visa on arrival
 LTU,PRK,visa required
 LTU,MKD,90
-LTU,NOR,covid ban
+LTU,NOR,visa free
 LTU,OMN,covid ban
 LTU,PAK,visa on arrival
 LTU,PLW,90
@@ -20113,7 +20113,7 @@ LUX,BHR,covid ban
 LUX,BGD,covid ban
 LUX,BRB,90
 LUX,BLR,30
-LUX,BEL,covid ban
+LUX,BEL,visa free
 LUX,BLZ,visa free
 LUX,BEN,e-visa
 LUX,BTN,visa required
@@ -20228,7 +20228,7 @@ LUX,NER,visa required
 LUX,NGA,visa on arrival
 LUX,PRK,visa required
 LUX,MKD,90
-LUX,NOR,covid ban
+LUX,NOR,visa free
 LUX,OMN,covid ban
 LUX,PAK,visa on arrival
 LUX,PLW,90
@@ -21506,7 +21506,7 @@ MLT,BHR,covid ban
 MLT,BGD,covid ban
 MLT,BRB,90
 MLT,BLR,30
-MLT,BEL,covid ban
+MLT,BEL,visa free
 MLT,BLZ,visa free
 MLT,BEN,e-visa
 MLT,BTN,visa required
@@ -21553,7 +21553,7 @@ MLT,FIN,visa free
 MLT,FRA,visa free
 MLT,GAB,visa on arrival
 MLT,GMB,90
-MLT,GEO,360
+MLT,GEO,covid ban
 MLT,DEU,visa free
 MLT,GHA,visa required
 MLT,GRC,visa free
@@ -21621,7 +21621,7 @@ MLT,NER,visa required
 MLT,NGA,visa on arrival
 MLT,PRK,visa required
 MLT,MKD,90
-MLT,NOR,covid ban
+MLT,NOR,visa free
 MLT,OMN,covid ban
 MLT,PAK,visa on arrival
 MLT,PLW,90
@@ -22899,7 +22899,7 @@ MCO,BHR,covid ban
 MCO,BGD,covid ban
 MCO,BRB,90
 MCO,BLR,30
-MCO,BEL,covid ban
+MCO,BEL,visa free
 MCO,BLZ,visa free
 MCO,BEN,e-visa
 MCO,BTN,visa required
@@ -23014,7 +23014,7 @@ MCO,NER,visa required
 MCO,NGA,visa on arrival
 MCO,PRK,visa required
 MCO,MKD,90
-MCO,NOR,covid ban
+MCO,NOR,visa free
 MCO,OMN,covid ban
 MCO,PAK,visa on arrival
 MCO,PLW,visa on arrival
@@ -24690,7 +24690,7 @@ NLD,BHR,covid ban
 NLD,BGD,covid ban
 NLD,BRB,90
 NLD,BLR,30
-NLD,BEL,covid ban
+NLD,BEL,visa free
 NLD,BLZ,visa free
 NLD,BEN,e-visa
 NLD,BTN,visa required
@@ -24805,7 +24805,7 @@ NLD,NER,visa required
 NLD,NGA,visa on arrival
 NLD,PRK,visa required
 NLD,MKD,90
-NLD,NOR,covid ban
+NLD,NOR,visa free
 NLD,OMN,covid ban
 NLD,PAK,e-visa
 NLD,PLW,90
@@ -24882,14 +24882,14 @@ NZL,ATG,180
 NZL,ARG,covid ban
 NZL,ARM,180
 NZL,AUS,visa free
-NZL,AUT,covid ban
+NZL,AUT,90
 NZL,AZE,covid ban
 NZL,BHS,90
 NZL,BHR,covid ban
 NZL,BGD,covid ban
 NZL,BRB,180
 NZL,BLR,30
-NZL,BEL,covid ban
+NZL,BEL,90
 NZL,BLZ,visa free
 NZL,BEN,e-visa
 NZL,BTN,visa required
@@ -26083,7 +26083,7 @@ NOR,BHR,covid ban
 NOR,BGD,covid ban
 NOR,BRB,90
 NOR,BLR,30
-NOR,BEL,covid ban
+NOR,BEL,visa free
 NOR,BLZ,visa free
 NOR,BEN,e-visa
 NOR,BTN,visa required
@@ -26130,7 +26130,7 @@ NOR,FIN,visa free
 NOR,FRA,visa free
 NOR,GAB,e-visa
 NOR,GMB,90
-NOR,GEO,360
+NOR,GEO,covid ban
 NOR,DEU,visa free
 NOR,GHA,visa required
 NOR,GRC,visa free
@@ -26357,7 +26357,7 @@ OMN,KAZ,covid ban
 OMN,KEN,visa on arrival
 OMN,KIR,visa required
 OMN,XKX,90
-OMN,KWT,visa required
+OMN,KWT,visa free
 OMN,KGZ,visa required
 OMN,LAO,covid ban
 OMN,LVA,covid ban
@@ -26409,7 +26409,7 @@ OMN,PER,visa required
 OMN,PHL,covid ban
 OMN,POL,covid ban
 OMN,PRT,covid ban
-OMN,QAT,visa free
+OMN,QAT,covid ban
 OMN,ROU,covid ban
 OMN,RUS,covid ban
 OMN,RWA,visa on arrival
@@ -28073,7 +28073,7 @@ POL,BHR,covid ban
 POL,BGD,covid ban
 POL,BRB,90
 POL,BLR,30
-POL,BEL,covid ban
+POL,BEL,visa free
 POL,BLZ,visa free
 POL,BEN,e-visa
 POL,BTN,visa required
@@ -28188,7 +28188,7 @@ POL,NER,visa required
 POL,NGA,visa on arrival
 POL,PRK,visa required
 POL,MKD,90
-POL,NOR,covid ban
+POL,NOR,visa free
 POL,OMN,covid ban
 POL,PAK,e-visa
 POL,PLW,90
@@ -28272,7 +28272,7 @@ PRT,BHR,covid ban
 PRT,BGD,covid ban
 PRT,BRB,90
 PRT,BLR,30
-PRT,BEL,covid ban
+PRT,BEL,visa free
 PRT,BLZ,visa free
 PRT,BEN,e-visa
 PRT,BTN,visa required
@@ -28387,7 +28387,7 @@ PRT,NER,visa required
 PRT,NGA,visa on arrival
 PRT,PRK,visa required
 PRT,MKD,90
-PRT,NOR,covid ban
+PRT,NOR,visa free
 PRT,OMN,covid ban
 PRT,PAK,e-visa
 PRT,PLW,90
@@ -28518,7 +28518,7 @@ QAT,FIN,covid ban
 QAT,FRA,covid ban
 QAT,GAB,visa on arrival
 QAT,GMB,visa required
-QAT,GEO,360
+QAT,GEO,covid ban
 QAT,DEU,covid ban
 QAT,GHA,visa required
 QAT,GRC,covid ban
@@ -28546,7 +28546,7 @@ QAT,KAZ,covid ban
 QAT,KEN,visa on arrival
 QAT,KIR,visa required
 QAT,XKX,90
-QAT,KWT,visa required
+QAT,KWT,visa free
 QAT,KGZ,e-visa
 QAT,LAO,covid ban
 QAT,LVA,covid ban
@@ -28600,7 +28600,7 @@ QAT,POL,covid ban
 QAT,PRT,covid ban
 QAT,QAT,-1
 QAT,ROU,covid ban
-QAT,RUS,90
+QAT,RUS,covid ban
 QAT,RWA,90
 QAT,KNA,90
 QAT,LCA,visa required
@@ -28670,7 +28670,7 @@ ROU,BHR,covid ban
 ROU,BGD,covid ban
 ROU,BRB,180
 ROU,BLR,30
-ROU,BEL,covid ban
+ROU,BEL,visa free
 ROU,BLZ,visa free
 ROU,BEN,e-visa
 ROU,BTN,visa required
@@ -28785,7 +28785,7 @@ ROU,NER,visa required
 ROU,NGA,visa on arrival
 ROU,PRK,visa required
 ROU,MKD,90
-ROU,NOR,covid ban
+ROU,NOR,visa free
 ROU,OMN,covid ban
 ROU,PAK,e-visa
 ROU,PLW,90
@@ -29864,7 +29864,7 @@ SMR,BHR,covid ban
 SMR,BGD,covid ban
 SMR,BRB,180
 SMR,BLR,30
-SMR,BEL,covid ban
+SMR,BEL,90
 SMR,BLZ,visa required
 SMR,BEN,e-visa
 SMR,BTN,visa required
@@ -29979,7 +29979,7 @@ SMR,NER,visa required
 SMR,NGA,visa on arrival
 SMR,PRK,visa required
 SMR,MKD,90
-SMR,NOR,covid ban
+SMR,NOR,90
 SMR,OMN,covid ban
 SMR,PAK,e-visa
 SMR,PLW,visa on arrival
@@ -30309,7 +30309,7 @@ SAU,FIN,covid ban
 SAU,FRA,covid ban
 SAU,GAB,visa on arrival
 SAU,GMB,visa required
-SAU,GEO,360
+SAU,GEO,covid ban
 SAU,DEU,covid ban
 SAU,GHA,visa required
 SAU,GRC,covid ban
@@ -30337,7 +30337,7 @@ SAU,KAZ,covid ban
 SAU,KEN,visa on arrival
 SAU,KIR,visa required
 SAU,XKX,90
-SAU,KWT,visa required
+SAU,KWT,visa free
 SAU,KGZ,60
 SAU,LAO,covid ban
 SAU,LVA,covid ban
@@ -30389,7 +30389,7 @@ SAU,PER,visa required
 SAU,PHL,covid ban
 SAU,POL,covid ban
 SAU,PRT,covid ban
-SAU,QAT,visa free
+SAU,QAT,covid ban
 SAU,ROU,covid ban
 SAU,RUS,covid ban
 SAU,RWA,visa on arrival
@@ -31257,7 +31257,7 @@ SGP,BHR,covid ban
 SGP,BGD,covid ban
 SGP,BRB,180
 SGP,BLR,30
-SGP,BEL,covid ban
+SGP,BEL,90
 SGP,BLZ,visa free
 SGP,BEN,e-visa
 SGP,BTN,visa required
@@ -31305,7 +31305,7 @@ SGP,FRA,90
 SGP,GAB,e-visa
 SGP,GMB,90
 SGP,GEO,covid ban
-SGP,DEU,90
+SGP,DEU,covid ban
 SGP,GHA,90
 SGP,GRC,90
 SGP,GRD,90
@@ -31456,7 +31456,7 @@ SVK,BHR,covid ban
 SVK,BGD,covid ban
 SVK,BRB,90
 SVK,BLR,30
-SVK,BEL,covid ban
+SVK,BEL,visa free
 SVK,BLZ,visa free
 SVK,BEN,e-visa
 SVK,BTN,visa required
@@ -31503,7 +31503,7 @@ SVK,FIN,visa free
 SVK,FRA,visa free
 SVK,GAB,visa on arrival
 SVK,GMB,90
-SVK,GEO,360
+SVK,GEO,covid ban
 SVK,DEU,visa free
 SVK,GHA,visa required
 SVK,GRC,visa free
@@ -31571,7 +31571,7 @@ SVK,NER,visa required
 SVK,NGA,visa on arrival
 SVK,PRK,visa required
 SVK,MKD,90
-SVK,NOR,covid ban
+SVK,NOR,visa free
 SVK,OMN,covid ban
 SVK,PAK,e-visa
 SVK,PLW,90
@@ -31655,7 +31655,7 @@ SVN,BHR,covid ban
 SVN,BGD,covid ban
 SVN,BRB,90
 SVN,BLR,30
-SVN,BEL,covid ban
+SVN,BEL,visa free
 SVN,BLZ,visa free
 SVN,BEN,e-visa
 SVN,BTN,visa required
@@ -31770,7 +31770,7 @@ SVN,NER,visa required
 SVN,NGA,visa on arrival
 SVN,PRK,visa required
 SVN,MKD,90
-SVN,NOR,covid ban
+SVN,NOR,visa free
 SVN,OMN,covid ban
 SVN,PAK,e-visa
 SVN,PLW,90
@@ -32451,7 +32451,7 @@ KOR,BHR,covid ban
 KOR,BGD,covid ban
 KOR,BRB,90
 KOR,BLR,30
-KOR,BEL,covid ban
+KOR,BEL,90
 KOR,BLZ,90
 KOR,BEN,e-visa
 KOR,BTN,visa required
@@ -32849,7 +32849,7 @@ ESP,BHR,covid ban
 ESP,BGD,covid ban
 ESP,BRB,90
 ESP,BLR,30
-ESP,BEL,covid ban
+ESP,BEL,visa free
 ESP,BLZ,visa free
 ESP,BEN,e-visa
 ESP,BTN,visa required
@@ -32964,7 +32964,7 @@ ESP,NER,visa required
 ESP,NGA,visa on arrival
 ESP,PRK,visa required
 ESP,MKD,90
-ESP,NOR,covid ban
+ESP,NOR,visa free
 ESP,OMN,covid ban
 ESP,PAK,visa on arrival
 ESP,PLW,90
@@ -33844,7 +33844,7 @@ SWE,BHR,covid ban
 SWE,BGD,covid ban
 SWE,BRB,90
 SWE,BLR,30
-SWE,BEL,covid ban
+SWE,BEL,visa free
 SWE,BLZ,visa free
 SWE,BEN,e-visa
 SWE,BTN,visa required
@@ -33959,7 +33959,7 @@ SWE,NER,visa required
 SWE,NGA,visa on arrival
 SWE,PRK,visa required
 SWE,MKD,90
-SWE,NOR,covid ban
+SWE,NOR,visa free
 SWE,OMN,covid ban
 SWE,PAK,e-visa
 SWE,PLW,90
@@ -34043,7 +34043,7 @@ CHE,BHR,covid ban
 CHE,BGD,covid ban
 CHE,BRB,180
 CHE,BLR,30
-CHE,BEL,covid ban
+CHE,BEL,visa free
 CHE,BLZ,30
 CHE,BEN,e-visa
 CHE,BTN,visa required
@@ -34090,7 +34090,7 @@ CHE,FIN,visa free
 CHE,FRA,visa free
 CHE,GAB,e-visa
 CHE,GMB,90
-CHE,GEO,360
+CHE,GEO,covid ban
 CHE,DEU,visa free
 CHE,GHA,visa required
 CHE,GRC,visa free
@@ -34158,7 +34158,7 @@ CHE,NER,visa required
 CHE,NGA,visa on arrival
 CHE,PRK,visa required
 CHE,MKD,90
-CHE,NOR,covid ban
+CHE,NOR,visa free
 CHE,OMN,covid ban
 CHE,PAK,visa on arrival
 CHE,PLW,visa on arrival
@@ -37274,7 +37274,7 @@ ARE,FIN,covid ban
 ARE,FRA,covid ban
 ARE,GAB,visa on arrival
 ARE,GMB,90
-ARE,GEO,360
+ARE,GEO,covid ban
 ARE,DEU,covid ban
 ARE,GHA,visa required
 ARE,GRC,90
@@ -37302,7 +37302,7 @@ ARE,KAZ,covid ban
 ARE,KEN,visa on arrival
 ARE,KIR,visa required
 ARE,XKX,90
-ARE,KWT,visa required
+ARE,KWT,visa free
 ARE,KGZ,60
 ARE,LAO,covid ban
 ARE,LVA,covid ban
@@ -37354,7 +37354,7 @@ ARE,PER,90
 ARE,PHL,covid ban
 ARE,POL,covid ban
 ARE,PRT,covid ban
-ARE,QAT,visa free
+ARE,QAT,covid ban
 ARE,ROU,covid ban
 ARE,RUS,90
 ARE,RWA,visa on arrival
@@ -37419,14 +37419,14 @@ GBR,ATG,180
 GBR,ARG,covid ban
 GBR,ARM,180
 GBR,AUS,covid ban
-GBR,AUT,covid ban
+GBR,AUT,90
 GBR,AZE,covid ban
 GBR,BHS,240
 GBR,BHR,covid ban
 GBR,BGD,covid ban
 GBR,BRB,180
 GBR,BLR,30
-GBR,BEL,covid ban
+GBR,BEL,90
 GBR,BLZ,visa free
 GBR,BEN,e-visa
 GBR,BTN,visa required
@@ -37473,7 +37473,7 @@ GBR,FIN,90
 GBR,FRA,90
 GBR,GAB,visa on arrival
 GBR,GMB,90
-GBR,GEO,360
+GBR,GEO,covid ban
 GBR,DEU,90
 GBR,GHA,visa required
 GBR,GRC,90
@@ -37541,7 +37541,7 @@ GBR,NER,visa required
 GBR,NGA,visa on arrival
 GBR,PRK,visa required
 GBR,MKD,90
-GBR,NOR,covid ban
+GBR,NOR,90
 GBR,OMN,covid ban
 GBR,PAK,e-visa
 GBR,PLW,visa on arrival
@@ -37672,7 +37672,7 @@ USA,FIN,covid ban
 USA,FRA,covid ban
 USA,GAB,visa on arrival
 USA,GMB,visa on arrival
-USA,GEO,360
+USA,GEO,covid ban
 USA,DEU,covid ban
 USA,GHA,visa required
 USA,GRC,covid ban
@@ -37824,7 +37824,7 @@ URY,BHR,covid ban
 URY,BGD,covid ban
 URY,BRB,90
 URY,BLR,30
-URY,BEL,covid ban
+URY,BEL,90
 URY,BLZ,visa free
 URY,BEN,e-visa
 URY,BTN,visa required
@@ -38421,7 +38421,7 @@ VAT,BHR,covid ban
 VAT,BGD,covid ban
 VAT,BRB,visa required
 VAT,BLR,30
-VAT,BEL,covid ban
+VAT,BEL,90
 VAT,BLZ,visa free
 VAT,BEN,e-visa
 VAT,BTN,visa required
@@ -38536,7 +38536,7 @@ VAT,NER,visa required
 VAT,NGA,visa on arrival
 VAT,PRK,visa required
 VAT,MKD,90
-VAT,NOR,covid ban
+VAT,NOR,90
 VAT,OMN,covid ban
 VAT,PAK,e-visa
 VAT,PLW,visa on arrival
