@@ -33,3 +33,6 @@ You should be able to run the Jupyter notebook to update datasets whenever you w
 Since "Passport Index is a free tool, built with publicly available information and with content contributed by fans and government agencies around the world", feel free to use the dataset under the MIT license.
 
 Source: https://www.passportindex.org
+
+### Related
+* [visa-cli](https://github.com/rand-net/visa-cli), a CLI tool to lookup visa requirements.
