@@ -29,6 +29,9 @@ For visa-free regimes, the number of days (a positive integer) is specified when
 ### Update data with Jupyter notebook
 You should be able to run the Jupyter notebook to update datasets whenever you want.
 
+### Use CLI instead
+Check out this [visa-cli](https://github.com/rand-net/visa-cli) tool by [@rand-net](https://github.com/rand-net) to get data for specific countries directly from your terminal.
+
 ### Source & License
 Since "Passport Index is a free tool, built with publicly available information and with content contributed by fans and government agencies around the world", feel free to use the dataset under the MIT license.
 
