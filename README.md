@@ -1,6 +1,6 @@
 # 2021 Passport Index Dataset
 ## Travel visa requirements for 199 countries, in .csv
-Last updated on 28 October 2021. This update *still* includes a lot of travel bans related to Covid-19. For pre-pandemic requirements, check out the `/legacy` folder.
+Last updated on 21 November 2021. This update *still* includes a lot of travel bans related to Covid-19. For pre-pandemic requirements, check out the `/legacy` folder.
 
 ![Passport](passport.png)
 
@@ -23,7 +23,7 @@ For visa-free regimes, the number of days (a positive integer) is specified when
 |`e-visa`| Includes eTA (electronic travel authorization), eVisas, eVisitors (Australia), eTourist cards (Suriname), and pre-enrollment (Ivory Coast) |
 |`visa required`| Obtaining a visa is required for travel. Includes Cuba's tourist cards |
 |`covid ban`| Travelling is banned for most people. This is perhaps the most dynamic category right now, with varying exemptions|
-|`no admission`| Includes Trump's ban, as well as Armenia/Azerbaijan, Yemen/Iran, and other tricky situations|
+|`no admission`| Includes all sorts of tricky situations|
 |`-1`| where passport=destination|
 
 ### Update data with Jupyter notebook
