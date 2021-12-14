@@ -1,6 +1,6 @@
 # 2021 Passport Index Dataset
 ## Travel visa requirements for 199 countries, in .csv
-Last updated on 21 November 2021. This update *still* includes a lot of travel bans related to Covid-19. For pre-pandemic requirements, check out the `/legacy` folder.
+Last updated on 14 December 2021. For pre-pandemic requirements, check out the `/legacy` folder.
 
 ![Passport](passport.png)
 
@@ -20,10 +20,10 @@ For visa-free regimes, the number of days (a positive integer) is specified when
 |`7`-`360`| Number of visa-free days, where available |
 |`visa free`| Visa-free travel (where number of days is unknown or not applicable, such as freedom of movement), including tourist registration requirement for Seychelles|
 |`visa on arrival`| Destinations that grant visa on arrival, basically visa-free |
-|`e-visa`| Includes eTA (electronic travel authorization), eVisas, eVisitors (Australia), eTourist cards (Suriname), and pre-enrollment (Ivory Coast) |
+|`e-visa`| Includes  [ESTA](https://esta.cbp.dhs.gov/) (Electronic System for Travel Authorization for the USA) and [eTA](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta.html) (Electronic Travel Authorization for Canada), eVisas, [eVisitors](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/evisitor-651) in Australia, [eTourist cards](https://www.surinametourism.sr/tourist-card/) for Suriname, pre-enrollment for Ivory Coast, and UK's [electronic visa waivers](https://www.gov.uk/get-electronic-visa-waiver) |
 |`visa required`| Obtaining a visa is required for travel. Includes Cuba's tourist cards |
 |`covid ban`| Travelling is banned for most people. This is perhaps the most dynamic category right now, with varying exemptions|
-|`no admission`| Includes all sorts of tricky situations|
+|`no admission`| Includes rare tricky situations, such as war conflicts |
 |`-1`| where passport=destination|
 
 ### Update data with Jupyter notebook

@@ -75,12 +75,12 @@ Afghanistan,Honduras,visa required
 Afghanistan,Hong Kong,visa required
 Afghanistan,Hungary,covid ban
 Afghanistan,Iceland,visa required
-Afghanistan,India,e-visa
+Afghanistan,India,covid ban
 Afghanistan,Indonesia,covid ban
 Afghanistan,Iran,visa required
 Afghanistan,Iraq,visa required
 Afghanistan,Ireland,visa required
-Afghanistan,Israel,covid ban
+Afghanistan,Israel,visa required
 Afghanistan,Italy,covid ban
 Afghanistan,Jamaica,visa required
 Afghanistan,Japan,covid ban
@@ -274,12 +274,12 @@ Albania,Honduras,visa required
 Albania,Hong Kong,14
 Albania,Hungary,90
 Albania,Iceland,90
-Albania,India,e-visa
+Albania,India,covid ban
 Albania,Indonesia,covid ban
 Albania,Iran,e-visa
 Albania,Iraq,visa required
 Albania,Ireland,visa required
-Albania,Israel,covid ban
+Albania,Israel,90
 Albania,Italy,covid ban
 Albania,Jamaica,visa on arrival
 Albania,Japan,covid ban
@@ -473,12 +473,12 @@ Algeria,Honduras,visa required
 Algeria,Hong Kong,14
 Algeria,Hungary,covid ban
 Algeria,Iceland,visa required
-Algeria,India,visa required
+Algeria,India,covid ban
 Algeria,Indonesia,covid ban
 Algeria,Iran,e-visa
 Algeria,Iraq,visa required
 Algeria,Ireland,visa required
-Algeria,Israel,covid ban
+Algeria,Israel,visa required
 Algeria,Italy,covid ban
 Algeria,Jamaica,visa required
 Algeria,Japan,covid ban
@@ -620,7 +620,7 @@ Andorra,Bosnia and Herzegovina,90
 Andorra,Botswana,visa required
 Andorra,Brazil,90
 Andorra,Brunei,covid ban
-Andorra,Bulgaria,covid ban
+Andorra,Bulgaria,90
 Andorra,Burkina Faso,visa required
 Andorra,Burundi,visa required
 Andorra,Cambodia,e-visa
@@ -672,12 +672,12 @@ Andorra,Honduras,90
 Andorra,Hong Kong,90
 Andorra,Hungary,visa free
 Andorra,Iceland,90
-Andorra,India,e-visa
+Andorra,India,covid ban
 Andorra,Indonesia,covid ban
 Andorra,Iran,e-visa
 Andorra,Iraq,visa required
 Andorra,Ireland,visa free
-Andorra,Israel,covid ban
+Andorra,Israel,90
 Andorra,Italy,90
 Andorra,Jamaica,visa on arrival
 Andorra,Japan,covid ban
@@ -747,7 +747,7 @@ Andorra,Saint Lucia,42
 Andorra,Samoa,visa on arrival
 Andorra,San Marino,90
 Andorra,Sao Tome and Principe,15
-Andorra,Saudi Arabia,e-visa
+Andorra,Saudi Arabia,covid ban
 Andorra,Senegal,visa on arrival
 Andorra,Serbia,90
 Andorra,Seychelles,90
@@ -868,15 +868,15 @@ Angola,Guinea-Bissau,visa on arrival
 Angola,Guyana,visa on arrival
 Angola,Haiti,90
 Angola,Honduras,visa required
-Angola,Hong Kong,covid ban
+Angola,Hong Kong,visa required
 Angola,Hungary,covid ban
 Angola,Iceland,visa required
-Angola,India,e-visa
+Angola,India,covid ban
 Angola,Indonesia,covid ban
 Angola,Iran,e-visa
 Angola,Iraq,visa required
 Angola,Ireland,visa required
-Angola,Israel,covid ban
+Angola,Israel,visa required
 Angola,Italy,covid ban
 Angola,Jamaica,visa required
 Angola,Japan,covid ban
@@ -1070,12 +1070,12 @@ Antigua and Barbuda,Honduras,90
 Antigua and Barbuda,Hong Kong,90
 Antigua and Barbuda,Hungary,covid ban
 Antigua and Barbuda,Iceland,90
-Antigua and Barbuda,India,e-visa
+Antigua and Barbuda,India,covid ban
 Antigua and Barbuda,Indonesia,covid ban
 Antigua and Barbuda,Iran,e-visa
 Antigua and Barbuda,Iraq,visa required
 Antigua and Barbuda,Ireland,visa free
-Antigua and Barbuda,Israel,covid ban
+Antigua and Barbuda,Israel,visa required
 Antigua and Barbuda,Italy,covid ban
 Antigua and Barbuda,Jamaica,e-visa
 Antigua and Barbuda,Japan,covid ban
@@ -1236,7 +1236,7 @@ Argentina,Costa Rica,90
 Argentina,Ivory Coast,e-visa
 Argentina,Croatia,90
 Argentina,Cuba,visa required
-Argentina,Cyprus,90
+Argentina,Cyprus,covid ban
 Argentina,Czech Republic,90
 Argentina,Denmark,90
 Argentina,Djibouti,e-visa
@@ -1269,12 +1269,12 @@ Argentina,Honduras,90
 Argentina,Hong Kong,90
 Argentina,Hungary,covid ban
 Argentina,Iceland,90
-Argentina,India,e-visa
+Argentina,India,covid ban
 Argentina,Indonesia,covid ban
 Argentina,Iran,e-visa
 Argentina,Iraq,visa required
 Argentina,Ireland,visa free
-Argentina,Israel,covid ban
+Argentina,Israel,90
 Argentina,Italy,covid ban
 Argentina,Jamaica,e-visa
 Argentina,Japan,covid ban
@@ -1293,7 +1293,7 @@ Argentina,Liberia,visa required
 Argentina,Libya,visa required
 Argentina,Liechtenstein,90
 Argentina,Lithuania,90
-Argentina,Luxembourg,90
+Argentina,Luxembourg,covid ban
 Argentina,Macao,covid ban
 Argentina,Madagascar,visa on arrival
 Argentina,Malawi,visa on arrival
@@ -1337,7 +1337,7 @@ Argentina,Poland,covid ban
 Argentina,Portugal,90
 Argentina,Qatar,90
 Argentina,Romania,90
-Argentina,Russia,90
+Argentina,Russia,covid ban
 Argentina,Rwanda,visa on arrival
 Argentina,Saint Kitts and Nevis,90
 Argentina,Saint Lucia,42
@@ -1468,12 +1468,12 @@ Armenia,Honduras,visa required
 Armenia,Hong Kong,30
 Armenia,Hungary,visa required
 Armenia,Iceland,visa required
-Armenia,India,e-visa
+Armenia,India,covid ban
 Armenia,Indonesia,covid ban
 Armenia,Iran,90
 Armenia,Iraq,visa required
 Armenia,Ireland,visa required
-Armenia,Israel,covid ban
+Armenia,Israel,visa required
 Armenia,Italy,covid ban
 Armenia,Jamaica,visa on arrival
 Armenia,Japan,covid ban
@@ -1492,7 +1492,7 @@ Armenia,Liberia,visa required
 Armenia,Libya,visa required
 Armenia,Liechtenstein,visa required
 Armenia,Lithuania,visa required
-Armenia,Luxembourg,visa required
+Armenia,Luxembourg,covid ban
 Armenia,Macao,covid ban
 Armenia,Madagascar,visa on arrival
 Armenia,Malawi,visa on arrival
@@ -1667,15 +1667,15 @@ Australia,Honduras,90
 Australia,Hong Kong,90
 Australia,Hungary,90
 Australia,Iceland,90
-Australia,India,e-visa
+Australia,India,covid ban
 Australia,Indonesia,covid ban
 Australia,Iran,e-visa
 Australia,Iraq,visa on arrival
 Australia,Ireland,visa free
-Australia,Israel,covid ban
+Australia,Israel,90
 Australia,Italy,90
 Australia,Jamaica,e-visa
-Australia,Japan,covid ban
+Australia,Japan,90
 Australia,Jordan,visa on arrival
 Australia,Kazakhstan,covid ban
 Australia,Kenya,e-visa
@@ -1742,7 +1742,7 @@ Australia,Saint Lucia,42
 Australia,Samoa,visa on arrival
 Australia,San Marino,90
 Australia,Sao Tome and Principe,e-visa
-Australia,Saudi Arabia,e-visa
+Australia,Saudi Arabia,covid ban
 Australia,Senegal,visa on arrival
 Australia,Serbia,90
 Australia,Seychelles,90
@@ -1866,12 +1866,12 @@ Austria,Honduras,90
 Austria,Hong Kong,90
 Austria,Hungary,visa free
 Austria,Iceland,visa free
-Austria,India,e-visa
+Austria,India,covid ban
 Austria,Indonesia,covid ban
 Austria,Iran,e-visa
 Austria,Iraq,visa on arrival
 Austria,Ireland,visa free
-Austria,Israel,covid ban
+Austria,Israel,90
 Austria,Italy,visa free
 Austria,Jamaica,e-visa
 Austria,Japan,covid ban
@@ -1941,7 +1941,7 @@ Austria,Saint Lucia,90
 Austria,Samoa,90
 Austria,San Marino,visa free
 Austria,Sao Tome and Principe,15
-Austria,Saudi Arabia,e-visa
+Austria,Saudi Arabia,covid ban
 Austria,Senegal,90
 Austria,Serbia,90
 Austria,Seychelles,90
@@ -2065,12 +2065,12 @@ Azerbaijan,Honduras,visa required
 Azerbaijan,Hong Kong,visa required
 Azerbaijan,Hungary,visa required
 Azerbaijan,Iceland,visa required
-Azerbaijan,India,e-visa
+Azerbaijan,India,covid ban
 Azerbaijan,Indonesia,covid ban
 Azerbaijan,Iran,14
 Azerbaijan,Iraq,visa required
 Azerbaijan,Ireland,visa required
-Azerbaijan,Israel,covid ban
+Azerbaijan,Israel,visa required
 Azerbaijan,Italy,covid ban
 Azerbaijan,Jamaica,visa on arrival
 Azerbaijan,Japan,covid ban
@@ -2264,12 +2264,12 @@ Bahamas,Honduras,90
 Bahamas,Hong Kong,90
 Bahamas,Hungary,covid ban
 Bahamas,Iceland,90
-Bahamas,India,e-visa
+Bahamas,India,covid ban
 Bahamas,Indonesia,covid ban
 Bahamas,Iran,e-visa
 Bahamas,Iraq,visa required
 Bahamas,Ireland,visa free
-Bahamas,Israel,covid ban
+Bahamas,Israel,90
 Bahamas,Italy,covid ban
 Bahamas,Jamaica,e-visa
 Bahamas,Japan,covid ban
@@ -2463,12 +2463,12 @@ Bahrain,Honduras,90
 Bahrain,Hong Kong,30
 Bahrain,Hungary,visa required
 Bahrain,Iceland,visa required
-Bahrain,India,visa required
+Bahrain,India,covid ban
 Bahrain,Indonesia,covid ban
 Bahrain,Iran,e-visa
 Bahrain,Iraq,visa required
 Bahrain,Ireland,visa required
-Bahrain,Israel,covid ban
+Bahrain,Israel,visa required
 Bahrain,Italy,visa required
 Bahrain,Jamaica,visa required
 Bahrain,Japan,covid ban
@@ -2487,7 +2487,7 @@ Bahrain,Liberia,visa required
 Bahrain,Libya,visa required
 Bahrain,Liechtenstein,visa required
 Bahrain,Lithuania,visa required
-Bahrain,Luxembourg,visa required
+Bahrain,Luxembourg,covid ban
 Bahrain,Macao,covid ban
 Bahrain,Madagascar,visa on arrival
 Bahrain,Malawi,visa on arrival
@@ -2659,15 +2659,15 @@ Bangladesh,Guinea-Bissau,visa on arrival
 Bangladesh,Guyana,visa on arrival
 Bangladesh,Haiti,90
 Bangladesh,Honduras,visa required
-Bangladesh,Hong Kong,covid ban
+Bangladesh,Hong Kong,visa required
 Bangladesh,Hungary,covid ban
 Bangladesh,Iceland,visa required
-Bangladesh,India,visa required
+Bangladesh,India,covid ban
 Bangladesh,Indonesia,covid ban
 Bangladesh,Iran,visa required
 Bangladesh,Iraq,visa required
 Bangladesh,Ireland,visa required
-Bangladesh,Israel,covid ban
+Bangladesh,Israel,visa required
 Bangladesh,Italy,covid ban
 Bangladesh,Jamaica,e-visa
 Bangladesh,Japan,covid ban
@@ -2730,7 +2730,7 @@ Bangladesh,Poland,covid ban
 Bangladesh,Portugal,covid ban
 Bangladesh,Qatar,e-visa
 Bangladesh,Romania,visa required
-Bangladesh,Russia,visa required
+Bangladesh,Russia,covid ban
 Bangladesh,Rwanda,visa on arrival
 Bangladesh,Saint Kitts and Nevis,90
 Bangladesh,Saint Lucia,visa required
@@ -2861,12 +2861,12 @@ Barbados,Honduras,90
 Barbados,Hong Kong,90
 Barbados,Hungary,covid ban
 Barbados,Iceland,90
-Barbados,India,e-visa
+Barbados,India,covid ban
 Barbados,Indonesia,covid ban
 Barbados,Iran,e-visa
 Barbados,Iraq,visa required
 Barbados,Ireland,visa free
-Barbados,Israel,covid ban
+Barbados,Israel,90
 Barbados,Italy,covid ban
 Barbados,Jamaica,e-visa
 Barbados,Japan,covid ban
@@ -3060,12 +3060,12 @@ Belarus,Honduras,visa required
 Belarus,Hong Kong,14
 Belarus,Hungary,covid ban
 Belarus,Iceland,visa required
-Belarus,India,e-visa
+Belarus,India,covid ban
 Belarus,Indonesia,covid ban
 Belarus,Iran,e-visa
 Belarus,Iraq,visa required
 Belarus,Ireland,visa required
-Belarus,Israel,covid ban
+Belarus,Israel,90
 Belarus,Italy,covid ban
 Belarus,Jamaica,visa on arrival
 Belarus,Japan,covid ban
@@ -3259,12 +3259,12 @@ Belgium,Honduras,90
 Belgium,Hong Kong,90
 Belgium,Hungary,visa free
 Belgium,Iceland,visa free
-Belgium,India,e-visa
+Belgium,India,covid ban
 Belgium,Indonesia,covid ban
 Belgium,Iran,e-visa
 Belgium,Iraq,visa on arrival
 Belgium,Ireland,visa free
-Belgium,Israel,covid ban
+Belgium,Israel,90
 Belgium,Italy,visa free
 Belgium,Jamaica,e-visa
 Belgium,Japan,covid ban
@@ -3334,7 +3334,7 @@ Belgium,Saint Lucia,90
 Belgium,Samoa,90
 Belgium,San Marino,visa free
 Belgium,Sao Tome and Principe,15
-Belgium,Saudi Arabia,e-visa
+Belgium,Saudi Arabia,covid ban
 Belgium,Senegal,90
 Belgium,Serbia,90
 Belgium,Seychelles,90
@@ -3458,12 +3458,12 @@ Belize,Honduras,90
 Belize,Hong Kong,90
 Belize,Hungary,covid ban
 Belize,Iceland,visa required
-Belize,India,e-visa
+Belize,India,covid ban
 Belize,Indonesia,covid ban
 Belize,Iran,e-visa
 Belize,Iraq,visa required
 Belize,Ireland,visa free
-Belize,Israel,covid ban
+Belize,Israel,90
 Belize,Italy,covid ban
 Belize,Jamaica,e-visa
 Belize,Japan,covid ban
@@ -3657,12 +3657,12 @@ Benin,Honduras,visa required
 Benin,Hong Kong,14
 Benin,Hungary,covid ban
 Benin,Iceland,visa required
-Benin,India,e-visa
+Benin,India,covid ban
 Benin,Indonesia,covid ban
 Benin,Iran,e-visa
 Benin,Iraq,visa required
 Benin,Ireland,visa required
-Benin,Israel,covid ban
+Benin,Israel,visa required
 Benin,Italy,covid ban
 Benin,Jamaica,visa required
 Benin,Japan,covid ban
@@ -3861,7 +3861,7 @@ Bhutan,Indonesia,covid ban
 Bhutan,Iran,e-visa
 Bhutan,Iraq,visa required
 Bhutan,Ireland,visa required
-Bhutan,Israel,covid ban
+Bhutan,Israel,visa required
 Bhutan,Italy,covid ban
 Bhutan,Jamaica,visa required
 Bhutan,Japan,covid ban
@@ -4055,12 +4055,12 @@ Bolivia,Honduras,visa required
 Bolivia,Hong Kong,30
 Bolivia,Hungary,covid ban
 Bolivia,Iceland,visa required
-Bolivia,India,e-visa
+Bolivia,India,covid ban
 Bolivia,Indonesia,covid ban
 Bolivia,Iran,30
 Bolivia,Iraq,visa required
 Bolivia,Ireland,visa free
-Bolivia,Israel,covid ban
+Bolivia,Israel,visa required
 Bolivia,Italy,covid ban
 Bolivia,Jamaica,e-visa
 Bolivia,Japan,covid ban
@@ -4090,7 +4090,7 @@ Bolivia,Malta,covid ban
 Bolivia,Marshall Islands,covid ban
 Bolivia,Mauritania,visa on arrival
 Bolivia,Mauritius,visa on arrival
-Bolivia,Mexico,180
+Bolivia,Mexico,visa required
 Bolivia,Micronesia,covid ban
 Bolivia,Moldova,e-visa
 Bolivia,Monaco,visa required
@@ -4254,12 +4254,12 @@ Bosnia and Herzegovina,Honduras,visa required
 Bosnia and Herzegovina,Hong Kong,14
 Bosnia and Herzegovina,Hungary,covid ban
 Bosnia and Herzegovina,Iceland,90
-Bosnia and Herzegovina,India,e-visa
+Bosnia and Herzegovina,India,covid ban
 Bosnia and Herzegovina,Indonesia,covid ban
 Bosnia and Herzegovina,Iran,e-visa
 Bosnia and Herzegovina,Iraq,visa required
 Bosnia and Herzegovina,Ireland,visa required
-Bosnia and Herzegovina,Israel,covid ban
+Bosnia and Herzegovina,Israel,visa required
 Bosnia and Herzegovina,Italy,covid ban
 Bosnia and Herzegovina,Jamaica,visa on arrival
 Bosnia and Herzegovina,Japan,covid ban
@@ -4450,15 +4450,15 @@ Botswana,Guinea-Bissau,visa on arrival
 Botswana,Guyana,90
 Botswana,Haiti,90
 Botswana,Honduras,visa required
-Botswana,Hong Kong,covid ban
+Botswana,Hong Kong,90
 Botswana,Hungary,covid ban
 Botswana,Iceland,visa required
-Botswana,India,e-visa
+Botswana,India,covid ban
 Botswana,Indonesia,covid ban
 Botswana,Iran,e-visa
 Botswana,Iraq,visa required
 Botswana,Ireland,visa free
-Botswana,Israel,covid ban
+Botswana,Israel,90
 Botswana,Italy,covid ban
 Botswana,Jamaica,e-visa
 Botswana,Japan,covid ban
@@ -4649,15 +4649,15 @@ Brazil,Guinea-Bissau,visa on arrival
 Brazil,Guyana,90
 Brazil,Haiti,90
 Brazil,Honduras,90
-Brazil,Hong Kong,covid ban
+Brazil,Hong Kong,90
 Brazil,Hungary,covid ban
 Brazil,Iceland,90
-Brazil,India,e-visa
+Brazil,India,covid ban
 Brazil,Indonesia,covid ban
 Brazil,Iran,e-visa
 Brazil,Iraq,visa required
 Brazil,Ireland,visa free
-Brazil,Israel,covid ban
+Brazil,Israel,90
 Brazil,Italy,covid ban
 Brazil,Jamaica,e-visa
 Brazil,Japan,covid ban
@@ -4687,7 +4687,7 @@ Brazil,Malta,covid ban
 Brazil,Marshall Islands,covid ban
 Brazil,Mauritania,visa on arrival
 Brazil,Mauritius,90
-Brazil,Mexico,visa required
+Brazil,Mexico,180
 Brazil,Micronesia,covid ban
 Brazil,Moldova,90
 Brazil,Monaco,90
@@ -4720,7 +4720,7 @@ Brazil,Poland,covid ban
 Brazil,Portugal,90
 Brazil,Qatar,30
 Brazil,Romania,90
-Brazil,Russia,90
+Brazil,Russia,covid ban
 Brazil,Rwanda,visa on arrival
 Brazil,Saint Kitts and Nevis,90
 Brazil,Saint Lucia,42
@@ -4851,15 +4851,15 @@ Brunei,Honduras,90
 Brunei,Hong Kong,90
 Brunei,Hungary,covid ban
 Brunei,Iceland,90
-Brunei,India,e-visa
+Brunei,India,covid ban
 Brunei,Indonesia,covid ban
 Brunei,Iran,e-visa
 Brunei,Iraq,visa required
 Brunei,Ireland,visa free
-Brunei,Israel,covid ban
+Brunei,Israel,visa required
 Brunei,Italy,covid ban
 Brunei,Jamaica,e-visa
-Brunei,Japan,covid ban
+Brunei,Japan,90
 Brunei,Jordan,visa on arrival
 Brunei,Kazakhstan,covid ban
 Brunei,Kenya,90
@@ -4926,7 +4926,7 @@ Brunei,Saint Lucia,42
 Brunei,Samoa,visa on arrival
 Brunei,San Marino,covid ban
 Brunei,Sao Tome and Principe,e-visa
-Brunei,Saudi Arabia,e-visa
+Brunei,Saudi Arabia,covid ban
 Brunei,Senegal,visa on arrival
 Brunei,Serbia,visa required
 Brunei,Seychelles,90
@@ -5050,12 +5050,12 @@ Bulgaria,Honduras,90
 Bulgaria,Hong Kong,90
 Bulgaria,Hungary,visa free
 Bulgaria,Iceland,visa free
-Bulgaria,India,e-visa
+Bulgaria,India,covid ban
 Bulgaria,Indonesia,covid ban
 Bulgaria,Iran,e-visa
 Bulgaria,Iraq,visa on arrival
 Bulgaria,Ireland,visa free
-Bulgaria,Israel,covid ban
+Bulgaria,Israel,90
 Bulgaria,Italy,visa free
 Bulgaria,Jamaica,visa on arrival
 Bulgaria,Japan,covid ban
@@ -5125,7 +5125,7 @@ Bulgaria,Saint Lucia,90
 Bulgaria,Samoa,90
 Bulgaria,San Marino,visa free
 Bulgaria,Sao Tome and Principe,15
-Bulgaria,Saudi Arabia,e-visa
+Bulgaria,Saudi Arabia,covid ban
 Bulgaria,Senegal,90
 Bulgaria,Serbia,90
 Bulgaria,Seychelles,90
@@ -5249,12 +5249,12 @@ Burkina Faso,Honduras,visa required
 Burkina Faso,Hong Kong,14
 Burkina Faso,Hungary,covid ban
 Burkina Faso,Iceland,visa required
-Burkina Faso,India,visa required
+Burkina Faso,India,covid ban
 Burkina Faso,Indonesia,covid ban
 Burkina Faso,Iran,e-visa
 Burkina Faso,Iraq,visa required
 Burkina Faso,Ireland,visa required
-Burkina Faso,Israel,covid ban
+Burkina Faso,Israel,visa required
 Burkina Faso,Italy,covid ban
 Burkina Faso,Jamaica,visa required
 Burkina Faso,Japan,covid ban
@@ -5448,12 +5448,12 @@ Burundi,Honduras,visa required
 Burundi,Hong Kong,visa required
 Burundi,Hungary,covid ban
 Burundi,Iceland,visa required
-Burundi,India,e-visa
+Burundi,India,covid ban
 Burundi,Indonesia,covid ban
 Burundi,Iran,e-visa
 Burundi,Iraq,visa required
 Burundi,Ireland,visa required
-Burundi,Israel,covid ban
+Burundi,Israel,visa required
 Burundi,Italy,covid ban
 Burundi,Jamaica,visa required
 Burundi,Japan,covid ban
@@ -5644,15 +5644,15 @@ Cambodia,Guinea-Bissau,visa on arrival
 Cambodia,Guyana,visa on arrival
 Cambodia,Haiti,90
 Cambodia,Honduras,visa required
-Cambodia,Hong Kong,covid ban
+Cambodia,Hong Kong,visa required
 Cambodia,Hungary,covid ban
 Cambodia,Iceland,visa required
-Cambodia,India,e-visa
+Cambodia,India,covid ban
 Cambodia,Indonesia,covid ban
 Cambodia,Iran,e-visa
 Cambodia,Iraq,visa required
 Cambodia,Ireland,visa required
-Cambodia,Israel,covid ban
+Cambodia,Israel,visa required
 Cambodia,Italy,covid ban
 Cambodia,Jamaica,visa required
 Cambodia,Japan,covid ban
@@ -5846,12 +5846,12 @@ Cameroon,Honduras,visa required
 Cameroon,Hong Kong,visa required
 Cameroon,Hungary,covid ban
 Cameroon,Iceland,visa required
-Cameroon,India,e-visa
+Cameroon,India,covid ban
 Cameroon,Indonesia,covid ban
 Cameroon,Iran,e-visa
 Cameroon,Iraq,visa required
 Cameroon,Ireland,visa required
-Cameroon,Israel,covid ban
+Cameroon,Israel,visa required
 Cameroon,Italy,covid ban
 Cameroon,Jamaica,visa required
 Cameroon,Japan,covid ban
@@ -6045,12 +6045,12 @@ Canada,Honduras,90
 Canada,Hong Kong,90
 Canada,Hungary,90
 Canada,Iceland,90
-Canada,India,e-visa
+Canada,India,covid ban
 Canada,Indonesia,covid ban
-Canada,Iran,e-visa
+Canada,Iran,visa required
 Canada,Iraq,visa on arrival
 Canada,Ireland,visa free
-Canada,Israel,covid ban
+Canada,Israel,90
 Canada,Italy,90
 Canada,Jamaica,e-visa
 Canada,Japan,covid ban
@@ -6120,7 +6120,7 @@ Canada,Saint Lucia,42
 Canada,Samoa,visa on arrival
 Canada,San Marino,90
 Canada,Sao Tome and Principe,15
-Canada,Saudi Arabia,e-visa
+Canada,Saudi Arabia,covid ban
 Canada,Senegal,90
 Canada,Serbia,90
 Canada,Seychelles,90
@@ -6211,8 +6211,8 @@ Cape Verde,Costa Rica,visa required
 Cape Verde,Ivory Coast,90
 Cape Verde,Croatia,visa required
 Cape Verde,Cuba,visa required
-Cape Verde,Cyprus,visa required
-Cape Verde,Czech Republic,visa required
+Cape Verde,Cyprus,covid ban
+Cape Verde,Czech Republic,covid ban
 Cape Verde,Denmark,visa required
 Cape Verde,Djibouti,e-visa
 Cape Verde,Dominica,21
@@ -6242,14 +6242,14 @@ Cape Verde,Guyana,visa on arrival
 Cape Verde,Haiti,90
 Cape Verde,Honduras,visa required
 Cape Verde,Hong Kong,30
-Cape Verde,Hungary,visa required
+Cape Verde,Hungary,covid ban
 Cape Verde,Iceland,visa required
-Cape Verde,India,e-visa
+Cape Verde,India,covid ban
 Cape Verde,Indonesia,covid ban
 Cape Verde,Iran,e-visa
 Cape Verde,Iraq,visa required
 Cape Verde,Ireland,visa required
-Cape Verde,Israel,covid ban
+Cape Verde,Israel,visa required
 Cape Verde,Italy,covid ban
 Cape Verde,Jamaica,visa required
 Cape Verde,Japan,covid ban
@@ -6309,7 +6309,7 @@ Cape Verde,Paraguay,visa required
 Cape Verde,Peru,visa required
 Cape Verde,Philippines,covid ban
 Cape Verde,Poland,covid ban
-Cape Verde,Portugal,visa required
+Cape Verde,Portugal,covid ban
 Cape Verde,Qatar,e-visa
 Cape Verde,Romania,visa required
 Cape Verde,Russia,covid ban
@@ -6443,12 +6443,12 @@ Central African Republic,Honduras,visa required
 Central African Republic,Hong Kong,visa required
 Central African Republic,Hungary,covid ban
 Central African Republic,Iceland,visa required
-Central African Republic,India,visa required
+Central African Republic,India,covid ban
 Central African Republic,Indonesia,covid ban
 Central African Republic,Iran,e-visa
 Central African Republic,Iraq,visa required
 Central African Republic,Ireland,visa required
-Central African Republic,Israel,covid ban
+Central African Republic,Israel,visa required
 Central African Republic,Italy,covid ban
 Central African Republic,Jamaica,visa required
 Central African Republic,Japan,covid ban
@@ -6642,12 +6642,12 @@ Chad,Honduras,visa required
 Chad,Hong Kong,14
 Chad,Hungary,covid ban
 Chad,Iceland,visa required
-Chad,India,visa required
+Chad,India,covid ban
 Chad,Indonesia,covid ban
 Chad,Iran,e-visa
 Chad,Iraq,visa required
 Chad,Ireland,visa required
-Chad,Israel,covid ban
+Chad,Israel,visa required
 Chad,Italy,covid ban
 Chad,Jamaica,visa required
 Chad,Japan,covid ban
@@ -6841,12 +6841,12 @@ Chile,Honduras,90
 Chile,Hong Kong,90
 Chile,Hungary,90
 Chile,Iceland,90
-Chile,India,e-visa
+Chile,India,covid ban
 Chile,Indonesia,covid ban
 Chile,Iran,e-visa
 Chile,Iraq,visa required
 Chile,Ireland,visa free
-Chile,Israel,covid ban
+Chile,Israel,90
 Chile,Italy,90
 Chile,Jamaica,e-visa
 Chile,Japan,covid ban
@@ -6865,7 +6865,7 @@ Chile,Liberia,visa required
 Chile,Libya,visa required
 Chile,Liechtenstein,90
 Chile,Lithuania,90
-Chile,Luxembourg,90
+Chile,Luxembourg,covid ban
 Chile,Macao,covid ban
 Chile,Madagascar,visa on arrival
 Chile,Malawi,visa on arrival
@@ -7040,12 +7040,12 @@ China,Honduras,visa required
 China,Hong Kong,visa required
 China,Hungary,visa required
 China,Iceland,visa required
-China,India,visa required
+China,India,covid ban
 China,Indonesia,covid ban
 China,Iran,21
 China,Iraq,visa on arrival
 China,Ireland,visa required
-China,Israel,covid ban
+China,Israel,visa required
 China,Italy,covid ban
 China,Jamaica,e-visa
 China,Japan,covid ban
@@ -7115,7 +7115,7 @@ China,Saint Lucia,42
 China,Samoa,visa on arrival
 China,San Marino,covid ban
 China,Sao Tome and Principe,visa on arrival
-China,Saudi Arabia,e-visa
+China,Saudi Arabia,covid ban
 China,Senegal,90
 China,Serbia,90
 China,Seychelles,90
@@ -7206,7 +7206,7 @@ Colombia,Costa Rica,visa required
 Colombia,Ivory Coast,e-visa
 Colombia,Croatia,90
 Colombia,Cuba,visa required
-Colombia,Cyprus,90
+Colombia,Cyprus,covid ban
 Colombia,Czech Republic,90
 Colombia,Denmark,90
 Colombia,Djibouti,e-visa
@@ -7239,12 +7239,12 @@ Colombia,Honduras,90
 Colombia,Hong Kong,90
 Colombia,Hungary,covid ban
 Colombia,Iceland,90
-Colombia,India,e-visa
+Colombia,India,covid ban
 Colombia,Indonesia,covid ban
-Colombia,Iran,e-visa
+Colombia,Iran,visa required
 Colombia,Iraq,visa required
 Colombia,Ireland,visa required
-Colombia,Israel,covid ban
+Colombia,Israel,90
 Colombia,Italy,covid ban
 Colombia,Jamaica,e-visa
 Colombia,Japan,covid ban
@@ -7263,7 +7263,7 @@ Colombia,Liberia,visa required
 Colombia,Libya,visa required
 Colombia,Liechtenstein,90
 Colombia,Lithuania,90
-Colombia,Luxembourg,90
+Colombia,Luxembourg,covid ban
 Colombia,Macao,covid ban
 Colombia,Madagascar,visa on arrival
 Colombia,Malawi,e-visa
@@ -7280,7 +7280,7 @@ Colombia,Moldova,90
 Colombia,Monaco,90
 Colombia,Mongolia,covid ban
 Colombia,Montenegro,90
-Colombia,Morocco,90
+Colombia,Morocco,visa required
 Colombia,Mozambique,visa on arrival
 Colombia,Myanmar,covid ban
 Colombia,Namibia,visa required
@@ -7438,12 +7438,12 @@ Comoros,Honduras,visa required
 Comoros,Hong Kong,14
 Comoros,Hungary,covid ban
 Comoros,Iceland,visa required
-Comoros,India,e-visa
+Comoros,India,covid ban
 Comoros,Indonesia,covid ban
 Comoros,Iran,e-visa
 Comoros,Iraq,visa required
 Comoros,Ireland,visa required
-Comoros,Israel,covid ban
+Comoros,Israel,visa required
 Comoros,Italy,covid ban
 Comoros,Jamaica,visa required
 Comoros,Japan,covid ban
@@ -7637,12 +7637,12 @@ Congo,Honduras,visa required
 Congo,Hong Kong,visa required
 Congo,Hungary,covid ban
 Congo,Iceland,visa required
-Congo,India,visa required
+Congo,India,covid ban
 Congo,Indonesia,covid ban
 Congo,Iran,e-visa
 Congo,Iraq,visa required
 Congo,Ireland,visa required
-Congo,Israel,covid ban
+Congo,Israel,visa required
 Congo,Italy,covid ban
 Congo,Jamaica,visa required
 Congo,Japan,covid ban
@@ -7836,12 +7836,12 @@ DR Congo,Honduras,visa required
 DR Congo,Hong Kong,visa required
 DR Congo,Hungary,covid ban
 DR Congo,Iceland,visa required
-DR Congo,India,visa required
+DR Congo,India,covid ban
 DR Congo,Indonesia,covid ban
 DR Congo,Iran,e-visa
 DR Congo,Iraq,visa required
 DR Congo,Ireland,visa required
-DR Congo,Israel,covid ban
+DR Congo,Israel,visa required
 DR Congo,Italy,covid ban
 DR Congo,Jamaica,visa required
 DR Congo,Japan,covid ban
@@ -8003,7 +8003,7 @@ Costa Rica,Ivory Coast,e-visa
 Costa Rica,Croatia,90
 Costa Rica,Cuba,visa required
 Costa Rica,Cyprus,covid ban
-Costa Rica,Czech Republic,90
+Costa Rica,Czech Republic,covid ban
 Costa Rica,Denmark,90
 Costa Rica,Djibouti,e-visa
 Costa Rica,Dominica,180
@@ -8035,12 +8035,12 @@ Costa Rica,Honduras,90
 Costa Rica,Hong Kong,30
 Costa Rica,Hungary,covid ban
 Costa Rica,Iceland,90
-Costa Rica,India,e-visa
+Costa Rica,India,covid ban
 Costa Rica,Indonesia,covid ban
 Costa Rica,Iran,e-visa
 Costa Rica,Iraq,visa required
 Costa Rica,Ireland,visa free
-Costa Rica,Israel,covid ban
+Costa Rica,Israel,90
 Costa Rica,Italy,covid ban
 Costa Rica,Jamaica,e-visa
 Costa Rica,Japan,covid ban
@@ -8103,7 +8103,7 @@ Costa Rica,Poland,covid ban
 Costa Rica,Portugal,covid ban
 Costa Rica,Qatar,30
 Costa Rica,Romania,90
-Costa Rica,Russia,90
+Costa Rica,Russia,covid ban
 Costa Rica,Rwanda,visa on arrival
 Costa Rica,Saint Kitts and Nevis,90
 Costa Rica,Saint Lucia,42
@@ -8234,12 +8234,12 @@ Ivory Coast,Honduras,visa required
 Ivory Coast,Hong Kong,visa required
 Ivory Coast,Hungary,covid ban
 Ivory Coast,Iceland,visa required
-Ivory Coast,India,e-visa
+Ivory Coast,India,covid ban
 Ivory Coast,Indonesia,covid ban
 Ivory Coast,Iran,e-visa
 Ivory Coast,Iraq,visa required
 Ivory Coast,Ireland,visa required
-Ivory Coast,Israel,covid ban
+Ivory Coast,Israel,visa required
 Ivory Coast,Italy,covid ban
 Ivory Coast,Jamaica,visa required
 Ivory Coast,Japan,covid ban
@@ -8433,12 +8433,12 @@ Croatia,Honduras,90
 Croatia,Hong Kong,90
 Croatia,Hungary,visa free
 Croatia,Iceland,visa free
-Croatia,India,e-visa
+Croatia,India,covid ban
 Croatia,Indonesia,covid ban
 Croatia,Iran,e-visa
 Croatia,Iraq,visa on arrival
 Croatia,Ireland,visa free
-Croatia,Israel,covid ban
+Croatia,Israel,90
 Croatia,Italy,visa free
 Croatia,Jamaica,visa on arrival
 Croatia,Japan,covid ban
@@ -8508,7 +8508,7 @@ Croatia,Saint Lucia,90
 Croatia,Samoa,90
 Croatia,San Marino,visa free
 Croatia,Sao Tome and Principe,15
-Croatia,Saudi Arabia,e-visa
+Croatia,Saudi Arabia,covid ban
 Croatia,Senegal,90
 Croatia,Serbia,90
 Croatia,Seychelles,90
@@ -8632,12 +8632,12 @@ Cuba,Honduras,visa required
 Cuba,Hong Kong,visa required
 Cuba,Hungary,covid ban
 Cuba,Iceland,visa required
-Cuba,India,e-visa
+Cuba,India,covid ban
 Cuba,Indonesia,covid ban
 Cuba,Iran,e-visa
 Cuba,Iraq,visa required
 Cuba,Ireland,visa required
-Cuba,Israel,covid ban
+Cuba,Israel,visa required
 Cuba,Italy,covid ban
 Cuba,Jamaica,visa required
 Cuba,Japan,covid ban
@@ -8681,7 +8681,7 @@ Cuba,Nauru,visa required
 Cuba,Nepal,visa on arrival
 Cuba,Netherlands,visa required
 Cuba,New Zealand,covid ban
-Cuba,Nicaragua,90
+Cuba,Nicaragua,visa required
 Cuba,Niger,visa required
 Cuba,Nigeria,visa on arrival
 Cuba,North Korea,visa required
@@ -8831,12 +8831,12 @@ Cyprus,Honduras,90
 Cyprus,Hong Kong,90
 Cyprus,Hungary,visa free
 Cyprus,Iceland,visa free
-Cyprus,India,e-visa
+Cyprus,India,covid ban
 Cyprus,Indonesia,covid ban
 Cyprus,Iran,e-visa
 Cyprus,Iraq,visa on arrival
 Cyprus,Ireland,visa free
-Cyprus,Israel,covid ban
+Cyprus,Israel,90
 Cyprus,Italy,visa free
 Cyprus,Jamaica,e-visa
 Cyprus,Japan,covid ban
@@ -8906,7 +8906,7 @@ Cyprus,Saint Lucia,90
 Cyprus,Samoa,90
 Cyprus,San Marino,visa free
 Cyprus,Sao Tome and Principe,15
-Cyprus,Saudi Arabia,e-visa
+Cyprus,Saudi Arabia,covid ban
 Cyprus,Senegal,90
 Cyprus,Serbia,90
 Cyprus,Seychelles,90
@@ -9030,12 +9030,12 @@ Czech Republic,Honduras,90
 Czech Republic,Hong Kong,90
 Czech Republic,Hungary,visa free
 Czech Republic,Iceland,visa free
-Czech Republic,India,e-visa
+Czech Republic,India,covid ban
 Czech Republic,Indonesia,covid ban
 Czech Republic,Iran,e-visa
 Czech Republic,Iraq,visa on arrival
 Czech Republic,Ireland,visa free
-Czech Republic,Israel,covid ban
+Czech Republic,Israel,90
 Czech Republic,Italy,visa free
 Czech Republic,Jamaica,e-visa
 Czech Republic,Japan,covid ban
@@ -9105,7 +9105,7 @@ Czech Republic,Saint Lucia,90
 Czech Republic,Samoa,90
 Czech Republic,San Marino,visa free
 Czech Republic,Sao Tome and Principe,15
-Czech Republic,Saudi Arabia,e-visa
+Czech Republic,Saudi Arabia,covid ban
 Czech Republic,Senegal,90
 Czech Republic,Serbia,90
 Czech Republic,Seychelles,90
@@ -9229,12 +9229,12 @@ Denmark,Honduras,90
 Denmark,Hong Kong,90
 Denmark,Hungary,visa free
 Denmark,Iceland,visa free
-Denmark,India,e-visa
+Denmark,India,covid ban
 Denmark,Indonesia,covid ban
 Denmark,Iran,e-visa
 Denmark,Iraq,visa on arrival
 Denmark,Ireland,visa free
-Denmark,Israel,covid ban
+Denmark,Israel,90
 Denmark,Italy,visa free
 Denmark,Jamaica,e-visa
 Denmark,Japan,covid ban
@@ -9304,7 +9304,7 @@ Denmark,Saint Lucia,90
 Denmark,Samoa,90
 Denmark,San Marino,visa free
 Denmark,Sao Tome and Principe,15
-Denmark,Saudi Arabia,e-visa
+Denmark,Saudi Arabia,covid ban
 Denmark,Senegal,90
 Denmark,Serbia,90
 Denmark,Seychelles,90
@@ -9428,12 +9428,12 @@ Djibouti,Honduras,visa required
 Djibouti,Hong Kong,14
 Djibouti,Hungary,covid ban
 Djibouti,Iceland,visa required
-Djibouti,India,e-visa
+Djibouti,India,covid ban
 Djibouti,Indonesia,covid ban
 Djibouti,Iran,e-visa
 Djibouti,Iraq,visa required
 Djibouti,Ireland,visa required
-Djibouti,Israel,covid ban
+Djibouti,Israel,visa required
 Djibouti,Italy,covid ban
 Djibouti,Jamaica,visa required
 Djibouti,Japan,covid ban
@@ -9627,12 +9627,12 @@ Dominica,Honduras,visa required
 Dominica,Hong Kong,90
 Dominica,Hungary,covid ban
 Dominica,Iceland,90
-Dominica,India,e-visa
+Dominica,India,covid ban
 Dominica,Indonesia,covid ban
 Dominica,Iran,e-visa
 Dominica,Iraq,visa required
 Dominica,Ireland,visa free
-Dominica,Israel,covid ban
+Dominica,Israel,90
 Dominica,Italy,covid ban
 Dominica,Jamaica,e-visa
 Dominica,Japan,covid ban
@@ -9826,12 +9826,12 @@ Dominican Republic,Honduras,60
 Dominican Republic,Hong Kong,30
 Dominican Republic,Hungary,covid ban
 Dominican Republic,Iceland,visa required
-Dominican Republic,India,e-visa
+Dominican Republic,India,covid ban
 Dominican Republic,Indonesia,covid ban
 Dominican Republic,Iran,e-visa
 Dominican Republic,Iraq,visa required
 Dominican Republic,Ireland,visa required
-Dominican Republic,Israel,covid ban
+Dominican Republic,Israel,90
 Dominican Republic,Italy,covid ban
 Dominican Republic,Jamaica,visa required
 Dominican Republic,Japan,covid ban
@@ -10025,12 +10025,12 @@ Ecuador,Honduras,90
 Ecuador,Hong Kong,90
 Ecuador,Hungary,covid ban
 Ecuador,Iceland,visa required
-Ecuador,India,e-visa
+Ecuador,India,covid ban
 Ecuador,Indonesia,covid ban
 Ecuador,Iran,e-visa
 Ecuador,Iraq,visa required
 Ecuador,Ireland,visa required
-Ecuador,Israel,covid ban
+Ecuador,Israel,90
 Ecuador,Italy,covid ban
 Ecuador,Jamaica,e-visa
 Ecuador,Japan,covid ban
@@ -10224,12 +10224,12 @@ Egypt,Honduras,visa required
 Egypt,Hong Kong,90
 Egypt,Hungary,covid ban
 Egypt,Iceland,visa required
-Egypt,India,visa required
+Egypt,India,covid ban
 Egypt,Indonesia,covid ban
 Egypt,Iran,21
 Egypt,Iraq,visa required
 Egypt,Ireland,visa required
-Egypt,Israel,covid ban
+Egypt,Israel,visa required
 Egypt,Italy,covid ban
 Egypt,Jamaica,visa required
 Egypt,Japan,covid ban
@@ -10390,8 +10390,8 @@ El Salvador,Costa Rica,90
 El Salvador,Ivory Coast,e-visa
 El Salvador,Croatia,90
 El Salvador,Cuba,visa required
-El Salvador,Cyprus,90
-El Salvador,Czech Republic,90
+El Salvador,Cyprus,covid ban
+El Salvador,Czech Republic,covid ban
 El Salvador,Denmark,90
 El Salvador,Djibouti,e-visa
 El Salvador,Dominica,21
@@ -10421,14 +10421,14 @@ El Salvador,Guyana,visa on arrival
 El Salvador,Haiti,90
 El Salvador,Honduras,90
 El Salvador,Hong Kong,30
-El Salvador,Hungary,90
+El Salvador,Hungary,covid ban
 El Salvador,Iceland,90
-El Salvador,India,e-visa
+El Salvador,India,covid ban
 El Salvador,Indonesia,covid ban
 El Salvador,Iran,e-visa
 El Salvador,Iraq,visa required
 El Salvador,Ireland,visa free
-El Salvador,Israel,covid ban
+El Salvador,Israel,90
 El Salvador,Italy,covid ban
 El Salvador,Jamaica,e-visa
 El Salvador,Japan,covid ban
@@ -10447,14 +10447,14 @@ El Salvador,Liberia,visa required
 El Salvador,Libya,visa required
 El Salvador,Liechtenstein,90
 El Salvador,Lithuania,90
-El Salvador,Luxembourg,90
+El Salvador,Luxembourg,covid ban
 El Salvador,Macao,covid ban
 El Salvador,Madagascar,visa on arrival
 El Salvador,Malawi,visa on arrival
 El Salvador,Malaysia,covid ban
 El Salvador,Maldives,visa on arrival
 El Salvador,Mali,visa required
-El Salvador,Malta,90
+El Salvador,Malta,covid ban
 El Salvador,Marshall Islands,covid ban
 El Salvador,Mauritania,visa on arrival
 El Salvador,Mauritius,visa on arrival
@@ -10488,7 +10488,7 @@ El Salvador,Paraguay,90
 El Salvador,Peru,visa required
 El Salvador,Philippines,covid ban
 El Salvador,Poland,covid ban
-El Salvador,Portugal,90
+El Salvador,Portugal,covid ban
 El Salvador,Qatar,e-visa
 El Salvador,Romania,90
 El Salvador,Russia,covid ban
@@ -10622,12 +10622,12 @@ Equatorial Guinea,Honduras,visa required
 Equatorial Guinea,Hong Kong,14
 Equatorial Guinea,Hungary,covid ban
 Equatorial Guinea,Iceland,visa required
-Equatorial Guinea,India,e-visa
+Equatorial Guinea,India,covid ban
 Equatorial Guinea,Indonesia,covid ban
 Equatorial Guinea,Iran,e-visa
 Equatorial Guinea,Iraq,visa required
 Equatorial Guinea,Ireland,visa required
-Equatorial Guinea,Israel,covid ban
+Equatorial Guinea,Israel,visa required
 Equatorial Guinea,Italy,covid ban
 Equatorial Guinea,Jamaica,visa required
 Equatorial Guinea,Japan,covid ban
@@ -10821,12 +10821,12 @@ Eritrea,Honduras,visa required
 Eritrea,Hong Kong,visa required
 Eritrea,Hungary,covid ban
 Eritrea,Iceland,visa required
-Eritrea,India,e-visa
+Eritrea,India,covid ban
 Eritrea,Indonesia,covid ban
 Eritrea,Iran,e-visa
 Eritrea,Iraq,visa required
 Eritrea,Ireland,visa required
-Eritrea,Israel,covid ban
+Eritrea,Israel,visa required
 Eritrea,Italy,covid ban
 Eritrea,Jamaica,visa required
 Eritrea,Japan,covid ban
@@ -11020,12 +11020,12 @@ Estonia,Honduras,90
 Estonia,Hong Kong,90
 Estonia,Hungary,visa free
 Estonia,Iceland,visa free
-Estonia,India,e-visa
+Estonia,India,covid ban
 Estonia,Indonesia,covid ban
 Estonia,Iran,e-visa
 Estonia,Iraq,visa on arrival
 Estonia,Ireland,visa free
-Estonia,Israel,covid ban
+Estonia,Israel,90
 Estonia,Italy,visa free
 Estonia,Jamaica,e-visa
 Estonia,Japan,covid ban
@@ -11095,7 +11095,7 @@ Estonia,Saint Lucia,90
 Estonia,Samoa,90
 Estonia,San Marino,visa free
 Estonia,Sao Tome and Principe,visa free
-Estonia,Saudi Arabia,e-visa
+Estonia,Saudi Arabia,covid ban
 Estonia,Senegal,90
 Estonia,Serbia,90
 Estonia,Seychelles,90
@@ -11167,7 +11167,7 @@ Swaziland,Bosnia and Herzegovina,visa required
 Swaziland,Botswana,90
 Swaziland,Brazil,visa required
 Swaziland,Brunei,covid ban
-Swaziland,Bulgaria,covid ban
+Swaziland,Bulgaria,visa required
 Swaziland,Burkina Faso,visa required
 Swaziland,Burundi,visa required
 Swaziland,Cambodia,e-visa
@@ -11216,15 +11216,15 @@ Swaziland,Guinea-Bissau,visa on arrival
 Swaziland,Guyana,60
 Swaziland,Haiti,90
 Swaziland,Honduras,visa required
-Swaziland,Hong Kong,covid ban
+Swaziland,Hong Kong,90
 Swaziland,Hungary,covid ban
 Swaziland,Iceland,visa required
-Swaziland,India,e-visa
+Swaziland,India,covid ban
 Swaziland,Indonesia,covid ban
 Swaziland,Iran,e-visa
 Swaziland,Iraq,visa required
 Swaziland,Ireland,visa free
-Swaziland,Israel,covid ban
+Swaziland,Israel,90
 Swaziland,Italy,covid ban
 Swaziland,Jamaica,e-visa
 Swaziland,Japan,covid ban
@@ -11415,15 +11415,15 @@ Ethiopia,Guinea-Bissau,visa on arrival
 Ethiopia,Guyana,visa on arrival
 Ethiopia,Haiti,90
 Ethiopia,Honduras,visa required
-Ethiopia,Hong Kong,covid ban
+Ethiopia,Hong Kong,visa required
 Ethiopia,Hungary,covid ban
 Ethiopia,Iceland,visa required
-Ethiopia,India,visa required
+Ethiopia,India,covid ban
 Ethiopia,Indonesia,covid ban
 Ethiopia,Iran,e-visa
 Ethiopia,Iraq,visa required
 Ethiopia,Ireland,visa required
-Ethiopia,Israel,covid ban
+Ethiopia,Israel,visa required
 Ethiopia,Italy,covid ban
 Ethiopia,Jamaica,visa required
 Ethiopia,Japan,covid ban
@@ -11617,12 +11617,12 @@ Fiji,Honduras,visa required
 Fiji,Hong Kong,90
 Fiji,Hungary,covid ban
 Fiji,Iceland,visa required
-Fiji,India,e-visa
+Fiji,India,covid ban
 Fiji,Indonesia,covid ban
 Fiji,Iran,e-visa
 Fiji,Iraq,visa required
 Fiji,Ireland,visa free
-Fiji,Israel,covid ban
+Fiji,Israel,90
 Fiji,Italy,covid ban
 Fiji,Jamaica,e-visa
 Fiji,Japan,covid ban
@@ -11816,12 +11816,12 @@ Finland,Honduras,90
 Finland,Hong Kong,90
 Finland,Hungary,visa free
 Finland,Iceland,visa free
-Finland,India,e-visa
+Finland,India,covid ban
 Finland,Indonesia,covid ban
 Finland,Iran,e-visa
 Finland,Iraq,visa on arrival
 Finland,Ireland,visa free
-Finland,Israel,covid ban
+Finland,Israel,90
 Finland,Italy,visa free
 Finland,Jamaica,e-visa
 Finland,Japan,covid ban
@@ -11891,12 +11891,12 @@ Finland,Saint Lucia,90
 Finland,Samoa,90
 Finland,San Marino,visa free
 Finland,Sao Tome and Principe,15
-Finland,Saudi Arabia,e-visa
+Finland,Saudi Arabia,covid ban
 Finland,Senegal,90
 Finland,Serbia,90
 Finland,Seychelles,90
 Finland,Sierra Leone,visa on arrival
-Finland,Singapore,90
+Finland,Singapore,covid ban
 Finland,Slovakia,visa free
 Finland,Slovenia,visa free
 Finland,Solomon Islands,covid ban
@@ -12012,15 +12012,15 @@ France,Guinea-Bissau,visa on arrival
 France,Guyana,90
 France,Haiti,90
 France,Honduras,90
-France,Hong Kong,covid ban
+France,Hong Kong,90
 France,Hungary,visa free
 France,Iceland,visa free
-France,India,e-visa
+France,India,covid ban
 France,Indonesia,covid ban
 France,Iran,e-visa
 France,Iraq,visa on arrival
 France,Ireland,visa free
-France,Israel,covid ban
+France,Israel,90
 France,Italy,visa free
 France,Jamaica,e-visa
 France,Japan,covid ban
@@ -12090,7 +12090,7 @@ France,Saint Lucia,90
 France,Samoa,90
 France,San Marino,visa free
 France,Sao Tome and Principe,15
-France,Saudi Arabia,e-visa
+France,Saudi Arabia,covid ban
 France,Senegal,90
 France,Serbia,90
 France,Seychelles,90
@@ -12214,12 +12214,12 @@ Gabon,Honduras,visa required
 Gabon,Hong Kong,14
 Gabon,Hungary,covid ban
 Gabon,Iceland,visa required
-Gabon,India,e-visa
+Gabon,India,covid ban
 Gabon,Indonesia,covid ban
 Gabon,Iran,e-visa
 Gabon,Iraq,visa required
 Gabon,Ireland,visa required
-Gabon,Israel,covid ban
+Gabon,Israel,visa required
 Gabon,Italy,covid ban
 Gabon,Jamaica,visa required
 Gabon,Japan,covid ban
@@ -12413,12 +12413,12 @@ Gambia,Honduras,visa required
 Gambia,Hong Kong,visa required
 Gambia,Hungary,covid ban
 Gambia,Iceland,visa required
-Gambia,India,e-visa
+Gambia,India,covid ban
 Gambia,Indonesia,covid ban
 Gambia,Iran,e-visa
 Gambia,Iraq,visa required
 Gambia,Ireland,visa required
-Gambia,Israel,covid ban
+Gambia,Israel,visa required
 Gambia,Italy,covid ban
 Gambia,Jamaica,e-visa
 Gambia,Japan,covid ban
@@ -12612,12 +12612,12 @@ Georgia,Honduras,visa required
 Georgia,Hong Kong,visa required
 Georgia,Hungary,90
 Georgia,Iceland,90
-Georgia,India,e-visa
+Georgia,India,covid ban
 Georgia,Indonesia,covid ban
 Georgia,Iran,visa free
 Georgia,Iraq,visa required
 Georgia,Ireland,visa required
-Georgia,Israel,covid ban
+Georgia,Israel,90
 Georgia,Italy,covid ban
 Georgia,Jamaica,visa on arrival
 Georgia,Japan,covid ban
@@ -12705,7 +12705,7 @@ Georgia,Sri Lanka,e-visa
 Georgia,Saint Vincent and the Grenadines,30
 Georgia,Sudan,visa required
 Georgia,Suriname,e-visa
-Georgia,Sweden,visa required
+Georgia,Sweden,covid ban
 Georgia,Switzerland,90
 Georgia,Syria,visa required
 Georgia,Taiwan,covid ban
@@ -12811,12 +12811,12 @@ Germany,Honduras,90
 Germany,Hong Kong,90
 Germany,Hungary,visa free
 Germany,Iceland,visa free
-Germany,India,e-visa
+Germany,India,covid ban
 Germany,Indonesia,covid ban
 Germany,Iran,e-visa
 Germany,Iraq,visa on arrival
 Germany,Ireland,visa free
-Germany,Israel,covid ban
+Germany,Israel,90
 Germany,Italy,visa free
 Germany,Jamaica,e-visa
 Germany,Japan,covid ban
@@ -12886,7 +12886,7 @@ Germany,Saint Lucia,90
 Germany,Samoa,90
 Germany,San Marino,visa free
 Germany,Sao Tome and Principe,15
-Germany,Saudi Arabia,e-visa
+Germany,Saudi Arabia,covid ban
 Germany,Senegal,90
 Germany,Serbia,90
 Germany,Seychelles,90
@@ -13010,12 +13010,12 @@ Ghana,Honduras,visa required
 Ghana,Hong Kong,visa required
 Ghana,Hungary,covid ban
 Ghana,Iceland,visa required
-Ghana,India,e-visa
+Ghana,India,covid ban
 Ghana,Indonesia,covid ban
 Ghana,Iran,e-visa
 Ghana,Iraq,visa required
 Ghana,Ireland,visa required
-Ghana,Israel,covid ban
+Ghana,Israel,visa required
 Ghana,Italy,covid ban
 Ghana,Jamaica,e-visa
 Ghana,Japan,covid ban
@@ -13206,15 +13206,15 @@ Greece,Guinea-Bissau,visa on arrival
 Greece,Guyana,90
 Greece,Haiti,90
 Greece,Honduras,90
-Greece,Hong Kong,covid ban
+Greece,Hong Kong,90
 Greece,Hungary,visa free
 Greece,Iceland,visa free
-Greece,India,e-visa
+Greece,India,covid ban
 Greece,Indonesia,covid ban
 Greece,Iran,e-visa
 Greece,Iraq,visa on arrival
 Greece,Ireland,visa free
-Greece,Israel,covid ban
+Greece,Israel,90
 Greece,Italy,visa free
 Greece,Jamaica,e-visa
 Greece,Japan,covid ban
@@ -13284,7 +13284,7 @@ Greece,Saint Lucia,90
 Greece,Samoa,90
 Greece,San Marino,visa free
 Greece,Sao Tome and Principe,15
-Greece,Saudi Arabia,e-visa
+Greece,Saudi Arabia,covid ban
 Greece,Senegal,90
 Greece,Serbia,90
 Greece,Seychelles,90
@@ -13408,12 +13408,12 @@ Grenada,Honduras,visa required
 Grenada,Hong Kong,90
 Grenada,Hungary,covid ban
 Grenada,Iceland,90
-Grenada,India,e-visa
+Grenada,India,covid ban
 Grenada,Indonesia,covid ban
 Grenada,Iran,e-visa
 Grenada,Iraq,visa required
 Grenada,Ireland,visa free
-Grenada,Israel,covid ban
+Grenada,Israel,90
 Grenada,Italy,covid ban
 Grenada,Jamaica,e-visa
 Grenada,Japan,covid ban
@@ -13607,12 +13607,12 @@ Guatemala,Honduras,90
 Guatemala,Hong Kong,30
 Guatemala,Hungary,covid ban
 Guatemala,Iceland,90
-Guatemala,India,e-visa
+Guatemala,India,covid ban
 Guatemala,Indonesia,covid ban
 Guatemala,Iran,e-visa
 Guatemala,Iraq,visa required
 Guatemala,Ireland,visa free
-Guatemala,Israel,covid ban
+Guatemala,Israel,90
 Guatemala,Italy,covid ban
 Guatemala,Jamaica,e-visa
 Guatemala,Japan,covid ban
@@ -13806,12 +13806,12 @@ Guinea,Honduras,visa required
 Guinea,Hong Kong,14
 Guinea,Hungary,covid ban
 Guinea,Iceland,visa required
-Guinea,India,e-visa
+Guinea,India,covid ban
 Guinea,Indonesia,covid ban
 Guinea,Iran,e-visa
 Guinea,Iraq,visa required
 Guinea,Ireland,visa required
-Guinea,Israel,covid ban
+Guinea,Israel,visa required
 Guinea,Italy,covid ban
 Guinea,Jamaica,visa required
 Guinea,Japan,covid ban
@@ -14005,12 +14005,12 @@ Guinea-Bissau,Honduras,visa required
 Guinea-Bissau,Hong Kong,visa required
 Guinea-Bissau,Hungary,covid ban
 Guinea-Bissau,Iceland,visa required
-Guinea-Bissau,India,visa required
+Guinea-Bissau,India,covid ban
 Guinea-Bissau,Indonesia,covid ban
 Guinea-Bissau,Iran,e-visa
 Guinea-Bissau,Iraq,visa required
 Guinea-Bissau,Ireland,visa required
-Guinea-Bissau,Israel,covid ban
+Guinea-Bissau,Israel,visa required
 Guinea-Bissau,Italy,covid ban
 Guinea-Bissau,Jamaica,visa required
 Guinea-Bissau,Japan,covid ban
@@ -14204,12 +14204,12 @@ Guyana,Honduras,visa required
 Guyana,Hong Kong,90
 Guyana,Hungary,covid ban
 Guyana,Iceland,visa required
-Guyana,India,e-visa
+Guyana,India,covid ban
 Guyana,Indonesia,covid ban
 Guyana,Iran,e-visa
 Guyana,Iraq,visa required
 Guyana,Ireland,visa free
-Guyana,Israel,covid ban
+Guyana,Israel,visa required
 Guyana,Italy,covid ban
 Guyana,Jamaica,e-visa
 Guyana,Japan,covid ban
@@ -14403,12 +14403,12 @@ Haiti,Honduras,visa required
 Haiti,Hong Kong,14
 Haiti,Hungary,covid ban
 Haiti,Iceland,visa required
-Haiti,India,e-visa
+Haiti,India,covid ban
 Haiti,Indonesia,covid ban
 Haiti,Iran,e-visa
 Haiti,Iraq,visa required
 Haiti,Ireland,visa required
-Haiti,Israel,covid ban
+Haiti,Israel,90
 Haiti,Italy,covid ban
 Haiti,Jamaica,visa required
 Haiti,Japan,covid ban
@@ -14602,12 +14602,12 @@ Honduras,Honduras,-1
 Honduras,Hong Kong,30
 Honduras,Hungary,covid ban
 Honduras,Iceland,90
-Honduras,India,e-visa
+Honduras,India,covid ban
 Honduras,Indonesia,covid ban
 Honduras,Iran,e-visa
 Honduras,Iraq,visa required
 Honduras,Ireland,visa free
-Honduras,Israel,covid ban
+Honduras,Israel,90
 Honduras,Italy,covid ban
 Honduras,Jamaica,visa required
 Honduras,Japan,covid ban
@@ -14801,15 +14801,15 @@ Hong Kong,Honduras,visa required
 Hong Kong,Hong Kong,-1
 Hong Kong,Hungary,covid ban
 Hong Kong,Iceland,90
-Hong Kong,India,visa required
+Hong Kong,India,covid ban
 Hong Kong,Indonesia,covid ban
 Hong Kong,Iran,21
 Hong Kong,Iraq,visa required
 Hong Kong,Ireland,visa free
-Hong Kong,Israel,covid ban
+Hong Kong,Israel,90
 Hong Kong,Italy,90
 Hong Kong,Jamaica,visa required
-Hong Kong,Japan,covid ban
+Hong Kong,Japan,90
 Hong Kong,Jordan,visa on arrival
 Hong Kong,Kazakhstan,covid ban
 Hong Kong,Kenya,e-visa
@@ -14876,7 +14876,7 @@ Hong Kong,Saint Lucia,42
 Hong Kong,Samoa,visa on arrival
 Hong Kong,San Marino,90
 Hong Kong,Sao Tome and Principe,e-visa
-Hong Kong,Saudi Arabia,e-visa
+Hong Kong,Saudi Arabia,covid ban
 Hong Kong,Senegal,visa required
 Hong Kong,Serbia,14
 Hong Kong,Seychelles,90
@@ -14953,7 +14953,7 @@ Hungary,Burkina Faso,visa on arrival
 Hungary,Burundi,visa required
 Hungary,Cambodia,e-visa
 Hungary,Cameroon,covid ban
-Hungary,Canada,180
+Hungary,Canada,120
 Hungary,Cape Verde,30
 Hungary,Central African Republic,visa required
 Hungary,Chad,visa required
@@ -15000,12 +15000,12 @@ Hungary,Honduras,90
 Hungary,Hong Kong,90
 Hungary,Hungary,-1
 Hungary,Iceland,visa free
-Hungary,India,e-visa
+Hungary,India,covid ban
 Hungary,Indonesia,covid ban
 Hungary,Iran,e-visa
 Hungary,Iraq,visa on arrival
 Hungary,Ireland,visa free
-Hungary,Israel,covid ban
+Hungary,Israel,90
 Hungary,Italy,visa free
 Hungary,Jamaica,e-visa
 Hungary,Japan,covid ban
@@ -15075,7 +15075,7 @@ Hungary,Saint Lucia,90
 Hungary,Samoa,90
 Hungary,San Marino,visa free
 Hungary,Sao Tome and Principe,15
-Hungary,Saudi Arabia,e-visa
+Hungary,Saudi Arabia,covid ban
 Hungary,Senegal,90
 Hungary,Serbia,90
 Hungary,Seychelles,90
@@ -15152,7 +15152,7 @@ Iceland,Burkina Faso,visa on arrival
 Iceland,Burundi,visa required
 Iceland,Cambodia,e-visa
 Iceland,Cameroon,covid ban
-Iceland,Canada,180
+Iceland,Canada,120
 Iceland,Cape Verde,30
 Iceland,Central African Republic,visa required
 Iceland,Chad,visa required
@@ -15199,12 +15199,12 @@ Iceland,Honduras,90
 Iceland,Hong Kong,90
 Iceland,Hungary,visa free
 Iceland,Iceland,-1
-Iceland,India,e-visa
+Iceland,India,covid ban
 Iceland,Indonesia,covid ban
 Iceland,Iran,e-visa
 Iceland,Iraq,visa required
 Iceland,Ireland,visa free
-Iceland,Israel,covid ban
+Iceland,Israel,90
 Iceland,Italy,visa free
 Iceland,Jamaica,e-visa
 Iceland,Japan,covid ban
@@ -15274,7 +15274,7 @@ Iceland,Saint Lucia,42
 Iceland,Samoa,visa on arrival
 Iceland,San Marino,visa free
 Iceland,Sao Tome and Principe,15
-Iceland,Saudi Arabia,e-visa
+Iceland,Saudi Arabia,covid ban
 Iceland,Senegal,visa on arrival
 Iceland,Serbia,90
 Iceland,Seychelles,90
@@ -15395,7 +15395,7 @@ India,Guinea-Bissau,visa on arrival
 India,Guyana,visa on arrival
 India,Haiti,90
 India,Honduras,visa required
-India,Hong Kong,covid ban
+India,Hong Kong,14
 India,Hungary,covid ban
 India,Iceland,visa required
 India,India,-1
@@ -15403,7 +15403,7 @@ India,Indonesia,covid ban
 India,Iran,e-visa
 India,Iraq,visa required
 India,Ireland,visa required
-India,Israel,covid ban
+India,Israel,visa required
 India,Italy,covid ban
 India,Jamaica,e-visa
 India,Japan,covid ban
@@ -15564,7 +15564,7 @@ Indonesia,Costa Rica,visa required
 Indonesia,Ivory Coast,e-visa
 Indonesia,Croatia,visa required
 Indonesia,Cuba,visa required
-Indonesia,Cyprus,visa required
+Indonesia,Cyprus,covid ban
 Indonesia,Czech Republic,covid ban
 Indonesia,Denmark,visa required
 Indonesia,Djibouti,e-visa
@@ -15594,15 +15594,15 @@ Indonesia,Guinea-Bissau,visa on arrival
 Indonesia,Guyana,30
 Indonesia,Haiti,90
 Indonesia,Honduras,visa required
-Indonesia,Hong Kong,covid ban
+Indonesia,Hong Kong,30
 Indonesia,Hungary,covid ban
 Indonesia,Iceland,visa required
-Indonesia,India,visa required
+Indonesia,India,covid ban
 Indonesia,Indonesia,-1
 Indonesia,Iran,e-visa
 Indonesia,Iraq,visa required
 Indonesia,Ireland,visa required
-Indonesia,Israel,covid ban
+Indonesia,Israel,visa required
 Indonesia,Italy,covid ban
 Indonesia,Jamaica,visa required
 Indonesia,Japan,covid ban
@@ -15662,7 +15662,7 @@ Indonesia,Paraguay,visa required
 Indonesia,Peru,180
 Indonesia,Philippines,covid ban
 Indonesia,Poland,covid ban
-Indonesia,Portugal,visa required
+Indonesia,Portugal,covid ban
 Indonesia,Qatar,30
 Indonesia,Romania,visa required
 Indonesia,Russia,covid ban
@@ -15677,7 +15677,7 @@ Indonesia,Senegal,visa on arrival
 Indonesia,Serbia,30
 Indonesia,Seychelles,90
 Indonesia,Sierra Leone,visa on arrival
-Indonesia,Singapore,30
+Indonesia,Singapore,covid ban
 Indonesia,Slovakia,visa required
 Indonesia,Slovenia,visa required
 Indonesia,Solomon Islands,covid ban
@@ -15690,7 +15690,7 @@ Indonesia,Sri Lanka,e-visa
 Indonesia,Saint Vincent and the Grenadines,30
 Indonesia,Sudan,visa required
 Indonesia,Suriname,30
-Indonesia,Sweden,visa required
+Indonesia,Sweden,covid ban
 Indonesia,Switzerland,visa required
 Indonesia,Syria,visa required
 Indonesia,Taiwan,covid ban
@@ -15793,15 +15793,15 @@ Iran,Guinea-Bissau,visa on arrival
 Iran,Guyana,visa on arrival
 Iran,Haiti,90
 Iran,Honduras,visa required
-Iran,Hong Kong,covid ban
+Iran,Hong Kong,visa required
 Iran,Hungary,covid ban
 Iran,Iceland,visa required
-Iran,India,visa required
+Iran,India,covid ban
 Iran,Indonesia,covid ban
 Iran,Iran,-1
 Iran,Iraq,visa required
 Iran,Ireland,visa required
-Iran,Israel,covid ban
+Iran,Israel,visa required
 Iran,Italy,covid ban
 Iran,Jamaica,visa required
 Iran,Japan,covid ban
@@ -15992,15 +15992,15 @@ Iraq,Guinea-Bissau,visa on arrival
 Iraq,Guyana,visa on arrival
 Iraq,Haiti,90
 Iraq,Honduras,visa required
-Iraq,Hong Kong,covid ban
+Iraq,Hong Kong,visa required
 Iraq,Hungary,covid ban
 Iraq,Iceland,visa required
-Iraq,India,visa required
+Iraq,India,covid ban
 Iraq,Indonesia,covid ban
-Iraq,Iran,visa on arrival
+Iraq,Iran,e-visa
 Iraq,Iraq,-1
 Iraq,Ireland,visa required
-Iraq,Israel,covid ban
+Iraq,Israel,visa required
 Iraq,Italy,covid ban
 Iraq,Jamaica,visa required
 Iraq,Japan,covid ban
@@ -16191,15 +16191,15 @@ Ireland,Guinea-Bissau,visa on arrival
 Ireland,Guyana,90
 Ireland,Haiti,90
 Ireland,Honduras,90
-Ireland,Hong Kong,covid ban
+Ireland,Hong Kong,90
 Ireland,Hungary,visa free
 Ireland,Iceland,visa free
-Ireland,India,e-visa
+Ireland,India,covid ban
 Ireland,Indonesia,covid ban
 Ireland,Iran,e-visa
 Ireland,Iraq,visa on arrival
 Ireland,Ireland,-1
-Ireland,Israel,covid ban
+Ireland,Israel,90
 Ireland,Italy,visa free
 Ireland,Jamaica,e-visa
 Ireland,Japan,covid ban
@@ -16269,7 +16269,7 @@ Ireland,Saint Lucia,42
 Ireland,Samoa,visa on arrival
 Ireland,San Marino,visa free
 Ireland,Sao Tome and Principe,15
-Ireland,Saudi Arabia,e-visa
+Ireland,Saudi Arabia,covid ban
 Ireland,Senegal,90
 Ireland,Serbia,90
 Ireland,Seychelles,90
@@ -16393,7 +16393,7 @@ Israel,Honduras,90
 Israel,Hong Kong,90
 Israel,Hungary,90
 Israel,Iceland,90
-Israel,India,e-visa
+Israel,India,covid ban
 Israel,Indonesia,covid ban
 Israel,Iran,e-visa
 Israel,Iraq,visa required
@@ -16592,12 +16592,12 @@ Italy,Honduras,90
 Italy,Hong Kong,90
 Italy,Hungary,visa free
 Italy,Iceland,visa free
-Italy,India,e-visa
+Italy,India,covid ban
 Italy,Indonesia,covid ban
 Italy,Iran,e-visa
 Italy,Iraq,visa on arrival
 Italy,Ireland,visa free
-Italy,Israel,covid ban
+Italy,Israel,90
 Italy,Italy,-1
 Italy,Jamaica,e-visa
 Italy,Japan,covid ban
@@ -16667,7 +16667,7 @@ Italy,Saint Lucia,90
 Italy,Samoa,90
 Italy,San Marino,visa free
 Italy,Sao Tome and Principe,15
-Italy,Saudi Arabia,e-visa
+Italy,Saudi Arabia,covid ban
 Italy,Senegal,90
 Italy,Serbia,90
 Italy,Seychelles,90
@@ -16791,12 +16791,12 @@ Jamaica,Honduras,visa required
 Jamaica,Hong Kong,90
 Jamaica,Hungary,covid ban
 Jamaica,Iceland,visa required
-Jamaica,India,e-visa
+Jamaica,India,covid ban
 Jamaica,Indonesia,covid ban
 Jamaica,Iran,e-visa
 Jamaica,Iraq,visa required
 Jamaica,Ireland,visa required
-Jamaica,Israel,covid ban
+Jamaica,Israel,90
 Jamaica,Italy,covid ban
 Jamaica,Jamaica,-1
 Jamaica,Japan,covid ban
@@ -16958,7 +16958,7 @@ Japan,Ivory Coast,e-visa
 Japan,Croatia,90
 Japan,Cuba,visa required
 Japan,Cyprus,90
-Japan,Czech Republic,90
+Japan,Czech Republic,covid ban
 Japan,Denmark,90
 Japan,Djibouti,e-visa
 Japan,Dominica,180
@@ -16990,12 +16990,12 @@ Japan,Honduras,90
 Japan,Hong Kong,90
 Japan,Hungary,90
 Japan,Iceland,90
-Japan,India,e-visa
+Japan,India,covid ban
 Japan,Indonesia,covid ban
 Japan,Iran,e-visa
 Japan,Iraq,visa on arrival
 Japan,Ireland,visa free
-Japan,Israel,covid ban
+Japan,Israel,90
 Japan,Italy,90
 Japan,Jamaica,e-visa
 Japan,Japan,-1
@@ -17065,7 +17065,7 @@ Japan,Saint Lucia,42
 Japan,Samoa,visa on arrival
 Japan,San Marino,90
 Japan,Sao Tome and Principe,15
-Japan,Saudi Arabia,e-visa
+Japan,Saudi Arabia,covid ban
 Japan,Senegal,90
 Japan,Serbia,90
 Japan,Seychelles,90
@@ -17189,12 +17189,12 @@ Jordan,Honduras,visa required
 Jordan,Hong Kong,30
 Jordan,Hungary,covid ban
 Jordan,Iceland,visa required
-Jordan,India,e-visa
+Jordan,India,covid ban
 Jordan,Indonesia,covid ban
 Jordan,Iran,visa required
 Jordan,Iraq,visa required
 Jordan,Ireland,visa required
-Jordan,Israel,covid ban
+Jordan,Israel,visa required
 Jordan,Italy,visa required
 Jordan,Jamaica,visa required
 Jordan,Japan,covid ban
@@ -17213,7 +17213,7 @@ Jordan,Liberia,visa required
 Jordan,Libya,30
 Jordan,Liechtenstein,visa required
 Jordan,Lithuania,visa required
-Jordan,Luxembourg,visa required
+Jordan,Luxembourg,covid ban
 Jordan,Macao,covid ban
 Jordan,Madagascar,visa on arrival
 Jordan,Malawi,visa on arrival
@@ -17356,7 +17356,7 @@ Kazakhstan,Ivory Coast,e-visa
 Kazakhstan,Croatia,visa required
 Kazakhstan,Cuba,visa required
 Kazakhstan,Cyprus,covid ban
-Kazakhstan,Czech Republic,visa required
+Kazakhstan,Czech Republic,covid ban
 Kazakhstan,Denmark,visa required
 Kazakhstan,Djibouti,e-visa
 Kazakhstan,Dominica,21
@@ -17388,12 +17388,12 @@ Kazakhstan,Honduras,visa required
 Kazakhstan,Hong Kong,14
 Kazakhstan,Hungary,visa required
 Kazakhstan,Iceland,visa required
-Kazakhstan,India,visa required
+Kazakhstan,India,covid ban
 Kazakhstan,Indonesia,covid ban
 Kazakhstan,Iran,e-visa
 Kazakhstan,Iraq,visa required
 Kazakhstan,Ireland,visa required
-Kazakhstan,Israel,covid ban
+Kazakhstan,Israel,visa required
 Kazakhstan,Italy,covid ban
 Kazakhstan,Jamaica,visa on arrival
 Kazakhstan,Japan,covid ban
@@ -17463,7 +17463,7 @@ Kazakhstan,Saint Lucia,visa required
 Kazakhstan,Samoa,visa on arrival
 Kazakhstan,San Marino,covid ban
 Kazakhstan,Sao Tome and Principe,e-visa
-Kazakhstan,Saudi Arabia,e-visa
+Kazakhstan,Saudi Arabia,covid ban
 Kazakhstan,Senegal,visa on arrival
 Kazakhstan,Serbia,30
 Kazakhstan,Seychelles,90
@@ -17587,12 +17587,12 @@ Kenya,Honduras,visa required
 Kenya,Hong Kong,90
 Kenya,Hungary,covid ban
 Kenya,Iceland,visa required
-Kenya,India,e-visa
+Kenya,India,covid ban
 Kenya,Indonesia,covid ban
 Kenya,Iran,e-visa
 Kenya,Iraq,visa required
 Kenya,Ireland,visa required
-Kenya,Israel,covid ban
+Kenya,Israel,visa required
 Kenya,Italy,covid ban
 Kenya,Jamaica,e-visa
 Kenya,Japan,covid ban
@@ -17786,12 +17786,12 @@ Kiribati,Honduras,visa required
 Kiribati,Hong Kong,90
 Kiribati,Hungary,covid ban
 Kiribati,Iceland,90
-Kiribati,India,e-visa
+Kiribati,India,covid ban
 Kiribati,Indonesia,covid ban
 Kiribati,Iran,e-visa
 Kiribati,Iraq,visa required
 Kiribati,Ireland,visa free
-Kiribati,Israel,covid ban
+Kiribati,Israel,visa required
 Kiribati,Italy,covid ban
 Kiribati,Jamaica,e-visa
 Kiribati,Japan,covid ban
@@ -17985,12 +17985,12 @@ Kosovo,Honduras,visa required
 Kosovo,Hong Kong,visa required
 Kosovo,Hungary,covid ban
 Kosovo,Iceland,visa required
-Kosovo,India,visa required
+Kosovo,India,covid ban
 Kosovo,Indonesia,covid ban
 Kosovo,Iran,e-visa
 Kosovo,Iraq,visa required
 Kosovo,Ireland,visa required
-Kosovo,Israel,covid ban
+Kosovo,Israel,visa required
 Kosovo,Italy,visa required
 Kosovo,Jamaica,visa on arrival
 Kosovo,Japan,covid ban
@@ -18184,12 +18184,12 @@ Kuwait,Honduras,90
 Kuwait,Hong Kong,30
 Kuwait,Hungary,covid ban
 Kuwait,Iceland,visa required
-Kuwait,India,visa required
+Kuwait,India,covid ban
 Kuwait,Indonesia,covid ban
 Kuwait,Iran,e-visa
 Kuwait,Iraq,visa required
 Kuwait,Ireland,visa required
-Kuwait,Israel,covid ban
+Kuwait,Israel,visa required
 Kuwait,Italy,visa required
 Kuwait,Jamaica,visa required
 Kuwait,Japan,covid ban
@@ -18208,7 +18208,7 @@ Kuwait,Liberia,visa required
 Kuwait,Libya,visa required
 Kuwait,Liechtenstein,visa required
 Kuwait,Lithuania,visa required
-Kuwait,Luxembourg,visa required
+Kuwait,Luxembourg,covid ban
 Kuwait,Macao,covid ban
 Kuwait,Madagascar,visa on arrival
 Kuwait,Malawi,visa on arrival
@@ -18295,7 +18295,7 @@ Kuwait,Tuvalu,visa on arrival
 Kuwait,Uganda,e-visa
 Kuwait,Ukraine,90
 Kuwait,United Arab Emirates,visa free
-Kuwait,United Kingdom,e-visa
+Kuwait,United Kingdom,EVW
 Kuwait,United States,visa required
 Kuwait,Uruguay,visa required
 Kuwait,Uzbekistan,e-visa
@@ -18383,12 +18383,12 @@ Kyrgyzstan,Honduras,visa required
 Kyrgyzstan,Hong Kong,visa required
 Kyrgyzstan,Hungary,visa required
 Kyrgyzstan,Iceland,visa required
-Kyrgyzstan,India,visa required
+Kyrgyzstan,India,covid ban
 Kyrgyzstan,Indonesia,covid ban
 Kyrgyzstan,Iran,e-visa
 Kyrgyzstan,Iraq,visa required
 Kyrgyzstan,Ireland,visa required
-Kyrgyzstan,Israel,covid ban
+Kyrgyzstan,Israel,visa required
 Kyrgyzstan,Italy,covid ban
 Kyrgyzstan,Jamaica,visa on arrival
 Kyrgyzstan,Japan,covid ban
@@ -18582,12 +18582,12 @@ Laos,Honduras,visa required
 Laos,Hong Kong,visa required
 Laos,Hungary,covid ban
 Laos,Iceland,visa required
-Laos,India,e-visa
+Laos,India,covid ban
 Laos,Indonesia,covid ban
 Laos,Iran,e-visa
 Laos,Iraq,visa required
 Laos,Ireland,visa required
-Laos,Israel,covid ban
+Laos,Israel,visa required
 Laos,Italy,covid ban
 Laos,Jamaica,visa required
 Laos,Japan,covid ban
@@ -18781,12 +18781,12 @@ Latvia,Honduras,90
 Latvia,Hong Kong,90
 Latvia,Hungary,visa free
 Latvia,Iceland,visa free
-Latvia,India,e-visa
+Latvia,India,covid ban
 Latvia,Indonesia,covid ban
 Latvia,Iran,e-visa
 Latvia,Iraq,visa on arrival
 Latvia,Ireland,visa free
-Latvia,Israel,covid ban
+Latvia,Israel,90
 Latvia,Italy,visa free
 Latvia,Jamaica,e-visa
 Latvia,Japan,covid ban
@@ -18856,7 +18856,7 @@ Latvia,Saint Lucia,90
 Latvia,Samoa,90
 Latvia,San Marino,visa free
 Latvia,Sao Tome and Principe,15
-Latvia,Saudi Arabia,e-visa
+Latvia,Saudi Arabia,covid ban
 Latvia,Senegal,90
 Latvia,Serbia,90
 Latvia,Seychelles,90
@@ -18978,14 +18978,14 @@ Lebanon,Guyana,visa on arrival
 Lebanon,Haiti,90
 Lebanon,Honduras,visa required
 Lebanon,Hong Kong,visa required
-Lebanon,Hungary,visa required
+Lebanon,Hungary,covid ban
 Lebanon,Iceland,visa required
-Lebanon,India,visa required
+Lebanon,India,covid ban
 Lebanon,Indonesia,covid ban
 Lebanon,Iran,30
 Lebanon,Iraq,visa on arrival
 Lebanon,Ireland,visa required
-Lebanon,Israel,covid ban
+Lebanon,Israel,visa required
 Lebanon,Italy,covid ban
 Lebanon,Jamaica,visa required
 Lebanon,Japan,covid ban
@@ -19045,7 +19045,7 @@ Lebanon,Paraguay,visa required
 Lebanon,Peru,visa required
 Lebanon,Philippines,covid ban
 Lebanon,Poland,covid ban
-Lebanon,Portugal,visa required
+Lebanon,Portugal,covid ban
 Lebanon,Qatar,visa free
 Lebanon,Romania,visa required
 Lebanon,Russia,visa required
@@ -19127,7 +19127,7 @@ Lesotho,Bosnia and Herzegovina,visa required
 Lesotho,Botswana,90
 Lesotho,Brazil,visa required
 Lesotho,Brunei,covid ban
-Lesotho,Bulgaria,covid ban
+Lesotho,Bulgaria,visa required
 Lesotho,Burkina Faso,visa required
 Lesotho,Burundi,visa required
 Lesotho,Cambodia,e-visa
@@ -19176,15 +19176,15 @@ Lesotho,Guinea-Bissau,visa on arrival
 Lesotho,Guyana,28
 Lesotho,Haiti,90
 Lesotho,Honduras,visa required
-Lesotho,Hong Kong,covid ban
+Lesotho,Hong Kong,14
 Lesotho,Hungary,covid ban
 Lesotho,Iceland,visa required
-Lesotho,India,e-visa
+Lesotho,India,covid ban
 Lesotho,Indonesia,covid ban
 Lesotho,Iran,e-visa
 Lesotho,Iraq,visa required
 Lesotho,Ireland,visa free
-Lesotho,Israel,covid ban
+Lesotho,Israel,90
 Lesotho,Italy,covid ban
 Lesotho,Jamaica,e-visa
 Lesotho,Japan,covid ban
@@ -19378,12 +19378,12 @@ Liberia,Honduras,visa required
 Liberia,Hong Kong,visa required
 Liberia,Hungary,covid ban
 Liberia,Iceland,visa required
-Liberia,India,e-visa
+Liberia,India,covid ban
 Liberia,Indonesia,covid ban
 Liberia,Iran,e-visa
 Liberia,Iraq,visa required
 Liberia,Ireland,visa required
-Liberia,Israel,covid ban
+Liberia,Israel,visa required
 Liberia,Italy,covid ban
 Liberia,Jamaica,visa required
 Liberia,Japan,covid ban
@@ -19577,12 +19577,12 @@ Libya,Honduras,visa required
 Libya,Hong Kong,visa required
 Libya,Hungary,covid ban
 Libya,Iceland,visa required
-Libya,India,visa required
+Libya,India,covid ban
 Libya,Indonesia,covid ban
 Libya,Iran,e-visa
 Libya,Iraq,visa required
 Libya,Ireland,visa required
-Libya,Israel,covid ban
+Libya,Israel,visa required
 Libya,Italy,covid ban
 Libya,Jamaica,visa required
 Libya,Japan,covid ban
@@ -19776,12 +19776,12 @@ Liechtenstein,Honduras,90
 Liechtenstein,Hong Kong,90
 Liechtenstein,Hungary,visa free
 Liechtenstein,Iceland,visa free
-Liechtenstein,India,e-visa
+Liechtenstein,India,covid ban
 Liechtenstein,Indonesia,covid ban
 Liechtenstein,Iran,e-visa
 Liechtenstein,Iraq,visa required
 Liechtenstein,Ireland,visa free
-Liechtenstein,Israel,covid ban
+Liechtenstein,Israel,90
 Liechtenstein,Italy,visa free
 Liechtenstein,Jamaica,e-visa
 Liechtenstein,Japan,covid ban
@@ -19851,7 +19851,7 @@ Liechtenstein,Saint Lucia,42
 Liechtenstein,Samoa,visa on arrival
 Liechtenstein,San Marino,visa free
 Liechtenstein,Sao Tome and Principe,15
-Liechtenstein,Saudi Arabia,e-visa
+Liechtenstein,Saudi Arabia,covid ban
 Liechtenstein,Senegal,visa on arrival
 Liechtenstein,Serbia,90
 Liechtenstein,Seychelles,90
@@ -19975,12 +19975,12 @@ Lithuania,Honduras,90
 Lithuania,Hong Kong,90
 Lithuania,Hungary,visa free
 Lithuania,Iceland,visa free
-Lithuania,India,e-visa
+Lithuania,India,covid ban
 Lithuania,Indonesia,covid ban
 Lithuania,Iran,e-visa
 Lithuania,Iraq,visa on arrival
 Lithuania,Ireland,visa free
-Lithuania,Israel,covid ban
+Lithuania,Israel,90
 Lithuania,Italy,visa free
 Lithuania,Jamaica,e-visa
 Lithuania,Japan,covid ban
@@ -20050,7 +20050,7 @@ Lithuania,Saint Lucia,90
 Lithuania,Samoa,90
 Lithuania,San Marino,visa free
 Lithuania,Sao Tome and Principe,15
-Lithuania,Saudi Arabia,e-visa
+Lithuania,Saudi Arabia,covid ban
 Lithuania,Senegal,90
 Lithuania,Serbia,90
 Lithuania,Seychelles,90
@@ -20174,12 +20174,12 @@ Luxembourg,Honduras,90
 Luxembourg,Hong Kong,90
 Luxembourg,Hungary,visa free
 Luxembourg,Iceland,visa free
-Luxembourg,India,e-visa
+Luxembourg,India,covid ban
 Luxembourg,Indonesia,covid ban
 Luxembourg,Iran,e-visa
 Luxembourg,Iraq,visa on arrival
 Luxembourg,Ireland,visa free
-Luxembourg,Israel,covid ban
+Luxembourg,Israel,90
 Luxembourg,Italy,visa free
 Luxembourg,Jamaica,e-visa
 Luxembourg,Japan,covid ban
@@ -20249,7 +20249,7 @@ Luxembourg,Saint Lucia,90
 Luxembourg,Samoa,90
 Luxembourg,San Marino,visa free
 Luxembourg,Sao Tome and Principe,15
-Luxembourg,Saudi Arabia,e-visa
+Luxembourg,Saudi Arabia,covid ban
 Luxembourg,Senegal,90
 Luxembourg,Serbia,90
 Luxembourg,Seychelles,90
@@ -20373,15 +20373,15 @@ Macao,Honduras,visa required
 Macao,Hong Kong,7
 Macao,Hungary,covid ban
 Macao,Iceland,90
-Macao,India,visa required
+Macao,India,covid ban
 Macao,Indonesia,covid ban
 Macao,Iran,21
 Macao,Iraq,visa required
 Macao,Ireland,visa free
-Macao,Israel,covid ban
+Macao,Israel,90
 Macao,Italy,90
 Macao,Jamaica,visa required
-Macao,Japan,covid ban
+Macao,Japan,90
 Macao,Jordan,visa on arrival
 Macao,Kazakhstan,covid ban
 Macao,Kenya,e-visa
@@ -20436,7 +20436,7 @@ Macao,Panama,visa required
 Macao,Papua New Guinea,covid ban
 Macao,Paraguay,visa required
 Macao,Peru,visa required
-Macao,Philippines,covid ban
+Macao,Philippines,14
 Macao,Poland,covid ban
 Macao,Portugal,90
 Macao,Qatar,visa on arrival
@@ -20448,7 +20448,7 @@ Macao,Saint Lucia,visa on arrival
 Macao,Samoa,30
 Macao,San Marino,90
 Macao,Sao Tome and Principe,e-visa
-Macao,Saudi Arabia,e-visa
+Macao,Saudi Arabia,covid ban
 Macao,Senegal,visa required
 Macao,Serbia,90
 Macao,Seychelles,90
@@ -20572,12 +20572,12 @@ Madagascar,Honduras,90
 Madagascar,Hong Kong,14
 Madagascar,Hungary,covid ban
 Madagascar,Iceland,visa required
-Madagascar,India,e-visa
+Madagascar,India,covid ban
 Madagascar,Indonesia,covid ban
 Madagascar,Iran,e-visa
 Madagascar,Iraq,visa required
 Madagascar,Ireland,visa required
-Madagascar,Israel,covid ban
+Madagascar,Israel,visa required
 Madagascar,Italy,covid ban
 Madagascar,Jamaica,visa required
 Madagascar,Japan,covid ban
@@ -20771,12 +20771,12 @@ Malawi,Honduras,visa required
 Malawi,Hong Kong,90
 Malawi,Hungary,covid ban
 Malawi,Iceland,visa required
-Malawi,India,e-visa
+Malawi,India,covid ban
 Malawi,Indonesia,covid ban
 Malawi,Iran,e-visa
 Malawi,Iraq,visa required
 Malawi,Ireland,visa required
-Malawi,Israel,covid ban
+Malawi,Israel,90
 Malawi,Italy,covid ban
 Malawi,Jamaica,e-visa
 Malawi,Japan,covid ban
@@ -20899,7 +20899,7 @@ Malaysia,Algeria,90
 Malaysia,Andorra,90
 Malaysia,Angola,visa on arrival
 Malaysia,Antigua and Barbuda,180
-Malaysia,Argentina,30
+Malaysia,Argentina,90
 Malaysia,Armenia,e-visa
 Malaysia,Australia,covid ban
 Malaysia,Austria,90
@@ -20967,15 +20967,15 @@ Malaysia,Guinea-Bissau,visa on arrival
 Malaysia,Guyana,60
 Malaysia,Haiti,90
 Malaysia,Honduras,90
-Malaysia,Hong Kong,covid ban
+Malaysia,Hong Kong,90
 Malaysia,Hungary,covid ban
 Malaysia,Iceland,90
-Malaysia,India,visa required
+Malaysia,India,covid ban
 Malaysia,Indonesia,covid ban
 Malaysia,Iran,15
 Malaysia,Iraq,visa required
 Malaysia,Ireland,visa free
-Malaysia,Israel,covid ban
+Malaysia,Israel,visa required
 Malaysia,Italy,covid ban
 Malaysia,Jamaica,e-visa
 Malaysia,Japan,covid ban
@@ -21045,12 +21045,12 @@ Malaysia,Saint Lucia,visa on arrival
 Malaysia,Samoa,visa on arrival
 Malaysia,San Marino,covid ban
 Malaysia,Sao Tome and Principe,e-visa
-Malaysia,Saudi Arabia,e-visa
+Malaysia,Saudi Arabia,covid ban
 Malaysia,Senegal,visa on arrival
 Malaysia,Serbia,visa required
 Malaysia,Seychelles,90
 Malaysia,Sierra Leone,visa on arrival
-Malaysia,Singapore,30
+Malaysia,Singapore,covid ban
 Malaysia,Slovakia,90
 Malaysia,Slovenia,90
 Malaysia,Solomon Islands,covid ban
@@ -21167,14 +21167,14 @@ Maldives,Guyana,visa on arrival
 Maldives,Haiti,90
 Maldives,Honduras,visa required
 Maldives,Hong Kong,90
-Maldives,Hungary,visa required
+Maldives,Hungary,covid ban
 Maldives,Iceland,visa required
 Maldives,India,90
 Maldives,Indonesia,covid ban
 Maldives,Iran,e-visa
 Maldives,Iraq,visa required
 Maldives,Ireland,visa free
-Maldives,Israel,covid ban
+Maldives,Israel,visa required
 Maldives,Italy,covid ban
 Maldives,Jamaica,e-visa
 Maldives,Japan,covid ban
@@ -21368,12 +21368,12 @@ Mali,Honduras,visa required
 Mali,Hong Kong,14
 Mali,Hungary,covid ban
 Mali,Iceland,visa required
-Mali,India,e-visa
+Mali,India,covid ban
 Mali,Indonesia,covid ban
 Mali,Iran,e-visa
 Mali,Iraq,visa required
 Mali,Ireland,visa required
-Mali,Israel,covid ban
+Mali,Israel,visa required
 Mali,Italy,covid ban
 Mali,Jamaica,visa required
 Mali,Japan,covid ban
@@ -21567,12 +21567,12 @@ Malta,Honduras,90
 Malta,Hong Kong,90
 Malta,Hungary,visa free
 Malta,Iceland,visa free
-Malta,India,e-visa
+Malta,India,covid ban
 Malta,Indonesia,covid ban
 Malta,Iran,e-visa
 Malta,Iraq,visa on arrival
 Malta,Ireland,visa free
-Malta,Israel,covid ban
+Malta,Israel,90
 Malta,Italy,visa free
 Malta,Jamaica,e-visa
 Malta,Japan,covid ban
@@ -21642,7 +21642,7 @@ Malta,Saint Lucia,90
 Malta,Samoa,90
 Malta,San Marino,visa free
 Malta,Sao Tome and Principe,15
-Malta,Saudi Arabia,e-visa
+Malta,Saudi Arabia,covid ban
 Malta,Senegal,90
 Malta,Serbia,90
 Malta,Seychelles,90
@@ -21766,12 +21766,12 @@ Marshall Islands,Honduras,90
 Marshall Islands,Hong Kong,14
 Marshall Islands,Hungary,covid ban
 Marshall Islands,Iceland,90
-Marshall Islands,India,e-visa
+Marshall Islands,India,covid ban
 Marshall Islands,Indonesia,covid ban
 Marshall Islands,Iran,e-visa
 Marshall Islands,Iraq,visa required
 Marshall Islands,Ireland,visa required
-Marshall Islands,Israel,covid ban
+Marshall Islands,Israel,visa required
 Marshall Islands,Italy,covid ban
 Marshall Islands,Jamaica,visa required
 Marshall Islands,Japan,covid ban
@@ -21965,12 +21965,12 @@ Mauritania,Honduras,visa required
 Mauritania,Hong Kong,14
 Mauritania,Hungary,covid ban
 Mauritania,Iceland,visa required
-Mauritania,India,visa required
+Mauritania,India,covid ban
 Mauritania,Indonesia,covid ban
 Mauritania,Iran,e-visa
 Mauritania,Iraq,visa required
 Mauritania,Ireland,visa required
-Mauritania,Israel,covid ban
+Mauritania,Israel,visa required
 Mauritania,Italy,covid ban
 Mauritania,Jamaica,visa required
 Mauritania,Japan,covid ban
@@ -22164,12 +22164,12 @@ Mauritius,Honduras,visa required
 Mauritius,Hong Kong,90
 Mauritius,Hungary,covid ban
 Mauritius,Iceland,90
-Mauritius,India,e-visa
+Mauritius,India,covid ban
 Mauritius,Indonesia,covid ban
 Mauritius,Iran,e-visa
 Mauritius,Iraq,visa required
 Mauritius,Ireland,visa required
-Mauritius,Israel,covid ban
+Mauritius,Israel,90
 Mauritius,Italy,covid ban
 Mauritius,Jamaica,e-visa
 Mauritius,Japan,covid ban
@@ -22352,7 +22352,7 @@ Mexico,Gambia,visa required
 Mexico,Georgia,360
 Mexico,Germany,90
 Mexico,Ghana,visa required
-Mexico,Greece,90
+Mexico,Greece,covid ban
 Mexico,Grenada,90
 Mexico,Guatemala,90
 Mexico,Guinea,e-visa
@@ -22363,12 +22363,12 @@ Mexico,Honduras,90
 Mexico,Hong Kong,90
 Mexico,Hungary,90
 Mexico,Iceland,90
-Mexico,India,e-visa
+Mexico,India,covid ban
 Mexico,Indonesia,covid ban
 Mexico,Iran,e-visa
 Mexico,Iraq,visa required
 Mexico,Ireland,visa free
-Mexico,Israel,covid ban
+Mexico,Israel,90
 Mexico,Italy,covid ban
 Mexico,Jamaica,e-visa
 Mexico,Japan,covid ban
@@ -22562,12 +22562,12 @@ Micronesia,Honduras,visa required
 Micronesia,Hong Kong,14
 Micronesia,Hungary,covid ban
 Micronesia,Iceland,90
-Micronesia,India,e-visa
+Micronesia,India,covid ban
 Micronesia,Indonesia,covid ban
 Micronesia,Iran,e-visa
 Micronesia,Iraq,visa required
 Micronesia,Ireland,visa required
-Micronesia,Israel,covid ban
+Micronesia,Israel,90
 Micronesia,Italy,covid ban
 Micronesia,Jamaica,visa required
 Micronesia,Japan,covid ban
@@ -22761,12 +22761,12 @@ Moldova,Honduras,visa required
 Moldova,Hong Kong,visa required
 Moldova,Hungary,90
 Moldova,Iceland,90
-Moldova,India,e-visa
+Moldova,India,covid ban
 Moldova,Indonesia,covid ban
 Moldova,Iran,e-visa
 Moldova,Iraq,visa required
 Moldova,Ireland,visa required
-Moldova,Israel,covid ban
+Moldova,Israel,90
 Moldova,Italy,covid ban
 Moldova,Jamaica,visa on arrival
 Moldova,Japan,covid ban
@@ -22908,7 +22908,7 @@ Monaco,Bosnia and Herzegovina,90
 Monaco,Botswana,90
 Monaco,Brazil,90
 Monaco,Brunei,covid ban
-Monaco,Bulgaria,covid ban
+Monaco,Bulgaria,visa free
 Monaco,Burkina Faso,visa required
 Monaco,Burundi,visa required
 Monaco,Cambodia,e-visa
@@ -22960,12 +22960,12 @@ Monaco,Honduras,90
 Monaco,Hong Kong,90
 Monaco,Hungary,90
 Monaco,Iceland,90
-Monaco,India,e-visa
+Monaco,India,covid ban
 Monaco,Indonesia,covid ban
 Monaco,Iran,e-visa
 Monaco,Iraq,visa required
 Monaco,Ireland,visa free
-Monaco,Israel,covid ban
+Monaco,Israel,90
 Monaco,Italy,90
 Monaco,Jamaica,e-visa
 Monaco,Japan,covid ban
@@ -23035,7 +23035,7 @@ Monaco,Saint Lucia,42
 Monaco,Samoa,visa on arrival
 Monaco,San Marino,90
 Monaco,Sao Tome and Principe,15
-Monaco,Saudi Arabia,e-visa
+Monaco,Saudi Arabia,covid ban
 Monaco,Senegal,visa on arrival
 Monaco,Serbia,90
 Monaco,Seychelles,90
@@ -23159,12 +23159,12 @@ Mongolia,Honduras,visa required
 Mongolia,Hong Kong,14
 Mongolia,Hungary,visa required
 Mongolia,Iceland,visa required
-Mongolia,India,e-visa
+Mongolia,India,covid ban
 Mongolia,Indonesia,covid ban
 Mongolia,Iran,e-visa
 Mongolia,Iraq,visa required
 Mongolia,Ireland,visa required
-Mongolia,Israel,covid ban
+Mongolia,Israel,90
 Mongolia,Italy,covid ban
 Mongolia,Jamaica,visa required
 Mongolia,Japan,covid ban
@@ -23227,7 +23227,7 @@ Mongolia,Poland,covid ban
 Mongolia,Portugal,covid ban
 Mongolia,Qatar,visa required
 Mongolia,Romania,visa required
-Mongolia,Russia,30
+Mongolia,Russia,covid ban
 Mongolia,Rwanda,visa on arrival
 Mongolia,Saint Kitts and Nevis,e-visa
 Mongolia,Saint Lucia,visa on arrival
@@ -23358,12 +23358,12 @@ Montenegro,Honduras,visa required
 Montenegro,Hong Kong,14
 Montenegro,Hungary,90
 Montenegro,Iceland,90
-Montenegro,India,e-visa
+Montenegro,India,covid ban
 Montenegro,Indonesia,covid ban
 Montenegro,Iran,e-visa
 Montenegro,Iraq,visa required
 Montenegro,Ireland,visa required
-Montenegro,Israel,covid ban
+Montenegro,Israel,90
 Montenegro,Italy,covid ban
 Montenegro,Jamaica,visa on arrival
 Montenegro,Japan,covid ban
@@ -23433,7 +23433,7 @@ Montenegro,Saint Lucia,42
 Montenegro,Samoa,visa on arrival
 Montenegro,San Marino,covid ban
 Montenegro,Sao Tome and Principe,e-visa
-Montenegro,Saudi Arabia,e-visa
+Montenegro,Saudi Arabia,covid ban
 Montenegro,Senegal,visa on arrival
 Montenegro,Serbia,90
 Montenegro,Seychelles,90
@@ -23516,7 +23516,7 @@ Morocco,Central African Republic,visa required
 Morocco,Chad,visa required
 Morocco,Chile,visa required
 Morocco,China,visa required
-Morocco,Colombia,90
+Morocco,Colombia,e-visa
 Morocco,Comoros,visa on arrival
 Morocco,Congo,visa on arrival
 Morocco,DR Congo,visa required
@@ -23546,7 +23546,7 @@ Morocco,Gambia,90
 Morocco,Georgia,visa required
 Morocco,Germany,visa required
 Morocco,Ghana,visa required
-Morocco,Greece,visa required
+Morocco,Greece,covid ban
 Morocco,Grenada,90
 Morocco,Guatemala,visa required
 Morocco,Guinea,visa free
@@ -23557,12 +23557,12 @@ Morocco,Honduras,visa required
 Morocco,Hong Kong,30
 Morocco,Hungary,visa required
 Morocco,Iceland,visa required
-Morocco,India,visa required
+Morocco,India,covid ban
 Morocco,Indonesia,covid ban
 Morocco,Iran,e-visa
 Morocco,Iraq,visa required
 Morocco,Ireland,visa required
-Morocco,Israel,covid ban
+Morocco,Israel,visa required
 Morocco,Italy,covid ban
 Morocco,Jamaica,visa required
 Morocco,Japan,covid ban
@@ -23581,7 +23581,7 @@ Morocco,Liberia,visa required
 Morocco,Libya,visa required
 Morocco,Liechtenstein,visa required
 Morocco,Lithuania,visa required
-Morocco,Luxembourg,visa required
+Morocco,Luxembourg,covid ban
 Morocco,Macao,covid ban
 Morocco,Madagascar,visa on arrival
 Morocco,Malawi,e-visa
@@ -23704,7 +23704,7 @@ Mozambique,Bosnia and Herzegovina,visa required
 Mozambique,Botswana,90
 Mozambique,Brazil,visa required
 Mozambique,Brunei,covid ban
-Mozambique,Bulgaria,covid ban
+Mozambique,Bulgaria,visa required
 Mozambique,Burkina Faso,visa required
 Mozambique,Burundi,visa required
 Mozambique,Cambodia,e-visa
@@ -23753,15 +23753,15 @@ Mozambique,Guinea-Bissau,visa on arrival
 Mozambique,Guyana,visa on arrival
 Mozambique,Haiti,90
 Mozambique,Honduras,visa required
-Mozambique,Hong Kong,covid ban
+Mozambique,Hong Kong,14
 Mozambique,Hungary,covid ban
 Mozambique,Iceland,visa required
-Mozambique,India,e-visa
+Mozambique,India,covid ban
 Mozambique,Indonesia,covid ban
 Mozambique,Iran,e-visa
 Mozambique,Iraq,visa required
 Mozambique,Ireland,visa required
-Mozambique,Israel,covid ban
+Mozambique,Israel,visa required
 Mozambique,Italy,covid ban
 Mozambique,Jamaica,e-visa
 Mozambique,Japan,covid ban
@@ -23955,12 +23955,12 @@ Myanmar,Honduras,visa required
 Myanmar,Hong Kong,visa required
 Myanmar,Hungary,covid ban
 Myanmar,Iceland,visa required
-Myanmar,India,e-visa
+Myanmar,India,covid ban
 Myanmar,Indonesia,covid ban
 Myanmar,Iran,e-visa
 Myanmar,Iraq,visa required
 Myanmar,Ireland,visa required
-Myanmar,Israel,covid ban
+Myanmar,Israel,visa required
 Myanmar,Italy,covid ban
 Myanmar,Jamaica,visa required
 Myanmar,Japan,covid ban
@@ -24121,7 +24121,7 @@ Namibia,Costa Rica,visa required
 Namibia,Ivory Coast,e-visa
 Namibia,Croatia,visa required
 Namibia,Cuba,visa free
-Namibia,Cyprus,visa required
+Namibia,Cyprus,covid ban
 Namibia,Czech Republic,visa required
 Namibia,Denmark,visa required
 Namibia,Djibouti,e-visa
@@ -24151,15 +24151,15 @@ Namibia,Guinea-Bissau,visa on arrival
 Namibia,Guyana,visa on arrival
 Namibia,Haiti,90
 Namibia,Honduras,visa required
-Namibia,Hong Kong,covid ban
+Namibia,Hong Kong,90
 Namibia,Hungary,covid ban
 Namibia,Iceland,visa required
-Namibia,India,e-visa
+Namibia,India,covid ban
 Namibia,Indonesia,covid ban
 Namibia,Iran,e-visa
 Namibia,Iraq,visa required
 Namibia,Ireland,visa required
-Namibia,Israel,covid ban
+Namibia,Israel,visa required
 Namibia,Italy,covid ban
 Namibia,Jamaica,e-visa
 Namibia,Japan,covid ban
@@ -24178,7 +24178,7 @@ Namibia,Liberia,visa required
 Namibia,Libya,visa required
 Namibia,Liechtenstein,visa required
 Namibia,Lithuania,visa required
-Namibia,Luxembourg,visa required
+Namibia,Luxembourg,covid ban
 Namibia,Macao,covid ban
 Namibia,Madagascar,visa on arrival
 Namibia,Malawi,90
@@ -24219,7 +24219,7 @@ Namibia,Paraguay,visa required
 Namibia,Peru,visa required
 Namibia,Philippines,covid ban
 Namibia,Poland,covid ban
-Namibia,Portugal,covid ban
+Namibia,Portugal,visa required
 Namibia,Qatar,e-visa
 Namibia,Romania,visa required
 Namibia,Russia,covid ban
@@ -24247,7 +24247,7 @@ Namibia,Sri Lanka,e-visa
 Namibia,Saint Vincent and the Grenadines,30
 Namibia,Sudan,visa required
 Namibia,Suriname,e-visa
-Namibia,Sweden,covid ban
+Namibia,Sweden,visa required
 Namibia,Switzerland,visa required
 Namibia,Syria,visa required
 Namibia,Taiwan,covid ban
@@ -24353,12 +24353,12 @@ Nauru,Honduras,visa required
 Nauru,Hong Kong,90
 Nauru,Hungary,covid ban
 Nauru,Iceland,visa required
-Nauru,India,e-visa
+Nauru,India,covid ban
 Nauru,Indonesia,covid ban
 Nauru,Iran,e-visa
 Nauru,Iraq,visa required
 Nauru,Ireland,visa free
-Nauru,Israel,covid ban
+Nauru,Israel,90
 Nauru,Italy,covid ban
 Nauru,Jamaica,e-visa
 Nauru,Japan,covid ban
@@ -24549,7 +24549,7 @@ Nepal,Guinea-Bissau,visa on arrival
 Nepal,Guyana,visa on arrival
 Nepal,Haiti,90
 Nepal,Honduras,visa required
-Nepal,Hong Kong,covid ban
+Nepal,Hong Kong,visa required
 Nepal,Hungary,covid ban
 Nepal,Iceland,visa required
 Nepal,India,visa free
@@ -24557,7 +24557,7 @@ Nepal,Indonesia,covid ban
 Nepal,Iran,e-visa
 Nepal,Iraq,visa required
 Nepal,Ireland,visa required
-Nepal,Israel,covid ban
+Nepal,Israel,visa required
 Nepal,Italy,covid ban
 Nepal,Jamaica,visa required
 Nepal,Japan,covid ban
@@ -24748,15 +24748,15 @@ Netherlands,Guinea-Bissau,visa on arrival
 Netherlands,Guyana,90
 Netherlands,Haiti,90
 Netherlands,Honduras,90
-Netherlands,Hong Kong,covid ban
+Netherlands,Hong Kong,90
 Netherlands,Hungary,visa free
 Netherlands,Iceland,visa free
-Netherlands,India,e-visa
+Netherlands,India,covid ban
 Netherlands,Indonesia,covid ban
 Netherlands,Iran,e-visa
 Netherlands,Iraq,visa on arrival
 Netherlands,Ireland,visa free
-Netherlands,Israel,covid ban
+Netherlands,Israel,90
 Netherlands,Italy,visa free
 Netherlands,Jamaica,e-visa
 Netherlands,Japan,covid ban
@@ -24826,7 +24826,7 @@ Netherlands,Saint Lucia,90
 Netherlands,Samoa,90
 Netherlands,San Marino,visa free
 Netherlands,Sao Tome and Principe,15
-Netherlands,Saudi Arabia,e-visa
+Netherlands,Saudi Arabia,covid ban
 Netherlands,Senegal,90
 Netherlands,Serbia,90
 Netherlands,Seychelles,90
@@ -24950,15 +24950,15 @@ New Zealand,Honduras,90
 New Zealand,Hong Kong,90
 New Zealand,Hungary,90
 New Zealand,Iceland,90
-New Zealand,India,e-visa
+New Zealand,India,covid ban
 New Zealand,Indonesia,covid ban
 New Zealand,Iran,e-visa
 New Zealand,Iraq,visa on arrival
 New Zealand,Ireland,visa free
-New Zealand,Israel,covid ban
+New Zealand,Israel,90
 New Zealand,Italy,90
 New Zealand,Jamaica,e-visa
-New Zealand,Japan,covid ban
+New Zealand,Japan,90
 New Zealand,Jordan,visa on arrival
 New Zealand,Kazakhstan,covid ban
 New Zealand,Kenya,e-visa
@@ -25025,7 +25025,7 @@ New Zealand,Saint Lucia,42
 New Zealand,Samoa,visa on arrival
 New Zealand,San Marino,90
 New Zealand,Sao Tome and Principe,e-visa
-New Zealand,Saudi Arabia,e-visa
+New Zealand,Saudi Arabia,covid ban
 New Zealand,Senegal,visa on arrival
 New Zealand,Serbia,90
 New Zealand,Seychelles,90
@@ -25149,12 +25149,12 @@ Nicaragua,Honduras,90
 Nicaragua,Hong Kong,visa required
 Nicaragua,Hungary,covid ban
 Nicaragua,Iceland,90
-Nicaragua,India,e-visa
+Nicaragua,India,covid ban
 Nicaragua,Indonesia,covid ban
 Nicaragua,Iran,e-visa
 Nicaragua,Iraq,visa required
 Nicaragua,Ireland,visa free
-Nicaragua,Israel,covid ban
+Nicaragua,Israel,visa required
 Nicaragua,Italy,covid ban
 Nicaragua,Jamaica,visa required
 Nicaragua,Japan,covid ban
@@ -25348,12 +25348,12 @@ Niger,Honduras,visa required
 Niger,Hong Kong,14
 Niger,Hungary,covid ban
 Niger,Iceland,visa required
-Niger,India,e-visa
+Niger,India,covid ban
 Niger,Indonesia,covid ban
 Niger,Iran,e-visa
 Niger,Iraq,visa required
 Niger,Ireland,visa required
-Niger,Israel,covid ban
+Niger,Israel,visa required
 Niger,Italy,covid ban
 Niger,Jamaica,visa required
 Niger,Japan,covid ban
@@ -25544,15 +25544,15 @@ Nigeria,Guinea-Bissau,visa free
 Nigeria,Guyana,visa on arrival
 Nigeria,Haiti,90
 Nigeria,Honduras,visa required
-Nigeria,Hong Kong,covid ban
+Nigeria,Hong Kong,visa required
 Nigeria,Hungary,covid ban
 Nigeria,Iceland,visa required
-Nigeria,India,visa required
+Nigeria,India,covid ban
 Nigeria,Indonesia,covid ban
 Nigeria,Iran,e-visa
 Nigeria,Iraq,visa required
 Nigeria,Ireland,visa required
-Nigeria,Israel,covid ban
+Nigeria,Israel,visa required
 Nigeria,Italy,covid ban
 Nigeria,Jamaica,visa required
 Nigeria,Japan,covid ban
@@ -25694,7 +25694,7 @@ North Korea,Bosnia and Herzegovina,visa required
 North Korea,Botswana,visa required
 North Korea,Brazil,visa required
 North Korea,Brunei,covid ban
-North Korea,Bulgaria,covid ban
+North Korea,Bulgaria,visa required
 North Korea,Burkina Faso,visa required
 North Korea,Burundi,visa required
 North Korea,Cambodia,e-visa
@@ -25746,12 +25746,12 @@ North Korea,Honduras,visa required
 North Korea,Hong Kong,visa required
 North Korea,Hungary,covid ban
 North Korea,Iceland,visa required
-North Korea,India,visa required
+North Korea,India,covid ban
 North Korea,Indonesia,covid ban
 North Korea,Iran,e-visa
 North Korea,Iraq,visa required
 North Korea,Ireland,visa required
-North Korea,Israel,covid ban
+North Korea,Israel,visa required
 North Korea,Italy,covid ban
 North Korea,Jamaica,visa required
 North Korea,Japan,covid ban
@@ -25945,12 +25945,12 @@ North Macedonia,Honduras,90
 North Macedonia,Hong Kong,14
 North Macedonia,Hungary,90
 North Macedonia,Iceland,90
-North Macedonia,India,e-visa
+North Macedonia,India,covid ban
 North Macedonia,Indonesia,covid ban
 North Macedonia,Iran,e-visa
 North Macedonia,Iraq,visa required
 North Macedonia,Ireland,visa required
-North Macedonia,Israel,covid ban
+North Macedonia,Israel,90
 North Macedonia,Italy,covid ban
 North Macedonia,Jamaica,visa on arrival
 North Macedonia,Japan,covid ban
@@ -26144,12 +26144,12 @@ Norway,Honduras,90
 Norway,Hong Kong,90
 Norway,Hungary,visa free
 Norway,Iceland,visa free
-Norway,India,e-visa
+Norway,India,covid ban
 Norway,Indonesia,covid ban
 Norway,Iran,e-visa
 Norway,Iraq,visa required
 Norway,Ireland,visa free
-Norway,Israel,covid ban
+Norway,Israel,90
 Norway,Italy,visa free
 Norway,Jamaica,e-visa
 Norway,Japan,covid ban
@@ -26219,7 +26219,7 @@ Norway,Saint Lucia,90
 Norway,Samoa,visa on arrival
 Norway,San Marino,visa free
 Norway,Sao Tome and Principe,15
-Norway,Saudi Arabia,e-visa
+Norway,Saudi Arabia,covid ban
 Norway,Senegal,visa on arrival
 Norway,Serbia,90
 Norway,Seychelles,90
@@ -26343,12 +26343,12 @@ Oman,Honduras,visa required
 Oman,Hong Kong,30
 Oman,Hungary,covid ban
 Oman,Iceland,visa required
-Oman,India,e-visa
+Oman,India,covid ban
 Oman,Indonesia,covid ban
 Oman,Iran,90
 Oman,Iraq,visa required
 Oman,Ireland,visa required
-Oman,Israel,covid ban
+Oman,Israel,visa required
 Oman,Italy,covid ban
 Oman,Jamaica,visa required
 Oman,Japan,covid ban
@@ -26454,7 +26454,7 @@ Oman,Tuvalu,visa on arrival
 Oman,Uganda,e-visa
 Oman,Ukraine,90
 Oman,United Arab Emirates,visa free
-Oman,United Kingdom,e-visa
+Oman,United Kingdom,EVW
 Oman,United States,visa required
 Oman,Uruguay,visa required
 Oman,Uzbekistan,e-visa
@@ -26539,15 +26539,15 @@ Pakistan,Guinea-Bissau,visa on arrival
 Pakistan,Guyana,visa on arrival
 Pakistan,Haiti,90
 Pakistan,Honduras,visa required
-Pakistan,Hong Kong,covid ban
+Pakistan,Hong Kong,visa required
 Pakistan,Hungary,covid ban
 Pakistan,Iceland,visa required
-Pakistan,India,visa required
+Pakistan,India,covid ban
 Pakistan,Indonesia,covid ban
 Pakistan,Iran,visa required
 Pakistan,Iraq,visa required
 Pakistan,Ireland,visa required
-Pakistan,Israel,covid ban
+Pakistan,Israel,visa required
 Pakistan,Italy,covid ban
 Pakistan,Jamaica,visa required
 Pakistan,Japan,covid ban
@@ -26741,12 +26741,12 @@ Palau,Honduras,visa required
 Palau,Hong Kong,14
 Palau,Hungary,covid ban
 Palau,Iceland,90
-Palau,India,e-visa
+Palau,India,covid ban
 Palau,Indonesia,covid ban
 Palau,Iran,e-visa
 Palau,Iraq,visa required
 Palau,Ireland,visa required
-Palau,Israel,covid ban
+Palau,Israel,90
 Palau,Italy,covid ban
 Palau,Jamaica,visa required
 Palau,Japan,covid ban
@@ -26940,12 +26940,12 @@ Palestine,Honduras,visa required
 Palestine,Hong Kong,visa required
 Palestine,Hungary,covid ban
 Palestine,Iceland,visa required
-Palestine,India,e-visa
+Palestine,India,covid ban
 Palestine,Indonesia,covid ban
 Palestine,Iran,e-visa
 Palestine,Iraq,visa required
 Palestine,Ireland,visa required
-Palestine,Israel,covid ban
+Palestine,Israel,visa required
 Palestine,Italy,covid ban
 Palestine,Jamaica,visa required
 Palestine,Japan,covid ban
@@ -26971,7 +26971,7 @@ Palestine,Malawi,e-visa
 Palestine,Malaysia,covid ban
 Palestine,Maldives,visa on arrival
 Palestine,Mali,visa required
-Palestine,Malta,visa required
+Palestine,Malta,covid ban
 Palestine,Marshall Islands,covid ban
 Palestine,Mauritania,visa on arrival
 Palestine,Mauritius,visa required
@@ -27139,12 +27139,12 @@ Panama,Honduras,90
 Panama,Hong Kong,30
 Panama,Hungary,90
 Panama,Iceland,90
-Panama,India,e-visa
+Panama,India,covid ban
 Panama,Indonesia,covid ban
 Panama,Iran,e-visa
 Panama,Iraq,visa required
 Panama,Ireland,visa free
-Panama,Israel,covid ban
+Panama,Israel,90
 Panama,Italy,covid ban
 Panama,Jamaica,e-visa
 Panama,Japan,covid ban
@@ -27163,7 +27163,7 @@ Panama,Liberia,visa required
 Panama,Libya,visa required
 Panama,Liechtenstein,90
 Panama,Lithuania,90
-Panama,Luxembourg,90
+Panama,Luxembourg,covid ban
 Panama,Macao,covid ban
 Panama,Madagascar,visa on arrival
 Panama,Malawi,visa on arrival
@@ -27338,12 +27338,12 @@ Papua New Guinea,Honduras,visa required
 Papua New Guinea,Hong Kong,90
 Papua New Guinea,Hungary,covid ban
 Papua New Guinea,Iceland,visa required
-Papua New Guinea,India,e-visa
+Papua New Guinea,India,covid ban
 Papua New Guinea,Indonesia,covid ban
 Papua New Guinea,Iran,e-visa
 Papua New Guinea,Iraq,visa required
 Papua New Guinea,Ireland,visa required
-Papua New Guinea,Israel,covid ban
+Papua New Guinea,Israel,90
 Papua New Guinea,Italy,covid ban
 Papua New Guinea,Jamaica,e-visa
 Papua New Guinea,Japan,covid ban
@@ -27537,12 +27537,12 @@ Paraguay,Honduras,90
 Paraguay,Hong Kong,30
 Paraguay,Hungary,covid ban
 Paraguay,Iceland,90
-Paraguay,India,e-visa
+Paraguay,India,covid ban
 Paraguay,Indonesia,covid ban
 Paraguay,Iran,e-visa
 Paraguay,Iraq,visa required
 Paraguay,Ireland,visa free
-Paraguay,Israel,covid ban
+Paraguay,Israel,90
 Paraguay,Italy,covid ban
 Paraguay,Jamaica,e-visa
 Paraguay,Japan,covid ban
@@ -27703,7 +27703,7 @@ Peru,Costa Rica,90
 Peru,Ivory Coast,e-visa
 Peru,Croatia,90
 Peru,Cuba,visa required
-Peru,Cyprus,90
+Peru,Cyprus,covid ban
 Peru,Czech Republic,visa free
 Peru,Denmark,90
 Peru,Djibouti,e-visa
@@ -27736,12 +27736,12 @@ Peru,Honduras,30
 Peru,Hong Kong,30
 Peru,Hungary,covid ban
 Peru,Iceland,90
-Peru,India,e-visa
+Peru,India,covid ban
 Peru,Indonesia,covid ban
 Peru,Iran,e-visa
 Peru,Iraq,visa required
 Peru,Ireland,visa required
-Peru,Israel,covid ban
+Peru,Israel,90
 Peru,Italy,covid ban
 Peru,Jamaica,e-visa
 Peru,Japan,covid ban
@@ -27760,7 +27760,7 @@ Peru,Liberia,visa required
 Peru,Libya,visa required
 Peru,Liechtenstein,90
 Peru,Lithuania,90
-Peru,Luxembourg,90
+Peru,Luxembourg,covid ban
 Peru,Macao,covid ban
 Peru,Madagascar,visa on arrival
 Peru,Malawi,visa on arrival
@@ -27932,15 +27932,15 @@ Philippines,Guinea-Bissau,visa on arrival
 Philippines,Guyana,visa on arrival
 Philippines,Haiti,90
 Philippines,Honduras,visa required
-Philippines,Hong Kong,covid ban
+Philippines,Hong Kong,14
 Philippines,Hungary,covid ban
 Philippines,Iceland,visa required
-Philippines,India,e-visa
+Philippines,India,covid ban
 Philippines,Indonesia,covid ban
 Philippines,Iran,e-visa
 Philippines,Iraq,visa required
 Philippines,Ireland,visa required
-Philippines,Israel,covid ban
+Philippines,Israel,90
 Philippines,Italy,covid ban
 Philippines,Jamaica,visa required
 Philippines,Japan,covid ban
@@ -28134,12 +28134,12 @@ Poland,Honduras,90
 Poland,Hong Kong,90
 Poland,Hungary,visa free
 Poland,Iceland,visa free
-Poland,India,e-visa
+Poland,India,covid ban
 Poland,Indonesia,covid ban
 Poland,Iran,e-visa
 Poland,Iraq,visa on arrival
 Poland,Ireland,visa free
-Poland,Israel,covid ban
+Poland,Israel,90
 Poland,Italy,visa free
 Poland,Jamaica,e-visa
 Poland,Japan,covid ban
@@ -28209,7 +28209,7 @@ Poland,Saint Lucia,90
 Poland,Samoa,90
 Poland,San Marino,visa free
 Poland,Sao Tome and Principe,15
-Poland,Saudi Arabia,e-visa
+Poland,Saudi Arabia,covid ban
 Poland,Senegal,90
 Poland,Serbia,90
 Poland,Seychelles,90
@@ -28333,12 +28333,12 @@ Portugal,Honduras,90
 Portugal,Hong Kong,90
 Portugal,Hungary,visa free
 Portugal,Iceland,visa free
-Portugal,India,e-visa
+Portugal,India,covid ban
 Portugal,Indonesia,covid ban
 Portugal,Iran,e-visa
 Portugal,Iraq,visa on arrival
 Portugal,Ireland,visa free
-Portugal,Israel,covid ban
+Portugal,Israel,90
 Portugal,Italy,visa free
 Portugal,Jamaica,e-visa
 Portugal,Japan,covid ban
@@ -28408,7 +28408,7 @@ Portugal,Saint Lucia,90
 Portugal,Samoa,90
 Portugal,San Marino,visa free
 Portugal,Sao Tome and Principe,15
-Portugal,Saudi Arabia,e-visa
+Portugal,Saudi Arabia,covid ban
 Portugal,Senegal,90
 Portugal,Serbia,90
 Portugal,Seychelles,90
@@ -28532,12 +28532,12 @@ Qatar,Honduras,90
 Qatar,Hong Kong,30
 Qatar,Hungary,covid ban
 Qatar,Iceland,visa required
-Qatar,India,visa required
+Qatar,India,covid ban
 Qatar,Indonesia,covid ban
 Qatar,Iran,e-visa
 Qatar,Iraq,visa required
 Qatar,Ireland,visa required
-Qatar,Israel,covid ban
+Qatar,Israel,visa required
 Qatar,Italy,visa required
 Qatar,Jamaica,visa required
 Qatar,Japan,covid ban
@@ -28556,7 +28556,7 @@ Qatar,Liberia,visa required
 Qatar,Libya,visa required
 Qatar,Liechtenstein,visa required
 Qatar,Lithuania,visa required
-Qatar,Luxembourg,visa required
+Qatar,Luxembourg,covid ban
 Qatar,Macao,covid ban
 Qatar,Madagascar,visa on arrival
 Qatar,Malawi,e-visa
@@ -28607,7 +28607,7 @@ Qatar,Saint Lucia,visa required
 Qatar,Samoa,visa on arrival
 Qatar,San Marino,visa required
 Qatar,Sao Tome and Principe,15
-Qatar,Saudi Arabia,visa free
+Qatar,Saudi Arabia,covid ban
 Qatar,Senegal,visa on arrival
 Qatar,Serbia,90
 Qatar,Seychelles,90
@@ -28643,7 +28643,7 @@ Qatar,Tuvalu,visa on arrival
 Qatar,Uganda,e-visa
 Qatar,Ukraine,90
 Qatar,United Arab Emirates,visa free
-Qatar,United Kingdom,e-visa
+Qatar,United Kingdom,EVW
 Qatar,United States,visa required
 Qatar,Uruguay,visa required
 Qatar,Uzbekistan,e-visa
@@ -28731,12 +28731,12 @@ Romania,Honduras,90
 Romania,Hong Kong,90
 Romania,Hungary,visa free
 Romania,Iceland,visa free
-Romania,India,e-visa
+Romania,India,covid ban
 Romania,Indonesia,covid ban
 Romania,Iran,e-visa
 Romania,Iraq,visa on arrival
 Romania,Ireland,visa free
-Romania,Israel,covid ban
+Romania,Israel,90
 Romania,Italy,visa free
 Romania,Jamaica,visa on arrival
 Romania,Japan,covid ban
@@ -28806,7 +28806,7 @@ Romania,Saint Lucia,90
 Romania,Samoa,90
 Romania,San Marino,visa free
 Romania,Sao Tome and Principe,15
-Romania,Saudi Arabia,e-visa
+Romania,Saudi Arabia,covid ban
 Romania,Senegal,90
 Romania,Serbia,90
 Romania,Seychelles,90
@@ -28927,15 +28927,15 @@ Russia,Guinea-Bissau,visa on arrival
 Russia,Guyana,90
 Russia,Haiti,90
 Russia,Honduras,90
-Russia,Hong Kong,covid ban
+Russia,Hong Kong,14
 Russia,Hungary,visa required
 Russia,Iceland,visa required
-Russia,India,e-visa
+Russia,India,covid ban
 Russia,Indonesia,covid ban
 Russia,Iran,e-visa
 Russia,Iraq,visa on arrival
 Russia,Ireland,visa required
-Russia,Israel,covid ban
+Russia,Israel,90
 Russia,Italy,covid ban
 Russia,Jamaica,e-visa
 Russia,Japan,covid ban
@@ -29005,7 +29005,7 @@ Russia,Saint Lucia,42
 Russia,Samoa,90
 Russia,San Marino,covid ban
 Russia,Sao Tome and Principe,15
-Russia,Saudi Arabia,e-visa
+Russia,Saudi Arabia,covid ban
 Russia,Senegal,visa on arrival
 Russia,Serbia,90
 Russia,Seychelles,90
@@ -29129,12 +29129,12 @@ Rwanda,Honduras,visa required
 Rwanda,Hong Kong,visa required
 Rwanda,Hungary,covid ban
 Rwanda,Iceland,visa required
-Rwanda,India,e-visa
+Rwanda,India,covid ban
 Rwanda,Indonesia,covid ban
 Rwanda,Iran,e-visa
 Rwanda,Iraq,visa required
 Rwanda,Ireland,visa required
-Rwanda,Israel,covid ban
+Rwanda,Israel,visa required
 Rwanda,Italy,visa required
 Rwanda,Jamaica,visa required
 Rwanda,Japan,covid ban
@@ -29153,7 +29153,7 @@ Rwanda,Liberia,visa required
 Rwanda,Libya,visa required
 Rwanda,Liechtenstein,visa required
 Rwanda,Lithuania,visa required
-Rwanda,Luxembourg,visa required
+Rwanda,Luxembourg,covid ban
 Rwanda,Macao,covid ban
 Rwanda,Madagascar,visa on arrival
 Rwanda,Malawi,e-visa
@@ -29328,12 +29328,12 @@ Saint Kitts and Nevis,Honduras,90
 Saint Kitts and Nevis,Hong Kong,90
 Saint Kitts and Nevis,Hungary,covid ban
 Saint Kitts and Nevis,Iceland,90
-Saint Kitts and Nevis,India,e-visa
+Saint Kitts and Nevis,India,covid ban
 Saint Kitts and Nevis,Indonesia,covid ban
 Saint Kitts and Nevis,Iran,e-visa
 Saint Kitts and Nevis,Iraq,visa required
 Saint Kitts and Nevis,Ireland,visa free
-Saint Kitts and Nevis,Israel,covid ban
+Saint Kitts and Nevis,Israel,90
 Saint Kitts and Nevis,Italy,covid ban
 Saint Kitts and Nevis,Jamaica,e-visa
 Saint Kitts and Nevis,Japan,covid ban
@@ -29527,12 +29527,12 @@ Saint Lucia,Honduras,90
 Saint Lucia,Hong Kong,90
 Saint Lucia,Hungary,covid ban
 Saint Lucia,Iceland,90
-Saint Lucia,India,e-visa
+Saint Lucia,India,covid ban
 Saint Lucia,Indonesia,covid ban
 Saint Lucia,Iran,e-visa
 Saint Lucia,Iraq,visa required
 Saint Lucia,Ireland,visa free
-Saint Lucia,Israel,covid ban
+Saint Lucia,Israel,90
 Saint Lucia,Italy,covid ban
 Saint Lucia,Jamaica,e-visa
 Saint Lucia,Japan,covid ban
@@ -29726,12 +29726,12 @@ Samoa,Honduras,visa required
 Samoa,Hong Kong,30
 Samoa,Hungary,covid ban
 Samoa,Iceland,90
-Samoa,India,e-visa
+Samoa,India,covid ban
 Samoa,Indonesia,covid ban
 Samoa,Iran,e-visa
 Samoa,Iraq,visa required
 Samoa,Ireland,visa free
-Samoa,Israel,covid ban
+Samoa,Israel,visa required
 Samoa,Italy,covid ban
 Samoa,Jamaica,e-visa
 Samoa,Japan,covid ban
@@ -29873,7 +29873,7 @@ San Marino,Bosnia and Herzegovina,90
 San Marino,Botswana,90
 San Marino,Brazil,90
 San Marino,Brunei,covid ban
-San Marino,Bulgaria,covid ban
+San Marino,Bulgaria,90
 San Marino,Burkina Faso,visa required
 San Marino,Burundi,visa required
 San Marino,Cambodia,e-visa
@@ -29925,12 +29925,12 @@ San Marino,Honduras,90
 San Marino,Hong Kong,90
 San Marino,Hungary,90
 San Marino,Iceland,90
-San Marino,India,e-visa
+San Marino,India,covid ban
 San Marino,Indonesia,covid ban
 San Marino,Iran,e-visa
 San Marino,Iraq,visa required
 San Marino,Ireland,visa free
-San Marino,Israel,covid ban
+San Marino,Israel,90
 San Marino,Italy,90
 San Marino,Jamaica,e-visa
 San Marino,Japan,covid ban
@@ -30000,7 +30000,7 @@ San Marino,Saint Lucia,42
 San Marino,Samoa,visa on arrival
 San Marino,San Marino,-1
 San Marino,Sao Tome and Principe,15
-San Marino,Saudi Arabia,e-visa
+San Marino,Saudi Arabia,covid ban
 San Marino,Senegal,visa on arrival
 San Marino,Serbia,90
 San Marino,Seychelles,90
@@ -30124,12 +30124,12 @@ Sao Tome and Principe,Honduras,90
 Sao Tome and Principe,Hong Kong,14
 Sao Tome and Principe,Hungary,covid ban
 Sao Tome and Principe,Iceland,visa required
-Sao Tome and Principe,India,visa required
+Sao Tome and Principe,India,covid ban
 Sao Tome and Principe,Indonesia,covid ban
 Sao Tome and Principe,Iran,e-visa
 Sao Tome and Principe,Iraq,visa required
 Sao Tome and Principe,Ireland,visa required
-Sao Tome and Principe,Israel,covid ban
+Sao Tome and Principe,Israel,visa required
 Sao Tome and Principe,Italy,covid ban
 Sao Tome and Principe,Jamaica,visa required
 Sao Tome and Principe,Japan,covid ban
@@ -30323,12 +30323,12 @@ Saudi Arabia,Honduras,90
 Saudi Arabia,Hong Kong,30
 Saudi Arabia,Hungary,covid ban
 Saudi Arabia,Iceland,visa required
-Saudi Arabia,India,visa required
+Saudi Arabia,India,covid ban
 Saudi Arabia,Indonesia,covid ban
 Saudi Arabia,Iran,e-visa
 Saudi Arabia,Iraq,visa required
 Saudi Arabia,Ireland,visa required
-Saudi Arabia,Israel,covid ban
+Saudi Arabia,Israel,visa required
 Saudi Arabia,Italy,visa required
 Saudi Arabia,Jamaica,visa required
 Saudi Arabia,Japan,covid ban
@@ -30347,7 +30347,7 @@ Saudi Arabia,Liberia,visa required
 Saudi Arabia,Libya,visa required
 Saudi Arabia,Liechtenstein,visa required
 Saudi Arabia,Lithuania,visa required
-Saudi Arabia,Luxembourg,visa required
+Saudi Arabia,Luxembourg,covid ban
 Saudi Arabia,Macao,covid ban
 Saudi Arabia,Madagascar,visa on arrival
 Saudi Arabia,Malawi,visa on arrival
@@ -30522,12 +30522,12 @@ Senegal,Honduras,visa required
 Senegal,Hong Kong,visa required
 Senegal,Hungary,covid ban
 Senegal,Iceland,visa required
-Senegal,India,e-visa
+Senegal,India,covid ban
 Senegal,Indonesia,covid ban
 Senegal,Iran,e-visa
 Senegal,Iraq,visa required
 Senegal,Ireland,visa required
-Senegal,Israel,covid ban
+Senegal,Israel,visa required
 Senegal,Italy,covid ban
 Senegal,Jamaica,visa required
 Senegal,Japan,covid ban
@@ -30721,12 +30721,12 @@ Serbia,Honduras,visa required
 Serbia,Hong Kong,14
 Serbia,Hungary,90
 Serbia,Iceland,90
-Serbia,India,e-visa
+Serbia,India,covid ban
 Serbia,Indonesia,covid ban
 Serbia,Iran,e-visa
 Serbia,Iraq,visa required
 Serbia,Ireland,visa required
-Serbia,Israel,covid ban
+Serbia,Israel,90
 Serbia,Italy,covid ban
 Serbia,Jamaica,visa on arrival
 Serbia,Japan,covid ban
@@ -30814,7 +30814,7 @@ Serbia,Sri Lanka,e-visa
 Serbia,Saint Vincent and the Grenadines,30
 Serbia,Sudan,visa required
 Serbia,Suriname,30
-Serbia,Sweden,visa required
+Serbia,Sweden,covid ban
 Serbia,Switzerland,90
 Serbia,Syria,visa required
 Serbia,Taiwan,covid ban
@@ -30920,12 +30920,12 @@ Seychelles,Honduras,visa required
 Seychelles,Hong Kong,90
 Seychelles,Hungary,covid ban
 Seychelles,Iceland,90
-Seychelles,India,e-visa
+Seychelles,India,covid ban
 Seychelles,Indonesia,covid ban
 Seychelles,Iran,e-visa
 Seychelles,Iraq,visa required
 Seychelles,Ireland,visa free
-Seychelles,Israel,covid ban
+Seychelles,Israel,visa required
 Seychelles,Italy,covid ban
 Seychelles,Jamaica,e-visa
 Seychelles,Japan,covid ban
@@ -31119,12 +31119,12 @@ Sierra Leone,Honduras,visa required
 Sierra Leone,Hong Kong,visa required
 Sierra Leone,Hungary,covid ban
 Sierra Leone,Iceland,visa required
-Sierra Leone,India,e-visa
+Sierra Leone,India,covid ban
 Sierra Leone,Indonesia,covid ban
 Sierra Leone,Iran,e-visa
 Sierra Leone,Iraq,visa required
 Sierra Leone,Ireland,visa required
-Sierra Leone,Israel,covid ban
+Sierra Leone,Israel,visa required
 Sierra Leone,Italy,covid ban
 Sierra Leone,Jamaica,e-visa
 Sierra Leone,Japan,covid ban
@@ -31249,7 +31249,7 @@ Singapore,Angola,30
 Singapore,Antigua and Barbuda,180
 Singapore,Argentina,90
 Singapore,Armenia,180
-Singapore,Australia,e-visa
+Singapore,Australia,covid ban
 Singapore,Austria,90
 Singapore,Azerbaijan,e-visa
 Singapore,Bahamas,90
@@ -31316,17 +31316,17 @@ Singapore,Guyana,visa on arrival
 Singapore,Haiti,90
 Singapore,Honduras,90
 Singapore,Hong Kong,90
-Singapore,Hungary,90
+Singapore,Hungary,covid ban
 Singapore,Iceland,90
-Singapore,India,e-visa
+Singapore,India,covid ban
 Singapore,Indonesia,covid ban
 Singapore,Iran,e-visa
 Singapore,Iraq,visa required
 Singapore,Ireland,visa free
-Singapore,Israel,covid ban
+Singapore,Israel,90
 Singapore,Italy,90
 Singapore,Jamaica,e-visa
-Singapore,Japan,covid ban
+Singapore,Japan,90
 Singapore,Jordan,visa on arrival
 Singapore,Kazakhstan,covid ban
 Singapore,Kenya,90
@@ -31393,7 +31393,7 @@ Singapore,Saint Lucia,15
 Singapore,Samoa,visa on arrival
 Singapore,San Marino,90
 Singapore,Sao Tome and Principe,e-visa
-Singapore,Saudi Arabia,e-visa
+Singapore,Saudi Arabia,covid ban
 Singapore,Senegal,90
 Singapore,Serbia,90
 Singapore,Seychelles,90
@@ -31517,12 +31517,12 @@ Slovakia,Honduras,90
 Slovakia,Hong Kong,90
 Slovakia,Hungary,visa free
 Slovakia,Iceland,visa free
-Slovakia,India,e-visa
+Slovakia,India,covid ban
 Slovakia,Indonesia,covid ban
 Slovakia,Iran,e-visa
 Slovakia,Iraq,visa on arrival
 Slovakia,Ireland,visa free
-Slovakia,Israel,covid ban
+Slovakia,Israel,90
 Slovakia,Italy,visa free
 Slovakia,Jamaica,e-visa
 Slovakia,Japan,covid ban
@@ -31592,7 +31592,7 @@ Slovakia,Saint Lucia,90
 Slovakia,Samoa,90
 Slovakia,San Marino,visa free
 Slovakia,Sao Tome and Principe,15
-Slovakia,Saudi Arabia,e-visa
+Slovakia,Saudi Arabia,covid ban
 Slovakia,Senegal,90
 Slovakia,Serbia,90
 Slovakia,Seychelles,90
@@ -31716,12 +31716,12 @@ Slovenia,Honduras,90
 Slovenia,Hong Kong,90
 Slovenia,Hungary,visa free
 Slovenia,Iceland,visa free
-Slovenia,India,e-visa
+Slovenia,India,covid ban
 Slovenia,Indonesia,covid ban
 Slovenia,Iran,e-visa
 Slovenia,Iraq,visa on arrival
 Slovenia,Ireland,visa free
-Slovenia,Israel,covid ban
+Slovenia,Israel,90
 Slovenia,Italy,visa free
 Slovenia,Jamaica,e-visa
 Slovenia,Japan,covid ban
@@ -31791,7 +31791,7 @@ Slovenia,Saint Lucia,90
 Slovenia,Samoa,90
 Slovenia,San Marino,visa free
 Slovenia,Sao Tome and Principe,15
-Slovenia,Saudi Arabia,e-visa
+Slovenia,Saudi Arabia,covid ban
 Slovenia,Senegal,90
 Slovenia,Serbia,90
 Slovenia,Seychelles,90
@@ -31915,12 +31915,12 @@ Solomon Islands,Honduras,90
 Solomon Islands,Hong Kong,visa required
 Solomon Islands,Hungary,covid ban
 Solomon Islands,Iceland,90
-Solomon Islands,India,e-visa
+Solomon Islands,India,covid ban
 Solomon Islands,Indonesia,covid ban
 Solomon Islands,Iran,e-visa
 Solomon Islands,Iraq,visa required
 Solomon Islands,Ireland,visa free
-Solomon Islands,Israel,covid ban
+Solomon Islands,Israel,90
 Solomon Islands,Italy,covid ban
 Solomon Islands,Jamaica,e-visa
 Solomon Islands,Japan,covid ban
@@ -32114,12 +32114,12 @@ Somalia,Honduras,visa required
 Somalia,Hong Kong,visa required
 Somalia,Hungary,covid ban
 Somalia,Iceland,visa required
-Somalia,India,visa required
+Somalia,India,covid ban
 Somalia,Indonesia,covid ban
 Somalia,Iran,visa required
 Somalia,Iraq,visa required
 Somalia,Ireland,visa required
-Somalia,Israel,covid ban
+Somalia,Israel,visa required
 Somalia,Italy,covid ban
 Somalia,Jamaica,visa required
 Somalia,Japan,covid ban
@@ -32310,15 +32310,15 @@ South Africa,Guinea-Bissau,visa on arrival
 South Africa,Guyana,30
 South Africa,Haiti,90
 South Africa,Honduras,90
-South Africa,Hong Kong,covid ban
+South Africa,Hong Kong,30
 South Africa,Hungary,covid ban
 South Africa,Iceland,visa required
-South Africa,India,e-visa
+South Africa,India,covid ban
 South Africa,Indonesia,covid ban
 South Africa,Iran,e-visa
 South Africa,Iraq,visa required
 South Africa,Ireland,visa free
-South Africa,Israel,covid ban
+South Africa,Israel,90
 South Africa,Italy,covid ban
 South Africa,Jamaica,e-visa
 South Africa,Japan,covid ban
@@ -32512,15 +32512,15 @@ South Korea,Honduras,90
 South Korea,Hong Kong,90
 South Korea,Hungary,90
 South Korea,Iceland,90
-South Korea,India,e-visa
+South Korea,India,covid ban
 South Korea,Indonesia,covid ban
 South Korea,Iran,e-visa
 South Korea,Iraq,visa on arrival
 South Korea,Ireland,visa free
-South Korea,Israel,covid ban
+South Korea,Israel,90
 South Korea,Italy,90
 South Korea,Jamaica,e-visa
-South Korea,Japan,covid ban
+South Korea,Japan,90
 South Korea,Jordan,visa on arrival
 South Korea,Kazakhstan,covid ban
 South Korea,Kenya,e-visa
@@ -32587,7 +32587,7 @@ South Korea,Saint Lucia,42
 South Korea,Samoa,visa on arrival
 South Korea,San Marino,90
 South Korea,Sao Tome and Principe,15
-South Korea,Saudi Arabia,e-visa
+South Korea,Saudi Arabia,covid ban
 South Korea,Senegal,90
 South Korea,Serbia,90
 South Korea,Seychelles,90
@@ -32711,12 +32711,12 @@ South Sudan,Honduras,visa required
 South Sudan,Hong Kong,visa required
 South Sudan,Hungary,covid ban
 South Sudan,Iceland,visa required
-South Sudan,India,visa required
+South Sudan,India,covid ban
 South Sudan,Indonesia,covid ban
 South Sudan,Iran,e-visa
 South Sudan,Iraq,visa required
 South Sudan,Ireland,visa required
-South Sudan,Israel,covid ban
+South Sudan,Israel,visa required
 South Sudan,Italy,covid ban
 South Sudan,Jamaica,visa required
 South Sudan,Japan,covid ban
@@ -32907,15 +32907,15 @@ Spain,Guinea-Bissau,visa on arrival
 Spain,Guyana,90
 Spain,Haiti,90
 Spain,Honduras,90
-Spain,Hong Kong,covid ban
+Spain,Hong Kong,90
 Spain,Hungary,visa free
 Spain,Iceland,visa free
-Spain,India,e-visa
+Spain,India,covid ban
 Spain,Indonesia,covid ban
 Spain,Iran,e-visa
 Spain,Iraq,visa on arrival
 Spain,Ireland,visa free
-Spain,Israel,covid ban
+Spain,Israel,90
 Spain,Italy,visa free
 Spain,Jamaica,e-visa
 Spain,Japan,covid ban
@@ -32985,7 +32985,7 @@ Spain,Saint Lucia,90
 Spain,Samoa,90
 Spain,San Marino,visa free
 Spain,Sao Tome and Principe,15
-Spain,Saudi Arabia,e-visa
+Spain,Saudi Arabia,covid ban
 Spain,Senegal,90
 Spain,Serbia,90
 Spain,Seychelles,90
@@ -32996,7 +32996,7 @@ Spain,Slovenia,visa free
 Spain,Solomon Islands,covid ban
 Spain,Somalia,visa on arrival
 Spain,South Africa,90
-Spain,South Korea,covid ban
+Spain,South Korea,e-visa
 Spain,South Sudan,e-visa
 Spain,Spain,-1
 Spain,Sri Lanka,e-visa
@@ -33106,15 +33106,15 @@ Sri Lanka,Guinea-Bissau,visa on arrival
 Sri Lanka,Guyana,visa on arrival
 Sri Lanka,Haiti,90
 Sri Lanka,Honduras,visa required
-Sri Lanka,Hong Kong,covid ban
+Sri Lanka,Hong Kong,visa required
 Sri Lanka,Hungary,covid ban
 Sri Lanka,Iceland,visa required
-Sri Lanka,India,visa required
+Sri Lanka,India,covid ban
 Sri Lanka,Indonesia,covid ban
 Sri Lanka,Iran,e-visa
 Sri Lanka,Iraq,visa required
 Sri Lanka,Ireland,visa required
-Sri Lanka,Israel,covid ban
+Sri Lanka,Israel,visa required
 Sri Lanka,Italy,covid ban
 Sri Lanka,Jamaica,visa required
 Sri Lanka,Japan,covid ban
@@ -33308,12 +33308,12 @@ Saint Vincent and the Grenadines,Honduras,90
 Saint Vincent and the Grenadines,Hong Kong,90
 Saint Vincent and the Grenadines,Hungary,covid ban
 Saint Vincent and the Grenadines,Iceland,90
-Saint Vincent and the Grenadines,India,e-visa
+Saint Vincent and the Grenadines,India,covid ban
 Saint Vincent and the Grenadines,Indonesia,covid ban
 Saint Vincent and the Grenadines,Iran,e-visa
 Saint Vincent and the Grenadines,Iraq,visa required
 Saint Vincent and the Grenadines,Ireland,visa free
-Saint Vincent and the Grenadines,Israel,covid ban
+Saint Vincent and the Grenadines,Israel,90
 Saint Vincent and the Grenadines,Italy,covid ban
 Saint Vincent and the Grenadines,Jamaica,e-visa
 Saint Vincent and the Grenadines,Japan,covid ban
@@ -33507,12 +33507,12 @@ Sudan,Honduras,visa required
 Sudan,Hong Kong,visa required
 Sudan,Hungary,covid ban
 Sudan,Iceland,visa required
-Sudan,India,visa required
+Sudan,India,covid ban
 Sudan,Indonesia,covid ban
 Sudan,Iran,e-visa
 Sudan,Iraq,visa required
 Sudan,Ireland,visa required
-Sudan,Israel,covid ban
+Sudan,Israel,visa required
 Sudan,Italy,covid ban
 Sudan,Jamaica,visa required
 Sudan,Japan,covid ban
@@ -33706,12 +33706,12 @@ Suriname,Honduras,visa required
 Suriname,Hong Kong,14
 Suriname,Hungary,covid ban
 Suriname,Iceland,visa required
-Suriname,India,e-visa
+Suriname,India,covid ban
 Suriname,Indonesia,covid ban
 Suriname,Iran,e-visa
 Suriname,Iraq,visa required
 Suriname,Ireland,visa required
-Suriname,Israel,covid ban
+Suriname,Israel,90
 Suriname,Italy,covid ban
 Suriname,Jamaica,e-visa
 Suriname,Japan,covid ban
@@ -33905,12 +33905,12 @@ Sweden,Honduras,90
 Sweden,Hong Kong,90
 Sweden,Hungary,visa free
 Sweden,Iceland,visa free
-Sweden,India,e-visa
+Sweden,India,covid ban
 Sweden,Indonesia,covid ban
 Sweden,Iran,e-visa
 Sweden,Iraq,visa on arrival
 Sweden,Ireland,visa free
-Sweden,Israel,covid ban
+Sweden,Israel,90
 Sweden,Italy,visa free
 Sweden,Jamaica,e-visa
 Sweden,Japan,covid ban
@@ -33980,18 +33980,18 @@ Sweden,Saint Lucia,90
 Sweden,Samoa,90
 Sweden,San Marino,visa free
 Sweden,Sao Tome and Principe,15
-Sweden,Saudi Arabia,e-visa
+Sweden,Saudi Arabia,covid ban
 Sweden,Senegal,90
 Sweden,Serbia,90
 Sweden,Seychelles,90
 Sweden,Sierra Leone,visa on arrival
-Sweden,Singapore,90
+Sweden,Singapore,covid ban
 Sweden,Slovakia,visa free
 Sweden,Slovenia,visa free
 Sweden,Solomon Islands,covid ban
 Sweden,Somalia,visa on arrival
 Sweden,South Africa,90
-Sweden,South Korea,e-visa
+Sweden,South Korea,covid ban
 Sweden,South Sudan,e-visa
 Sweden,Spain,visa free
 Sweden,Sri Lanka,e-visa
@@ -34101,15 +34101,15 @@ Switzerland,Guinea-Bissau,visa on arrival
 Switzerland,Guyana,90
 Switzerland,Haiti,90
 Switzerland,Honduras,90
-Switzerland,Hong Kong,covid ban
+Switzerland,Hong Kong,90
 Switzerland,Hungary,visa free
 Switzerland,Iceland,visa free
-Switzerland,India,e-visa
+Switzerland,India,covid ban
 Switzerland,Indonesia,covid ban
 Switzerland,Iran,e-visa
 Switzerland,Iraq,visa on arrival
 Switzerland,Ireland,visa free
-Switzerland,Israel,covid ban
+Switzerland,Israel,90
 Switzerland,Italy,visa free
 Switzerland,Jamaica,e-visa
 Switzerland,Japan,covid ban
@@ -34179,7 +34179,7 @@ Switzerland,Saint Lucia,90
 Switzerland,Samoa,visa on arrival
 Switzerland,San Marino,visa free
 Switzerland,Sao Tome and Principe,15
-Switzerland,Saudi Arabia,e-visa
+Switzerland,Saudi Arabia,covid ban
 Switzerland,Senegal,visa on arrival
 Switzerland,Serbia,90
 Switzerland,Seychelles,90
@@ -34303,12 +34303,12 @@ Syria,Honduras,visa required
 Syria,Hong Kong,visa required
 Syria,Hungary,covid ban
 Syria,Iceland,visa required
-Syria,India,visa required
+Syria,India,covid ban
 Syria,Indonesia,covid ban
 Syria,Iran,90
 Syria,Iraq,visa required
 Syria,Ireland,visa required
-Syria,Israel,covid ban
+Syria,Israel,visa required
 Syria,Italy,covid ban
 Syria,Jamaica,visa required
 Syria,Japan,covid ban
@@ -34502,15 +34502,15 @@ Taiwan,Honduras,90
 Taiwan,Hong Kong,30
 Taiwan,Hungary,covid ban
 Taiwan,Iceland,90
-Taiwan,India,e-visa
+Taiwan,India,covid ban
 Taiwan,Indonesia,covid ban
 Taiwan,Iran,e-visa
 Taiwan,Iraq,visa required
 Taiwan,Ireland,visa free
-Taiwan,Israel,covid ban
+Taiwan,Israel,90
 Taiwan,Italy,90
 Taiwan,Jamaica,visa required
-Taiwan,Japan,covid ban
+Taiwan,Japan,90
 Taiwan,Jordan,visa on arrival
 Taiwan,Kazakhstan,covid ban
 Taiwan,Kenya,e-visa
@@ -34698,15 +34698,15 @@ Tajikistan,Guinea-Bissau,visa on arrival
 Tajikistan,Guyana,visa on arrival
 Tajikistan,Haiti,90
 Tajikistan,Honduras,visa required
-Tajikistan,Hong Kong,covid ban
+Tajikistan,Hong Kong,visa required
 Tajikistan,Hungary,covid ban
 Tajikistan,Iceland,visa required
-Tajikistan,India,visa required
+Tajikistan,India,covid ban
 Tajikistan,Indonesia,covid ban
 Tajikistan,Iran,e-visa
 Tajikistan,Iraq,visa required
 Tajikistan,Ireland,visa required
-Tajikistan,Israel,covid ban
+Tajikistan,Israel,visa required
 Tajikistan,Italy,covid ban
 Tajikistan,Jamaica,visa on arrival
 Tajikistan,Japan,covid ban
@@ -34900,12 +34900,12 @@ Tanzania,Honduras,visa required
 Tanzania,Hong Kong,90
 Tanzania,Hungary,covid ban
 Tanzania,Iceland,visa required
-Tanzania,India,e-visa
+Tanzania,India,covid ban
 Tanzania,Indonesia,covid ban
 Tanzania,Iran,e-visa
 Tanzania,Iraq,visa required
 Tanzania,Ireland,visa required
-Tanzania,Israel,covid ban
+Tanzania,Israel,visa required
 Tanzania,Italy,covid ban
 Tanzania,Jamaica,e-visa
 Tanzania,Japan,covid ban
@@ -35096,15 +35096,15 @@ Thailand,Guinea-Bissau,visa on arrival
 Thailand,Guyana,visa on arrival
 Thailand,Haiti,90
 Thailand,Honduras,visa required
-Thailand,Hong Kong,covid ban
+Thailand,Hong Kong,30
 Thailand,Hungary,covid ban
 Thailand,Iceland,visa required
-Thailand,India,e-visa
+Thailand,India,covid ban
 Thailand,Indonesia,covid ban
 Thailand,Iran,e-visa
 Thailand,Iraq,visa required
 Thailand,Ireland,visa required
-Thailand,Israel,covid ban
+Thailand,Israel,visa required
 Thailand,Italy,covid ban
 Thailand,Jamaica,visa required
 Thailand,Japan,covid ban
@@ -35179,7 +35179,7 @@ Thailand,Senegal,visa on arrival
 Thailand,Serbia,visa required
 Thailand,Seychelles,90
 Thailand,Sierra Leone,visa on arrival
-Thailand,Singapore,30
+Thailand,Singapore,covid ban
 Thailand,Slovakia,visa required
 Thailand,Slovenia,visa required
 Thailand,Solomon Islands,covid ban
@@ -35298,12 +35298,12 @@ Timor-Leste,Honduras,visa required
 Timor-Leste,Hong Kong,7
 Timor-Leste,Hungary,covid ban
 Timor-Leste,Iceland,90
-Timor-Leste,India,visa required
+Timor-Leste,India,covid ban
 Timor-Leste,Indonesia,covid ban
 Timor-Leste,Iran,e-visa
 Timor-Leste,Iraq,visa required
 Timor-Leste,Ireland,visa required
-Timor-Leste,Israel,covid ban
+Timor-Leste,Israel,visa required
 Timor-Leste,Italy,covid ban
 Timor-Leste,Jamaica,visa required
 Timor-Leste,Japan,covid ban
@@ -35464,8 +35464,8 @@ Togo,Costa Rica,visa required
 Togo,Ivory Coast,90
 Togo,Croatia,visa required
 Togo,Cuba,visa required
-Togo,Cyprus,visa required
-Togo,Czech Republic,visa required
+Togo,Cyprus,covid ban
+Togo,Czech Republic,covid ban
 Togo,Denmark,visa required
 Togo,Djibouti,e-visa
 Togo,Dominica,21
@@ -35486,7 +35486,7 @@ Togo,Gambia,90
 Togo,Georgia,e-visa
 Togo,Germany,visa required
 Togo,Ghana,visa free
-Togo,Greece,visa required
+Togo,Greece,covid ban
 Togo,Grenada,visa required
 Togo,Guatemala,visa required
 Togo,Guinea,visa free
@@ -35495,14 +35495,14 @@ Togo,Guyana,visa on arrival
 Togo,Haiti,90
 Togo,Honduras,visa required
 Togo,Hong Kong,visa required
-Togo,Hungary,visa required
+Togo,Hungary,covid ban
 Togo,Iceland,visa required
-Togo,India,e-visa
+Togo,India,covid ban
 Togo,Indonesia,covid ban
 Togo,Iran,e-visa
 Togo,Iraq,visa required
 Togo,Ireland,visa required
-Togo,Israel,covid ban
+Togo,Israel,visa required
 Togo,Italy,covid ban
 Togo,Jamaica,visa required
 Togo,Japan,covid ban
@@ -35521,14 +35521,14 @@ Togo,Liberia,visa free
 Togo,Libya,visa required
 Togo,Liechtenstein,visa required
 Togo,Lithuania,visa required
-Togo,Luxembourg,visa required
+Togo,Luxembourg,covid ban
 Togo,Macao,covid ban
 Togo,Madagascar,visa on arrival
 Togo,Malawi,e-visa
 Togo,Malaysia,covid ban
 Togo,Maldives,visa on arrival
 Togo,Mali,visa free
-Togo,Malta,visa required
+Togo,Malta,covid ban
 Togo,Marshall Islands,covid ban
 Togo,Mauritania,visa on arrival
 Togo,Mauritius,visa on arrival
@@ -35562,7 +35562,7 @@ Togo,Paraguay,visa required
 Togo,Peru,visa required
 Togo,Philippines,covid ban
 Togo,Poland,covid ban
-Togo,Portugal,visa required
+Togo,Portugal,covid ban
 Togo,Qatar,e-visa
 Togo,Romania,visa required
 Togo,Russia,covid ban
@@ -35590,7 +35590,7 @@ Togo,Sri Lanka,e-visa
 Togo,Saint Vincent and the Grenadines,30
 Togo,Sudan,visa required
 Togo,Suriname,e-visa
-Togo,Sweden,visa required
+Togo,Sweden,covid ban
 Togo,Switzerland,visa required
 Togo,Syria,visa required
 Togo,Taiwan,covid ban
@@ -35696,12 +35696,12 @@ Tonga,Honduras,visa required
 Tonga,Hong Kong,90
 Tonga,Hungary,covid ban
 Tonga,Iceland,90
-Tonga,India,e-visa
+Tonga,India,covid ban
 Tonga,Indonesia,covid ban
 Tonga,Iran,e-visa
 Tonga,Iraq,visa required
 Tonga,Ireland,visa free
-Tonga,Israel,covid ban
+Tonga,Israel,90
 Tonga,Italy,covid ban
 Tonga,Jamaica,e-visa
 Tonga,Japan,covid ban
@@ -35843,7 +35843,7 @@ Trinidad and Tobago,Bosnia and Herzegovina,90
 Trinidad and Tobago,Botswana,90
 Trinidad and Tobago,Brazil,90
 Trinidad and Tobago,Brunei,covid ban
-Trinidad and Tobago,Bulgaria,covid ban
+Trinidad and Tobago,Bulgaria,90
 Trinidad and Tobago,Burkina Faso,visa required
 Trinidad and Tobago,Burundi,visa required
 Trinidad and Tobago,Cambodia,e-visa
@@ -35895,12 +35895,12 @@ Trinidad and Tobago,Honduras,90
 Trinidad and Tobago,Hong Kong,90
 Trinidad and Tobago,Hungary,covid ban
 Trinidad and Tobago,Iceland,90
-Trinidad and Tobago,India,e-visa
+Trinidad and Tobago,India,covid ban
 Trinidad and Tobago,Indonesia,covid ban
 Trinidad and Tobago,Iran,e-visa
 Trinidad and Tobago,Iraq,visa required
 Trinidad and Tobago,Ireland,visa free
-Trinidad and Tobago,Israel,covid ban
+Trinidad and Tobago,Israel,90
 Trinidad and Tobago,Italy,covid ban
 Trinidad and Tobago,Jamaica,e-visa
 Trinidad and Tobago,Japan,covid ban
@@ -36094,12 +36094,12 @@ Tunisia,Honduras,visa required
 Tunisia,Hong Kong,30
 Tunisia,Hungary,covid ban
 Tunisia,Iceland,visa required
-Tunisia,India,visa required
+Tunisia,India,covid ban
 Tunisia,Indonesia,covid ban
 Tunisia,Iran,e-visa
 Tunisia,Iraq,visa required
 Tunisia,Ireland,visa required
-Tunisia,Israel,covid ban
+Tunisia,Israel,visa required
 Tunisia,Italy,covid ban
 Tunisia,Jamaica,visa required
 Tunisia,Japan,covid ban
@@ -36290,15 +36290,15 @@ Turkey,Guinea-Bissau,visa on arrival
 Turkey,Guyana,visa on arrival
 Turkey,Haiti,90
 Turkey,Honduras,90
-Turkey,Hong Kong,covid ban
+Turkey,Hong Kong,90
 Turkey,Hungary,visa required
 Turkey,Iceland,visa required
-Turkey,India,visa required
+Turkey,India,covid ban
 Turkey,Indonesia,covid ban
 Turkey,Iran,90
 Turkey,Iraq,visa required
 Turkey,Ireland,visa required
-Turkey,Israel,covid ban
+Turkey,Israel,visa required
 Turkey,Italy,covid ban
 Turkey,Jamaica,e-visa
 Turkey,Japan,covid ban
@@ -36317,7 +36317,7 @@ Turkey,Liberia,visa required
 Turkey,Libya,visa on arrival
 Turkey,Liechtenstein,visa required
 Turkey,Lithuania,visa required
-Turkey,Luxembourg,visa required
+Turkey,Luxembourg,covid ban
 Turkey,Macao,covid ban
 Turkey,Madagascar,visa on arrival
 Turkey,Malawi,e-visa
@@ -36492,12 +36492,12 @@ Turkmenistan,Honduras,visa required
 Turkmenistan,Hong Kong,visa required
 Turkmenistan,Hungary,covid ban
 Turkmenistan,Iceland,visa required
-Turkmenistan,India,visa required
+Turkmenistan,India,covid ban
 Turkmenistan,Indonesia,covid ban
 Turkmenistan,Iran,e-visa
 Turkmenistan,Iraq,visa required
 Turkmenistan,Ireland,visa required
-Turkmenistan,Israel,covid ban
+Turkmenistan,Israel,visa required
 Turkmenistan,Italy,covid ban
 Turkmenistan,Jamaica,visa on arrival
 Turkmenistan,Japan,covid ban
@@ -36691,12 +36691,12 @@ Tuvalu,Honduras,90
 Tuvalu,Hong Kong,90
 Tuvalu,Hungary,covid ban
 Tuvalu,Iceland,90
-Tuvalu,India,e-visa
+Tuvalu,India,covid ban
 Tuvalu,Indonesia,covid ban
 Tuvalu,Iran,e-visa
 Tuvalu,Iraq,visa required
 Tuvalu,Ireland,visa free
-Tuvalu,Israel,covid ban
+Tuvalu,Israel,visa required
 Tuvalu,Italy,covid ban
 Tuvalu,Jamaica,e-visa
 Tuvalu,Japan,covid ban
@@ -36890,12 +36890,12 @@ Uganda,Honduras,visa required
 Uganda,Hong Kong,30
 Uganda,Hungary,covid ban
 Uganda,Iceland,visa required
-Uganda,India,e-visa
+Uganda,India,covid ban
 Uganda,Indonesia,covid ban
 Uganda,Iran,e-visa
 Uganda,Iraq,visa required
 Uganda,Ireland,visa required
-Uganda,Israel,covid ban
+Uganda,Israel,visa required
 Uganda,Italy,covid ban
 Uganda,Jamaica,e-visa
 Uganda,Japan,covid ban
@@ -37089,12 +37089,12 @@ Ukraine,Honduras,90
 Ukraine,Hong Kong,14
 Ukraine,Hungary,90
 Ukraine,Iceland,90
-Ukraine,India,e-visa
+Ukraine,India,covid ban
 Ukraine,Indonesia,covid ban
 Ukraine,Iran,e-visa
 Ukraine,Iraq,visa required
 Ukraine,Ireland,visa required
-Ukraine,Israel,covid ban
+Ukraine,Israel,90
 Ukraine,Italy,90
 Ukraine,Jamaica,e-visa
 Ukraine,Japan,covid ban
@@ -37164,7 +37164,7 @@ Ukraine,Saint Lucia,visa required
 Ukraine,Samoa,visa on arrival
 Ukraine,San Marino,90
 Ukraine,Sao Tome and Principe,e-visa
-Ukraine,Saudi Arabia,e-visa
+Ukraine,Saudi Arabia,covid ban
 Ukraine,Senegal,visa on arrival
 Ukraine,Serbia,90
 Ukraine,Seychelles,90
@@ -37285,15 +37285,15 @@ United Arab Emirates,Guinea-Bissau,visa on arrival
 United Arab Emirates,Guyana,visa on arrival
 United Arab Emirates,Haiti,90
 United Arab Emirates,Honduras,90
-United Arab Emirates,Hong Kong,covid ban
+United Arab Emirates,Hong Kong,visa required
 United Arab Emirates,Hungary,90
 United Arab Emirates,Iceland,90
-United Arab Emirates,India,e-visa
+United Arab Emirates,India,covid ban
 United Arab Emirates,Indonesia,covid ban
 United Arab Emirates,Iran,e-visa
 United Arab Emirates,Iraq,visa on arrival
 United Arab Emirates,Ireland,visa free
-United Arab Emirates,Israel,covid ban
+United Arab Emirates,Israel,90
 United Arab Emirates,Italy,90
 United Arab Emirates,Jamaica,visa on arrival
 United Arab Emirates,Japan,covid ban
@@ -37399,7 +37399,7 @@ United Arab Emirates,Tuvalu,visa on arrival
 United Arab Emirates,Uganda,e-visa
 United Arab Emirates,Ukraine,90
 United Arab Emirates,United Arab Emirates,-1
-United Arab Emirates,United Kingdom,e-visa
+United Arab Emirates,United Kingdom,EVW
 United Arab Emirates,United States,visa required
 United Arab Emirates,Uruguay,90
 United Arab Emirates,Uzbekistan,30
@@ -37484,15 +37484,15 @@ United Kingdom,Guinea-Bissau,visa on arrival
 United Kingdom,Guyana,90
 United Kingdom,Haiti,90
 United Kingdom,Honduras,90
-United Kingdom,Hong Kong,covid ban
+United Kingdom,Hong Kong,180
 United Kingdom,Hungary,90
 United Kingdom,Iceland,90
-United Kingdom,India,visa required
+United Kingdom,India,covid ban
 United Kingdom,Indonesia,covid ban
 United Kingdom,Iran,visa required
 United Kingdom,Iraq,visa on arrival
 United Kingdom,Ireland,visa free
-United Kingdom,Israel,covid ban
+United Kingdom,Israel,90
 United Kingdom,Italy,90
 United Kingdom,Jamaica,e-visa
 United Kingdom,Japan,covid ban
@@ -37562,7 +37562,7 @@ United Kingdom,Saint Lucia,42
 United Kingdom,Samoa,visa on arrival
 United Kingdom,San Marino,90
 United Kingdom,Sao Tome and Principe,15
-United Kingdom,Saudi Arabia,e-visa
+United Kingdom,Saudi Arabia,covid ban
 United Kingdom,Senegal,90
 United Kingdom,Serbia,90
 United Kingdom,Seychelles,90
@@ -37683,15 +37683,15 @@ United States,Guinea-Bissau,visa on arrival
 United States,Guyana,90
 United States,Haiti,90
 United States,Honduras,90
-United States,Hong Kong,covid ban
+United States,Hong Kong,90
 United States,Hungary,90
 United States,Iceland,90
-United States,India,e-visa
+United States,India,covid ban
 United States,Indonesia,covid ban
 United States,Iran,visa required
 United States,Iraq,visa on arrival
 United States,Ireland,visa free
-United States,Israel,covid ban
+United States,Israel,90
 United States,Italy,90
 United States,Jamaica,e-visa
 United States,Japan,covid ban
@@ -37761,7 +37761,7 @@ United States,Saint Lucia,42
 United States,Samoa,visa on arrival
 United States,San Marino,90
 United States,Sao Tome and Principe,15
-United States,Saudi Arabia,e-visa
+United States,Saudi Arabia,covid ban
 United States,Senegal,90
 United States,Serbia,90
 United States,Seychelles,90
@@ -37833,7 +37833,7 @@ Uruguay,Bosnia and Herzegovina,90
 Uruguay,Botswana,90
 Uruguay,Brazil,90
 Uruguay,Brunei,covid ban
-Uruguay,Bulgaria,visa required
+Uruguay,Bulgaria,covid ban
 Uruguay,Burkina Faso,visa required
 Uruguay,Burundi,visa required
 Uruguay,Cambodia,e-visa
@@ -37885,12 +37885,12 @@ Uruguay,Honduras,90
 Uruguay,Hong Kong,90
 Uruguay,Hungary,covid ban
 Uruguay,Iceland,90
-Uruguay,India,e-visa
+Uruguay,India,covid ban
 Uruguay,Indonesia,covid ban
 Uruguay,Iran,e-visa
 Uruguay,Iraq,visa required
 Uruguay,Ireland,visa free
-Uruguay,Israel,covid ban
+Uruguay,Israel,90
 Uruguay,Italy,covid ban
 Uruguay,Jamaica,e-visa
 Uruguay,Japan,covid ban
@@ -38052,7 +38052,7 @@ Uzbekistan,Ivory Coast,e-visa
 Uzbekistan,Croatia,visa required
 Uzbekistan,Cuba,visa required
 Uzbekistan,Cyprus,covid ban
-Uzbekistan,Czech Republic,visa required
+Uzbekistan,Czech Republic,covid ban
 Uzbekistan,Denmark,visa required
 Uzbekistan,Djibouti,e-visa
 Uzbekistan,Dominica,21
@@ -38084,12 +38084,12 @@ Uzbekistan,Honduras,visa required
 Uzbekistan,Hong Kong,visa required
 Uzbekistan,Hungary,visa required
 Uzbekistan,Iceland,visa required
-Uzbekistan,India,visa required
+Uzbekistan,India,covid ban
 Uzbekistan,Indonesia,covid ban
 Uzbekistan,Iran,e-visa
 Uzbekistan,Iraq,visa required
 Uzbekistan,Ireland,visa required
-Uzbekistan,Israel,covid ban
+Uzbekistan,Israel,visa required
 Uzbekistan,Italy,covid ban
 Uzbekistan,Jamaica,visa on arrival
 Uzbekistan,Japan,covid ban
@@ -38283,12 +38283,12 @@ Vanuatu,Honduras,90
 Vanuatu,Hong Kong,90
 Vanuatu,Hungary,covid ban
 Vanuatu,Iceland,90
-Vanuatu,India,e-visa
+Vanuatu,India,covid ban
 Vanuatu,Indonesia,covid ban
 Vanuatu,Iran,e-visa
 Vanuatu,Iraq,visa required
 Vanuatu,Ireland,visa free
-Vanuatu,Israel,covid ban
+Vanuatu,Israel,90
 Vanuatu,Italy,covid ban
 Vanuatu,Jamaica,e-visa
 Vanuatu,Japan,covid ban
@@ -38482,12 +38482,12 @@ Vatican,Honduras,90
 Vatican,Hong Kong,14
 Vatican,Hungary,90
 Vatican,Iceland,90
-Vatican,India,e-visa
+Vatican,India,covid ban
 Vatican,Indonesia,covid ban
 Vatican,Iran,e-visa
 Vatican,Iraq,visa required
 Vatican,Ireland,visa free
-Vatican,Israel,covid ban
+Vatican,Israel,90
 Vatican,Italy,90
 Vatican,Jamaica,visa required
 Vatican,Japan,covid ban
@@ -38681,12 +38681,12 @@ Venezuela,Honduras,visa required
 Venezuela,Hong Kong,90
 Venezuela,Hungary,covid ban
 Venezuela,Iceland,90
-Venezuela,India,e-visa
+Venezuela,India,covid ban
 Venezuela,Indonesia,covid ban
 Venezuela,Iran,15
 Venezuela,Iraq,visa required
 Venezuela,Ireland,visa required
-Venezuela,Israel,covid ban
+Venezuela,Israel,visa required
 Venezuela,Italy,covid ban
 Venezuela,Jamaica,e-visa
 Venezuela,Japan,covid ban
@@ -38880,12 +38880,12 @@ Vietnam,Honduras,visa required
 Vietnam,Hong Kong,visa required
 Vietnam,Hungary,covid ban
 Vietnam,Iceland,visa required
-Vietnam,India,e-visa
+Vietnam,India,covid ban
 Vietnam,Indonesia,covid ban
 Vietnam,Iran,e-visa
 Vietnam,Iraq,visa required
 Vietnam,Ireland,visa required
-Vietnam,Israel,covid ban
+Vietnam,Israel,visa required
 Vietnam,Italy,covid ban
 Vietnam,Jamaica,visa required
 Vietnam,Japan,covid ban
@@ -39079,12 +39079,12 @@ Yemen,Honduras,visa required
 Yemen,Hong Kong,visa required
 Yemen,Hungary,covid ban
 Yemen,Iceland,visa required
-Yemen,India,visa required
+Yemen,India,covid ban
 Yemen,Indonesia,covid ban
 Yemen,Iran,no admission
 Yemen,Iraq,visa required
 Yemen,Ireland,visa required
-Yemen,Israel,covid ban
+Yemen,Israel,visa required
 Yemen,Italy,covid ban
 Yemen,Jamaica,visa required
 Yemen,Japan,covid ban
@@ -39275,15 +39275,15 @@ Zambia,Guinea-Bissau,visa on arrival
 Zambia,Guyana,visa on arrival
 Zambia,Haiti,90
 Zambia,Honduras,visa required
-Zambia,Hong Kong,covid ban
+Zambia,Hong Kong,90
 Zambia,Hungary,covid ban
 Zambia,Iceland,visa required
-Zambia,India,e-visa
+Zambia,India,covid ban
 Zambia,Indonesia,covid ban
 Zambia,Iran,e-visa
 Zambia,Iraq,visa required
 Zambia,Ireland,visa required
-Zambia,Israel,covid ban
+Zambia,Israel,visa required
 Zambia,Italy,covid ban
 Zambia,Jamaica,e-visa
 Zambia,Japan,covid ban
@@ -39425,7 +39425,7 @@ Zimbabwe,Bosnia and Herzegovina,visa required
 Zimbabwe,Botswana,90
 Zimbabwe,Brazil,visa required
 Zimbabwe,Brunei,covid ban
-Zimbabwe,Bulgaria,covid ban
+Zimbabwe,Bulgaria,visa required
 Zimbabwe,Burkina Faso,visa required
 Zimbabwe,Burundi,visa required
 Zimbabwe,Cambodia,e-visa
@@ -39474,15 +39474,15 @@ Zimbabwe,Guinea-Bissau,visa on arrival
 Zimbabwe,Guyana,visa on arrival
 Zimbabwe,Haiti,90
 Zimbabwe,Honduras,visa required
-Zimbabwe,Hong Kong,covid ban
+Zimbabwe,Hong Kong,90
 Zimbabwe,Hungary,covid ban
 Zimbabwe,Iceland,visa required
-Zimbabwe,India,e-visa
+Zimbabwe,India,covid ban
 Zimbabwe,Indonesia,covid ban
 Zimbabwe,Iran,e-visa
 Zimbabwe,Iraq,visa required
 Zimbabwe,Ireland,visa required
-Zimbabwe,Israel,covid ban
+Zimbabwe,Israel,visa required
 Zimbabwe,Italy,covid ban
 Zimbabwe,Jamaica,visa required
 Zimbabwe,Japan,covid ban
