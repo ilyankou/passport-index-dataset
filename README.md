@@ -1,6 +1,6 @@
-# 2021 Passport Index Dataset
+# 2022 Passport Index Dataset
 ## Travel visa requirements for 199 countries, in .csv
-Last updated on 14 December 2021. For pre-pandemic requirements, check out the `/legacy` folder.
+Last updated on 5 January 2022. For pre-pandemic requirements, check out the `/legacy` folder.
 
 ![Passport](passport.png)
 

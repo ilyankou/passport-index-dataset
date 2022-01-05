@@ -6,7 +6,7 @@ Afghanistan,Angola,visa on arrival
 Afghanistan,Antigua and Barbuda,e-visa
 Afghanistan,Argentina,visa required
 Afghanistan,Armenia,visa required
-Afghanistan,Australia,e-visa
+Afghanistan,Australia,covid ban
 Afghanistan,Austria,visa required
 Afghanistan,Azerbaijan,covid ban
 Afghanistan,Bahamas,visa required
@@ -23,7 +23,7 @@ Afghanistan,Bosnia and Herzegovina,visa required
 Afghanistan,Botswana,visa required
 Afghanistan,Brazil,visa required
 Afghanistan,Brunei,covid ban
-Afghanistan,Bulgaria,covid ban
+Afghanistan,Bulgaria,visa required
 Afghanistan,Burkina Faso,visa required
 Afghanistan,Burundi,visa required
 Afghanistan,Cambodia,e-visa
@@ -84,7 +84,7 @@ Afghanistan,Israel,covid ban
 Afghanistan,Italy,covid ban
 Afghanistan,Jamaica,visa required
 Afghanistan,Japan,covid ban
-Afghanistan,Jordan,visa required
+Afghanistan,Jordan,covid ban
 Afghanistan,Kazakhstan,covid ban
 Afghanistan,Kenya,e-visa
 Afghanistan,Kiribati,visa required
@@ -177,7 +177,7 @@ Afghanistan,Tanzania,e-visa
 Afghanistan,Thailand,visa required
 Afghanistan,Timor-Leste,visa on arrival
 Afghanistan,Togo,visa on arrival
-Afghanistan,Tonga,covid ban
+Afghanistan,Tonga,visa required
 Afghanistan,Trinidad and Tobago,visa required
 Afghanistan,Tunisia,visa required
 Afghanistan,Turkey,visa required
@@ -205,7 +205,7 @@ Albania,Angola,visa on arrival
 Albania,Antigua and Barbuda,180
 Albania,Argentina,visa required
 Albania,Armenia,180
-Albania,Australia,e-visa
+Albania,Australia,covid ban
 Albania,Austria,90
 Albania,Azerbaijan,covid ban
 Albania,Bahamas,visa required
@@ -376,7 +376,7 @@ Albania,Tanzania,visa on arrival
 Albania,Thailand,visa required
 Albania,Timor-Leste,visa on arrival
 Albania,Togo,visa on arrival
-Albania,Tonga,covid ban
+Albania,Tonga,visa required
 Albania,Trinidad and Tobago,30
 Albania,Tunisia,visa required
 Albania,Turkey,90
@@ -404,7 +404,7 @@ Algeria,Angola,visa on arrival
 Algeria,Antigua and Barbuda,e-visa
 Algeria,Argentina,visa required
 Algeria,Armenia,visa required
-Algeria,Australia,e-visa
+Algeria,Australia,covid ban
 Algeria,Austria,visa required
 Algeria,Azerbaijan,covid ban
 Algeria,Bahamas,visa required
@@ -575,7 +575,7 @@ Algeria,Tanzania,visa on arrival
 Algeria,Thailand,visa required
 Algeria,Timor-Leste,visa on arrival
 Algeria,Togo,visa on arrival
-Algeria,Tonga,covid ban
+Algeria,Tonga,visa required
 Algeria,Trinidad and Tobago,visa required
 Algeria,Tunisia,visa free
 Algeria,Turkey,visa required
@@ -603,7 +603,7 @@ Andorra,Angola,visa on arrival
 Andorra,Antigua and Barbuda,180
 Andorra,Argentina,90
 Andorra,Armenia,180
-Andorra,Australia,e-visa
+Andorra,Australia,covid ban
 Andorra,Austria,90
 Andorra,Azerbaijan,covid ban
 Andorra,Bahamas,90
@@ -774,7 +774,7 @@ Andorra,Tanzania,visa on arrival
 Andorra,Thailand,30
 Andorra,Timor-Leste,visa on arrival
 Andorra,Togo,visa on arrival
-Andorra,Tonga,covid ban
+Andorra,Tonga,visa required
 Andorra,Trinidad and Tobago,visa required
 Andorra,Tunisia,90
 Andorra,Turkey,90
@@ -802,7 +802,7 @@ Angola,Angola,-1
 Angola,Antigua and Barbuda,e-visa
 Angola,Argentina,visa required
 Angola,Armenia,visa required
-Angola,Australia,e-visa
+Angola,Australia,covid ban
 Angola,Austria,visa required
 Angola,Azerbaijan,covid ban
 Angola,Bahamas,visa required
@@ -973,7 +973,7 @@ Angola,Tanzania,visa on arrival
 Angola,Thailand,visa required
 Angola,Timor-Leste,visa on arrival
 Angola,Togo,visa on arrival
-Angola,Tonga,covid ban
+Angola,Tonga,visa required
 Angola,Trinidad and Tobago,visa required
 Angola,Tunisia,90
 Angola,Turkey,visa required
@@ -1001,7 +1001,7 @@ Antigua and Barbuda,Angola,visa on arrival
 Antigua and Barbuda,Antigua and Barbuda,-1
 Antigua and Barbuda,Argentina,visa required
 Antigua and Barbuda,Armenia,e-visa
-Antigua and Barbuda,Australia,e-visa
+Antigua and Barbuda,Australia,covid ban
 Antigua and Barbuda,Austria,90
 Antigua and Barbuda,Azerbaijan,covid ban
 Antigua and Barbuda,Bahamas,240
@@ -1172,7 +1172,7 @@ Antigua and Barbuda,Tanzania,90
 Antigua and Barbuda,Thailand,visa required
 Antigua and Barbuda,Timor-Leste,visa on arrival
 Antigua and Barbuda,Togo,visa on arrival
-Antigua and Barbuda,Tonga,covid ban
+Antigua and Barbuda,Tonga,visa required
 Antigua and Barbuda,Trinidad and Tobago,visa free
 Antigua and Barbuda,Tunisia,90
 Antigua and Barbuda,Turkey,e-visa
@@ -1200,7 +1200,7 @@ Argentina,Angola,visa on arrival
 Argentina,Antigua and Barbuda,180
 Argentina,Argentina,-1
 Argentina,Armenia,visa free
-Argentina,Australia,e-visa
+Argentina,Australia,covid ban
 Argentina,Austria,visa required
 Argentina,Azerbaijan,e-visa
 Argentina,Bahamas,90
@@ -1275,7 +1275,7 @@ Argentina,Iran,e-visa
 Argentina,Iraq,visa required
 Argentina,Ireland,visa free
 Argentina,Israel,covid ban
-Argentina,Italy,90
+Argentina,Italy,covid ban
 Argentina,Jamaica,e-visa
 Argentina,Japan,covid ban
 Argentina,Jordan,visa on arrival
@@ -1342,7 +1342,7 @@ Argentina,Rwanda,visa on arrival
 Argentina,Saint Kitts and Nevis,90
 Argentina,Saint Lucia,42
 Argentina,Samoa,visa on arrival
-Argentina,San Marino,90
+Argentina,San Marino,covid ban
 Argentina,Sao Tome and Principe,e-visa
 Argentina,Saudi Arabia,covid ban
 Argentina,Senegal,visa on arrival
@@ -1366,12 +1366,12 @@ Argentina,Sweden,90
 Argentina,Switzerland,90
 Argentina,Syria,visa required
 Argentina,Taiwan,covid ban
-Argentina,Tajikistan,30
+Argentina,Tajikistan,visa on arrival
 Argentina,Tanzania,visa on arrival
 Argentina,Thailand,90
 Argentina,Timor-Leste,visa on arrival
 Argentina,Togo,visa on arrival
-Argentina,Tonga,covid ban
+Argentina,Tonga,visa required
 Argentina,Trinidad and Tobago,90
 Argentina,Tunisia,90
 Argentina,Turkey,90
@@ -1385,7 +1385,7 @@ Argentina,United States,visa required
 Argentina,Uruguay,90
 Argentina,Uzbekistan,30
 Argentina,Vanuatu,covid ban
-Argentina,Vatican,90
+Argentina,Vatican,covid ban
 Argentina,Venezuela,90
 Argentina,Vietnam,covid ban
 Argentina,Yemen,visa required
@@ -1399,7 +1399,7 @@ Armenia,Angola,visa on arrival
 Armenia,Antigua and Barbuda,180
 Armenia,Argentina,90
 Armenia,Armenia,-1
-Armenia,Australia,e-visa
+Armenia,Australia,covid ban
 Armenia,Austria,visa required
 Armenia,Azerbaijan,covid ban
 Armenia,Bahamas,90
@@ -1570,7 +1570,7 @@ Armenia,Tanzania,visa on arrival
 Armenia,Thailand,visa required
 Armenia,Timor-Leste,visa on arrival
 Armenia,Togo,visa on arrival
-Armenia,Tonga,covid ban
+Armenia,Tonga,visa required
 Armenia,Trinidad and Tobago,visa required
 Armenia,Tunisia,visa required
 Armenia,Turkey,e-visa
@@ -1764,12 +1764,12 @@ Australia,Sweden,90
 Australia,Switzerland,90
 Australia,Syria,visa required
 Australia,Taiwan,covid ban
-Australia,Tajikistan,30
+Australia,Tajikistan,visa on arrival
 Australia,Tanzania,visa on arrival
 Australia,Thailand,30
 Australia,Timor-Leste,visa on arrival
 Australia,Togo,visa on arrival
-Australia,Tonga,covid ban
+Australia,Tonga,visa on arrival
 Australia,Trinidad and Tobago,visa on arrival
 Australia,Tunisia,90
 Australia,Turkey,e-visa
@@ -1797,7 +1797,7 @@ Austria,Angola,visa on arrival
 Austria,Antigua and Barbuda,180
 Austria,Argentina,90
 Austria,Armenia,180
-Austria,Australia,e-visa
+Austria,Australia,covid ban
 Austria,Austria,-1
 Austria,Azerbaijan,e-visa
 Austria,Bahamas,90
@@ -1963,12 +1963,12 @@ Austria,Sweden,visa free
 Austria,Switzerland,visa free
 Austria,Syria,visa required
 Austria,Taiwan,covid ban
-Austria,Tajikistan,visa free
+Austria,Tajikistan,visa on arrival
 Austria,Tanzania,visa on arrival
 Austria,Thailand,30
 Austria,Timor-Leste,90
 Austria,Togo,visa on arrival
-Austria,Tonga,covid ban
+Austria,Tonga,90
 Austria,Trinidad and Tobago,90
 Austria,Tunisia,90
 Austria,Turkey,90
@@ -1996,7 +1996,7 @@ Azerbaijan,Angola,visa on arrival
 Azerbaijan,Antigua and Barbuda,180
 Azerbaijan,Argentina,visa required
 Azerbaijan,Armenia,no admission
-Azerbaijan,Australia,e-visa
+Azerbaijan,Australia,covid ban
 Azerbaijan,Austria,visa required
 Azerbaijan,Azerbaijan,-1
 Azerbaijan,Bahamas,90
@@ -2167,7 +2167,7 @@ Azerbaijan,Tanzania,e-visa
 Azerbaijan,Thailand,visa required
 Azerbaijan,Timor-Leste,visa on arrival
 Azerbaijan,Togo,visa on arrival
-Azerbaijan,Tonga,covid ban
+Azerbaijan,Tonga,visa required
 Azerbaijan,Trinidad and Tobago,visa required
 Azerbaijan,Tunisia,visa free
 Azerbaijan,Turkey,30
@@ -2195,7 +2195,7 @@ Bahamas,Angola,visa on arrival
 Bahamas,Antigua and Barbuda,180
 Bahamas,Argentina,visa required
 Bahamas,Armenia,e-visa
-Bahamas,Australia,e-visa
+Bahamas,Australia,covid ban
 Bahamas,Austria,90
 Bahamas,Azerbaijan,covid ban
 Bahamas,Bahamas,-1
@@ -2366,7 +2366,7 @@ Bahamas,Tanzania,90
 Bahamas,Thailand,visa required
 Bahamas,Timor-Leste,visa on arrival
 Bahamas,Togo,visa on arrival
-Bahamas,Tonga,covid ban
+Bahamas,Tonga,visa on arrival
 Bahamas,Trinidad and Tobago,visa free
 Bahamas,Tunisia,visa required
 Bahamas,Turkey,e-visa
@@ -2387,14 +2387,14 @@ Bahamas,Yemen,visa required
 Bahamas,Zambia,90
 Bahamas,Zimbabwe,90
 Bahamas,Afghanistan,visa required
-Bahrain,Albania,visa required
+Bahrain,Albania,90
 Bahrain,Algeria,visa required
 Bahrain,Andorra,visa required
 Bahrain,Angola,visa on arrival
 Bahrain,Antigua and Barbuda,e-visa
 Bahrain,Argentina,visa required
 Bahrain,Armenia,e-visa
-Bahrain,Australia,e-visa
+Bahrain,Australia,covid ban
 Bahrain,Austria,visa required
 Bahrain,Azerbaijan,e-visa
 Bahrain,Bahamas,90
@@ -2560,12 +2560,12 @@ Bahrain,Sweden,visa required
 Bahrain,Switzerland,visa required
 Bahrain,Syria,visa free
 Bahrain,Taiwan,covid ban
-Bahrain,Tajikistan,visa free
+Bahrain,Tajikistan,visa on arrival
 Bahrain,Tanzania,visa on arrival
 Bahrain,Thailand,30
 Bahrain,Timor-Leste,visa on arrival
 Bahrain,Togo,visa on arrival
-Bahrain,Tonga,covid ban
+Bahrain,Tonga,visa required
 Bahrain,Trinidad and Tobago,visa required
 Bahrain,Tunisia,90
 Bahrain,Turkey,e-visa
@@ -2593,7 +2593,7 @@ Bangladesh,Angola,visa on arrival
 Bangladesh,Antigua and Barbuda,e-visa
 Bangladesh,Argentina,visa required
 Bangladesh,Armenia,visa required
-Bangladesh,Australia,e-visa
+Bangladesh,Australia,covid ban
 Bangladesh,Austria,visa required
 Bangladesh,Azerbaijan,covid ban
 Bangladesh,Bahamas,90
@@ -2764,7 +2764,7 @@ Bangladesh,Tanzania,e-visa
 Bangladesh,Thailand,visa required
 Bangladesh,Timor-Leste,visa on arrival
 Bangladesh,Togo,visa on arrival
-Bangladesh,Tonga,covid ban
+Bangladesh,Tonga,visa required
 Bangladesh,Trinidad and Tobago,visa free
 Bangladesh,Tunisia,visa required
 Bangladesh,Turkey,visa required
@@ -2792,7 +2792,7 @@ Barbados,Angola,visa on arrival
 Barbados,Antigua and Barbuda,180
 Barbados,Argentina,90
 Barbados,Armenia,e-visa
-Barbados,Australia,e-visa
+Barbados,Australia,covid ban
 Barbados,Austria,90
 Barbados,Azerbaijan,covid ban
 Barbados,Bahamas,90
@@ -2963,7 +2963,7 @@ Barbados,Tanzania,90
 Barbados,Thailand,visa required
 Barbados,Timor-Leste,visa on arrival
 Barbados,Togo,visa on arrival
-Barbados,Tonga,covid ban
+Barbados,Tonga,visa on arrival
 Barbados,Trinidad and Tobago,visa free
 Barbados,Tunisia,90
 Barbados,Turkey,e-visa
@@ -2991,7 +2991,7 @@ Belarus,Angola,visa on arrival
 Belarus,Antigua and Barbuda,180
 Belarus,Argentina,90
 Belarus,Armenia,visa free
-Belarus,Australia,e-visa
+Belarus,Australia,covid ban
 Belarus,Austria,visa required
 Belarus,Azerbaijan,covid ban
 Belarus,Bahamas,visa required
@@ -3162,7 +3162,7 @@ Belarus,Tanzania,visa on arrival
 Belarus,Thailand,visa required
 Belarus,Timor-Leste,visa on arrival
 Belarus,Togo,visa on arrival
-Belarus,Tonga,covid ban
+Belarus,Tonga,visa required
 Belarus,Trinidad and Tobago,visa required
 Belarus,Tunisia,visa on arrival
 Belarus,Turkey,30
@@ -3190,7 +3190,7 @@ Belgium,Angola,visa on arrival
 Belgium,Antigua and Barbuda,180
 Belgium,Argentina,90
 Belgium,Armenia,180
-Belgium,Australia,e-visa
+Belgium,Australia,covid ban
 Belgium,Austria,visa free
 Belgium,Azerbaijan,e-visa
 Belgium,Bahamas,240
@@ -3356,12 +3356,12 @@ Belgium,Sweden,visa free
 Belgium,Switzerland,visa free
 Belgium,Syria,visa required
 Belgium,Taiwan,covid ban
-Belgium,Tajikistan,30
+Belgium,Tajikistan,visa on arrival
 Belgium,Tanzania,visa on arrival
 Belgium,Thailand,30
 Belgium,Timor-Leste,90
 Belgium,Togo,visa on arrival
-Belgium,Tonga,covid ban
+Belgium,Tonga,90
 Belgium,Trinidad and Tobago,90
 Belgium,Tunisia,90
 Belgium,Turkey,90
@@ -3389,7 +3389,7 @@ Belize,Angola,visa on arrival
 Belize,Antigua and Barbuda,180
 Belize,Argentina,visa required
 Belize,Armenia,e-visa
-Belize,Australia,e-visa
+Belize,Australia,covid ban
 Belize,Austria,visa required
 Belize,Azerbaijan,covid ban
 Belize,Bahamas,90
@@ -3560,7 +3560,7 @@ Belize,Tanzania,90
 Belize,Thailand,visa required
 Belize,Timor-Leste,visa on arrival
 Belize,Togo,visa on arrival
-Belize,Tonga,covid ban
+Belize,Tonga,visa required
 Belize,Trinidad and Tobago,visa free
 Belize,Tunisia,visa required
 Belize,Turkey,90
@@ -3588,7 +3588,7 @@ Benin,Angola,visa on arrival
 Benin,Antigua and Barbuda,e-visa
 Benin,Argentina,visa required
 Benin,Armenia,visa required
-Benin,Australia,e-visa
+Benin,Australia,covid ban
 Benin,Austria,visa required
 Benin,Azerbaijan,covid ban
 Benin,Bahamas,visa required
@@ -3759,7 +3759,7 @@ Benin,Tanzania,visa on arrival
 Benin,Thailand,visa required
 Benin,Timor-Leste,visa on arrival
 Benin,Togo,visa free
-Benin,Tonga,covid ban
+Benin,Tonga,visa required
 Benin,Trinidad and Tobago,visa required
 Benin,Tunisia,90
 Benin,Turkey,visa required
@@ -3787,7 +3787,7 @@ Bhutan,Angola,visa on arrival
 Bhutan,Antigua and Barbuda,e-visa
 Bhutan,Argentina,visa required
 Bhutan,Armenia,e-visa
-Bhutan,Australia,e-visa
+Bhutan,Australia,covid ban
 Bhutan,Austria,visa required
 Bhutan,Azerbaijan,covid ban
 Bhutan,Bahamas,visa required
@@ -3958,7 +3958,7 @@ Bhutan,Tanzania,visa on arrival
 Bhutan,Thailand,visa on arrival
 Bhutan,Timor-Leste,visa on arrival
 Bhutan,Togo,visa on arrival
-Bhutan,Tonga,covid ban
+Bhutan,Tonga,visa required
 Bhutan,Trinidad and Tobago,visa required
 Bhutan,Tunisia,visa required
 Bhutan,Turkey,visa required
@@ -3986,7 +3986,7 @@ Bolivia,Angola,visa on arrival
 Bolivia,Antigua and Barbuda,90
 Bolivia,Argentina,90
 Bolivia,Armenia,e-visa
-Bolivia,Australia,e-visa
+Bolivia,Australia,covid ban
 Bolivia,Austria,visa required
 Bolivia,Azerbaijan,covid ban
 Bolivia,Bahamas,90
@@ -4157,7 +4157,7 @@ Bolivia,Tanzania,visa on arrival
 Bolivia,Thailand,visa required
 Bolivia,Timor-Leste,visa on arrival
 Bolivia,Togo,visa on arrival
-Bolivia,Tonga,covid ban
+Bolivia,Tonga,visa required
 Bolivia,Trinidad and Tobago,visa required
 Bolivia,Tunisia,visa required
 Bolivia,Turkey,90
@@ -4185,7 +4185,7 @@ Bosnia and Herzegovina,Angola,visa on arrival
 Bosnia and Herzegovina,Antigua and Barbuda,e-visa
 Bosnia and Herzegovina,Argentina,visa required
 Bosnia and Herzegovina,Armenia,e-visa
-Bosnia and Herzegovina,Australia,e-visa
+Bosnia and Herzegovina,Australia,covid ban
 Bosnia and Herzegovina,Austria,90
 Bosnia and Herzegovina,Azerbaijan,covid ban
 Bosnia and Herzegovina,Bahamas,90
@@ -4356,7 +4356,7 @@ Bosnia and Herzegovina,Tanzania,visa on arrival
 Bosnia and Herzegovina,Thailand,visa required
 Bosnia and Herzegovina,Timor-Leste,visa on arrival
 Bosnia and Herzegovina,Togo,visa on arrival
-Bosnia and Herzegovina,Tonga,covid ban
+Bosnia and Herzegovina,Tonga,visa required
 Bosnia and Herzegovina,Trinidad and Tobago,30
 Bosnia and Herzegovina,Tunisia,90
 Bosnia and Herzegovina,Turkey,90
@@ -4384,7 +4384,7 @@ Botswana,Angola,30
 Botswana,Antigua and Barbuda,180
 Botswana,Argentina,visa required
 Botswana,Armenia,visa required
-Botswana,Australia,e-visa
+Botswana,Australia,covid ban
 Botswana,Austria,visa required
 Botswana,Azerbaijan,covid ban
 Botswana,Bahamas,90
@@ -4555,7 +4555,7 @@ Botswana,Tanzania,90
 Botswana,Thailand,visa required
 Botswana,Timor-Leste,visa on arrival
 Botswana,Togo,visa on arrival
-Botswana,Tonga,covid ban
+Botswana,Tonga,visa required
 Botswana,Trinidad and Tobago,visa free
 Botswana,Tunisia,visa required
 Botswana,Turkey,visa required
@@ -4583,7 +4583,7 @@ Brazil,Angola,visa on arrival
 Brazil,Antigua and Barbuda,180
 Brazil,Argentina,90
 Brazil,Armenia,180
-Brazil,Australia,e-visa
+Brazil,Australia,covid ban
 Brazil,Austria,90
 Brazil,Azerbaijan,e-visa
 Brazil,Bahamas,90
@@ -4676,7 +4676,7 @@ Brazil,Liberia,visa required
 Brazil,Libya,visa required
 Brazil,Liechtenstein,90
 Brazil,Lithuania,90
-Brazil,Luxembourg,90
+Brazil,Luxembourg,covid ban
 Brazil,Macao,covid ban
 Brazil,Madagascar,visa on arrival
 Brazil,Malawi,visa on arrival
@@ -4754,7 +4754,7 @@ Brazil,Tanzania,visa on arrival
 Brazil,Thailand,90
 Brazil,Timor-Leste,visa on arrival
 Brazil,Togo,visa on arrival
-Brazil,Tonga,covid ban
+Brazil,Tonga,visa on arrival
 Brazil,Trinidad and Tobago,90
 Brazil,Tunisia,90
 Brazil,Turkey,90
@@ -4782,7 +4782,7 @@ Brunei,Angola,visa on arrival
 Brunei,Antigua and Barbuda,180
 Brunei,Argentina,visa required
 Brunei,Armenia,e-visa
-Brunei,Australia,e-visa
+Brunei,Australia,covid ban
 Brunei,Austria,90
 Brunei,Azerbaijan,e-visa
 Brunei,Bahamas,90
@@ -4819,7 +4819,7 @@ Brunei,Ivory Coast,e-visa
 Brunei,Croatia,90
 Brunei,Cuba,visa required
 Brunei,Cyprus,covid ban
-Brunei,Czech Republic,90
+Brunei,Czech Republic,covid ban
 Brunei,Denmark,90
 Brunei,Djibouti,e-visa
 Brunei,Dominica,180
@@ -4948,12 +4948,12 @@ Brunei,Sweden,covid ban
 Brunei,Switzerland,90
 Brunei,Syria,visa required
 Brunei,Taiwan,covid ban
-Brunei,Tajikistan,30
+Brunei,Tajikistan,visa on arrival
 Brunei,Tanzania,90
 Brunei,Thailand,30
 Brunei,Timor-Leste,visa on arrival
 Brunei,Togo,visa on arrival
-Brunei,Tonga,covid ban
+Brunei,Tonga,visa on arrival
 Brunei,Trinidad and Tobago,visa free
 Brunei,Tunisia,90
 Brunei,Turkey,90
@@ -4981,7 +4981,7 @@ Bulgaria,Angola,visa on arrival
 Bulgaria,Antigua and Barbuda,180
 Bulgaria,Argentina,90
 Bulgaria,Armenia,180
-Bulgaria,Australia,e-visa
+Bulgaria,Australia,covid ban
 Bulgaria,Austria,visa free
 Bulgaria,Azerbaijan,covid ban
 Bulgaria,Bahamas,90
@@ -5152,7 +5152,7 @@ Bulgaria,Tanzania,visa on arrival
 Bulgaria,Thailand,visa on arrival
 Bulgaria,Timor-Leste,90
 Bulgaria,Togo,visa on arrival
-Bulgaria,Tonga,covid ban
+Bulgaria,Tonga,90
 Bulgaria,Trinidad and Tobago,90
 Bulgaria,Tunisia,60
 Bulgaria,Turkey,90
@@ -5180,7 +5180,7 @@ Burkina Faso,Angola,visa on arrival
 Burkina Faso,Antigua and Barbuda,e-visa
 Burkina Faso,Argentina,visa required
 Burkina Faso,Armenia,visa required
-Burkina Faso,Australia,e-visa
+Burkina Faso,Australia,covid ban
 Burkina Faso,Austria,visa required
 Burkina Faso,Azerbaijan,covid ban
 Burkina Faso,Bahamas,visa required
@@ -5351,7 +5351,7 @@ Burkina Faso,Tanzania,visa on arrival
 Burkina Faso,Thailand,visa required
 Burkina Faso,Timor-Leste,visa on arrival
 Burkina Faso,Togo,visa free
-Burkina Faso,Tonga,covid ban
+Burkina Faso,Tonga,visa required
 Burkina Faso,Trinidad and Tobago,visa required
 Burkina Faso,Tunisia,90
 Burkina Faso,Turkey,visa required
@@ -5379,7 +5379,7 @@ Burundi,Angola,visa on arrival
 Burundi,Antigua and Barbuda,e-visa
 Burundi,Argentina,visa required
 Burundi,Armenia,visa required
-Burundi,Australia,e-visa
+Burundi,Australia,covid ban
 Burundi,Austria,visa required
 Burundi,Azerbaijan,covid ban
 Burundi,Bahamas,visa required
@@ -5550,7 +5550,7 @@ Burundi,Tanzania,visa on arrival
 Burundi,Thailand,visa required
 Burundi,Timor-Leste,visa on arrival
 Burundi,Togo,visa on arrival
-Burundi,Tonga,covid ban
+Burundi,Tonga,visa required
 Burundi,Trinidad and Tobago,visa required
 Burundi,Tunisia,visa required
 Burundi,Turkey,visa required
@@ -5578,7 +5578,7 @@ Cambodia,Angola,visa on arrival
 Cambodia,Antigua and Barbuda,e-visa
 Cambodia,Argentina,visa required
 Cambodia,Armenia,e-visa
-Cambodia,Australia,e-visa
+Cambodia,Australia,covid ban
 Cambodia,Austria,visa required
 Cambodia,Azerbaijan,covid ban
 Cambodia,Bahamas,visa required
@@ -5727,7 +5727,7 @@ Cambodia,Senegal,visa on arrival
 Cambodia,Serbia,visa required
 Cambodia,Seychelles,90
 Cambodia,Sierra Leone,visa on arrival
-Cambodia,Singapore,30
+Cambodia,Singapore,covid ban
 Cambodia,Slovakia,visa required
 Cambodia,Slovenia,visa required
 Cambodia,Solomon Islands,covid ban
@@ -5749,7 +5749,7 @@ Cambodia,Tanzania,visa on arrival
 Cambodia,Thailand,14
 Cambodia,Timor-Leste,visa on arrival
 Cambodia,Togo,visa on arrival
-Cambodia,Tonga,covid ban
+Cambodia,Tonga,visa required
 Cambodia,Trinidad and Tobago,visa required
 Cambodia,Tunisia,visa required
 Cambodia,Turkey,visa required
@@ -5777,7 +5777,7 @@ Cameroon,Angola,visa on arrival
 Cameroon,Antigua and Barbuda,e-visa
 Cameroon,Argentina,visa required
 Cameroon,Armenia,visa required
-Cameroon,Australia,e-visa
+Cameroon,Australia,covid ban
 Cameroon,Austria,visa required
 Cameroon,Azerbaijan,covid ban
 Cameroon,Bahamas,visa required
@@ -5948,7 +5948,7 @@ Cameroon,Tanzania,visa on arrival
 Cameroon,Thailand,visa required
 Cameroon,Timor-Leste,visa on arrival
 Cameroon,Togo,visa on arrival
-Cameroon,Tonga,covid ban
+Cameroon,Tonga,visa required
 Cameroon,Trinidad and Tobago,visa required
 Cameroon,Tunisia,visa required
 Cameroon,Turkey,visa required
@@ -5976,7 +5976,7 @@ Canada,Angola,visa on arrival
 Canada,Antigua and Barbuda,180
 Canada,Argentina,90
 Canada,Armenia,e-visa
-Canada,Australia,e-visa
+Canada,Australia,covid ban
 Canada,Austria,90
 Canada,Azerbaijan,e-visa
 Canada,Bahamas,240
@@ -6142,12 +6142,12 @@ Canada,Sweden,90
 Canada,Switzerland,90
 Canada,Syria,visa required
 Canada,Taiwan,covid ban
-Canada,Tajikistan,30
+Canada,Tajikistan,visa on arrival
 Canada,Tanzania,visa on arrival
 Canada,Thailand,30
 Canada,Timor-Leste,visa on arrival
 Canada,Togo,visa on arrival
-Canada,Tonga,covid ban
+Canada,Tonga,visa on arrival
 Canada,Trinidad and Tobago,visa free
 Canada,Tunisia,120
 Canada,Turkey,e-visa
@@ -6175,7 +6175,7 @@ Cape Verde,Angola,visa free
 Cape Verde,Antigua and Barbuda,e-visa
 Cape Verde,Argentina,visa required
 Cape Verde,Armenia,visa required
-Cape Verde,Australia,e-visa
+Cape Verde,Australia,covid ban
 Cape Verde,Austria,visa required
 Cape Verde,Azerbaijan,covid ban
 Cape Verde,Bahamas,90
@@ -6268,7 +6268,7 @@ Cape Verde,Liberia,visa free
 Cape Verde,Libya,visa required
 Cape Verde,Liechtenstein,visa required
 Cape Verde,Lithuania,visa required
-Cape Verde,Luxembourg,visa required
+Cape Verde,Luxembourg,covid ban
 Cape Verde,Macao,covid ban
 Cape Verde,Madagascar,visa on arrival
 Cape Verde,Malawi,visa on arrival
@@ -6337,7 +6337,7 @@ Cape Verde,Sri Lanka,e-visa
 Cape Verde,Saint Vincent and the Grenadines,30
 Cape Verde,Sudan,visa required
 Cape Verde,Suriname,e-visa
-Cape Verde,Sweden,visa required
+Cape Verde,Sweden,covid ban
 Cape Verde,Switzerland,visa required
 Cape Verde,Syria,visa required
 Cape Verde,Taiwan,covid ban
@@ -6346,7 +6346,7 @@ Cape Verde,Tanzania,visa on arrival
 Cape Verde,Thailand,visa required
 Cape Verde,Timor-Leste,30
 Cape Verde,Togo,visa free
-Cape Verde,Tonga,covid ban
+Cape Verde,Tonga,visa required
 Cape Verde,Trinidad and Tobago,visa required
 Cape Verde,Tunisia,90
 Cape Verde,Turkey,visa required
@@ -6374,7 +6374,7 @@ Central African Republic,Angola,visa on arrival
 Central African Republic,Antigua and Barbuda,e-visa
 Central African Republic,Argentina,visa required
 Central African Republic,Armenia,visa required
-Central African Republic,Australia,e-visa
+Central African Republic,Australia,covid ban
 Central African Republic,Austria,visa required
 Central African Republic,Azerbaijan,covid ban
 Central African Republic,Bahamas,visa required
@@ -6545,7 +6545,7 @@ Central African Republic,Tanzania,visa on arrival
 Central African Republic,Thailand,visa required
 Central African Republic,Timor-Leste,visa on arrival
 Central African Republic,Togo,visa on arrival
-Central African Republic,Tonga,covid ban
+Central African Republic,Tonga,visa required
 Central African Republic,Trinidad and Tobago,visa required
 Central African Republic,Tunisia,visa required
 Central African Republic,Turkey,visa required
@@ -6573,7 +6573,7 @@ Chad,Angola,visa on arrival
 Chad,Antigua and Barbuda,e-visa
 Chad,Argentina,visa required
 Chad,Armenia,visa required
-Chad,Australia,e-visa
+Chad,Australia,covid ban
 Chad,Austria,visa required
 Chad,Azerbaijan,covid ban
 Chad,Bahamas,visa required
@@ -6744,7 +6744,7 @@ Chad,Tanzania,e-visa
 Chad,Thailand,visa required
 Chad,Timor-Leste,visa on arrival
 Chad,Togo,visa on arrival
-Chad,Tonga,covid ban
+Chad,Tonga,visa required
 Chad,Trinidad and Tobago,visa required
 Chad,Tunisia,visa required
 Chad,Turkey,visa required
@@ -6772,7 +6772,7 @@ Chile,Angola,visa on arrival
 Chile,Antigua and Barbuda,180
 Chile,Argentina,90
 Chile,Armenia,e-visa
-Chile,Australia,e-visa
+Chile,Australia,covid ban
 Chile,Austria,90
 Chile,Azerbaijan,e-visa
 Chile,Bahamas,90
@@ -6938,12 +6938,12 @@ Chile,Sweden,90
 Chile,Switzerland,90
 Chile,Syria,visa required
 Chile,Taiwan,covid ban
-Chile,Tajikistan,30
+Chile,Tajikistan,visa on arrival
 Chile,Tanzania,visa on arrival
 Chile,Thailand,90
 Chile,Timor-Leste,visa on arrival
 Chile,Togo,visa on arrival
-Chile,Tonga,covid ban
+Chile,Tonga,visa required
 Chile,Trinidad and Tobago,90
 Chile,Tunisia,90
 Chile,Turkey,90
@@ -6971,7 +6971,7 @@ China,Angola,visa on arrival
 China,Antigua and Barbuda,30
 China,Argentina,visa required
 China,Armenia,e-visa
-China,Australia,e-visa
+China,Australia,covid ban
 China,Austria,visa required
 China,Azerbaijan,e-visa
 China,Bahamas,90
@@ -7142,7 +7142,7 @@ China,Tanzania,visa on arrival
 China,Thailand,visa on arrival
 China,Timor-Leste,visa on arrival
 China,Togo,visa on arrival
-China,Tonga,covid ban
+China,Tonga,visa on arrival
 China,Trinidad and Tobago,visa required
 China,Tunisia,90
 China,Turkey,e-visa
@@ -7150,7 +7150,7 @@ China,Turkmenistan,visa required
 China,Tuvalu,visa on arrival
 China,Uganda,e-visa
 China,Ukraine,e-visa
-China,United Arab Emirates,visa on arrival
+China,United Arab Emirates,e-visa
 China,United Kingdom,visa required
 China,United States,visa required
 China,Uruguay,visa required
@@ -7170,7 +7170,7 @@ Colombia,Angola,visa on arrival
 Colombia,Antigua and Barbuda,visa free
 Colombia,Argentina,90
 Colombia,Armenia,e-visa
-Colombia,Australia,e-visa
+Colombia,Australia,covid ban
 Colombia,Austria,90
 Colombia,Azerbaijan,covid ban
 Colombia,Bahamas,90
@@ -7245,7 +7245,7 @@ Colombia,Iran,e-visa
 Colombia,Iraq,visa required
 Colombia,Ireland,visa required
 Colombia,Israel,covid ban
-Colombia,Italy,90
+Colombia,Italy,covid ban
 Colombia,Jamaica,e-visa
 Colombia,Japan,covid ban
 Colombia,Jordan,covid ban
@@ -7312,7 +7312,7 @@ Colombia,Rwanda,visa on arrival
 Colombia,Saint Kitts and Nevis,90
 Colombia,Saint Lucia,visa required
 Colombia,Samoa,visa on arrival
-Colombia,San Marino,90
+Colombia,San Marino,covid ban
 Colombia,Sao Tome and Principe,e-visa
 Colombia,Saudi Arabia,covid ban
 Colombia,Senegal,visa on arrival
@@ -7341,7 +7341,7 @@ Colombia,Tanzania,visa on arrival
 Colombia,Thailand,visa required
 Colombia,Timor-Leste,visa on arrival
 Colombia,Togo,visa on arrival
-Colombia,Tonga,covid ban
+Colombia,Tonga,visa required
 Colombia,Trinidad and Tobago,90
 Colombia,Tunisia,visa required
 Colombia,Turkey,90
@@ -7355,7 +7355,7 @@ Colombia,United States,visa required
 Colombia,Uruguay,90
 Colombia,Uzbekistan,e-visa
 Colombia,Vanuatu,covid ban
-Colombia,Vatican,90
+Colombia,Vatican,covid ban
 Colombia,Venezuela,90
 Colombia,Vietnam,covid ban
 Colombia,Yemen,visa required
@@ -7369,7 +7369,7 @@ Comoros,Angola,visa on arrival
 Comoros,Antigua and Barbuda,e-visa
 Comoros,Argentina,visa required
 Comoros,Armenia,visa required
-Comoros,Australia,e-visa
+Comoros,Australia,covid ban
 Comoros,Austria,visa required
 Comoros,Azerbaijan,covid ban
 Comoros,Bahamas,visa required
@@ -7540,7 +7540,7 @@ Comoros,Tanzania,visa on arrival
 Comoros,Thailand,visa required
 Comoros,Timor-Leste,visa on arrival
 Comoros,Togo,visa on arrival
-Comoros,Tonga,covid ban
+Comoros,Tonga,visa required
 Comoros,Trinidad and Tobago,visa required
 Comoros,Tunisia,90
 Comoros,Turkey,visa required
@@ -7568,7 +7568,7 @@ Congo,Angola,visa on arrival
 Congo,Antigua and Barbuda,e-visa
 Congo,Argentina,visa required
 Congo,Armenia,visa required
-Congo,Australia,e-visa
+Congo,Australia,covid ban
 Congo,Austria,visa required
 Congo,Azerbaijan,covid ban
 Congo,Bahamas,visa required
@@ -7646,7 +7646,7 @@ Congo,Israel,covid ban
 Congo,Italy,covid ban
 Congo,Jamaica,visa required
 Congo,Japan,covid ban
-Congo,Jordan,visa required
+Congo,Jordan,covid ban
 Congo,Kazakhstan,covid ban
 Congo,Kenya,e-visa
 Congo,Kiribati,visa required
@@ -7739,7 +7739,7 @@ Congo,Tanzania,visa on arrival
 Congo,Thailand,visa required
 Congo,Timor-Leste,visa on arrival
 Congo,Togo,visa on arrival
-Congo,Tonga,covid ban
+Congo,Tonga,visa required
 Congo,Trinidad and Tobago,visa required
 Congo,Tunisia,visa required
 Congo,Turkey,visa required
@@ -7767,7 +7767,7 @@ DR Congo,Angola,visa on arrival
 DR Congo,Antigua and Barbuda,e-visa
 DR Congo,Argentina,visa required
 DR Congo,Armenia,visa required
-DR Congo,Australia,e-visa
+DR Congo,Australia,covid ban
 DR Congo,Austria,visa required
 DR Congo,Azerbaijan,covid ban
 DR Congo,Bahamas,visa required
@@ -7938,7 +7938,7 @@ DR Congo,Tanzania,visa on arrival
 DR Congo,Thailand,visa required
 DR Congo,Timor-Leste,visa on arrival
 DR Congo,Togo,visa on arrival
-DR Congo,Tonga,covid ban
+DR Congo,Tonga,visa required
 DR Congo,Trinidad and Tobago,visa required
 DR Congo,Tunisia,visa required
 DR Congo,Turkey,visa required
@@ -7966,7 +7966,7 @@ Costa Rica,Angola,visa on arrival
 Costa Rica,Antigua and Barbuda,e-visa
 Costa Rica,Argentina,90
 Costa Rica,Armenia,e-visa
-Costa Rica,Australia,e-visa
+Costa Rica,Australia,covid ban
 Costa Rica,Austria,90
 Costa Rica,Azerbaijan,e-visa
 Costa Rica,Bahamas,90
@@ -8137,7 +8137,7 @@ Costa Rica,Tanzania,visa on arrival
 Costa Rica,Thailand,visa required
 Costa Rica,Timor-Leste,visa on arrival
 Costa Rica,Togo,visa on arrival
-Costa Rica,Tonga,covid ban
+Costa Rica,Tonga,visa required
 Costa Rica,Trinidad and Tobago,90
 Costa Rica,Tunisia,90
 Costa Rica,Turkey,30
@@ -8165,7 +8165,7 @@ Ivory Coast,Angola,visa on arrival
 Ivory Coast,Antigua and Barbuda,e-visa
 Ivory Coast,Argentina,visa required
 Ivory Coast,Armenia,visa required
-Ivory Coast,Australia,e-visa
+Ivory Coast,Australia,covid ban
 Ivory Coast,Austria,visa required
 Ivory Coast,Azerbaijan,covid ban
 Ivory Coast,Bahamas,visa required
@@ -8336,7 +8336,7 @@ Ivory Coast,Tanzania,visa on arrival
 Ivory Coast,Thailand,visa required
 Ivory Coast,Timor-Leste,visa on arrival
 Ivory Coast,Togo,visa free
-Ivory Coast,Tonga,covid ban
+Ivory Coast,Tonga,visa required
 Ivory Coast,Trinidad and Tobago,visa required
 Ivory Coast,Tunisia,90
 Ivory Coast,Turkey,visa required
@@ -8364,7 +8364,7 @@ Croatia,Angola,visa on arrival
 Croatia,Antigua and Barbuda,180
 Croatia,Argentina,90
 Croatia,Armenia,180
-Croatia,Australia,e-visa
+Croatia,Australia,covid ban
 Croatia,Austria,visa free
 Croatia,Azerbaijan,e-visa
 Croatia,Bahamas,90
@@ -8381,7 +8381,7 @@ Croatia,Bosnia and Herzegovina,90
 Croatia,Botswana,90
 Croatia,Brazil,90
 Croatia,Brunei,covid ban
-Croatia,Bulgaria,visa free
+Croatia,Bulgaria,covid ban
 Croatia,Burkina Faso,visa required
 Croatia,Burundi,visa required
 Croatia,Cambodia,e-visa
@@ -8530,12 +8530,12 @@ Croatia,Sweden,visa free
 Croatia,Switzerland,visa free
 Croatia,Syria,visa required
 Croatia,Taiwan,covid ban
-Croatia,Tajikistan,30
+Croatia,Tajikistan,visa on arrival
 Croatia,Tanzania,visa on arrival
 Croatia,Thailand,visa required
 Croatia,Timor-Leste,90
 Croatia,Togo,visa on arrival
-Croatia,Tonga,covid ban
+Croatia,Tonga,90
 Croatia,Trinidad and Tobago,90
 Croatia,Tunisia,90
 Croatia,Turkey,90
@@ -8563,7 +8563,7 @@ Cuba,Angola,visa on arrival
 Cuba,Antigua and Barbuda,30
 Cuba,Argentina,visa required
 Cuba,Armenia,e-visa
-Cuba,Australia,e-visa
+Cuba,Australia,covid ban
 Cuba,Austria,visa required
 Cuba,Azerbaijan,e-visa
 Cuba,Bahamas,visa required
@@ -8729,12 +8729,12 @@ Cuba,Sweden,covid ban
 Cuba,Switzerland,visa required
 Cuba,Syria,visa required
 Cuba,Taiwan,covid ban
-Cuba,Tajikistan,30
+Cuba,Tajikistan,visa on arrival
 Cuba,Tanzania,visa on arrival
 Cuba,Thailand,visa required
 Cuba,Timor-Leste,visa on arrival
 Cuba,Togo,visa on arrival
-Cuba,Tonga,covid ban
+Cuba,Tonga,visa required
 Cuba,Trinidad and Tobago,90
 Cuba,Tunisia,visa required
 Cuba,Turkey,visa required
@@ -8762,7 +8762,7 @@ Cyprus,Angola,visa on arrival
 Cyprus,Antigua and Barbuda,180
 Cyprus,Argentina,90
 Cyprus,Armenia,180
-Cyprus,Australia,e-visa
+Cyprus,Australia,covid ban
 Cyprus,Austria,visa free
 Cyprus,Azerbaijan,covid ban
 Cyprus,Bahamas,90
@@ -8933,7 +8933,7 @@ Cyprus,Tanzania,90
 Cyprus,Thailand,visa on arrival
 Cyprus,Timor-Leste,90
 Cyprus,Togo,visa on arrival
-Cyprus,Tonga,covid ban
+Cyprus,Tonga,90
 Cyprus,Trinidad and Tobago,90
 Cyprus,Tunisia,visa required
 Cyprus,Turkey,e-visa
@@ -8961,7 +8961,7 @@ Czech Republic,Angola,visa on arrival
 Czech Republic,Antigua and Barbuda,180
 Czech Republic,Argentina,90
 Czech Republic,Armenia,180
-Czech Republic,Australia,e-visa
+Czech Republic,Australia,covid ban
 Czech Republic,Austria,visa free
 Czech Republic,Azerbaijan,e-visa
 Czech Republic,Bahamas,90
@@ -9127,12 +9127,12 @@ Czech Republic,Sweden,visa free
 Czech Republic,Switzerland,visa free
 Czech Republic,Syria,visa required
 Czech Republic,Taiwan,covid ban
-Czech Republic,Tajikistan,30
+Czech Republic,Tajikistan,visa on arrival
 Czech Republic,Tanzania,visa on arrival
 Czech Republic,Thailand,30
 Czech Republic,Timor-Leste,90
 Czech Republic,Togo,visa on arrival
-Czech Republic,Tonga,covid ban
+Czech Republic,Tonga,90
 Czech Republic,Trinidad and Tobago,90
 Czech Republic,Tunisia,90
 Czech Republic,Turkey,90
@@ -9160,7 +9160,7 @@ Denmark,Angola,visa on arrival
 Denmark,Antigua and Barbuda,180
 Denmark,Argentina,90
 Denmark,Armenia,180
-Denmark,Australia,e-visa
+Denmark,Australia,covid ban
 Denmark,Austria,visa free
 Denmark,Azerbaijan,e-visa
 Denmark,Bahamas,240
@@ -9326,12 +9326,12 @@ Denmark,Sweden,visa free
 Denmark,Switzerland,visa free
 Denmark,Syria,visa required
 Denmark,Taiwan,covid ban
-Denmark,Tajikistan,30
+Denmark,Tajikistan,visa on arrival
 Denmark,Tanzania,visa on arrival
 Denmark,Thailand,30
 Denmark,Timor-Leste,90
 Denmark,Togo,visa on arrival
-Denmark,Tonga,covid ban
+Denmark,Tonga,90
 Denmark,Trinidad and Tobago,90
 Denmark,Tunisia,90
 Denmark,Turkey,90
@@ -9359,7 +9359,7 @@ Djibouti,Angola,visa on arrival
 Djibouti,Antigua and Barbuda,e-visa
 Djibouti,Argentina,visa required
 Djibouti,Armenia,visa required
-Djibouti,Australia,e-visa
+Djibouti,Australia,covid ban
 Djibouti,Austria,visa required
 Djibouti,Azerbaijan,covid ban
 Djibouti,Bahamas,visa required
@@ -9530,7 +9530,7 @@ Djibouti,Tanzania,e-visa
 Djibouti,Thailand,visa required
 Djibouti,Timor-Leste,visa on arrival
 Djibouti,Togo,visa on arrival
-Djibouti,Tonga,covid ban
+Djibouti,Tonga,visa required
 Djibouti,Trinidad and Tobago,visa required
 Djibouti,Tunisia,visa required
 Djibouti,Turkey,visa required
@@ -9558,7 +9558,7 @@ Dominica,Angola,visa on arrival
 Dominica,Antigua and Barbuda,180
 Dominica,Argentina,visa required
 Dominica,Armenia,e-visa
-Dominica,Australia,e-visa
+Dominica,Australia,covid ban
 Dominica,Austria,90
 Dominica,Azerbaijan,covid ban
 Dominica,Bahamas,90
@@ -9729,7 +9729,7 @@ Dominica,Tanzania,90
 Dominica,Thailand,visa required
 Dominica,Timor-Leste,visa on arrival
 Dominica,Togo,visa on arrival
-Dominica,Tonga,covid ban
+Dominica,Tonga,visa on arrival
 Dominica,Trinidad and Tobago,visa free
 Dominica,Tunisia,visa required
 Dominica,Turkey,e-visa
@@ -9757,7 +9757,7 @@ Dominican Republic,Angola,visa on arrival
 Dominican Republic,Antigua and Barbuda,e-visa
 Dominican Republic,Argentina,visa required
 Dominican Republic,Armenia,e-visa
-Dominican Republic,Australia,e-visa
+Dominican Republic,Australia,covid ban
 Dominican Republic,Austria,visa required
 Dominican Republic,Azerbaijan,covid ban
 Dominican Republic,Bahamas,visa required
@@ -9928,9 +9928,9 @@ Dominican Republic,Tanzania,visa on arrival
 Dominican Republic,Thailand,visa required
 Dominican Republic,Timor-Leste,visa on arrival
 Dominican Republic,Togo,visa on arrival
-Dominican Republic,Tonga,covid ban
+Dominican Republic,Tonga,visa required
 Dominican Republic,Trinidad and Tobago,90
-Dominican Republic,Tunisia,7
+Dominican Republic,Tunisia,visa required
 Dominican Republic,Turkey,e-visa
 Dominican Republic,Turkmenistan,visa required
 Dominican Republic,Tuvalu,visa on arrival
@@ -9956,7 +9956,7 @@ Ecuador,Angola,visa on arrival
 Ecuador,Antigua and Barbuda,90
 Ecuador,Argentina,90
 Ecuador,Armenia,e-visa
-Ecuador,Australia,e-visa
+Ecuador,Australia,covid ban
 Ecuador,Austria,visa required
 Ecuador,Azerbaijan,e-visa
 Ecuador,Bahamas,90
@@ -10127,7 +10127,7 @@ Ecuador,Tanzania,visa on arrival
 Ecuador,Thailand,visa required
 Ecuador,Timor-Leste,visa on arrival
 Ecuador,Togo,visa on arrival
-Ecuador,Tonga,covid ban
+Ecuador,Tonga,visa required
 Ecuador,Trinidad and Tobago,90
 Ecuador,Tunisia,visa required
 Ecuador,Turkey,90
@@ -10155,7 +10155,7 @@ Egypt,Angola,visa on arrival
 Egypt,Antigua and Barbuda,e-visa
 Egypt,Argentina,visa required
 Egypt,Armenia,visa required
-Egypt,Australia,e-visa
+Egypt,Australia,covid ban
 Egypt,Austria,visa required
 Egypt,Azerbaijan,covid ban
 Egypt,Bahamas,visa required
@@ -10326,7 +10326,7 @@ Egypt,Tanzania,visa on arrival
 Egypt,Thailand,visa required
 Egypt,Timor-Leste,visa on arrival
 Egypt,Togo,visa on arrival
-Egypt,Tonga,covid ban
+Egypt,Tonga,visa required
 Egypt,Trinidad and Tobago,visa required
 Egypt,Tunisia,visa required
 Egypt,Turkey,visa required
@@ -10354,7 +10354,7 @@ El Salvador,Angola,visa on arrival
 El Salvador,Antigua and Barbuda,e-visa
 El Salvador,Argentina,90
 El Salvador,Armenia,e-visa
-El Salvador,Australia,e-visa
+El Salvador,Australia,covid ban
 El Salvador,Austria,90
 El Salvador,Azerbaijan,covid ban
 El Salvador,Bahamas,90
@@ -10516,7 +10516,7 @@ El Salvador,Sri Lanka,e-visa
 El Salvador,Saint Vincent and the Grenadines,30
 El Salvador,Sudan,visa required
 El Salvador,Suriname,e-visa
-El Salvador,Sweden,90
+El Salvador,Sweden,covid ban
 El Salvador,Switzerland,90
 El Salvador,Syria,visa required
 El Salvador,Taiwan,covid ban
@@ -10525,7 +10525,7 @@ El Salvador,Tanzania,visa on arrival
 El Salvador,Thailand,visa required
 El Salvador,Timor-Leste,visa on arrival
 El Salvador,Togo,visa on arrival
-El Salvador,Tonga,covid ban
+El Salvador,Tonga,visa required
 El Salvador,Trinidad and Tobago,90
 El Salvador,Tunisia,visa required
 El Salvador,Turkey,90
@@ -10553,7 +10553,7 @@ Equatorial Guinea,Angola,visa on arrival
 Equatorial Guinea,Antigua and Barbuda,e-visa
 Equatorial Guinea,Argentina,visa required
 Equatorial Guinea,Armenia,visa required
-Equatorial Guinea,Australia,e-visa
+Equatorial Guinea,Australia,covid ban
 Equatorial Guinea,Austria,visa required
 Equatorial Guinea,Azerbaijan,covid ban
 Equatorial Guinea,Bahamas,visa required
@@ -10724,7 +10724,7 @@ Equatorial Guinea,Tanzania,e-visa
 Equatorial Guinea,Thailand,visa required
 Equatorial Guinea,Timor-Leste,visa on arrival
 Equatorial Guinea,Togo,visa on arrival
-Equatorial Guinea,Tonga,covid ban
+Equatorial Guinea,Tonga,visa required
 Equatorial Guinea,Trinidad and Tobago,visa required
 Equatorial Guinea,Tunisia,90
 Equatorial Guinea,Turkey,visa required
@@ -10752,7 +10752,7 @@ Eritrea,Angola,visa on arrival
 Eritrea,Antigua and Barbuda,e-visa
 Eritrea,Argentina,visa required
 Eritrea,Armenia,visa required
-Eritrea,Australia,e-visa
+Eritrea,Australia,covid ban
 Eritrea,Austria,visa required
 Eritrea,Azerbaijan,covid ban
 Eritrea,Bahamas,visa required
@@ -10923,7 +10923,7 @@ Eritrea,Tanzania,e-visa
 Eritrea,Thailand,visa required
 Eritrea,Timor-Leste,visa on arrival
 Eritrea,Togo,visa on arrival
-Eritrea,Tonga,covid ban
+Eritrea,Tonga,visa required
 Eritrea,Trinidad and Tobago,visa required
 Eritrea,Tunisia,visa required
 Eritrea,Turkey,visa required
@@ -10951,7 +10951,7 @@ Estonia,Angola,visa on arrival
 Estonia,Antigua and Barbuda,180
 Estonia,Argentina,90
 Estonia,Armenia,180
-Estonia,Australia,e-visa
+Estonia,Australia,covid ban
 Estonia,Austria,visa free
 Estonia,Azerbaijan,e-visa
 Estonia,Bahamas,90
@@ -10968,7 +10968,7 @@ Estonia,Bosnia and Herzegovina,90
 Estonia,Botswana,90
 Estonia,Brazil,90
 Estonia,Brunei,covid ban
-Estonia,Bulgaria,visa free
+Estonia,Bulgaria,covid ban
 Estonia,Burkina Faso,visa on arrival
 Estonia,Burundi,visa required
 Estonia,Cambodia,e-visa
@@ -11117,12 +11117,12 @@ Estonia,Sweden,visa free
 Estonia,Switzerland,visa free
 Estonia,Syria,visa required
 Estonia,Taiwan,covid ban
-Estonia,Tajikistan,30
+Estonia,Tajikistan,visa on arrival
 Estonia,Tanzania,visa on arrival
 Estonia,Thailand,30
 Estonia,Timor-Leste,90
 Estonia,Togo,visa on arrival
-Estonia,Tonga,covid ban
+Estonia,Tonga,90
 Estonia,Trinidad and Tobago,90
 Estonia,Tunisia,90
 Estonia,Turkey,90
@@ -11150,7 +11150,7 @@ Swaziland,Angola,visa on arrival
 Swaziland,Antigua and Barbuda,180
 Swaziland,Argentina,visa required
 Swaziland,Armenia,visa required
-Swaziland,Australia,e-visa
+Swaziland,Australia,covid ban
 Swaziland,Austria,visa required
 Swaziland,Azerbaijan,covid ban
 Swaziland,Bahamas,90
@@ -11321,7 +11321,7 @@ Swaziland,Tanzania,90
 Swaziland,Thailand,visa required
 Swaziland,Timor-Leste,visa on arrival
 Swaziland,Togo,visa on arrival
-Swaziland,Tonga,covid ban
+Swaziland,Tonga,visa required
 Swaziland,Trinidad and Tobago,visa free
 Swaziland,Tunisia,visa required
 Swaziland,Turkey,visa required
@@ -11349,7 +11349,7 @@ Ethiopia,Angola,visa on arrival
 Ethiopia,Antigua and Barbuda,e-visa
 Ethiopia,Argentina,visa required
 Ethiopia,Armenia,visa required
-Ethiopia,Australia,e-visa
+Ethiopia,Australia,covid ban
 Ethiopia,Austria,visa required
 Ethiopia,Azerbaijan,covid ban
 Ethiopia,Bahamas,visa required
@@ -11520,7 +11520,7 @@ Ethiopia,Tanzania,e-visa
 Ethiopia,Thailand,visa on arrival
 Ethiopia,Timor-Leste,visa on arrival
 Ethiopia,Togo,visa on arrival
-Ethiopia,Tonga,covid ban
+Ethiopia,Tonga,visa required
 Ethiopia,Trinidad and Tobago,visa required
 Ethiopia,Tunisia,visa required
 Ethiopia,Turkey,visa required
@@ -11548,7 +11548,7 @@ Fiji,Angola,visa on arrival
 Fiji,Antigua and Barbuda,180
 Fiji,Argentina,90
 Fiji,Armenia,e-visa
-Fiji,Australia,e-visa
+Fiji,Australia,covid ban
 Fiji,Austria,visa required
 Fiji,Azerbaijan,covid ban
 Fiji,Bahamas,90
@@ -11697,7 +11697,7 @@ Fiji,Senegal,visa on arrival
 Fiji,Serbia,visa required
 Fiji,Seychelles,90
 Fiji,Sierra Leone,visa on arrival
-Fiji,Singapore,30
+Fiji,Singapore,covid ban
 Fiji,Slovakia,visa required
 Fiji,Slovenia,visa required
 Fiji,Solomon Islands,covid ban
@@ -11719,7 +11719,7 @@ Fiji,Tanzania,visa on arrival
 Fiji,Thailand,visa on arrival
 Fiji,Timor-Leste,visa on arrival
 Fiji,Togo,visa on arrival
-Fiji,Tonga,covid ban
+Fiji,Tonga,visa on arrival
 Fiji,Trinidad and Tobago,visa required
 Fiji,Tunisia,90
 Fiji,Turkey,e-visa
@@ -11747,7 +11747,7 @@ Finland,Angola,visa on arrival
 Finland,Antigua and Barbuda,180
 Finland,Argentina,90
 Finland,Armenia,180
-Finland,Australia,e-visa
+Finland,Australia,covid ban
 Finland,Austria,visa free
 Finland,Azerbaijan,e-visa
 Finland,Bahamas,90
@@ -11913,12 +11913,12 @@ Finland,Sweden,visa free
 Finland,Switzerland,visa free
 Finland,Syria,visa required
 Finland,Taiwan,covid ban
-Finland,Tajikistan,30
+Finland,Tajikistan,visa on arrival
 Finland,Tanzania,visa on arrival
 Finland,Thailand,30
 Finland,Timor-Leste,90
 Finland,Togo,visa on arrival
-Finland,Tonga,covid ban
+Finland,Tonga,90
 Finland,Trinidad and Tobago,90
 Finland,Tunisia,90
 Finland,Turkey,90
@@ -11946,7 +11946,7 @@ France,Angola,visa on arrival
 France,Antigua and Barbuda,180
 France,Argentina,90
 France,Armenia,180
-France,Australia,e-visa
+France,Australia,covid ban
 France,Austria,visa free
 France,Azerbaijan,e-visa
 France,Bahamas,90
@@ -12112,12 +12112,12 @@ France,Sweden,visa free
 France,Switzerland,visa free
 France,Syria,visa required
 France,Taiwan,covid ban
-France,Tajikistan,30
+France,Tajikistan,visa on arrival
 France,Tanzania,visa on arrival
 France,Thailand,30
 France,Timor-Leste,90
 France,Togo,visa on arrival
-France,Tonga,covid ban
+France,Tonga,90
 France,Trinidad and Tobago,90
 France,Tunisia,90
 France,Turkey,90
@@ -12145,7 +12145,7 @@ Gabon,Angola,visa on arrival
 Gabon,Antigua and Barbuda,e-visa
 Gabon,Argentina,visa required
 Gabon,Armenia,visa required
-Gabon,Australia,e-visa
+Gabon,Australia,covid ban
 Gabon,Austria,visa required
 Gabon,Azerbaijan,covid ban
 Gabon,Bahamas,visa required
@@ -12316,7 +12316,7 @@ Gabon,Tanzania,visa on arrival
 Gabon,Thailand,visa required
 Gabon,Timor-Leste,visa on arrival
 Gabon,Togo,visa on arrival
-Gabon,Tonga,covid ban
+Gabon,Tonga,visa required
 Gabon,Trinidad and Tobago,visa required
 Gabon,Tunisia,90
 Gabon,Turkey,visa required
@@ -12344,7 +12344,7 @@ Gambia,Angola,visa on arrival
 Gambia,Antigua and Barbuda,e-visa
 Gambia,Argentina,visa required
 Gambia,Armenia,visa required
-Gambia,Australia,e-visa
+Gambia,Australia,covid ban
 Gambia,Austria,visa required
 Gambia,Azerbaijan,covid ban
 Gambia,Bahamas,90
@@ -12515,7 +12515,7 @@ Gambia,Tanzania,90
 Gambia,Thailand,visa required
 Gambia,Timor-Leste,visa on arrival
 Gambia,Togo,visa free
-Gambia,Tonga,covid ban
+Gambia,Tonga,visa required
 Gambia,Trinidad and Tobago,visa free
 Gambia,Tunisia,visa free
 Gambia,Turkey,visa required
@@ -12543,7 +12543,7 @@ Georgia,Angola,visa on arrival
 Georgia,Antigua and Barbuda,180
 Georgia,Argentina,90
 Georgia,Armenia,visa free
-Georgia,Australia,e-visa
+Georgia,Australia,covid ban
 Georgia,Austria,90
 Georgia,Azerbaijan,covid ban
 Georgia,Bahamas,90
@@ -12705,7 +12705,7 @@ Georgia,Sri Lanka,e-visa
 Georgia,Saint Vincent and the Grenadines,30
 Georgia,Sudan,visa required
 Georgia,Suriname,e-visa
-Georgia,Sweden,90
+Georgia,Sweden,visa required
 Georgia,Switzerland,90
 Georgia,Syria,visa required
 Georgia,Taiwan,covid ban
@@ -12714,7 +12714,7 @@ Georgia,Tanzania,e-visa
 Georgia,Thailand,visa on arrival
 Georgia,Timor-Leste,visa on arrival
 Georgia,Togo,visa on arrival
-Georgia,Tonga,covid ban
+Georgia,Tonga,visa required
 Georgia,Trinidad and Tobago,visa required
 Georgia,Tunisia,visa free
 Georgia,Turkey,90
@@ -12742,7 +12742,7 @@ Germany,Angola,visa on arrival
 Germany,Antigua and Barbuda,180
 Germany,Argentina,90
 Germany,Armenia,180
-Germany,Australia,e-visa
+Germany,Australia,covid ban
 Germany,Austria,visa free
 Germany,Azerbaijan,e-visa
 Germany,Bahamas,90
@@ -12908,12 +12908,12 @@ Germany,Sweden,visa free
 Germany,Switzerland,visa free
 Germany,Syria,visa required
 Germany,Taiwan,covid ban
-Germany,Tajikistan,30
+Germany,Tajikistan,visa on arrival
 Germany,Tanzania,visa on arrival
 Germany,Thailand,30
 Germany,Timor-Leste,90
 Germany,Togo,visa on arrival
-Germany,Tonga,covid ban
+Germany,Tonga,90
 Germany,Trinidad and Tobago,90
 Germany,Tunisia,120
 Germany,Turkey,90
@@ -12941,7 +12941,7 @@ Ghana,Angola,visa on arrival
 Ghana,Antigua and Barbuda,e-visa
 Ghana,Argentina,visa required
 Ghana,Armenia,visa required
-Ghana,Australia,e-visa
+Ghana,Australia,covid ban
 Ghana,Austria,visa required
 Ghana,Azerbaijan,covid ban
 Ghana,Bahamas,visa required
@@ -13112,7 +13112,7 @@ Ghana,Tanzania,visa free
 Ghana,Thailand,visa required
 Ghana,Timor-Leste,visa on arrival
 Ghana,Togo,visa free
-Ghana,Tonga,covid ban
+Ghana,Tonga,visa required
 Ghana,Trinidad and Tobago,visa free
 Ghana,Tunisia,visa required
 Ghana,Turkey,visa required
@@ -13140,7 +13140,7 @@ Greece,Angola,visa on arrival
 Greece,Antigua and Barbuda,180
 Greece,Argentina,90
 Greece,Armenia,180
-Greece,Australia,e-visa
+Greece,Australia,covid ban
 Greece,Austria,visa free
 Greece,Azerbaijan,e-visa
 Greece,Bahamas,240
@@ -13306,12 +13306,12 @@ Greece,Sweden,visa free
 Greece,Switzerland,visa free
 Greece,Syria,visa required
 Greece,Taiwan,covid ban
-Greece,Tajikistan,30
+Greece,Tajikistan,visa on arrival
 Greece,Tanzania,visa on arrival
 Greece,Thailand,30
 Greece,Timor-Leste,90
 Greece,Togo,visa on arrival
-Greece,Tonga,covid ban
+Greece,Tonga,90
 Greece,Trinidad and Tobago,90
 Greece,Tunisia,30
 Greece,Turkey,90
@@ -13339,7 +13339,7 @@ Grenada,Angola,visa on arrival
 Grenada,Antigua and Barbuda,180
 Grenada,Argentina,90
 Grenada,Armenia,e-visa
-Grenada,Australia,e-visa
+Grenada,Australia,covid ban
 Grenada,Austria,90
 Grenada,Azerbaijan,covid ban
 Grenada,Bahamas,90
@@ -13510,14 +13510,14 @@ Grenada,Tanzania,90
 Grenada,Thailand,visa required
 Grenada,Timor-Leste,visa on arrival
 Grenada,Togo,visa on arrival
-Grenada,Tonga,covid ban
+Grenada,Tonga,visa required
 Grenada,Trinidad and Tobago,visa free
 Grenada,Tunisia,visa required
 Grenada,Turkey,e-visa
 Grenada,Turkmenistan,visa required
 Grenada,Tuvalu,visa on arrival
 Grenada,Uganda,90
-Grenada,Ukraine,90
+Grenada,Ukraine,e-visa
 Grenada,United Arab Emirates,e-visa
 Grenada,United Kingdom,180
 Grenada,United States,visa required
@@ -13538,7 +13538,7 @@ Guatemala,Angola,visa on arrival
 Guatemala,Antigua and Barbuda,e-visa
 Guatemala,Argentina,90
 Guatemala,Armenia,e-visa
-Guatemala,Australia,e-visa
+Guatemala,Australia,covid ban
 Guatemala,Austria,90
 Guatemala,Azerbaijan,covid ban
 Guatemala,Bahamas,90
@@ -13709,7 +13709,7 @@ Guatemala,Tanzania,visa on arrival
 Guatemala,Thailand,visa required
 Guatemala,Timor-Leste,visa on arrival
 Guatemala,Togo,visa on arrival
-Guatemala,Tonga,covid ban
+Guatemala,Tonga,visa required
 Guatemala,Trinidad and Tobago,90
 Guatemala,Tunisia,visa required
 Guatemala,Turkey,90
@@ -13737,7 +13737,7 @@ Guinea,Angola,visa on arrival
 Guinea,Antigua and Barbuda,e-visa
 Guinea,Argentina,visa required
 Guinea,Armenia,visa required
-Guinea,Australia,e-visa
+Guinea,Australia,covid ban
 Guinea,Austria,visa required
 Guinea,Azerbaijan,covid ban
 Guinea,Bahamas,visa required
@@ -13908,7 +13908,7 @@ Guinea,Tanzania,visa on arrival
 Guinea,Thailand,visa required
 Guinea,Timor-Leste,visa on arrival
 Guinea,Togo,visa free
-Guinea,Tonga,covid ban
+Guinea,Tonga,visa required
 Guinea,Trinidad and Tobago,visa required
 Guinea,Tunisia,90
 Guinea,Turkey,visa required
@@ -13936,7 +13936,7 @@ Guinea-Bissau,Angola,visa on arrival
 Guinea-Bissau,Antigua and Barbuda,e-visa
 Guinea-Bissau,Argentina,visa required
 Guinea-Bissau,Armenia,visa required
-Guinea-Bissau,Australia,e-visa
+Guinea-Bissau,Australia,covid ban
 Guinea-Bissau,Austria,visa required
 Guinea-Bissau,Azerbaijan,covid ban
 Guinea-Bissau,Bahamas,visa required
@@ -14107,7 +14107,7 @@ Guinea-Bissau,Tanzania,visa on arrival
 Guinea-Bissau,Thailand,visa required
 Guinea-Bissau,Timor-Leste,visa on arrival
 Guinea-Bissau,Togo,visa free
-Guinea-Bissau,Tonga,covid ban
+Guinea-Bissau,Tonga,visa required
 Guinea-Bissau,Trinidad and Tobago,visa required
 Guinea-Bissau,Tunisia,90
 Guinea-Bissau,Turkey,visa required
@@ -14135,7 +14135,7 @@ Guyana,Angola,visa on arrival
 Guyana,Antigua and Barbuda,180
 Guyana,Argentina,90
 Guyana,Armenia,e-visa
-Guyana,Australia,e-visa
+Guyana,Australia,covid ban
 Guyana,Austria,visa required
 Guyana,Azerbaijan,covid ban
 Guyana,Bahamas,90
@@ -14306,7 +14306,7 @@ Guyana,Tanzania,90
 Guyana,Thailand,visa required
 Guyana,Timor-Leste,visa on arrival
 Guyana,Togo,visa on arrival
-Guyana,Tonga,covid ban
+Guyana,Tonga,visa required
 Guyana,Trinidad and Tobago,visa free
 Guyana,Tunisia,visa required
 Guyana,Turkey,visa required
@@ -14334,7 +14334,7 @@ Haiti,Angola,visa on arrival
 Haiti,Antigua and Barbuda,e-visa
 Haiti,Argentina,visa required
 Haiti,Armenia,e-visa
-Haiti,Australia,e-visa
+Haiti,Australia,covid ban
 Haiti,Austria,visa required
 Haiti,Azerbaijan,covid ban
 Haiti,Bahamas,visa required
@@ -14505,7 +14505,7 @@ Haiti,Tanzania,visa on arrival
 Haiti,Thailand,visa required
 Haiti,Timor-Leste,visa on arrival
 Haiti,Togo,visa on arrival
-Haiti,Tonga,covid ban
+Haiti,Tonga,visa required
 Haiti,Trinidad and Tobago,visa required
 Haiti,Tunisia,visa required
 Haiti,Turkey,e-visa
@@ -14533,7 +14533,7 @@ Honduras,Angola,visa on arrival
 Honduras,Antigua and Barbuda,e-visa
 Honduras,Argentina,90
 Honduras,Armenia,e-visa
-Honduras,Australia,e-visa
+Honduras,Australia,covid ban
 Honduras,Austria,90
 Honduras,Azerbaijan,covid ban
 Honduras,Bahamas,90
@@ -14704,7 +14704,7 @@ Honduras,Tanzania,visa on arrival
 Honduras,Thailand,visa required
 Honduras,Timor-Leste,visa on arrival
 Honduras,Togo,visa on arrival
-Honduras,Tonga,covid ban
+Honduras,Tonga,visa required
 Honduras,Trinidad and Tobago,90
 Honduras,Tunisia,90
 Honduras,Turkey,90
@@ -14732,7 +14732,7 @@ Hong Kong,Angola,visa on arrival
 Hong Kong,Antigua and Barbuda,30
 Hong Kong,Argentina,90
 Hong Kong,Armenia,180
-Hong Kong,Australia,e-visa
+Hong Kong,Australia,covid ban
 Hong Kong,Austria,90
 Hong Kong,Azerbaijan,covid ban
 Hong Kong,Bahamas,90
@@ -14903,7 +14903,7 @@ Hong Kong,Tanzania,90
 Hong Kong,Thailand,30
 Hong Kong,Timor-Leste,visa on arrival
 Hong Kong,Togo,visa on arrival
-Hong Kong,Tonga,covid ban
+Hong Kong,Tonga,visa on arrival
 Hong Kong,Trinidad and Tobago,visa free
 Hong Kong,Tunisia,90
 Hong Kong,Turkey,90
@@ -14931,7 +14931,7 @@ Hungary,Angola,visa on arrival
 Hungary,Antigua and Barbuda,180
 Hungary,Argentina,90
 Hungary,Armenia,180
-Hungary,Australia,e-visa
+Hungary,Australia,covid ban
 Hungary,Austria,visa free
 Hungary,Azerbaijan,e-visa
 Hungary,Bahamas,90
@@ -15097,12 +15097,12 @@ Hungary,Sweden,visa free
 Hungary,Switzerland,visa free
 Hungary,Syria,visa required
 Hungary,Taiwan,covid ban
-Hungary,Tajikistan,30
+Hungary,Tajikistan,visa on arrival
 Hungary,Tanzania,visa on arrival
 Hungary,Thailand,30
 Hungary,Timor-Leste,90
 Hungary,Togo,visa on arrival
-Hungary,Tonga,covid ban
+Hungary,Tonga,90
 Hungary,Trinidad and Tobago,90
 Hungary,Tunisia,90
 Hungary,Turkey,90
@@ -15130,7 +15130,7 @@ Iceland,Angola,visa on arrival
 Iceland,Antigua and Barbuda,180
 Iceland,Argentina,90
 Iceland,Armenia,180
-Iceland,Australia,e-visa
+Iceland,Australia,covid ban
 Iceland,Austria,visa free
 Iceland,Azerbaijan,e-visa
 Iceland,Bahamas,240
@@ -15296,12 +15296,12 @@ Iceland,Sweden,visa free
 Iceland,Switzerland,visa free
 Iceland,Syria,visa required
 Iceland,Taiwan,covid ban
-Iceland,Tajikistan,30
+Iceland,Tajikistan,visa on arrival
 Iceland,Tanzania,visa on arrival
 Iceland,Thailand,30
 Iceland,Timor-Leste,90
 Iceland,Togo,visa on arrival
-Iceland,Tonga,covid ban
+Iceland,Tonga,90
 Iceland,Trinidad and Tobago,90
 Iceland,Tunisia,90
 Iceland,Turkey,90
@@ -15322,14 +15322,14 @@ Iceland,Yemen,visa required
 Iceland,Zambia,visa on arrival
 Iceland,Zimbabwe,visa on arrival
 Iceland,Afghanistan,visa required
-India,Albania,visa required
+India,Albania,90
 India,Algeria,visa required
 India,Andorra,visa required
 India,Angola,visa on arrival
 India,Antigua and Barbuda,e-visa
 India,Argentina,visa required
 India,Armenia,e-visa
-India,Australia,e-visa
+India,Australia,covid ban
 India,Austria,visa required
 India,Azerbaijan,covid ban
 India,Bahamas,visa required
@@ -15422,7 +15422,7 @@ India,Liberia,visa required
 India,Libya,visa required
 India,Liechtenstein,visa required
 India,Lithuania,visa required
-India,Luxembourg,visa required
+India,Luxembourg,covid ban
 India,Macao,covid ban
 India,Madagascar,visa on arrival
 India,Malawi,e-visa
@@ -15500,7 +15500,7 @@ India,Tanzania,visa on arrival
 India,Thailand,visa on arrival
 India,Timor-Leste,visa on arrival
 India,Togo,visa on arrival
-India,Tonga,covid ban
+India,Tonga,visa required
 India,Trinidad and Tobago,90
 India,Tunisia,90
 India,Turkey,visa required
@@ -15528,7 +15528,7 @@ Indonesia,Angola,visa on arrival
 Indonesia,Antigua and Barbuda,e-visa
 Indonesia,Argentina,visa required
 Indonesia,Armenia,e-visa
-Indonesia,Australia,e-visa
+Indonesia,Australia,covid ban
 Indonesia,Austria,visa required
 Indonesia,Azerbaijan,covid ban
 Indonesia,Bahamas,visa required
@@ -15603,7 +15603,7 @@ Indonesia,Iran,e-visa
 Indonesia,Iraq,visa required
 Indonesia,Ireland,visa required
 Indonesia,Israel,covid ban
-Indonesia,Italy,visa required
+Indonesia,Italy,covid ban
 Indonesia,Jamaica,visa required
 Indonesia,Japan,covid ban
 Indonesia,Jordan,visa on arrival
@@ -15670,7 +15670,7 @@ Indonesia,Rwanda,90
 Indonesia,Saint Kitts and Nevis,90
 Indonesia,Saint Lucia,visa required
 Indonesia,Samoa,visa on arrival
-Indonesia,San Marino,visa required
+Indonesia,San Marino,covid ban
 Indonesia,Sao Tome and Principe,e-visa
 Indonesia,Saudi Arabia,covid ban
 Indonesia,Senegal,visa on arrival
@@ -15694,12 +15694,12 @@ Indonesia,Sweden,visa required
 Indonesia,Switzerland,visa required
 Indonesia,Syria,visa required
 Indonesia,Taiwan,covid ban
-Indonesia,Tajikistan,30
+Indonesia,Tajikistan,visa on arrival
 Indonesia,Tanzania,visa on arrival
 Indonesia,Thailand,30
 Indonesia,Timor-Leste,visa on arrival
 Indonesia,Togo,visa on arrival
-Indonesia,Tonga,covid ban
+Indonesia,Tonga,visa required
 Indonesia,Trinidad and Tobago,visa required
 Indonesia,Tunisia,visa required
 Indonesia,Turkey,e-visa
@@ -15713,7 +15713,7 @@ Indonesia,United States,visa required
 Indonesia,Uruguay,visa required
 Indonesia,Uzbekistan,30
 Indonesia,Vanuatu,covid ban
-Indonesia,Vatican,visa required
+Indonesia,Vatican,covid ban
 Indonesia,Venezuela,visa required
 Indonesia,Vietnam,covid ban
 Indonesia,Yemen,visa required
@@ -15727,7 +15727,7 @@ Iran,Angola,visa on arrival
 Iran,Antigua and Barbuda,e-visa
 Iran,Argentina,visa required
 Iran,Armenia,90
-Iran,Australia,e-visa
+Iran,Australia,covid ban
 Iran,Austria,visa required
 Iran,Azerbaijan,covid ban
 Iran,Bahamas,visa required
@@ -15794,7 +15794,7 @@ Iran,Guyana,visa on arrival
 Iran,Haiti,90
 Iran,Honduras,visa required
 Iran,Hong Kong,covid ban
-Iran,Hungary,visa required
+Iran,Hungary,covid ban
 Iran,Iceland,visa required
 Iran,India,visa required
 Iran,Indonesia,covid ban
@@ -15898,7 +15898,7 @@ Iran,Tanzania,e-visa
 Iran,Thailand,visa required
 Iran,Timor-Leste,visa on arrival
 Iran,Togo,visa on arrival
-Iran,Tonga,covid ban
+Iran,Tonga,visa required
 Iran,Trinidad and Tobago,visa required
 Iran,Tunisia,visa required
 Iran,Turkey,90
@@ -15926,7 +15926,7 @@ Iraq,Angola,visa on arrival
 Iraq,Antigua and Barbuda,e-visa
 Iraq,Argentina,visa required
 Iraq,Armenia,visa required
-Iraq,Australia,e-visa
+Iraq,Australia,covid ban
 Iraq,Austria,visa required
 Iraq,Azerbaijan,covid ban
 Iraq,Bahamas,visa required
@@ -16097,7 +16097,7 @@ Iraq,Tanzania,e-visa
 Iraq,Thailand,visa required
 Iraq,Timor-Leste,visa on arrival
 Iraq,Togo,visa on arrival
-Iraq,Tonga,covid ban
+Iraq,Tonga,visa required
 Iraq,Trinidad and Tobago,visa required
 Iraq,Tunisia,visa required
 Iraq,Turkey,visa required
@@ -16125,7 +16125,7 @@ Ireland,Angola,visa on arrival
 Ireland,Antigua and Barbuda,180
 Ireland,Argentina,90
 Ireland,Armenia,180
-Ireland,Australia,e-visa
+Ireland,Australia,covid ban
 Ireland,Austria,visa free
 Ireland,Azerbaijan,e-visa
 Ireland,Bahamas,90
@@ -16296,7 +16296,7 @@ Ireland,Tanzania,visa on arrival
 Ireland,Thailand,30
 Ireland,Timor-Leste,visa on arrival
 Ireland,Togo,visa on arrival
-Ireland,Tonga,covid ban
+Ireland,Tonga,visa on arrival
 Ireland,Trinidad and Tobago,visa free
 Ireland,Tunisia,90
 Ireland,Turkey,90
@@ -16324,7 +16324,7 @@ Israel,Angola,visa on arrival
 Israel,Antigua and Barbuda,e-visa
 Israel,Argentina,90
 Israel,Armenia,e-visa
-Israel,Australia,e-visa
+Israel,Australia,covid ban
 Israel,Austria,90
 Israel,Azerbaijan,e-visa
 Israel,Bahamas,90
@@ -16495,7 +16495,7 @@ Israel,Tanzania,visa on arrival
 Israel,Thailand,30
 Israel,Timor-Leste,visa on arrival
 Israel,Togo,visa on arrival
-Israel,Tonga,covid ban
+Israel,Tonga,visa on arrival
 Israel,Trinidad and Tobago,90
 Israel,Tunisia,visa required
 Israel,Turkey,90
@@ -16523,7 +16523,7 @@ Italy,Angola,visa on arrival
 Italy,Antigua and Barbuda,180
 Italy,Argentina,90
 Italy,Armenia,180
-Italy,Australia,e-visa
+Italy,Australia,covid ban
 Italy,Austria,visa free
 Italy,Azerbaijan,e-visa
 Italy,Bahamas,240
@@ -16689,12 +16689,12 @@ Italy,Sweden,visa free
 Italy,Switzerland,visa free
 Italy,Syria,visa required
 Italy,Taiwan,covid ban
-Italy,Tajikistan,30
+Italy,Tajikistan,visa on arrival
 Italy,Tanzania,visa on arrival
 Italy,Thailand,30
 Italy,Timor-Leste,90
 Italy,Togo,visa on arrival
-Italy,Tonga,covid ban
+Italy,Tonga,90
 Italy,Trinidad and Tobago,90
 Italy,Tunisia,90
 Italy,Turkey,90
@@ -16722,7 +16722,7 @@ Jamaica,Angola,visa on arrival
 Jamaica,Antigua and Barbuda,180
 Jamaica,Argentina,90
 Jamaica,Armenia,e-visa
-Jamaica,Australia,e-visa
+Jamaica,Australia,covid ban
 Jamaica,Austria,visa required
 Jamaica,Azerbaijan,covid ban
 Jamaica,Bahamas,90
@@ -16893,7 +16893,7 @@ Jamaica,Tanzania,90
 Jamaica,Thailand,visa required
 Jamaica,Timor-Leste,visa on arrival
 Jamaica,Togo,visa on arrival
-Jamaica,Tonga,covid ban
+Jamaica,Tonga,visa required
 Jamaica,Trinidad and Tobago,visa free
 Jamaica,Tunisia,visa required
 Jamaica,Turkey,e-visa
@@ -16921,7 +16921,7 @@ Japan,Angola,visa on arrival
 Japan,Antigua and Barbuda,180
 Japan,Argentina,90
 Japan,Armenia,180
-Japan,Australia,e-visa
+Japan,Australia,covid ban
 Japan,Austria,90
 Japan,Azerbaijan,e-visa
 Japan,Bahamas,90
@@ -16990,7 +16990,7 @@ Japan,Honduras,90
 Japan,Hong Kong,90
 Japan,Hungary,90
 Japan,Iceland,90
-Japan,India,visa on arrival
+Japan,India,e-visa
 Japan,Indonesia,covid ban
 Japan,Iran,e-visa
 Japan,Iraq,visa on arrival
@@ -17087,12 +17087,12 @@ Japan,Sweden,covid ban
 Japan,Switzerland,90
 Japan,Syria,visa required
 Japan,Taiwan,covid ban
-Japan,Tajikistan,30
+Japan,Tajikistan,visa on arrival
 Japan,Tanzania,visa on arrival
 Japan,Thailand,30
 Japan,Timor-Leste,visa on arrival
 Japan,Togo,visa on arrival
-Japan,Tonga,covid ban
+Japan,Tonga,visa on arrival
 Japan,Trinidad and Tobago,90
 Japan,Tunisia,90
 Japan,Turkey,90
@@ -17120,7 +17120,7 @@ Jordan,Angola,visa on arrival
 Jordan,Antigua and Barbuda,e-visa
 Jordan,Argentina,visa required
 Jordan,Armenia,e-visa
-Jordan,Australia,e-visa
+Jordan,Australia,covid ban
 Jordan,Austria,visa required
 Jordan,Azerbaijan,covid ban
 Jordan,Bahamas,visa required
@@ -17137,7 +17137,7 @@ Jordan,Bosnia and Herzegovina,visa required
 Jordan,Botswana,visa required
 Jordan,Brazil,visa required
 Jordan,Brunei,covid ban
-Jordan,Bulgaria,covid ban
+Jordan,Bulgaria,visa required
 Jordan,Burkina Faso,visa required
 Jordan,Burundi,visa required
 Jordan,Cambodia,e-visa
@@ -17195,7 +17195,7 @@ Jordan,Iran,visa required
 Jordan,Iraq,visa required
 Jordan,Ireland,visa required
 Jordan,Israel,covid ban
-Jordan,Italy,covid ban
+Jordan,Italy,visa required
 Jordan,Jamaica,visa required
 Jordan,Japan,covid ban
 Jordan,Jordan,-1
@@ -17262,7 +17262,7 @@ Jordan,Rwanda,visa on arrival
 Jordan,Saint Kitts and Nevis,90
 Jordan,Saint Lucia,visa required
 Jordan,Samoa,visa on arrival
-Jordan,San Marino,covid ban
+Jordan,San Marino,visa required
 Jordan,Sao Tome and Principe,e-visa
 Jordan,Saudi Arabia,covid ban
 Jordan,Senegal,visa on arrival
@@ -17282,16 +17282,16 @@ Jordan,Sri Lanka,e-visa
 Jordan,Saint Vincent and the Grenadines,visa required
 Jordan,Sudan,visa required
 Jordan,Suriname,e-visa
-Jordan,Sweden,covid ban
+Jordan,Sweden,visa required
 Jordan,Switzerland,visa required
 Jordan,Syria,visa free
 Jordan,Taiwan,covid ban
-Jordan,Tajikistan,30
+Jordan,Tajikistan,visa on arrival
 Jordan,Tanzania,visa on arrival
 Jordan,Thailand,visa required
 Jordan,Timor-Leste,visa on arrival
 Jordan,Togo,visa on arrival
-Jordan,Tonga,covid ban
+Jordan,Tonga,visa required
 Jordan,Trinidad and Tobago,visa required
 Jordan,Tunisia,90
 Jordan,Turkey,90
@@ -17305,7 +17305,7 @@ Jordan,United States,visa required
 Jordan,Uruguay,visa required
 Jordan,Uzbekistan,e-visa
 Jordan,Vanuatu,covid ban
-Jordan,Vatican,covid ban
+Jordan,Vatican,visa required
 Jordan,Venezuela,visa required
 Jordan,Vietnam,covid ban
 Jordan,Yemen,visa on arrival
@@ -17319,7 +17319,7 @@ Kazakhstan,Angola,visa on arrival
 Kazakhstan,Antigua and Barbuda,180
 Kazakhstan,Argentina,90
 Kazakhstan,Armenia,180
-Kazakhstan,Australia,e-visa
+Kazakhstan,Australia,covid ban
 Kazakhstan,Austria,visa required
 Kazakhstan,Azerbaijan,90
 Kazakhstan,Bahamas,visa required
@@ -17490,7 +17490,7 @@ Kazakhstan,Tanzania,e-visa
 Kazakhstan,Thailand,visa on arrival
 Kazakhstan,Timor-Leste,visa on arrival
 Kazakhstan,Togo,visa on arrival
-Kazakhstan,Tonga,covid ban
+Kazakhstan,Tonga,visa required
 Kazakhstan,Trinidad and Tobago,visa required
 Kazakhstan,Tunisia,visa free
 Kazakhstan,Turkey,90
@@ -17518,7 +17518,7 @@ Kenya,Angola,visa on arrival
 Kenya,Antigua and Barbuda,180
 Kenya,Argentina,visa required
 Kenya,Armenia,visa required
-Kenya,Australia,e-visa
+Kenya,Australia,covid ban
 Kenya,Austria,visa required
 Kenya,Azerbaijan,covid ban
 Kenya,Bahamas,90
@@ -17689,7 +17689,7 @@ Kenya,Tanzania,90
 Kenya,Thailand,visa required
 Kenya,Timor-Leste,visa on arrival
 Kenya,Togo,visa on arrival
-Kenya,Tonga,covid ban
+Kenya,Tonga,visa required
 Kenya,Trinidad and Tobago,visa free
 Kenya,Tunisia,visa required
 Kenya,Turkey,visa required
@@ -17717,7 +17717,7 @@ Kiribati,Angola,visa on arrival
 Kiribati,Antigua and Barbuda,180
 Kiribati,Argentina,visa required
 Kiribati,Armenia,e-visa
-Kiribati,Australia,e-visa
+Kiribati,Australia,covid ban
 Kiribati,Austria,visa required
 Kiribati,Azerbaijan,covid ban
 Kiribati,Bahamas,90
@@ -17888,7 +17888,7 @@ Kiribati,Tanzania,90
 Kiribati,Thailand,visa required
 Kiribati,Timor-Leste,visa on arrival
 Kiribati,Togo,visa on arrival
-Kiribati,Tonga,covid ban
+Kiribati,Tonga,visa on arrival
 Kiribati,Trinidad and Tobago,visa free
 Kiribati,Tunisia,90
 Kiribati,Turkey,visa required
@@ -17916,7 +17916,7 @@ Kosovo,Angola,visa on arrival
 Kosovo,Antigua and Barbuda,90
 Kosovo,Argentina,visa required
 Kosovo,Armenia,no admission
-Kosovo,Australia,e-visa
+Kosovo,Australia,covid ban
 Kosovo,Austria,visa required
 Kosovo,Azerbaijan,covid ban
 Kosovo,Bahamas,visa required
@@ -17991,7 +17991,7 @@ Kosovo,Iran,e-visa
 Kosovo,Iraq,visa required
 Kosovo,Ireland,visa required
 Kosovo,Israel,covid ban
-Kosovo,Italy,covid ban
+Kosovo,Italy,visa required
 Kosovo,Jamaica,visa on arrival
 Kosovo,Japan,covid ban
 Kosovo,Jordan,visa on arrival
@@ -18058,7 +18058,7 @@ Kosovo,Rwanda,visa on arrival
 Kosovo,Saint Kitts and Nevis,e-visa
 Kosovo,Saint Lucia,visa required
 Kosovo,Samoa,visa on arrival
-Kosovo,San Marino,covid ban
+Kosovo,San Marino,visa required
 Kosovo,Sao Tome and Principe,e-visa
 Kosovo,Saudi Arabia,covid ban
 Kosovo,Senegal,visa required
@@ -18087,7 +18087,7 @@ Kosovo,Tanzania,visa on arrival
 Kosovo,Thailand,visa required
 Kosovo,Timor-Leste,visa on arrival
 Kosovo,Togo,visa on arrival
-Kosovo,Tonga,covid ban
+Kosovo,Tonga,visa required
 Kosovo,Trinidad and Tobago,visa required
 Kosovo,Tunisia,visa required
 Kosovo,Turkey,90
@@ -18101,7 +18101,7 @@ Kosovo,United States,visa required
 Kosovo,Uruguay,visa required
 Kosovo,Uzbekistan,e-visa
 Kosovo,Vanuatu,covid ban
-Kosovo,Vatican,covid ban
+Kosovo,Vatican,visa required
 Kosovo,Venezuela,visa required
 Kosovo,Vietnam,covid ban
 Kosovo,Yemen,visa required
@@ -18115,7 +18115,7 @@ Kuwait,Angola,visa on arrival
 Kuwait,Antigua and Barbuda,e-visa
 Kuwait,Argentina,visa required
 Kuwait,Armenia,e-visa
-Kuwait,Australia,e-visa
+Kuwait,Australia,covid ban
 Kuwait,Austria,visa required
 Kuwait,Azerbaijan,e-visa
 Kuwait,Bahamas,90
@@ -18281,12 +18281,12 @@ Kuwait,Sweden,visa required
 Kuwait,Switzerland,visa required
 Kuwait,Syria,visa free
 Kuwait,Taiwan,covid ban
-Kuwait,Tajikistan,30
+Kuwait,Tajikistan,visa on arrival
 Kuwait,Tanzania,visa on arrival
 Kuwait,Thailand,30
 Kuwait,Timor-Leste,visa on arrival
 Kuwait,Togo,visa on arrival
-Kuwait,Tonga,covid ban
+Kuwait,Tonga,visa required
 Kuwait,Trinidad and Tobago,visa required
 Kuwait,Tunisia,90
 Kuwait,Turkey,90
@@ -18314,7 +18314,7 @@ Kyrgyzstan,Angola,visa on arrival
 Kyrgyzstan,Antigua and Barbuda,180
 Kyrgyzstan,Argentina,visa required
 Kyrgyzstan,Armenia,180
-Kyrgyzstan,Australia,e-visa
+Kyrgyzstan,Australia,covid ban
 Kyrgyzstan,Austria,visa required
 Kyrgyzstan,Azerbaijan,covid ban
 Kyrgyzstan,Bahamas,visa required
@@ -18485,7 +18485,7 @@ Kyrgyzstan,Tanzania,e-visa
 Kyrgyzstan,Thailand,visa required
 Kyrgyzstan,Timor-Leste,visa on arrival
 Kyrgyzstan,Togo,visa on arrival
-Kyrgyzstan,Tonga,covid ban
+Kyrgyzstan,Tonga,visa required
 Kyrgyzstan,Trinidad and Tobago,visa required
 Kyrgyzstan,Tunisia,visa free
 Kyrgyzstan,Turkey,90
@@ -18513,7 +18513,7 @@ Laos,Angola,visa on arrival
 Laos,Antigua and Barbuda,e-visa
 Laos,Argentina,visa required
 Laos,Armenia,e-visa
-Laos,Australia,e-visa
+Laos,Australia,covid ban
 Laos,Austria,visa required
 Laos,Azerbaijan,covid ban
 Laos,Bahamas,visa required
@@ -18684,7 +18684,7 @@ Laos,Tanzania,visa on arrival
 Laos,Thailand,30
 Laos,Timor-Leste,visa on arrival
 Laos,Togo,visa on arrival
-Laos,Tonga,covid ban
+Laos,Tonga,visa required
 Laos,Trinidad and Tobago,visa required
 Laos,Tunisia,visa required
 Laos,Turkey,visa required
@@ -18712,7 +18712,7 @@ Latvia,Angola,visa on arrival
 Latvia,Antigua and Barbuda,180
 Latvia,Argentina,90
 Latvia,Armenia,180
-Latvia,Australia,e-visa
+Latvia,Australia,covid ban
 Latvia,Austria,visa free
 Latvia,Azerbaijan,e-visa
 Latvia,Bahamas,90
@@ -18729,7 +18729,7 @@ Latvia,Bosnia and Herzegovina,90
 Latvia,Botswana,90
 Latvia,Brazil,90
 Latvia,Brunei,covid ban
-Latvia,Bulgaria,visa free
+Latvia,Bulgaria,covid ban
 Latvia,Burkina Faso,visa on arrival
 Latvia,Burundi,visa required
 Latvia,Cambodia,e-visa
@@ -18878,12 +18878,12 @@ Latvia,Sweden,visa free
 Latvia,Switzerland,visa free
 Latvia,Syria,visa required
 Latvia,Taiwan,covid ban
-Latvia,Tajikistan,30
+Latvia,Tajikistan,visa on arrival
 Latvia,Tanzania,visa on arrival
 Latvia,Thailand,30
 Latvia,Timor-Leste,90
 Latvia,Togo,visa on arrival
-Latvia,Tonga,covid ban
+Latvia,Tonga,90
 Latvia,Trinidad and Tobago,90
 Latvia,Tunisia,90
 Latvia,Turkey,30
@@ -18911,7 +18911,7 @@ Lebanon,Angola,visa on arrival
 Lebanon,Antigua and Barbuda,e-visa
 Lebanon,Argentina,visa required
 Lebanon,Armenia,e-visa
-Lebanon,Australia,e-visa
+Lebanon,Australia,covid ban
 Lebanon,Austria,visa required
 Lebanon,Azerbaijan,covid ban
 Lebanon,Bahamas,visa required
@@ -19004,7 +19004,7 @@ Lebanon,Liberia,visa required
 Lebanon,Libya,visa required
 Lebanon,Liechtenstein,visa required
 Lebanon,Lithuania,visa required
-Lebanon,Luxembourg,visa required
+Lebanon,Luxembourg,covid ban
 Lebanon,Macao,covid ban
 Lebanon,Madagascar,visa on arrival
 Lebanon,Malawi,e-visa
@@ -19073,7 +19073,7 @@ Lebanon,Sri Lanka,e-visa
 Lebanon,Saint Vincent and the Grenadines,visa required
 Lebanon,Sudan,visa required
 Lebanon,Suriname,e-visa
-Lebanon,Sweden,visa required
+Lebanon,Sweden,covid ban
 Lebanon,Switzerland,visa required
 Lebanon,Syria,visa free
 Lebanon,Taiwan,covid ban
@@ -19082,7 +19082,7 @@ Lebanon,Tanzania,e-visa
 Lebanon,Thailand,visa required
 Lebanon,Timor-Leste,visa on arrival
 Lebanon,Togo,visa on arrival
-Lebanon,Tonga,covid ban
+Lebanon,Tonga,visa required
 Lebanon,Trinidad and Tobago,visa required
 Lebanon,Tunisia,visa required
 Lebanon,Turkey,90
@@ -19110,7 +19110,7 @@ Lesotho,Angola,visa on arrival
 Lesotho,Antigua and Barbuda,180
 Lesotho,Argentina,visa required
 Lesotho,Armenia,visa required
-Lesotho,Australia,e-visa
+Lesotho,Australia,covid ban
 Lesotho,Austria,visa required
 Lesotho,Azerbaijan,covid ban
 Lesotho,Bahamas,90
@@ -19281,7 +19281,7 @@ Lesotho,Tanzania,90
 Lesotho,Thailand,visa required
 Lesotho,Timor-Leste,visa on arrival
 Lesotho,Togo,visa on arrival
-Lesotho,Tonga,covid ban
+Lesotho,Tonga,visa required
 Lesotho,Trinidad and Tobago,visa free
 Lesotho,Tunisia,visa required
 Lesotho,Turkey,visa required
@@ -19309,7 +19309,7 @@ Liberia,Angola,visa on arrival
 Liberia,Antigua and Barbuda,e-visa
 Liberia,Argentina,visa required
 Liberia,Armenia,visa required
-Liberia,Australia,e-visa
+Liberia,Australia,covid ban
 Liberia,Austria,visa required
 Liberia,Azerbaijan,covid ban
 Liberia,Bahamas,visa required
@@ -19480,7 +19480,7 @@ Liberia,Tanzania,visa on arrival
 Liberia,Thailand,visa required
 Liberia,Timor-Leste,visa on arrival
 Liberia,Togo,visa free
-Liberia,Tonga,covid ban
+Liberia,Tonga,visa required
 Liberia,Trinidad and Tobago,visa required
 Liberia,Tunisia,visa required
 Liberia,Turkey,visa required
@@ -19508,7 +19508,7 @@ Libya,Angola,visa on arrival
 Libya,Antigua and Barbuda,e-visa
 Libya,Argentina,visa required
 Libya,Armenia,visa required
-Libya,Australia,e-visa
+Libya,Australia,covid ban
 Libya,Austria,visa required
 Libya,Azerbaijan,covid ban
 Libya,Bahamas,visa required
@@ -19679,7 +19679,7 @@ Libya,Tanzania,visa on arrival
 Libya,Thailand,visa required
 Libya,Timor-Leste,visa on arrival
 Libya,Togo,visa on arrival
-Libya,Tonga,covid ban
+Libya,Tonga,visa required
 Libya,Trinidad and Tobago,visa required
 Libya,Tunisia,90
 Libya,Turkey,visa required
@@ -19707,7 +19707,7 @@ Liechtenstein,Angola,visa on arrival
 Liechtenstein,Antigua and Barbuda,180
 Liechtenstein,Argentina,90
 Liechtenstein,Armenia,180
-Liechtenstein,Australia,e-visa
+Liechtenstein,Australia,covid ban
 Liechtenstein,Austria,visa free
 Liechtenstein,Azerbaijan,covid ban
 Liechtenstein,Bahamas,240
@@ -19873,12 +19873,12 @@ Liechtenstein,Sweden,visa free
 Liechtenstein,Switzerland,visa free
 Liechtenstein,Syria,visa required
 Liechtenstein,Taiwan,covid ban
-Liechtenstein,Tajikistan,30
+Liechtenstein,Tajikistan,visa on arrival
 Liechtenstein,Tanzania,visa on arrival
 Liechtenstein,Thailand,30
 Liechtenstein,Timor-Leste,visa on arrival
 Liechtenstein,Togo,visa on arrival
-Liechtenstein,Tonga,covid ban
+Liechtenstein,Tonga,90
 Liechtenstein,Trinidad and Tobago,90
 Liechtenstein,Tunisia,90
 Liechtenstein,Turkey,90
@@ -19906,7 +19906,7 @@ Lithuania,Angola,visa on arrival
 Lithuania,Antigua and Barbuda,180
 Lithuania,Argentina,90
 Lithuania,Armenia,180
-Lithuania,Australia,e-visa
+Lithuania,Australia,covid ban
 Lithuania,Austria,visa free
 Lithuania,Azerbaijan,covid ban
 Lithuania,Bahamas,90
@@ -19923,7 +19923,7 @@ Lithuania,Bosnia and Herzegovina,90
 Lithuania,Botswana,90
 Lithuania,Brazil,90
 Lithuania,Brunei,covid ban
-Lithuania,Bulgaria,visa free
+Lithuania,Bulgaria,covid ban
 Lithuania,Burkina Faso,visa on arrival
 Lithuania,Burundi,visa required
 Lithuania,Cambodia,e-visa
@@ -20072,12 +20072,12 @@ Lithuania,Sweden,visa free
 Lithuania,Switzerland,visa free
 Lithuania,Syria,visa required
 Lithuania,Taiwan,covid ban
-Lithuania,Tajikistan,30
+Lithuania,Tajikistan,visa on arrival
 Lithuania,Tanzania,visa on arrival
 Lithuania,Thailand,30
 Lithuania,Timor-Leste,90
 Lithuania,Togo,visa on arrival
-Lithuania,Tonga,covid ban
+Lithuania,Tonga,90
 Lithuania,Trinidad and Tobago,90
 Lithuania,Tunisia,90
 Lithuania,Turkey,90
@@ -20105,7 +20105,7 @@ Luxembourg,Angola,visa on arrival
 Luxembourg,Antigua and Barbuda,180
 Luxembourg,Argentina,90
 Luxembourg,Armenia,180
-Luxembourg,Australia,e-visa
+Luxembourg,Australia,covid ban
 Luxembourg,Austria,visa free
 Luxembourg,Azerbaijan,e-visa
 Luxembourg,Bahamas,240
@@ -20271,12 +20271,12 @@ Luxembourg,Sweden,visa free
 Luxembourg,Switzerland,visa free
 Luxembourg,Syria,visa required
 Luxembourg,Taiwan,covid ban
-Luxembourg,Tajikistan,30
+Luxembourg,Tajikistan,visa on arrival
 Luxembourg,Tanzania,visa on arrival
 Luxembourg,Thailand,30
 Luxembourg,Timor-Leste,90
 Luxembourg,Togo,visa on arrival
-Luxembourg,Tonga,covid ban
+Luxembourg,Tonga,90
 Luxembourg,Trinidad and Tobago,90
 Luxembourg,Tunisia,90
 Luxembourg,Turkey,90
@@ -20304,7 +20304,7 @@ Macao,Angola,visa on arrival
 Macao,Antigua and Barbuda,30
 Macao,Argentina,90
 Macao,Armenia,90
-Macao,Australia,e-visa
+Macao,Australia,covid ban
 Macao,Austria,90
 Macao,Azerbaijan,covid ban
 Macao,Bahamas,visa required
@@ -20475,7 +20475,7 @@ Macao,Tanzania,90
 Macao,Thailand,30
 Macao,Timor-Leste,visa on arrival
 Macao,Togo,visa on arrival
-Macao,Tonga,covid ban
+Macao,Tonga,visa on arrival
 Macao,Trinidad and Tobago,visa required
 Macao,Tunisia,visa free
 Macao,Turkey,30
@@ -20503,7 +20503,7 @@ Madagascar,Angola,visa on arrival
 Madagascar,Antigua and Barbuda,visa free
 Madagascar,Argentina,visa required
 Madagascar,Armenia,visa required
-Madagascar,Australia,e-visa
+Madagascar,Australia,covid ban
 Madagascar,Austria,visa required
 Madagascar,Azerbaijan,covid ban
 Madagascar,Bahamas,visa required
@@ -20674,7 +20674,7 @@ Madagascar,Tanzania,90
 Madagascar,Thailand,visa required
 Madagascar,Timor-Leste,visa on arrival
 Madagascar,Togo,visa on arrival
-Madagascar,Tonga,covid ban
+Madagascar,Tonga,visa required
 Madagascar,Trinidad and Tobago,visa required
 Madagascar,Tunisia,visa required
 Madagascar,Turkey,visa required
@@ -20702,7 +20702,7 @@ Malawi,Angola,visa on arrival
 Malawi,Antigua and Barbuda,180
 Malawi,Argentina,visa required
 Malawi,Armenia,visa required
-Malawi,Australia,e-visa
+Malawi,Australia,covid ban
 Malawi,Austria,visa required
 Malawi,Azerbaijan,covid ban
 Malawi,Bahamas,90
@@ -20873,7 +20873,7 @@ Malawi,Tanzania,90
 Malawi,Thailand,visa required
 Malawi,Timor-Leste,visa on arrival
 Malawi,Togo,visa on arrival
-Malawi,Tonga,covid ban
+Malawi,Tonga,visa required
 Malawi,Trinidad and Tobago,visa free
 Malawi,Tunisia,visa required
 Malawi,Turkey,visa required
@@ -20901,7 +20901,7 @@ Malaysia,Angola,visa on arrival
 Malaysia,Antigua and Barbuda,180
 Malaysia,Argentina,30
 Malaysia,Armenia,e-visa
-Malaysia,Australia,e-visa
+Malaysia,Australia,covid ban
 Malaysia,Austria,90
 Malaysia,Azerbaijan,e-visa
 Malaysia,Bahamas,90
@@ -21067,12 +21067,12 @@ Malaysia,Sweden,covid ban
 Malaysia,Switzerland,90
 Malaysia,Syria,visa required
 Malaysia,Taiwan,covid ban
-Malaysia,Tajikistan,30
+Malaysia,Tajikistan,visa on arrival
 Malaysia,Tanzania,90
 Malaysia,Thailand,30
 Malaysia,Timor-Leste,visa on arrival
 Malaysia,Togo,visa on arrival
-Malaysia,Tonga,covid ban
+Malaysia,Tonga,visa on arrival
 Malaysia,Trinidad and Tobago,visa free
 Malaysia,Tunisia,90
 Malaysia,Turkey,90
@@ -21100,7 +21100,7 @@ Maldives,Angola,visa on arrival
 Maldives,Antigua and Barbuda,180
 Maldives,Argentina,visa required
 Maldives,Armenia,e-visa
-Maldives,Australia,e-visa
+Maldives,Australia,covid ban
 Maldives,Austria,visa required
 Maldives,Azerbaijan,e-visa
 Maldives,Bahamas,90
@@ -21249,7 +21249,7 @@ Maldives,Senegal,visa on arrival
 Maldives,Serbia,visa required
 Maldives,Seychelles,90
 Maldives,Sierra Leone,visa required
-Maldives,Singapore,30
+Maldives,Singapore,covid ban
 Maldives,Slovakia,visa required
 Maldives,Slovenia,visa required
 Maldives,Solomon Islands,covid ban
@@ -21258,7 +21258,7 @@ Maldives,South Africa,30
 Maldives,South Korea,covid ban
 Maldives,South Sudan,e-visa
 Maldives,Spain,visa required
-Maldives,Sri Lanka,e-visa
+Maldives,Sri Lanka,visa on arrival
 Maldives,Saint Vincent and the Grenadines,30
 Maldives,Sudan,visa required
 Maldives,Suriname,e-visa
@@ -21271,7 +21271,7 @@ Maldives,Tanzania,visa on arrival
 Maldives,Thailand,30
 Maldives,Timor-Leste,visa on arrival
 Maldives,Togo,visa on arrival
-Maldives,Tonga,covid ban
+Maldives,Tonga,visa required
 Maldives,Trinidad and Tobago,visa free
 Maldives,Tunisia,90
 Maldives,Turkey,e-visa
@@ -21299,7 +21299,7 @@ Mali,Angola,visa on arrival
 Mali,Antigua and Barbuda,e-visa
 Mali,Argentina,visa required
 Mali,Armenia,visa required
-Mali,Australia,e-visa
+Mali,Australia,covid ban
 Mali,Austria,visa required
 Mali,Azerbaijan,covid ban
 Mali,Bahamas,90
@@ -21470,7 +21470,7 @@ Mali,Tanzania,e-visa
 Mali,Thailand,visa required
 Mali,Timor-Leste,visa on arrival
 Mali,Togo,visa free
-Mali,Tonga,covid ban
+Mali,Tonga,visa required
 Mali,Trinidad and Tobago,visa required
 Mali,Tunisia,visa free
 Mali,Turkey,visa required
@@ -21498,7 +21498,7 @@ Malta,Angola,visa on arrival
 Malta,Antigua and Barbuda,180
 Malta,Argentina,90
 Malta,Armenia,180
-Malta,Australia,e-visa
+Malta,Australia,covid ban
 Malta,Austria,visa free
 Malta,Azerbaijan,e-visa
 Malta,Bahamas,90
@@ -21669,7 +21669,7 @@ Malta,Tanzania,90
 Malta,Thailand,visa on arrival
 Malta,Timor-Leste,90
 Malta,Togo,visa on arrival
-Malta,Tonga,covid ban
+Malta,Tonga,90
 Malta,Trinidad and Tobago,90
 Malta,Tunisia,90
 Malta,Turkey,90
@@ -21697,7 +21697,7 @@ Marshall Islands,Angola,visa on arrival
 Marshall Islands,Antigua and Barbuda,180
 Marshall Islands,Argentina,visa required
 Marshall Islands,Armenia,e-visa
-Marshall Islands,Australia,e-visa
+Marshall Islands,Australia,covid ban
 Marshall Islands,Austria,90
 Marshall Islands,Azerbaijan,covid ban
 Marshall Islands,Bahamas,90
@@ -21868,7 +21868,7 @@ Marshall Islands,Tanzania,visa on arrival
 Marshall Islands,Thailand,visa required
 Marshall Islands,Timor-Leste,visa on arrival
 Marshall Islands,Togo,visa on arrival
-Marshall Islands,Tonga,covid ban
+Marshall Islands,Tonga,visa on arrival
 Marshall Islands,Trinidad and Tobago,visa required
 Marshall Islands,Tunisia,visa required
 Marshall Islands,Turkey,visa required
@@ -21896,7 +21896,7 @@ Mauritania,Angola,visa on arrival
 Mauritania,Antigua and Barbuda,e-visa
 Mauritania,Argentina,visa required
 Mauritania,Armenia,visa required
-Mauritania,Australia,e-visa
+Mauritania,Australia,covid ban
 Mauritania,Austria,visa required
 Mauritania,Azerbaijan,covid ban
 Mauritania,Bahamas,visa required
@@ -22067,7 +22067,7 @@ Mauritania,Tanzania,e-visa
 Mauritania,Thailand,visa required
 Mauritania,Timor-Leste,visa on arrival
 Mauritania,Togo,visa required
-Mauritania,Tonga,covid ban
+Mauritania,Tonga,visa required
 Mauritania,Trinidad and Tobago,visa required
 Mauritania,Tunisia,visa free
 Mauritania,Turkey,visa required
@@ -22095,7 +22095,7 @@ Mauritius,Angola,30
 Mauritius,Antigua and Barbuda,180
 Mauritius,Argentina,visa required
 Mauritius,Armenia,visa required
-Mauritius,Australia,e-visa
+Mauritius,Australia,covid ban
 Mauritius,Austria,90
 Mauritius,Azerbaijan,covid ban
 Mauritius,Bahamas,90
@@ -22266,7 +22266,7 @@ Mauritius,Tanzania,90
 Mauritius,Thailand,30
 Mauritius,Timor-Leste,visa on arrival
 Mauritius,Togo,visa on arrival
-Mauritius,Tonga,covid ban
+Mauritius,Tonga,visa required
 Mauritius,Trinidad and Tobago,visa free
 Mauritius,Tunisia,90
 Mauritius,Turkey,e-visa
@@ -22294,7 +22294,7 @@ Mexico,Angola,visa on arrival
 Mexico,Antigua and Barbuda,180
 Mexico,Argentina,90
 Mexico,Armenia,e-visa
-Mexico,Australia,e-visa
+Mexico,Australia,covid ban
 Mexico,Austria,90
 Mexico,Azerbaijan,e-visa
 Mexico,Bahamas,90
@@ -22465,7 +22465,7 @@ Mexico,Tanzania,visa on arrival
 Mexico,Thailand,visa on arrival
 Mexico,Timor-Leste,visa on arrival
 Mexico,Togo,visa on arrival
-Mexico,Tonga,covid ban
+Mexico,Tonga,visa required
 Mexico,Trinidad and Tobago,90
 Mexico,Tunisia,90
 Mexico,Turkey,e-visa
@@ -22493,7 +22493,7 @@ Micronesia,Angola,visa on arrival
 Micronesia,Antigua and Barbuda,e-visa
 Micronesia,Argentina,visa required
 Micronesia,Armenia,visa required
-Micronesia,Australia,e-visa
+Micronesia,Australia,covid ban
 Micronesia,Austria,90
 Micronesia,Azerbaijan,covid ban
 Micronesia,Bahamas,visa required
@@ -22664,7 +22664,7 @@ Micronesia,Tanzania,visa on arrival
 Micronesia,Thailand,visa required
 Micronesia,Timor-Leste,visa on arrival
 Micronesia,Togo,visa on arrival
-Micronesia,Tonga,covid ban
+Micronesia,Tonga,visa on arrival
 Micronesia,Trinidad and Tobago,visa required
 Micronesia,Tunisia,visa required
 Micronesia,Turkey,visa required
@@ -22692,7 +22692,7 @@ Moldova,Angola,visa on arrival
 Moldova,Antigua and Barbuda,180
 Moldova,Argentina,visa required
 Moldova,Armenia,visa free
-Moldova,Australia,e-visa
+Moldova,Australia,covid ban
 Moldova,Austria,90
 Moldova,Azerbaijan,covid ban
 Moldova,Bahamas,90
@@ -22709,7 +22709,7 @@ Moldova,Bosnia and Herzegovina,90
 Moldova,Botswana,visa required
 Moldova,Brazil,visa required
 Moldova,Brunei,covid ban
-Moldova,Bulgaria,90
+Moldova,Bulgaria,covid ban
 Moldova,Burkina Faso,visa required
 Moldova,Burundi,visa required
 Moldova,Cambodia,e-visa
@@ -22863,7 +22863,7 @@ Moldova,Tanzania,visa on arrival
 Moldova,Thailand,visa required
 Moldova,Timor-Leste,visa on arrival
 Moldova,Togo,visa on arrival
-Moldova,Tonga,covid ban
+Moldova,Tonga,visa required
 Moldova,Trinidad and Tobago,visa required
 Moldova,Tunisia,90
 Moldova,Turkey,90
@@ -22891,7 +22891,7 @@ Monaco,Angola,visa on arrival
 Monaco,Antigua and Barbuda,180
 Monaco,Argentina,90
 Monaco,Armenia,180
-Monaco,Australia,e-visa
+Monaco,Australia,covid ban
 Monaco,Austria,visa free
 Monaco,Azerbaijan,covid ban
 Monaco,Bahamas,90
@@ -22908,7 +22908,7 @@ Monaco,Bosnia and Herzegovina,90
 Monaco,Botswana,90
 Monaco,Brazil,90
 Monaco,Brunei,covid ban
-Monaco,Bulgaria,90
+Monaco,Bulgaria,covid ban
 Monaco,Burkina Faso,visa required
 Monaco,Burundi,visa required
 Monaco,Cambodia,e-visa
@@ -23057,12 +23057,12 @@ Monaco,Sweden,90
 Monaco,Switzerland,90
 Monaco,Syria,visa required
 Monaco,Taiwan,covid ban
-Monaco,Tajikistan,30
+Monaco,Tajikistan,visa on arrival
 Monaco,Tanzania,visa on arrival
 Monaco,Thailand,30
 Monaco,Timor-Leste,visa on arrival
 Monaco,Togo,visa on arrival
-Monaco,Tonga,covid ban
+Monaco,Tonga,visa on arrival
 Monaco,Trinidad and Tobago,visa required
 Monaco,Tunisia,90
 Monaco,Turkey,90
@@ -23090,7 +23090,7 @@ Mongolia,Angola,visa on arrival
 Mongolia,Antigua and Barbuda,e-visa
 Mongolia,Argentina,90
 Mongolia,Armenia,e-visa
-Mongolia,Australia,e-visa
+Mongolia,Australia,covid ban
 Mongolia,Austria,visa required
 Mongolia,Azerbaijan,e-visa
 Mongolia,Bahamas,visa required
@@ -23261,7 +23261,7 @@ Mongolia,Tanzania,visa on arrival
 Mongolia,Thailand,30
 Mongolia,Timor-Leste,visa on arrival
 Mongolia,Togo,visa on arrival
-Mongolia,Tonga,covid ban
+Mongolia,Tonga,visa required
 Mongolia,Trinidad and Tobago,visa required
 Mongolia,Tunisia,visa required
 Mongolia,Turkey,30
@@ -23289,7 +23289,7 @@ Montenegro,Angola,visa on arrival
 Montenegro,Antigua and Barbuda,e-visa
 Montenegro,Argentina,90
 Montenegro,Armenia,180
-Montenegro,Australia,e-visa
+Montenegro,Australia,covid ban
 Montenegro,Austria,90
 Montenegro,Azerbaijan,e-visa
 Montenegro,Bahamas,visa required
@@ -23306,7 +23306,7 @@ Montenegro,Bosnia and Herzegovina,90
 Montenegro,Botswana,visa required
 Montenegro,Brazil,90
 Montenegro,Brunei,covid ban
-Montenegro,Bulgaria,90
+Montenegro,Bulgaria,covid ban
 Montenegro,Burkina Faso,visa required
 Montenegro,Burundi,visa required
 Montenegro,Cambodia,e-visa
@@ -23326,7 +23326,7 @@ Montenegro,Ivory Coast,e-visa
 Montenegro,Croatia,90
 Montenegro,Cuba,90
 Montenegro,Cyprus,covid ban
-Montenegro,Czech Republic,90
+Montenegro,Czech Republic,covid ban
 Montenegro,Denmark,90
 Montenegro,Djibouti,e-visa
 Montenegro,Dominica,21
@@ -23423,7 +23423,7 @@ Montenegro,Paraguay,visa required
 Montenegro,Peru,90
 Montenegro,Philippines,covid ban
 Montenegro,Poland,covid ban
-Montenegro,Portugal,90
+Montenegro,Portugal,covid ban
 Montenegro,Qatar,visa on arrival
 Montenegro,Romania,90
 Montenegro,Russia,covid ban
@@ -23460,7 +23460,7 @@ Montenegro,Tanzania,visa on arrival
 Montenegro,Thailand,visa required
 Montenegro,Timor-Leste,visa on arrival
 Montenegro,Togo,visa on arrival
-Montenegro,Tonga,covid ban
+Montenegro,Tonga,visa required
 Montenegro,Trinidad and Tobago,90
 Montenegro,Tunisia,90
 Montenegro,Turkey,90
@@ -23488,7 +23488,7 @@ Morocco,Angola,visa on arrival
 Morocco,Antigua and Barbuda,e-visa
 Morocco,Argentina,visa required
 Morocco,Armenia,visa required
-Morocco,Australia,e-visa
+Morocco,Australia,covid ban
 Morocco,Austria,visa required
 Morocco,Azerbaijan,e-visa
 Morocco,Bahamas,visa required
@@ -23506,7 +23506,7 @@ Morocco,Botswana,visa required
 Morocco,Brazil,90
 Morocco,Brunei,covid ban
 Morocco,Bulgaria,visa required
-Morocco,Burkina Faso,visa free
+Morocco,Burkina Faso,visa required
 Morocco,Burundi,visa required
 Morocco,Cambodia,e-visa
 Morocco,Cameroon,covid ban
@@ -23659,7 +23659,7 @@ Morocco,Tanzania,visa on arrival
 Morocco,Thailand,visa required
 Morocco,Timor-Leste,visa on arrival
 Morocco,Togo,visa on arrival
-Morocco,Tonga,covid ban
+Morocco,Tonga,visa required
 Morocco,Trinidad and Tobago,visa required
 Morocco,Tunisia,visa free
 Morocco,Turkey,90
@@ -23687,7 +23687,7 @@ Mozambique,Angola,visa on arrival
 Mozambique,Antigua and Barbuda,e-visa
 Mozambique,Argentina,visa required
 Mozambique,Armenia,visa required
-Mozambique,Australia,e-visa
+Mozambique,Australia,covid ban
 Mozambique,Austria,visa required
 Mozambique,Azerbaijan,covid ban
 Mozambique,Bahamas,visa required
@@ -23858,7 +23858,7 @@ Mozambique,Tanzania,90
 Mozambique,Thailand,visa required
 Mozambique,Timor-Leste,visa on arrival
 Mozambique,Togo,visa on arrival
-Mozambique,Tonga,covid ban
+Mozambique,Tonga,visa required
 Mozambique,Trinidad and Tobago,visa required
 Mozambique,Tunisia,visa required
 Mozambique,Turkey,visa required
@@ -23886,7 +23886,7 @@ Myanmar,Angola,visa on arrival
 Myanmar,Antigua and Barbuda,e-visa
 Myanmar,Argentina,visa required
 Myanmar,Armenia,e-visa
-Myanmar,Australia,e-visa
+Myanmar,Australia,covid ban
 Myanmar,Austria,visa required
 Myanmar,Azerbaijan,covid ban
 Myanmar,Bahamas,visa required
@@ -24057,7 +24057,7 @@ Myanmar,Tanzania,visa on arrival
 Myanmar,Thailand,14
 Myanmar,Timor-Leste,visa on arrival
 Myanmar,Togo,visa on arrival
-Myanmar,Tonga,covid ban
+Myanmar,Tonga,visa required
 Myanmar,Trinidad and Tobago,visa required
 Myanmar,Tunisia,visa required
 Myanmar,Turkey,visa required
@@ -24085,7 +24085,7 @@ Namibia,Angola,visa on arrival
 Namibia,Antigua and Barbuda,180
 Namibia,Argentina,visa required
 Namibia,Armenia,visa required
-Namibia,Australia,e-visa
+Namibia,Australia,covid ban
 Namibia,Austria,visa required
 Namibia,Azerbaijan,covid ban
 Namibia,Bahamas,90
@@ -24256,7 +24256,7 @@ Namibia,Tanzania,90
 Namibia,Thailand,visa required
 Namibia,Timor-Leste,visa on arrival
 Namibia,Togo,visa on arrival
-Namibia,Tonga,covid ban
+Namibia,Tonga,visa required
 Namibia,Trinidad and Tobago,visa free
 Namibia,Tunisia,90
 Namibia,Turkey,e-visa
@@ -24284,7 +24284,7 @@ Nauru,Angola,visa on arrival
 Nauru,Antigua and Barbuda,180
 Nauru,Argentina,visa required
 Nauru,Armenia,e-visa
-Nauru,Australia,e-visa
+Nauru,Australia,covid ban
 Nauru,Austria,visa required
 Nauru,Azerbaijan,covid ban
 Nauru,Bahamas,90
@@ -24455,7 +24455,7 @@ Nauru,Tanzania,90
 Nauru,Thailand,visa on arrival
 Nauru,Timor-Leste,visa on arrival
 Nauru,Togo,visa on arrival
-Nauru,Tonga,covid ban
+Nauru,Tonga,visa on arrival
 Nauru,Trinidad and Tobago,visa free
 Nauru,Tunisia,visa required
 Nauru,Turkey,visa required
@@ -24483,7 +24483,7 @@ Nepal,Angola,visa on arrival
 Nepal,Antigua and Barbuda,e-visa
 Nepal,Argentina,visa required
 Nepal,Armenia,visa required
-Nepal,Australia,e-visa
+Nepal,Australia,covid ban
 Nepal,Austria,visa required
 Nepal,Azerbaijan,covid ban
 Nepal,Bahamas,visa required
@@ -24654,7 +24654,7 @@ Nepal,Tanzania,visa on arrival
 Nepal,Thailand,visa required
 Nepal,Timor-Leste,visa on arrival
 Nepal,Togo,visa on arrival
-Nepal,Tonga,covid ban
+Nepal,Tonga,visa required
 Nepal,Trinidad and Tobago,visa required
 Nepal,Tunisia,visa required
 Nepal,Turkey,visa required
@@ -24682,7 +24682,7 @@ Netherlands,Angola,visa on arrival
 Netherlands,Antigua and Barbuda,180
 Netherlands,Argentina,90
 Netherlands,Armenia,180
-Netherlands,Australia,e-visa
+Netherlands,Australia,covid ban
 Netherlands,Austria,visa free
 Netherlands,Azerbaijan,e-visa
 Netherlands,Bahamas,90
@@ -24848,12 +24848,12 @@ Netherlands,Sweden,visa free
 Netherlands,Switzerland,visa free
 Netherlands,Syria,visa required
 Netherlands,Taiwan,covid ban
-Netherlands,Tajikistan,30
+Netherlands,Tajikistan,visa on arrival
 Netherlands,Tanzania,visa on arrival
 Netherlands,Thailand,30
 Netherlands,Timor-Leste,90
 Netherlands,Togo,visa on arrival
-Netherlands,Tonga,covid ban
+Netherlands,Tonga,90
 Netherlands,Trinidad and Tobago,90
 Netherlands,Tunisia,90
 Netherlands,Turkey,90
@@ -25047,12 +25047,12 @@ New Zealand,Sweden,90
 New Zealand,Switzerland,90
 New Zealand,Syria,visa required
 New Zealand,Taiwan,covid ban
-New Zealand,Tajikistan,30
+New Zealand,Tajikistan,visa on arrival
 New Zealand,Tanzania,visa on arrival
 New Zealand,Thailand,30
 New Zealand,Timor-Leste,visa on arrival
 New Zealand,Togo,visa on arrival
-New Zealand,Tonga,covid ban
+New Zealand,Tonga,visa on arrival
 New Zealand,Trinidad and Tobago,visa on arrival
 New Zealand,Tunisia,90
 New Zealand,Turkey,90
@@ -25080,7 +25080,7 @@ Nicaragua,Angola,visa on arrival
 Nicaragua,Antigua and Barbuda,e-visa
 Nicaragua,Argentina,90
 Nicaragua,Armenia,e-visa
-Nicaragua,Australia,e-visa
+Nicaragua,Australia,covid ban
 Nicaragua,Austria,90
 Nicaragua,Azerbaijan,covid ban
 Nicaragua,Bahamas,90
@@ -25251,7 +25251,7 @@ Nicaragua,Tanzania,visa on arrival
 Nicaragua,Thailand,visa required
 Nicaragua,Timor-Leste,visa on arrival
 Nicaragua,Togo,visa on arrival
-Nicaragua,Tonga,covid ban
+Nicaragua,Tonga,visa required
 Nicaragua,Trinidad and Tobago,90
 Nicaragua,Tunisia,visa required
 Nicaragua,Turkey,90
@@ -25279,7 +25279,7 @@ Niger,Angola,visa on arrival
 Niger,Antigua and Barbuda,e-visa
 Niger,Argentina,visa required
 Niger,Armenia,visa required
-Niger,Australia,e-visa
+Niger,Australia,covid ban
 Niger,Austria,visa required
 Niger,Azerbaijan,covid ban
 Niger,Bahamas,visa required
@@ -25450,7 +25450,7 @@ Niger,Tanzania,e-visa
 Niger,Thailand,visa required
 Niger,Timor-Leste,visa on arrival
 Niger,Togo,visa free
-Niger,Tonga,covid ban
+Niger,Tonga,visa required
 Niger,Trinidad and Tobago,visa required
 Niger,Tunisia,visa free
 Niger,Turkey,visa required
@@ -25478,7 +25478,7 @@ Nigeria,Angola,visa on arrival
 Nigeria,Antigua and Barbuda,e-visa
 Nigeria,Argentina,visa required
 Nigeria,Armenia,visa required
-Nigeria,Australia,e-visa
+Nigeria,Australia,covid ban
 Nigeria,Austria,visa required
 Nigeria,Azerbaijan,covid ban
 Nigeria,Bahamas,visa required
@@ -25649,7 +25649,7 @@ Nigeria,Tanzania,e-visa
 Nigeria,Thailand,visa required
 Nigeria,Timor-Leste,visa on arrival
 Nigeria,Togo,visa free
-Nigeria,Tonga,covid ban
+Nigeria,Tonga,visa required
 Nigeria,Trinidad and Tobago,visa required
 Nigeria,Tunisia,visa required
 Nigeria,Turkey,visa required
@@ -25677,7 +25677,7 @@ North Korea,Angola,visa on arrival
 North Korea,Antigua and Barbuda,e-visa
 North Korea,Argentina,visa required
 North Korea,Armenia,e-visa
-North Korea,Australia,e-visa
+North Korea,Australia,covid ban
 North Korea,Austria,visa required
 North Korea,Azerbaijan,covid ban
 North Korea,Bahamas,visa required
@@ -25694,7 +25694,7 @@ North Korea,Bosnia and Herzegovina,visa required
 North Korea,Botswana,visa required
 North Korea,Brazil,visa required
 North Korea,Brunei,covid ban
-North Korea,Bulgaria,visa required
+North Korea,Bulgaria,covid ban
 North Korea,Burkina Faso,visa required
 North Korea,Burundi,visa required
 North Korea,Cambodia,e-visa
@@ -25835,7 +25835,7 @@ North Korea,South Africa,visa required
 North Korea,South Korea,covid ban
 North Korea,South Sudan,e-visa
 North Korea,Spain,visa required
-North Korea,Sri Lanka,visa required
+North Korea,Sri Lanka,e-visa
 North Korea,Saint Vincent and the Grenadines,30
 North Korea,Sudan,visa required
 North Korea,Suriname,e-visa
@@ -25848,7 +25848,7 @@ North Korea,Tanzania,visa on arrival
 North Korea,Thailand,visa required
 North Korea,Timor-Leste,visa on arrival
 North Korea,Togo,visa on arrival
-North Korea,Tonga,covid ban
+North Korea,Tonga,visa required
 North Korea,Trinidad and Tobago,visa required
 North Korea,Tunisia,visa required
 North Korea,Turkey,visa required
@@ -25876,7 +25876,7 @@ North Macedonia,Angola,visa on arrival
 North Macedonia,Antigua and Barbuda,180
 North Macedonia,Argentina,90
 North Macedonia,Armenia,e-visa
-North Macedonia,Australia,e-visa
+North Macedonia,Australia,covid ban
 North Macedonia,Austria,90
 North Macedonia,Azerbaijan,covid ban
 North Macedonia,Bahamas,90
@@ -26047,7 +26047,7 @@ North Macedonia,Tanzania,visa on arrival
 North Macedonia,Thailand,visa required
 North Macedonia,Timor-Leste,visa on arrival
 North Macedonia,Togo,visa on arrival
-North Macedonia,Tonga,covid ban
+North Macedonia,Tonga,visa required
 North Macedonia,Trinidad and Tobago,visa required
 North Macedonia,Tunisia,90
 North Macedonia,Turkey,60
@@ -26075,7 +26075,7 @@ Norway,Angola,visa on arrival
 Norway,Antigua and Barbuda,180
 Norway,Argentina,90
 Norway,Armenia,180
-Norway,Australia,e-visa
+Norway,Australia,covid ban
 Norway,Austria,visa free
 Norway,Azerbaijan,e-visa
 Norway,Bahamas,240
@@ -26241,12 +26241,12 @@ Norway,Sweden,visa free
 Norway,Switzerland,visa free
 Norway,Syria,visa required
 Norway,Taiwan,covid ban
-Norway,Tajikistan,30
+Norway,Tajikistan,visa on arrival
 Norway,Tanzania,visa on arrival
 Norway,Thailand,30
 Norway,Timor-Leste,90
 Norway,Togo,visa on arrival
-Norway,Tonga,covid ban
+Norway,Tonga,90
 Norway,Trinidad and Tobago,90
 Norway,Tunisia,90
 Norway,Turkey,90
@@ -26267,14 +26267,14 @@ Norway,Yemen,visa required
 Norway,Zambia,visa on arrival
 Norway,Zimbabwe,visa on arrival
 Norway,Afghanistan,visa required
-Oman,Albania,visa required
+Oman,Albania,90
 Oman,Algeria,visa required
 Oman,Andorra,visa required
 Oman,Angola,visa on arrival
 Oman,Antigua and Barbuda,e-visa
 Oman,Argentina,visa required
 Oman,Armenia,e-visa
-Oman,Australia,e-visa
+Oman,Australia,covid ban
 Oman,Austria,visa required
 Oman,Azerbaijan,e-visa
 Oman,Bahamas,90
@@ -26445,7 +26445,7 @@ Oman,Tanzania,visa on arrival
 Oman,Thailand,30
 Oman,Timor-Leste,visa on arrival
 Oman,Togo,visa on arrival
-Oman,Tonga,covid ban
+Oman,Tonga,visa required
 Oman,Trinidad and Tobago,visa required
 Oman,Tunisia,90
 Oman,Turkey,e-visa
@@ -26473,7 +26473,7 @@ Pakistan,Angola,visa on arrival
 Pakistan,Antigua and Barbuda,e-visa
 Pakistan,Argentina,visa required
 Pakistan,Armenia,visa required
-Pakistan,Australia,e-visa
+Pakistan,Australia,covid ban
 Pakistan,Austria,visa required
 Pakistan,Azerbaijan,covid ban
 Pakistan,Bahamas,visa required
@@ -26644,7 +26644,7 @@ Pakistan,Tanzania,e-visa
 Pakistan,Thailand,visa required
 Pakistan,Timor-Leste,visa on arrival
 Pakistan,Togo,visa on arrival
-Pakistan,Tonga,covid ban
+Pakistan,Tonga,visa required
 Pakistan,Trinidad and Tobago,visa free
 Pakistan,Tunisia,visa required
 Pakistan,Turkey,visa required
@@ -26672,7 +26672,7 @@ Palau,Angola,visa on arrival
 Palau,Antigua and Barbuda,e-visa
 Palau,Argentina,visa required
 Palau,Armenia,e-visa
-Palau,Australia,e-visa
+Palau,Australia,covid ban
 Palau,Austria,90
 Palau,Azerbaijan,covid ban
 Palau,Bahamas,visa required
@@ -26843,7 +26843,7 @@ Palau,Tanzania,visa on arrival
 Palau,Thailand,visa required
 Palau,Timor-Leste,visa on arrival
 Palau,Togo,visa on arrival
-Palau,Tonga,covid ban
+Palau,Tonga,visa on arrival
 Palau,Trinidad and Tobago,visa required
 Palau,Tunisia,visa required
 Palau,Turkey,visa required
@@ -26871,7 +26871,7 @@ Palestine,Angola,visa on arrival
 Palestine,Antigua and Barbuda,e-visa
 Palestine,Argentina,visa required
 Palestine,Armenia,visa required
-Palestine,Australia,e-visa
+Palestine,Australia,covid ban
 Palestine,Austria,visa required
 Palestine,Azerbaijan,covid ban
 Palestine,Bahamas,visa required
@@ -27042,7 +27042,7 @@ Palestine,Tanzania,e-visa
 Palestine,Thailand,visa required
 Palestine,Timor-Leste,visa on arrival
 Palestine,Togo,visa on arrival
-Palestine,Tonga,covid ban
+Palestine,Tonga,visa required
 Palestine,Trinidad and Tobago,visa required
 Palestine,Tunisia,visa required
 Palestine,Turkey,e-visa
@@ -27070,7 +27070,7 @@ Panama,Angola,visa on arrival
 Panama,Antigua and Barbuda,180
 Panama,Argentina,90
 Panama,Armenia,e-visa
-Panama,Australia,e-visa
+Panama,Australia,covid ban
 Panama,Austria,90
 Panama,Azerbaijan,e-visa
 Panama,Bahamas,90
@@ -27241,7 +27241,7 @@ Panama,Tanzania,visa on arrival
 Panama,Thailand,visa required
 Panama,Timor-Leste,visa on arrival
 Panama,Togo,visa on arrival
-Panama,Tonga,covid ban
+Panama,Tonga,visa required
 Panama,Trinidad and Tobago,90
 Panama,Tunisia,visa required
 Panama,Turkey,90
@@ -27269,7 +27269,7 @@ Papua New Guinea,Angola,visa on arrival
 Papua New Guinea,Antigua and Barbuda,180
 Papua New Guinea,Argentina,visa required
 Papua New Guinea,Armenia,e-visa
-Papua New Guinea,Australia,e-visa
+Papua New Guinea,Australia,covid ban
 Papua New Guinea,Austria,visa required
 Papua New Guinea,Azerbaijan,covid ban
 Papua New Guinea,Bahamas,90
@@ -27440,7 +27440,7 @@ Papua New Guinea,Tanzania,90
 Papua New Guinea,Thailand,visa on arrival
 Papua New Guinea,Timor-Leste,visa on arrival
 Papua New Guinea,Togo,visa on arrival
-Papua New Guinea,Tonga,covid ban
+Papua New Guinea,Tonga,visa on arrival
 Papua New Guinea,Trinidad and Tobago,visa required
 Papua New Guinea,Tunisia,visa required
 Papua New Guinea,Turkey,visa required
@@ -27468,7 +27468,7 @@ Paraguay,Angola,visa on arrival
 Paraguay,Antigua and Barbuda,e-visa
 Paraguay,Argentina,90
 Paraguay,Armenia,e-visa
-Paraguay,Australia,e-visa
+Paraguay,Australia,covid ban
 Paraguay,Austria,90
 Paraguay,Azerbaijan,covid ban
 Paraguay,Bahamas,90
@@ -27639,7 +27639,7 @@ Paraguay,Tanzania,visa on arrival
 Paraguay,Thailand,visa required
 Paraguay,Timor-Leste,visa on arrival
 Paraguay,Togo,visa on arrival
-Paraguay,Tonga,covid ban
+Paraguay,Tonga,visa required
 Paraguay,Trinidad and Tobago,visa required
 Paraguay,Tunisia,visa required
 Paraguay,Turkey,90
@@ -27667,7 +27667,7 @@ Peru,Angola,visa on arrival
 Peru,Antigua and Barbuda,180
 Peru,Argentina,90
 Peru,Armenia,e-visa
-Peru,Australia,e-visa
+Peru,Australia,covid ban
 Peru,Austria,90
 Peru,Azerbaijan,covid ban
 Peru,Bahamas,90
@@ -27742,7 +27742,7 @@ Peru,Iran,e-visa
 Peru,Iraq,visa required
 Peru,Ireland,visa required
 Peru,Israel,covid ban
-Peru,Italy,90
+Peru,Italy,covid ban
 Peru,Jamaica,e-visa
 Peru,Japan,covid ban
 Peru,Jordan,visa on arrival
@@ -27809,7 +27809,7 @@ Peru,Rwanda,visa on arrival
 Peru,Saint Kitts and Nevis,90
 Peru,Saint Lucia,visa on arrival
 Peru,Samoa,visa on arrival
-Peru,San Marino,90
+Peru,San Marino,covid ban
 Peru,Sao Tome and Principe,e-visa
 Peru,Saudi Arabia,covid ban
 Peru,Senegal,visa on arrival
@@ -27838,7 +27838,7 @@ Peru,Tanzania,visa on arrival
 Peru,Thailand,90
 Peru,Timor-Leste,visa on arrival
 Peru,Togo,visa on arrival
-Peru,Tonga,covid ban
+Peru,Tonga,visa required
 Peru,Trinidad and Tobago,90
 Peru,Tunisia,visa required
 Peru,Turkey,90
@@ -27852,7 +27852,7 @@ Peru,United States,visa required
 Peru,Uruguay,90
 Peru,Uzbekistan,e-visa
 Peru,Vanuatu,covid ban
-Peru,Vatican,90
+Peru,Vatican,covid ban
 Peru,Venezuela,visa required
 Peru,Vietnam,covid ban
 Peru,Yemen,visa required
@@ -27866,7 +27866,7 @@ Philippines,Angola,visa on arrival
 Philippines,Antigua and Barbuda,e-visa
 Philippines,Argentina,visa required
 Philippines,Armenia,e-visa
-Philippines,Australia,e-visa
+Philippines,Australia,covid ban
 Philippines,Austria,visa required
 Philippines,Azerbaijan,covid ban
 Philippines,Bahamas,visa required
@@ -28032,12 +28032,12 @@ Philippines,Sweden,covid ban
 Philippines,Switzerland,visa required
 Philippines,Syria,visa required
 Philippines,Taiwan,covid ban
-Philippines,Tajikistan,30
+Philippines,Tajikistan,visa on arrival
 Philippines,Tanzania,visa on arrival
 Philippines,Thailand,30
 Philippines,Timor-Leste,visa on arrival
 Philippines,Togo,visa on arrival
-Philippines,Tonga,covid ban
+Philippines,Tonga,visa required
 Philippines,Trinidad and Tobago,visa on arrival
 Philippines,Tunisia,visa required
 Philippines,Turkey,visa required
@@ -28065,7 +28065,7 @@ Poland,Angola,visa on arrival
 Poland,Antigua and Barbuda,180
 Poland,Argentina,90
 Poland,Armenia,180
-Poland,Australia,e-visa
+Poland,Australia,covid ban
 Poland,Austria,visa free
 Poland,Azerbaijan,e-visa
 Poland,Bahamas,90
@@ -28231,12 +28231,12 @@ Poland,Sweden,visa free
 Poland,Switzerland,visa free
 Poland,Syria,visa required
 Poland,Taiwan,covid ban
-Poland,Tajikistan,30
+Poland,Tajikistan,visa on arrival
 Poland,Tanzania,visa on arrival
 Poland,Thailand,30
 Poland,Timor-Leste,90
 Poland,Togo,visa on arrival
-Poland,Tonga,covid ban
+Poland,Tonga,90
 Poland,Trinidad and Tobago,90
 Poland,Tunisia,90
 Poland,Turkey,90
@@ -28264,7 +28264,7 @@ Portugal,Angola,visa on arrival
 Portugal,Antigua and Barbuda,180
 Portugal,Argentina,90
 Portugal,Armenia,180
-Portugal,Australia,e-visa
+Portugal,Australia,covid ban
 Portugal,Austria,visa free
 Portugal,Azerbaijan,e-visa
 Portugal,Bahamas,90
@@ -28430,12 +28430,12 @@ Portugal,Sweden,visa free
 Portugal,Switzerland,visa free
 Portugal,Syria,visa required
 Portugal,Taiwan,covid ban
-Portugal,Tajikistan,30
+Portugal,Tajikistan,visa on arrival
 Portugal,Tanzania,visa on arrival
 Portugal,Thailand,30
 Portugal,Timor-Leste,90
 Portugal,Togo,visa on arrival
-Portugal,Tonga,covid ban
+Portugal,Tonga,90
 Portugal,Trinidad and Tobago,90
 Portugal,Tunisia,90
 Portugal,Turkey,90
@@ -28456,14 +28456,14 @@ Portugal,Yemen,visa required
 Portugal,Zambia,visa on arrival
 Portugal,Zimbabwe,visa on arrival
 Portugal,Afghanistan,visa required
-Qatar,Albania,visa required
+Qatar,Albania,90
 Qatar,Algeria,visa required
 Qatar,Andorra,visa required
 Qatar,Angola,visa on arrival
 Qatar,Antigua and Barbuda,e-visa
 Qatar,Argentina,90
 Qatar,Armenia,180
-Qatar,Australia,e-visa
+Qatar,Australia,covid ban
 Qatar,Austria,visa required
 Qatar,Azerbaijan,e-visa
 Qatar,Bahamas,90
@@ -28629,12 +28629,12 @@ Qatar,Sweden,visa required
 Qatar,Switzerland,visa required
 Qatar,Syria,visa free
 Qatar,Taiwan,covid ban
-Qatar,Tajikistan,30
+Qatar,Tajikistan,visa on arrival
 Qatar,Tanzania,visa on arrival
 Qatar,Thailand,30
 Qatar,Timor-Leste,visa on arrival
 Qatar,Togo,visa on arrival
-Qatar,Tonga,covid ban
+Qatar,Tonga,visa required
 Qatar,Trinidad and Tobago,visa required
 Qatar,Tunisia,90
 Qatar,Turkey,90
@@ -28662,7 +28662,7 @@ Romania,Angola,visa on arrival
 Romania,Antigua and Barbuda,180
 Romania,Argentina,90
 Romania,Armenia,180
-Romania,Australia,e-visa
+Romania,Australia,covid ban
 Romania,Austria,visa free
 Romania,Azerbaijan,covid ban
 Romania,Bahamas,90
@@ -28679,7 +28679,7 @@ Romania,Bosnia and Herzegovina,90
 Romania,Botswana,90
 Romania,Brazil,90
 Romania,Brunei,covid ban
-Romania,Bulgaria,visa free
+Romania,Bulgaria,covid ban
 Romania,Burkina Faso,visa required
 Romania,Burundi,visa required
 Romania,Cambodia,e-visa
@@ -28833,7 +28833,7 @@ Romania,Tanzania,90
 Romania,Thailand,visa on arrival
 Romania,Timor-Leste,90
 Romania,Togo,visa on arrival
-Romania,Tonga,covid ban
+Romania,Tonga,90
 Romania,Trinidad and Tobago,90
 Romania,Tunisia,90
 Romania,Turkey,90
@@ -28854,14 +28854,14 @@ Romania,Yemen,visa required
 Romania,Zambia,90
 Romania,Zimbabwe,visa on arrival
 Romania,Afghanistan,visa required
-Russia,Albania,visa required
+Russia,Albania,90
 Russia,Algeria,visa required
 Russia,Andorra,visa required
 Russia,Angola,visa on arrival
 Russia,Antigua and Barbuda,90
 Russia,Argentina,90
 Russia,Armenia,visa free
-Russia,Australia,e-visa
+Russia,Australia,covid ban
 Russia,Austria,visa required
 Russia,Azerbaijan,90
 Russia,Bahamas,90
@@ -29032,7 +29032,7 @@ Russia,Tanzania,visa on arrival
 Russia,Thailand,30
 Russia,Timor-Leste,visa on arrival
 Russia,Togo,visa on arrival
-Russia,Tonga,covid ban
+Russia,Tonga,visa on arrival
 Russia,Trinidad and Tobago,90
 Russia,Tunisia,90
 Russia,Turkey,60
@@ -29060,7 +29060,7 @@ Rwanda,Angola,30
 Rwanda,Antigua and Barbuda,e-visa
 Rwanda,Argentina,visa required
 Rwanda,Armenia,visa required
-Rwanda,Australia,e-visa
+Rwanda,Australia,covid ban
 Rwanda,Austria,visa required
 Rwanda,Azerbaijan,covid ban
 Rwanda,Bahamas,visa required
@@ -29231,7 +29231,7 @@ Rwanda,Tanzania,90
 Rwanda,Thailand,visa required
 Rwanda,Timor-Leste,visa on arrival
 Rwanda,Togo,visa on arrival
-Rwanda,Tonga,covid ban
+Rwanda,Tonga,visa required
 Rwanda,Trinidad and Tobago,visa required
 Rwanda,Tunisia,visa required
 Rwanda,Turkey,visa required
@@ -29259,7 +29259,7 @@ Saint Kitts and Nevis,Angola,visa on arrival
 Saint Kitts and Nevis,Antigua and Barbuda,180
 Saint Kitts and Nevis,Argentina,90
 Saint Kitts and Nevis,Armenia,e-visa
-Saint Kitts and Nevis,Australia,e-visa
+Saint Kitts and Nevis,Australia,covid ban
 Saint Kitts and Nevis,Austria,90
 Saint Kitts and Nevis,Azerbaijan,covid ban
 Saint Kitts and Nevis,Bahamas,90
@@ -29430,7 +29430,7 @@ Saint Kitts and Nevis,Tanzania,90
 Saint Kitts and Nevis,Thailand,visa required
 Saint Kitts and Nevis,Timor-Leste,visa on arrival
 Saint Kitts and Nevis,Togo,visa on arrival
-Saint Kitts and Nevis,Tonga,covid ban
+Saint Kitts and Nevis,Tonga,visa on arrival
 Saint Kitts and Nevis,Trinidad and Tobago,visa free
 Saint Kitts and Nevis,Tunisia,90
 Saint Kitts and Nevis,Turkey,90
@@ -29458,7 +29458,7 @@ Saint Lucia,Angola,visa on arrival
 Saint Lucia,Antigua and Barbuda,180
 Saint Lucia,Argentina,90
 Saint Lucia,Armenia,e-visa
-Saint Lucia,Australia,e-visa
+Saint Lucia,Australia,covid ban
 Saint Lucia,Austria,90
 Saint Lucia,Azerbaijan,covid ban
 Saint Lucia,Bahamas,90
@@ -29629,7 +29629,7 @@ Saint Lucia,Tanzania,90
 Saint Lucia,Thailand,visa required
 Saint Lucia,Timor-Leste,visa on arrival
 Saint Lucia,Togo,visa on arrival
-Saint Lucia,Tonga,covid ban
+Saint Lucia,Tonga,visa on arrival
 Saint Lucia,Trinidad and Tobago,visa free
 Saint Lucia,Tunisia,90
 Saint Lucia,Turkey,e-visa
@@ -29657,7 +29657,7 @@ Samoa,Angola,visa on arrival
 Samoa,Antigua and Barbuda,180
 Samoa,Argentina,visa required
 Samoa,Armenia,e-visa
-Samoa,Australia,e-visa
+Samoa,Australia,covid ban
 Samoa,Austria,90
 Samoa,Azerbaijan,covid ban
 Samoa,Bahamas,90
@@ -29828,7 +29828,7 @@ Samoa,Tanzania,90
 Samoa,Thailand,visa required
 Samoa,Timor-Leste,visa on arrival
 Samoa,Togo,visa on arrival
-Samoa,Tonga,covid ban
+Samoa,Tonga,visa on arrival
 Samoa,Trinidad and Tobago,visa free
 Samoa,Tunisia,visa required
 Samoa,Turkey,visa required
@@ -29856,7 +29856,7 @@ San Marino,Angola,visa on arrival
 San Marino,Antigua and Barbuda,180
 San Marino,Argentina,90
 San Marino,Armenia,180
-San Marino,Australia,e-visa
+San Marino,Australia,covid ban
 San Marino,Austria,90
 San Marino,Azerbaijan,covid ban
 San Marino,Bahamas,240
@@ -30027,7 +30027,7 @@ San Marino,Tanzania,visa on arrival
 San Marino,Thailand,30
 San Marino,Timor-Leste,visa on arrival
 San Marino,Togo,visa on arrival
-San Marino,Tonga,covid ban
+San Marino,Tonga,visa required
 San Marino,Trinidad and Tobago,visa required
 San Marino,Tunisia,90
 San Marino,Turkey,90
@@ -30055,7 +30055,7 @@ Sao Tome and Principe,Angola,visa on arrival
 Sao Tome and Principe,Antigua and Barbuda,e-visa
 Sao Tome and Principe,Argentina,visa required
 Sao Tome and Principe,Armenia,visa required
-Sao Tome and Principe,Australia,e-visa
+Sao Tome and Principe,Australia,covid ban
 Sao Tome and Principe,Austria,visa required
 Sao Tome and Principe,Azerbaijan,covid ban
 Sao Tome and Principe,Bahamas,90
@@ -30226,7 +30226,7 @@ Sao Tome and Principe,Tanzania,visa on arrival
 Sao Tome and Principe,Thailand,visa required
 Sao Tome and Principe,Timor-Leste,visa on arrival
 Sao Tome and Principe,Togo,visa on arrival
-Sao Tome and Principe,Tonga,covid ban
+Sao Tome and Principe,Tonga,visa required
 Sao Tome and Principe,Trinidad and Tobago,visa required
 Sao Tome and Principe,Tunisia,visa required
 Sao Tome and Principe,Turkey,visa required
@@ -30247,14 +30247,14 @@ Sao Tome and Principe,Yemen,visa required
 Sao Tome and Principe,Zambia,visa on arrival
 Sao Tome and Principe,Zimbabwe,visa on arrival
 Sao Tome and Principe,Afghanistan,visa required
-Saudi Arabia,Albania,visa required
+Saudi Arabia,Albania,90
 Saudi Arabia,Algeria,visa required
 Saudi Arabia,Andorra,visa required
 Saudi Arabia,Angola,visa on arrival
 Saudi Arabia,Antigua and Barbuda,e-visa
 Saudi Arabia,Argentina,visa required
 Saudi Arabia,Armenia,visa required
-Saudi Arabia,Australia,e-visa
+Saudi Arabia,Australia,covid ban
 Saudi Arabia,Austria,visa required
 Saudi Arabia,Azerbaijan,e-visa
 Saudi Arabia,Bahamas,visa required
@@ -30420,12 +30420,12 @@ Saudi Arabia,Sweden,visa required
 Saudi Arabia,Switzerland,visa required
 Saudi Arabia,Syria,visa free
 Saudi Arabia,Taiwan,covid ban
-Saudi Arabia,Tajikistan,30
+Saudi Arabia,Tajikistan,visa on arrival
 Saudi Arabia,Tanzania,visa on arrival
 Saudi Arabia,Thailand,visa on arrival
 Saudi Arabia,Timor-Leste,visa on arrival
 Saudi Arabia,Togo,visa on arrival
-Saudi Arabia,Tonga,covid ban
+Saudi Arabia,Tonga,visa required
 Saudi Arabia,Trinidad and Tobago,visa required
 Saudi Arabia,Tunisia,90
 Saudi Arabia,Turkey,e-visa
@@ -30453,7 +30453,7 @@ Senegal,Angola,visa on arrival
 Senegal,Antigua and Barbuda,e-visa
 Senegal,Argentina,visa required
 Senegal,Armenia,visa required
-Senegal,Australia,e-visa
+Senegal,Australia,covid ban
 Senegal,Austria,visa required
 Senegal,Azerbaijan,covid ban
 Senegal,Bahamas,visa required
@@ -30624,7 +30624,7 @@ Senegal,Tanzania,e-visa
 Senegal,Thailand,visa required
 Senegal,Timor-Leste,visa on arrival
 Senegal,Togo,visa free
-Senegal,Tonga,covid ban
+Senegal,Tonga,visa required
 Senegal,Trinidad and Tobago,visa required
 Senegal,Tunisia,90
 Senegal,Turkey,visa required
@@ -30652,7 +30652,7 @@ Serbia,Angola,visa on arrival
 Serbia,Antigua and Barbuda,e-visa
 Serbia,Argentina,90
 Serbia,Armenia,180
-Serbia,Australia,e-visa
+Serbia,Australia,covid ban
 Serbia,Austria,90
 Serbia,Azerbaijan,e-visa
 Serbia,Bahamas,visa required
@@ -30823,7 +30823,7 @@ Serbia,Tanzania,visa on arrival
 Serbia,Thailand,visa required
 Serbia,Timor-Leste,visa on arrival
 Serbia,Togo,visa on arrival
-Serbia,Tonga,covid ban
+Serbia,Tonga,visa required
 Serbia,Trinidad and Tobago,30
 Serbia,Tunisia,90
 Serbia,Turkey,90
@@ -30851,7 +30851,7 @@ Seychelles,Angola,30
 Seychelles,Antigua and Barbuda,180
 Seychelles,Argentina,visa required
 Seychelles,Armenia,visa required
-Seychelles,Australia,e-visa
+Seychelles,Australia,covid ban
 Seychelles,Austria,90
 Seychelles,Azerbaijan,covid ban
 Seychelles,Bahamas,90
@@ -31009,7 +31009,7 @@ Seychelles,South Africa,30
 Seychelles,South Korea,covid ban
 Seychelles,South Sudan,e-visa
 Seychelles,Spain,90
-Seychelles,Sri Lanka,e-visa
+Seychelles,Sri Lanka,visa on arrival
 Seychelles,Saint Vincent and the Grenadines,30
 Seychelles,Sudan,visa required
 Seychelles,Suriname,e-visa
@@ -31022,7 +31022,7 @@ Seychelles,Tanzania,90
 Seychelles,Thailand,visa required
 Seychelles,Timor-Leste,visa on arrival
 Seychelles,Togo,visa on arrival
-Seychelles,Tonga,covid ban
+Seychelles,Tonga,visa on arrival
 Seychelles,Trinidad and Tobago,visa free
 Seychelles,Tunisia,90
 Seychelles,Turkey,90
@@ -31050,7 +31050,7 @@ Sierra Leone,Angola,visa on arrival
 Sierra Leone,Antigua and Barbuda,e-visa
 Sierra Leone,Argentina,visa required
 Sierra Leone,Armenia,visa required
-Sierra Leone,Australia,e-visa
+Sierra Leone,Australia,covid ban
 Sierra Leone,Austria,visa required
 Sierra Leone,Azerbaijan,covid ban
 Sierra Leone,Bahamas,90
@@ -31221,7 +31221,7 @@ Sierra Leone,Tanzania,e-visa
 Sierra Leone,Thailand,visa required
 Sierra Leone,Timor-Leste,visa on arrival
 Sierra Leone,Togo,visa free
-Sierra Leone,Tonga,covid ban
+Sierra Leone,Tonga,visa required
 Sierra Leone,Trinidad and Tobago,visa free
 Sierra Leone,Tunisia,visa required
 Sierra Leone,Turkey,visa required
@@ -31324,7 +31324,7 @@ Singapore,Iran,e-visa
 Singapore,Iraq,visa required
 Singapore,Ireland,visa free
 Singapore,Israel,covid ban
-Singapore,Italy,covid ban
+Singapore,Italy,90
 Singapore,Jamaica,e-visa
 Singapore,Japan,covid ban
 Singapore,Jordan,visa on arrival
@@ -31391,7 +31391,7 @@ Singapore,Rwanda,visa on arrival
 Singapore,Saint Kitts and Nevis,90
 Singapore,Saint Lucia,15
 Singapore,Samoa,visa on arrival
-Singapore,San Marino,covid ban
+Singapore,San Marino,90
 Singapore,Sao Tome and Principe,e-visa
 Singapore,Saudi Arabia,e-visa
 Singapore,Senegal,90
@@ -31407,7 +31407,7 @@ Singapore,South Africa,90
 Singapore,South Korea,e-visa
 Singapore,South Sudan,e-visa
 Singapore,Spain,90
-Singapore,Sri Lanka,e-visa
+Singapore,Sri Lanka,visa on arrival
 Singapore,Saint Vincent and the Grenadines,30
 Singapore,Sudan,visa required
 Singapore,Suriname,e-visa
@@ -31415,12 +31415,12 @@ Singapore,Sweden,90
 Singapore,Switzerland,90
 Singapore,Syria,visa required
 Singapore,Taiwan,covid ban
-Singapore,Tajikistan,30
+Singapore,Tajikistan,visa on arrival
 Singapore,Tanzania,90
 Singapore,Thailand,30
 Singapore,Timor-Leste,visa on arrival
 Singapore,Togo,visa on arrival
-Singapore,Tonga,covid ban
+Singapore,Tonga,visa on arrival
 Singapore,Trinidad and Tobago,visa free
 Singapore,Tunisia,90
 Singapore,Turkey,90
@@ -31434,7 +31434,7 @@ Singapore,United States,e-visa
 Singapore,Uruguay,90
 Singapore,Uzbekistan,30
 Singapore,Vanuatu,covid ban
-Singapore,Vatican,covid ban
+Singapore,Vatican,90
 Singapore,Venezuela,visa required
 Singapore,Vietnam,covid ban
 Singapore,Yemen,visa required
@@ -31448,7 +31448,7 @@ Slovakia,Angola,visa on arrival
 Slovakia,Antigua and Barbuda,180
 Slovakia,Argentina,90
 Slovakia,Armenia,180
-Slovakia,Australia,e-visa
+Slovakia,Australia,covid ban
 Slovakia,Austria,visa free
 Slovakia,Azerbaijan,e-visa
 Slovakia,Bahamas,90
@@ -31465,7 +31465,7 @@ Slovakia,Bosnia and Herzegovina,90
 Slovakia,Botswana,90
 Slovakia,Brazil,90
 Slovakia,Brunei,covid ban
-Slovakia,Bulgaria,visa free
+Slovakia,Bulgaria,covid ban
 Slovakia,Burkina Faso,visa on arrival
 Slovakia,Burundi,visa required
 Slovakia,Cambodia,e-visa
@@ -31619,7 +31619,7 @@ Slovakia,Tanzania,visa on arrival
 Slovakia,Thailand,30
 Slovakia,Timor-Leste,90
 Slovakia,Togo,visa on arrival
-Slovakia,Tonga,covid ban
+Slovakia,Tonga,90
 Slovakia,Trinidad and Tobago,90
 Slovakia,Tunisia,90
 Slovakia,Turkey,90
@@ -31647,7 +31647,7 @@ Slovenia,Angola,visa on arrival
 Slovenia,Antigua and Barbuda,180
 Slovenia,Argentina,90
 Slovenia,Armenia,180
-Slovenia,Australia,e-visa
+Slovenia,Australia,covid ban
 Slovenia,Austria,visa free
 Slovenia,Azerbaijan,e-visa
 Slovenia,Bahamas,90
@@ -31664,7 +31664,7 @@ Slovenia,Bosnia and Herzegovina,90
 Slovenia,Botswana,90
 Slovenia,Brazil,90
 Slovenia,Brunei,covid ban
-Slovenia,Bulgaria,visa free
+Slovenia,Bulgaria,covid ban
 Slovenia,Burkina Faso,visa on arrival
 Slovenia,Burundi,visa required
 Slovenia,Cambodia,e-visa
@@ -31818,7 +31818,7 @@ Slovenia,Tanzania,visa on arrival
 Slovenia,Thailand,30
 Slovenia,Timor-Leste,90
 Slovenia,Togo,visa on arrival
-Slovenia,Tonga,covid ban
+Slovenia,Tonga,90
 Slovenia,Trinidad and Tobago,90
 Slovenia,Tunisia,90
 Slovenia,Turkey,90
@@ -31846,7 +31846,7 @@ Solomon Islands,Angola,visa on arrival
 Solomon Islands,Antigua and Barbuda,180
 Solomon Islands,Argentina,visa required
 Solomon Islands,Armenia,e-visa
-Solomon Islands,Australia,e-visa
+Solomon Islands,Australia,covid ban
 Solomon Islands,Austria,90
 Solomon Islands,Azerbaijan,covid ban
 Solomon Islands,Bahamas,90
@@ -32017,7 +32017,7 @@ Solomon Islands,Tanzania,90
 Solomon Islands,Thailand,visa required
 Solomon Islands,Timor-Leste,visa on arrival
 Solomon Islands,Togo,visa on arrival
-Solomon Islands,Tonga,covid ban
+Solomon Islands,Tonga,visa on arrival
 Solomon Islands,Trinidad and Tobago,visa free
 Solomon Islands,Tunisia,visa required
 Solomon Islands,Turkey,visa required
@@ -32045,7 +32045,7 @@ Somalia,Angola,visa on arrival
 Somalia,Antigua and Barbuda,e-visa
 Somalia,Argentina,visa required
 Somalia,Armenia,visa required
-Somalia,Australia,e-visa
+Somalia,Australia,covid ban
 Somalia,Austria,visa required
 Somalia,Azerbaijan,covid ban
 Somalia,Bahamas,visa required
@@ -32216,7 +32216,7 @@ Somalia,Tanzania,e-visa
 Somalia,Thailand,visa required
 Somalia,Timor-Leste,visa on arrival
 Somalia,Togo,visa on arrival
-Somalia,Tonga,covid ban
+Somalia,Tonga,visa required
 Somalia,Trinidad and Tobago,visa required
 Somalia,Tunisia,visa required
 Somalia,Turkey,visa required
@@ -32244,7 +32244,7 @@ South Africa,Angola,30
 South Africa,Antigua and Barbuda,180
 South Africa,Argentina,90
 South Africa,Armenia,e-visa
-South Africa,Australia,e-visa
+South Africa,Australia,covid ban
 South Africa,Austria,visa required
 South Africa,Azerbaijan,covid ban
 South Africa,Bahamas,90
@@ -32415,7 +32415,7 @@ South Africa,Tanzania,90
 South Africa,Thailand,30
 South Africa,Timor-Leste,visa on arrival
 South Africa,Togo,visa on arrival
-South Africa,Tonga,covid ban
+South Africa,Tonga,visa required
 South Africa,Trinidad and Tobago,90
 South Africa,Tunisia,90
 South Africa,Turkey,e-visa
@@ -32443,7 +32443,7 @@ South Korea,Angola,visa on arrival
 South Korea,Antigua and Barbuda,180
 South Korea,Argentina,90
 South Korea,Armenia,180
-South Korea,Australia,e-visa
+South Korea,Australia,covid ban
 South Korea,Austria,90
 South Korea,Azerbaijan,e-visa
 South Korea,Bahamas,90
@@ -32512,7 +32512,7 @@ South Korea,Honduras,90
 South Korea,Hong Kong,90
 South Korea,Hungary,90
 South Korea,Iceland,90
-South Korea,India,visa on arrival
+South Korea,India,e-visa
 South Korea,Indonesia,covid ban
 South Korea,Iran,e-visa
 South Korea,Iraq,visa on arrival
@@ -32609,12 +32609,12 @@ South Korea,Sweden,90
 South Korea,Switzerland,90
 South Korea,Syria,visa required
 South Korea,Taiwan,covid ban
-South Korea,Tajikistan,30
+South Korea,Tajikistan,visa on arrival
 South Korea,Tanzania,visa on arrival
 South Korea,Thailand,90
 South Korea,Timor-Leste,visa on arrival
 South Korea,Togo,visa on arrival
-South Korea,Tonga,covid ban
+South Korea,Tonga,visa on arrival
 South Korea,Trinidad and Tobago,90
 South Korea,Tunisia,90
 South Korea,Turkey,90
@@ -32642,7 +32642,7 @@ South Sudan,Angola,visa on arrival
 South Sudan,Antigua and Barbuda,e-visa
 South Sudan,Argentina,visa required
 South Sudan,Armenia,visa required
-South Sudan,Australia,e-visa
+South Sudan,Australia,covid ban
 South Sudan,Austria,visa required
 South Sudan,Azerbaijan,covid ban
 South Sudan,Bahamas,visa required
@@ -32813,7 +32813,7 @@ South Sudan,Tanzania,visa on arrival
 South Sudan,Thailand,visa required
 South Sudan,Timor-Leste,visa on arrival
 South Sudan,Togo,visa on arrival
-South Sudan,Tonga,covid ban
+South Sudan,Tonga,visa required
 South Sudan,Trinidad and Tobago,visa required
 South Sudan,Tunisia,visa required
 South Sudan,Turkey,visa required
@@ -32841,7 +32841,7 @@ Spain,Angola,visa on arrival
 Spain,Antigua and Barbuda,180
 Spain,Argentina,90
 Spain,Armenia,180
-Spain,Australia,e-visa
+Spain,Australia,covid ban
 Spain,Austria,visa free
 Spain,Azerbaijan,e-visa
 Spain,Bahamas,90
@@ -33007,12 +33007,12 @@ Spain,Sweden,visa free
 Spain,Switzerland,visa free
 Spain,Syria,visa required
 Spain,Taiwan,covid ban
-Spain,Tajikistan,30
+Spain,Tajikistan,visa on arrival
 Spain,Tanzania,visa on arrival
 Spain,Thailand,30
 Spain,Timor-Leste,90
 Spain,Togo,visa on arrival
-Spain,Tonga,covid ban
+Spain,Tonga,90
 Spain,Trinidad and Tobago,90
 Spain,Tunisia,90
 Spain,Turkey,90
@@ -33040,7 +33040,7 @@ Sri Lanka,Angola,visa on arrival
 Sri Lanka,Antigua and Barbuda,e-visa
 Sri Lanka,Argentina,visa required
 Sri Lanka,Armenia,visa required
-Sri Lanka,Australia,e-visa
+Sri Lanka,Australia,covid ban
 Sri Lanka,Austria,visa required
 Sri Lanka,Azerbaijan,covid ban
 Sri Lanka,Bahamas,90
@@ -33189,7 +33189,7 @@ Sri Lanka,Senegal,visa on arrival
 Sri Lanka,Serbia,visa required
 Sri Lanka,Seychelles,90
 Sri Lanka,Sierra Leone,visa on arrival
-Sri Lanka,Singapore,30
+Sri Lanka,Singapore,covid ban
 Sri Lanka,Slovakia,visa required
 Sri Lanka,Slovenia,visa required
 Sri Lanka,Solomon Islands,covid ban
@@ -33211,7 +33211,7 @@ Sri Lanka,Tanzania,e-visa
 Sri Lanka,Thailand,visa required
 Sri Lanka,Timor-Leste,visa on arrival
 Sri Lanka,Togo,visa on arrival
-Sri Lanka,Tonga,covid ban
+Sri Lanka,Tonga,visa required
 Sri Lanka,Trinidad and Tobago,visa required
 Sri Lanka,Tunisia,visa required
 Sri Lanka,Turkey,visa required
@@ -33239,7 +33239,7 @@ Saint Vincent and the Grenadines,Angola,visa on arrival
 Saint Vincent and the Grenadines,Antigua and Barbuda,180
 Saint Vincent and the Grenadines,Argentina,90
 Saint Vincent and the Grenadines,Armenia,e-visa
-Saint Vincent and the Grenadines,Australia,e-visa
+Saint Vincent and the Grenadines,Australia,covid ban
 Saint Vincent and the Grenadines,Austria,90
 Saint Vincent and the Grenadines,Azerbaijan,covid ban
 Saint Vincent and the Grenadines,Bahamas,90
@@ -33410,7 +33410,7 @@ Saint Vincent and the Grenadines,Tanzania,90
 Saint Vincent and the Grenadines,Thailand,visa required
 Saint Vincent and the Grenadines,Timor-Leste,visa on arrival
 Saint Vincent and the Grenadines,Togo,visa on arrival
-Saint Vincent and the Grenadines,Tonga,covid ban
+Saint Vincent and the Grenadines,Tonga,visa on arrival
 Saint Vincent and the Grenadines,Trinidad and Tobago,visa free
 Saint Vincent and the Grenadines,Tunisia,visa required
 Saint Vincent and the Grenadines,Turkey,e-visa
@@ -33438,7 +33438,7 @@ Sudan,Angola,visa on arrival
 Sudan,Antigua and Barbuda,e-visa
 Sudan,Argentina,visa required
 Sudan,Armenia,visa required
-Sudan,Australia,e-visa
+Sudan,Australia,covid ban
 Sudan,Austria,visa required
 Sudan,Azerbaijan,covid ban
 Sudan,Bahamas,visa required
@@ -33609,7 +33609,7 @@ Sudan,Tanzania,visa on arrival
 Sudan,Thailand,visa required
 Sudan,Timor-Leste,visa on arrival
 Sudan,Togo,visa on arrival
-Sudan,Tonga,covid ban
+Sudan,Tonga,visa required
 Sudan,Trinidad and Tobago,visa required
 Sudan,Tunisia,visa required
 Sudan,Turkey,visa required
@@ -33637,7 +33637,7 @@ Suriname,Angola,visa on arrival
 Suriname,Antigua and Barbuda,180
 Suriname,Argentina,90
 Suriname,Armenia,e-visa
-Suriname,Australia,e-visa
+Suriname,Australia,covid ban
 Suriname,Austria,visa required
 Suriname,Azerbaijan,covid ban
 Suriname,Bahamas,90
@@ -33808,7 +33808,7 @@ Suriname,Tanzania,visa on arrival
 Suriname,Thailand,visa required
 Suriname,Timor-Leste,visa on arrival
 Suriname,Togo,visa on arrival
-Suriname,Tonga,covid ban
+Suriname,Tonga,visa required
 Suriname,Trinidad and Tobago,visa free
 Suriname,Tunisia,visa required
 Suriname,Turkey,e-visa
@@ -33836,7 +33836,7 @@ Sweden,Angola,visa on arrival
 Sweden,Antigua and Barbuda,180
 Sweden,Argentina,90
 Sweden,Armenia,180
-Sweden,Australia,e-visa
+Sweden,Australia,covid ban
 Sweden,Austria,visa free
 Sweden,Azerbaijan,e-visa
 Sweden,Bahamas,90
@@ -34002,12 +34002,12 @@ Sweden,Sweden,-1
 Sweden,Switzerland,visa free
 Sweden,Syria,visa required
 Sweden,Taiwan,covid ban
-Sweden,Tajikistan,30
+Sweden,Tajikistan,visa on arrival
 Sweden,Tanzania,visa on arrival
 Sweden,Thailand,30
 Sweden,Timor-Leste,90
 Sweden,Togo,visa on arrival
-Sweden,Tonga,covid ban
+Sweden,Tonga,90
 Sweden,Trinidad and Tobago,90
 Sweden,Tunisia,90
 Sweden,Turkey,90
@@ -34035,7 +34035,7 @@ Switzerland,Angola,visa on arrival
 Switzerland,Antigua and Barbuda,180
 Switzerland,Argentina,90
 Switzerland,Armenia,180
-Switzerland,Australia,e-visa
+Switzerland,Australia,covid ban
 Switzerland,Austria,visa free
 Switzerland,Azerbaijan,e-visa
 Switzerland,Bahamas,240
@@ -34201,12 +34201,12 @@ Switzerland,Sweden,visa free
 Switzerland,Switzerland,-1
 Switzerland,Syria,visa required
 Switzerland,Taiwan,covid ban
-Switzerland,Tajikistan,30
+Switzerland,Tajikistan,visa on arrival
 Switzerland,Tanzania,visa on arrival
 Switzerland,Thailand,30
 Switzerland,Timor-Leste,90
 Switzerland,Togo,visa on arrival
-Switzerland,Tonga,covid ban
+Switzerland,Tonga,90
 Switzerland,Trinidad and Tobago,90
 Switzerland,Tunisia,90
 Switzerland,Turkey,90
@@ -34234,7 +34234,7 @@ Syria,Angola,visa on arrival
 Syria,Antigua and Barbuda,e-visa
 Syria,Argentina,visa required
 Syria,Armenia,visa required
-Syria,Australia,e-visa
+Syria,Australia,covid ban
 Syria,Austria,visa required
 Syria,Azerbaijan,covid ban
 Syria,Bahamas,visa required
@@ -34405,7 +34405,7 @@ Syria,Tanzania,e-visa
 Syria,Thailand,visa required
 Syria,Timor-Leste,visa on arrival
 Syria,Togo,visa on arrival
-Syria,Tonga,covid ban
+Syria,Tonga,visa required
 Syria,Trinidad and Tobago,visa required
 Syria,Tunisia,visa required
 Syria,Turkey,visa required
@@ -34433,7 +34433,7 @@ Taiwan,Angola,visa on arrival
 Taiwan,Antigua and Barbuda,30
 Taiwan,Argentina,visa required
 Taiwan,Armenia,e-visa
-Taiwan,Australia,e-visa
+Taiwan,Australia,covid ban
 Taiwan,Austria,90
 Taiwan,Azerbaijan,covid ban
 Taiwan,Bahamas,visa required
@@ -34500,7 +34500,7 @@ Taiwan,Guyana,visa on arrival
 Taiwan,Haiti,90
 Taiwan,Honduras,90
 Taiwan,Hong Kong,30
-Taiwan,Hungary,90
+Taiwan,Hungary,covid ban
 Taiwan,Iceland,90
 Taiwan,India,e-visa
 Taiwan,Indonesia,covid ban
@@ -34604,7 +34604,7 @@ Taiwan,Tanzania,visa on arrival
 Taiwan,Thailand,visa on arrival
 Taiwan,Timor-Leste,visa on arrival
 Taiwan,Togo,visa on arrival
-Taiwan,Tonga,covid ban
+Taiwan,Tonga,visa required
 Taiwan,Trinidad and Tobago,visa required
 Taiwan,Tunisia,visa required
 Taiwan,Turkey,e-visa
@@ -34632,7 +34632,7 @@ Tajikistan,Angola,visa on arrival
 Tajikistan,Antigua and Barbuda,180
 Tajikistan,Argentina,visa required
 Tajikistan,Armenia,180
-Tajikistan,Australia,e-visa
+Tajikistan,Australia,covid ban
 Tajikistan,Austria,visa required
 Tajikistan,Azerbaijan,covid ban
 Tajikistan,Bahamas,visa required
@@ -34803,7 +34803,7 @@ Tajikistan,Tanzania,e-visa
 Tajikistan,Thailand,visa required
 Tajikistan,Timor-Leste,visa on arrival
 Tajikistan,Togo,visa on arrival
-Tajikistan,Tonga,covid ban
+Tajikistan,Tonga,visa required
 Tajikistan,Trinidad and Tobago,visa required
 Tajikistan,Tunisia,visa free
 Tajikistan,Turkey,60
@@ -34831,7 +34831,7 @@ Tanzania,Angola,visa on arrival
 Tanzania,Antigua and Barbuda,180
 Tanzania,Argentina,visa required
 Tanzania,Armenia,visa required
-Tanzania,Australia,e-visa
+Tanzania,Australia,covid ban
 Tanzania,Austria,visa required
 Tanzania,Azerbaijan,covid ban
 Tanzania,Bahamas,90
@@ -35002,7 +35002,7 @@ Tanzania,Tanzania,-1
 Tanzania,Thailand,visa required
 Tanzania,Timor-Leste,visa on arrival
 Tanzania,Togo,visa on arrival
-Tanzania,Tonga,covid ban
+Tanzania,Tonga,visa required
 Tanzania,Trinidad and Tobago,visa required
 Tanzania,Tunisia,visa required
 Tanzania,Turkey,visa required
@@ -35023,14 +35023,14 @@ Tanzania,Yemen,visa required
 Tanzania,Zambia,90
 Tanzania,Zimbabwe,90
 Tanzania,Afghanistan,visa required
-Thailand,Albania,visa required
+Thailand,Albania,90
 Thailand,Algeria,visa required
 Thailand,Andorra,visa required
 Thailand,Angola,visa on arrival
 Thailand,Antigua and Barbuda,e-visa
 Thailand,Argentina,90
 Thailand,Armenia,e-visa
-Thailand,Australia,e-visa
+Thailand,Australia,covid ban
 Thailand,Austria,visa required
 Thailand,Azerbaijan,covid ban
 Thailand,Bahamas,visa required
@@ -35097,7 +35097,7 @@ Thailand,Guyana,visa on arrival
 Thailand,Haiti,90
 Thailand,Honduras,visa required
 Thailand,Hong Kong,covid ban
-Thailand,Hungary,visa required
+Thailand,Hungary,covid ban
 Thailand,Iceland,visa required
 Thailand,India,e-visa
 Thailand,Indonesia,covid ban
@@ -35164,7 +35164,7 @@ Thailand,Paraguay,visa required
 Thailand,Peru,180
 Thailand,Philippines,covid ban
 Thailand,Poland,covid ban
-Thailand,Portugal,visa required
+Thailand,Portugal,covid ban
 Thailand,Qatar,visa free
 Thailand,Romania,visa required
 Thailand,Russia,30
@@ -35196,12 +35196,12 @@ Thailand,Sweden,covid ban
 Thailand,Switzerland,visa required
 Thailand,Syria,visa required
 Thailand,Taiwan,covid ban
-Thailand,Tajikistan,30
+Thailand,Tajikistan,visa on arrival
 Thailand,Tanzania,visa on arrival
 Thailand,Thailand,-1
 Thailand,Timor-Leste,visa on arrival
 Thailand,Togo,visa on arrival
-Thailand,Tonga,covid ban
+Thailand,Tonga,visa required
 Thailand,Trinidad and Tobago,visa required
 Thailand,Tunisia,visa required
 Thailand,Turkey,30
@@ -35229,7 +35229,7 @@ Timor-Leste,Angola,visa on arrival
 Timor-Leste,Antigua and Barbuda,e-visa
 Timor-Leste,Argentina,visa required
 Timor-Leste,Armenia,e-visa
-Timor-Leste,Australia,e-visa
+Timor-Leste,Australia,covid ban
 Timor-Leste,Austria,90
 Timor-Leste,Azerbaijan,covid ban
 Timor-Leste,Bahamas,visa required
@@ -35400,7 +35400,7 @@ Timor-Leste,Tanzania,visa on arrival
 Timor-Leste,Thailand,visa required
 Timor-Leste,Timor-Leste,-1
 Timor-Leste,Togo,visa on arrival
-Timor-Leste,Tonga,covid ban
+Timor-Leste,Tonga,visa required
 Timor-Leste,Trinidad and Tobago,visa required
 Timor-Leste,Tunisia,visa required
 Timor-Leste,Turkey,e-visa
@@ -35428,7 +35428,7 @@ Togo,Angola,visa on arrival
 Togo,Antigua and Barbuda,e-visa
 Togo,Argentina,visa required
 Togo,Armenia,visa required
-Togo,Australia,e-visa
+Togo,Australia,covid ban
 Togo,Austria,visa required
 Togo,Azerbaijan,covid ban
 Togo,Bahamas,visa required
@@ -35599,7 +35599,7 @@ Togo,Tanzania,visa on arrival
 Togo,Thailand,visa required
 Togo,Timor-Leste,visa on arrival
 Togo,Togo,-1
-Togo,Tonga,covid ban
+Togo,Tonga,visa required
 Togo,Trinidad and Tobago,visa required
 Togo,Tunisia,visa required
 Togo,Turkey,visa required
@@ -35627,7 +35627,7 @@ Tonga,Angola,visa on arrival
 Tonga,Antigua and Barbuda,e-visa
 Tonga,Argentina,visa required
 Tonga,Armenia,e-visa
-Tonga,Australia,e-visa
+Tonga,Australia,covid ban
 Tonga,Austria,90
 Tonga,Azerbaijan,covid ban
 Tonga,Bahamas,90
@@ -35826,7 +35826,7 @@ Trinidad and Tobago,Angola,visa on arrival
 Trinidad and Tobago,Antigua and Barbuda,180
 Trinidad and Tobago,Argentina,90
 Trinidad and Tobago,Armenia,e-visa
-Trinidad and Tobago,Australia,e-visa
+Trinidad and Tobago,Australia,covid ban
 Trinidad and Tobago,Austria,90
 Trinidad and Tobago,Azerbaijan,covid ban
 Trinidad and Tobago,Bahamas,90
@@ -35997,7 +35997,7 @@ Trinidad and Tobago,Tanzania,90
 Trinidad and Tobago,Thailand,visa required
 Trinidad and Tobago,Timor-Leste,visa on arrival
 Trinidad and Tobago,Togo,visa on arrival
-Trinidad and Tobago,Tonga,covid ban
+Trinidad and Tobago,Tonga,visa required
 Trinidad and Tobago,Trinidad and Tobago,-1
 Trinidad and Tobago,Tunisia,visa required
 Trinidad and Tobago,Turkey,90
@@ -36025,7 +36025,7 @@ Tunisia,Angola,visa on arrival
 Tunisia,Antigua and Barbuda,e-visa
 Tunisia,Argentina,visa required
 Tunisia,Armenia,visa required
-Tunisia,Australia,e-visa
+Tunisia,Australia,covid ban
 Tunisia,Austria,visa required
 Tunisia,Azerbaijan,covid ban
 Tunisia,Bahamas,visa required
@@ -36062,7 +36062,7 @@ Tunisia,Ivory Coast,90
 Tunisia,Croatia,visa required
 Tunisia,Cuba,visa required
 Tunisia,Cyprus,covid ban
-Tunisia,Czech Republic,visa required
+Tunisia,Czech Republic,covid ban
 Tunisia,Denmark,visa required
 Tunisia,Djibouti,e-visa
 Tunisia,Dominica,21
@@ -36092,7 +36092,7 @@ Tunisia,Guyana,visa on arrival
 Tunisia,Haiti,90
 Tunisia,Honduras,visa required
 Tunisia,Hong Kong,30
-Tunisia,Hungary,visa required
+Tunisia,Hungary,covid ban
 Tunisia,Iceland,visa required
 Tunisia,India,visa required
 Tunisia,Indonesia,covid ban
@@ -36118,7 +36118,7 @@ Tunisia,Liberia,visa required
 Tunisia,Libya,visa free
 Tunisia,Liechtenstein,visa required
 Tunisia,Lithuania,visa required
-Tunisia,Luxembourg,visa required
+Tunisia,Luxembourg,covid ban
 Tunisia,Macao,covid ban
 Tunisia,Madagascar,visa on arrival
 Tunisia,Malawi,e-visa
@@ -36196,7 +36196,7 @@ Tunisia,Tanzania,visa on arrival
 Tunisia,Thailand,visa required
 Tunisia,Timor-Leste,visa on arrival
 Tunisia,Togo,visa on arrival
-Tunisia,Tonga,covid ban
+Tunisia,Tonga,visa required
 Tunisia,Trinidad and Tobago,visa required
 Tunisia,Tunisia,-1
 Tunisia,Turkey,90
@@ -36224,7 +36224,7 @@ Turkey,Angola,visa on arrival
 Turkey,Antigua and Barbuda,180
 Turkey,Argentina,90
 Turkey,Armenia,e-visa
-Turkey,Australia,e-visa
+Turkey,Australia,covid ban
 Turkey,Austria,visa required
 Turkey,Azerbaijan,90
 Turkey,Bahamas,240
@@ -36373,7 +36373,7 @@ Turkey,Senegal,visa on arrival
 Turkey,Serbia,90
 Turkey,Seychelles,90
 Turkey,Sierra Leone,visa on arrival
-Turkey,Singapore,30
+Turkey,Singapore,covid ban
 Turkey,Slovakia,visa required
 Turkey,Slovenia,visa required
 Turkey,Solomon Islands,covid ban
@@ -36390,12 +36390,12 @@ Turkey,Sweden,visa required
 Turkey,Switzerland,visa required
 Turkey,Syria,visa required
 Turkey,Taiwan,covid ban
-Turkey,Tajikistan,30
+Turkey,Tajikistan,visa on arrival
 Turkey,Tanzania,visa on arrival
 Turkey,Thailand,30
 Turkey,Timor-Leste,visa on arrival
 Turkey,Togo,visa on arrival
-Turkey,Tonga,covid ban
+Turkey,Tonga,visa on arrival
 Turkey,Trinidad and Tobago,90
 Turkey,Tunisia,90
 Turkey,Turkey,-1
@@ -36423,7 +36423,7 @@ Turkmenistan,Angola,visa on arrival
 Turkmenistan,Antigua and Barbuda,180
 Turkmenistan,Argentina,visa required
 Turkmenistan,Armenia,e-visa
-Turkmenistan,Australia,e-visa
+Turkmenistan,Australia,covid ban
 Turkmenistan,Austria,visa required
 Turkmenistan,Azerbaijan,covid ban
 Turkmenistan,Bahamas,visa required
@@ -36594,7 +36594,7 @@ Turkmenistan,Tanzania,e-visa
 Turkmenistan,Thailand,visa required
 Turkmenistan,Timor-Leste,visa on arrival
 Turkmenistan,Togo,visa on arrival
-Turkmenistan,Tonga,covid ban
+Turkmenistan,Tonga,visa required
 Turkmenistan,Trinidad and Tobago,visa required
 Turkmenistan,Tunisia,visa free
 Turkmenistan,Turkey,30
@@ -36622,7 +36622,7 @@ Tuvalu,Angola,visa on arrival
 Tuvalu,Antigua and Barbuda,180
 Tuvalu,Argentina,visa required
 Tuvalu,Armenia,e-visa
-Tuvalu,Australia,e-visa
+Tuvalu,Australia,covid ban
 Tuvalu,Austria,90
 Tuvalu,Azerbaijan,covid ban
 Tuvalu,Bahamas,90
@@ -36793,7 +36793,7 @@ Tuvalu,Tanzania,90
 Tuvalu,Thailand,visa required
 Tuvalu,Timor-Leste,visa on arrival
 Tuvalu,Togo,visa on arrival
-Tuvalu,Tonga,covid ban
+Tuvalu,Tonga,visa on arrival
 Tuvalu,Trinidad and Tobago,visa free
 Tuvalu,Tunisia,visa required
 Tuvalu,Turkey,visa required
@@ -36821,7 +36821,7 @@ Uganda,Angola,visa on arrival
 Uganda,Antigua and Barbuda,180
 Uganda,Argentina,visa required
 Uganda,Armenia,visa required
-Uganda,Australia,e-visa
+Uganda,Australia,covid ban
 Uganda,Austria,visa required
 Uganda,Azerbaijan,covid ban
 Uganda,Bahamas,90
@@ -36992,7 +36992,7 @@ Uganda,Tanzania,90
 Uganda,Thailand,visa required
 Uganda,Timor-Leste,visa on arrival
 Uganda,Togo,visa on arrival
-Uganda,Tonga,covid ban
+Uganda,Tonga,visa required
 Uganda,Trinidad and Tobago,visa required
 Uganda,Tunisia,visa required
 Uganda,Turkey,visa required
@@ -37020,7 +37020,7 @@ Ukraine,Angola,visa on arrival
 Ukraine,Antigua and Barbuda,180
 Ukraine,Argentina,90
 Ukraine,Armenia,visa free
-Ukraine,Australia,e-visa
+Ukraine,Australia,covid ban
 Ukraine,Austria,90
 Ukraine,Azerbaijan,covid ban
 Ukraine,Bahamas,visa required
@@ -37037,7 +37037,7 @@ Ukraine,Bosnia and Herzegovina,30
 Ukraine,Botswana,visa required
 Ukraine,Brazil,90
 Ukraine,Brunei,covid ban
-Ukraine,Bulgaria,90
+Ukraine,Bulgaria,covid ban
 Ukraine,Burkina Faso,visa required
 Ukraine,Burundi,visa required
 Ukraine,Cambodia,e-visa
@@ -37095,7 +37095,7 @@ Ukraine,Iran,e-visa
 Ukraine,Iraq,visa required
 Ukraine,Ireland,visa required
 Ukraine,Israel,covid ban
-Ukraine,Italy,covid ban
+Ukraine,Italy,90
 Ukraine,Jamaica,e-visa
 Ukraine,Japan,covid ban
 Ukraine,Jordan,visa on arrival
@@ -37162,7 +37162,7 @@ Ukraine,Rwanda,visa on arrival
 Ukraine,Saint Kitts and Nevis,90
 Ukraine,Saint Lucia,visa required
 Ukraine,Samoa,visa on arrival
-Ukraine,San Marino,covid ban
+Ukraine,San Marino,90
 Ukraine,Sao Tome and Principe,e-visa
 Ukraine,Saudi Arabia,e-visa
 Ukraine,Senegal,visa on arrival
@@ -37191,7 +37191,7 @@ Ukraine,Tanzania,visa on arrival
 Ukraine,Thailand,30
 Ukraine,Timor-Leste,visa on arrival
 Ukraine,Togo,visa on arrival
-Ukraine,Tonga,covid ban
+Ukraine,Tonga,visa on arrival
 Ukraine,Trinidad and Tobago,visa required
 Ukraine,Tunisia,90
 Ukraine,Turkey,90
@@ -37205,7 +37205,7 @@ Ukraine,United States,visa required
 Ukraine,Uruguay,90
 Ukraine,Uzbekistan,visa free
 Ukraine,Vanuatu,covid ban
-Ukraine,Vatican,covid ban
+Ukraine,Vatican,90
 Ukraine,Venezuela,visa required
 Ukraine,Vietnam,covid ban
 Ukraine,Yemen,visa required
@@ -37219,7 +37219,7 @@ United Arab Emirates,Angola,visa on arrival
 United Arab Emirates,Antigua and Barbuda,90
 United Arab Emirates,Argentina,90
 United Arab Emirates,Armenia,180
-United Arab Emirates,Australia,e-visa
+United Arab Emirates,Australia,covid ban
 United Arab Emirates,Austria,90
 United Arab Emirates,Azerbaijan,e-visa
 United Arab Emirates,Bahamas,90
@@ -37312,7 +37312,7 @@ United Arab Emirates,Liberia,visa on arrival
 United Arab Emirates,Libya,visa required
 United Arab Emirates,Liechtenstein,90
 United Arab Emirates,Lithuania,90
-United Arab Emirates,Luxembourg,90
+United Arab Emirates,Luxembourg,covid ban
 United Arab Emirates,Macao,covid ban
 United Arab Emirates,Madagascar,visa on arrival
 United Arab Emirates,Malawi,visa on arrival
@@ -37385,12 +37385,12 @@ United Arab Emirates,Sweden,90
 United Arab Emirates,Switzerland,90
 United Arab Emirates,Syria,visa free
 United Arab Emirates,Taiwan,covid ban
-United Arab Emirates,Tajikistan,30
+United Arab Emirates,Tajikistan,visa on arrival
 United Arab Emirates,Tanzania,visa on arrival
 United Arab Emirates,Thailand,30
 United Arab Emirates,Timor-Leste,visa on arrival
 United Arab Emirates,Togo,visa on arrival
-United Arab Emirates,Tonga,covid ban
+United Arab Emirates,Tonga,60
 United Arab Emirates,Trinidad and Tobago,visa required
 United Arab Emirates,Tunisia,90
 United Arab Emirates,Turkey,e-visa
@@ -37418,7 +37418,7 @@ United Kingdom,Angola,visa on arrival
 United Kingdom,Antigua and Barbuda,180
 United Kingdom,Argentina,90
 United Kingdom,Armenia,180
-United Kingdom,Australia,e-visa
+United Kingdom,Australia,covid ban
 United Kingdom,Austria,90
 United Kingdom,Azerbaijan,e-visa
 United Kingdom,Bahamas,240
@@ -37589,7 +37589,7 @@ United Kingdom,Tanzania,visa on arrival
 United Kingdom,Thailand,30
 United Kingdom,Timor-Leste,visa on arrival
 United Kingdom,Togo,visa on arrival
-United Kingdom,Tonga,covid ban
+United Kingdom,Tonga,visa on arrival
 United Kingdom,Trinidad and Tobago,visa free
 United Kingdom,Tunisia,90
 United Kingdom,Turkey,90
@@ -37617,7 +37617,7 @@ United States,Angola,visa on arrival
 United States,Antigua and Barbuda,180
 United States,Argentina,90
 United States,Armenia,180
-United States,Australia,e-visa
+United States,Australia,covid ban
 United States,Austria,90
 United States,Azerbaijan,e-visa
 United States,Bahamas,240
@@ -37783,12 +37783,12 @@ United States,Sweden,90
 United States,Switzerland,90
 United States,Syria,visa required
 United States,Taiwan,covid ban
-United States,Tajikistan,30
+United States,Tajikistan,visa on arrival
 United States,Tanzania,visa on arrival
 United States,Thailand,30
 United States,Timor-Leste,visa on arrival
 United States,Togo,visa on arrival
-United States,Tonga,covid ban
+United States,Tonga,visa on arrival
 United States,Trinidad and Tobago,90
 United States,Tunisia,120
 United States,Turkey,e-visa
@@ -37816,7 +37816,7 @@ Uruguay,Angola,visa on arrival
 Uruguay,Antigua and Barbuda,e-visa
 Uruguay,Argentina,90
 Uruguay,Armenia,180
-Uruguay,Australia,e-visa
+Uruguay,Australia,covid ban
 Uruguay,Austria,90
 Uruguay,Azerbaijan,covid ban
 Uruguay,Bahamas,90
@@ -37833,7 +37833,7 @@ Uruguay,Bosnia and Herzegovina,90
 Uruguay,Botswana,90
 Uruguay,Brazil,90
 Uruguay,Brunei,covid ban
-Uruguay,Bulgaria,covid ban
+Uruguay,Bulgaria,visa required
 Uruguay,Burkina Faso,visa required
 Uruguay,Burundi,visa required
 Uruguay,Cambodia,e-visa
@@ -37883,7 +37883,7 @@ Uruguay,Guyana,90
 Uruguay,Haiti,90
 Uruguay,Honduras,90
 Uruguay,Hong Kong,90
-Uruguay,Hungary,90
+Uruguay,Hungary,covid ban
 Uruguay,Iceland,90
 Uruguay,India,e-visa
 Uruguay,Indonesia,covid ban
@@ -37987,7 +37987,7 @@ Uruguay,Tanzania,visa on arrival
 Uruguay,Thailand,visa required
 Uruguay,Timor-Leste,visa on arrival
 Uruguay,Togo,visa on arrival
-Uruguay,Tonga,covid ban
+Uruguay,Tonga,visa required
 Uruguay,Trinidad and Tobago,90
 Uruguay,Tunisia,visa required
 Uruguay,Turkey,90
@@ -38015,7 +38015,7 @@ Uzbekistan,Angola,visa on arrival
 Uzbekistan,Antigua and Barbuda,180
 Uzbekistan,Argentina,visa required
 Uzbekistan,Armenia,180
-Uzbekistan,Australia,e-visa
+Uzbekistan,Australia,covid ban
 Uzbekistan,Austria,visa required
 Uzbekistan,Azerbaijan,covid ban
 Uzbekistan,Bahamas,visa required
@@ -38186,7 +38186,7 @@ Uzbekistan,Tanzania,e-visa
 Uzbekistan,Thailand,visa on arrival
 Uzbekistan,Timor-Leste,visa on arrival
 Uzbekistan,Togo,visa on arrival
-Uzbekistan,Tonga,covid ban
+Uzbekistan,Tonga,visa required
 Uzbekistan,Trinidad and Tobago,visa required
 Uzbekistan,Tunisia,visa free
 Uzbekistan,Turkey,30
@@ -38214,7 +38214,7 @@ Vanuatu,Angola,visa on arrival
 Vanuatu,Antigua and Barbuda,180
 Vanuatu,Argentina,visa required
 Vanuatu,Armenia,e-visa
-Vanuatu,Australia,e-visa
+Vanuatu,Australia,covid ban
 Vanuatu,Austria,90
 Vanuatu,Azerbaijan,covid ban
 Vanuatu,Bahamas,90
@@ -38385,7 +38385,7 @@ Vanuatu,Tanzania,90
 Vanuatu,Thailand,visa on arrival
 Vanuatu,Timor-Leste,visa on arrival
 Vanuatu,Togo,visa on arrival
-Vanuatu,Tonga,covid ban
+Vanuatu,Tonga,visa on arrival
 Vanuatu,Trinidad and Tobago,visa free
 Vanuatu,Tunisia,visa required
 Vanuatu,Turkey,visa required
@@ -38413,7 +38413,7 @@ Vatican,Angola,visa on arrival
 Vatican,Antigua and Barbuda,180
 Vatican,Argentina,90
 Vatican,Armenia,180
-Vatican,Australia,e-visa
+Vatican,Australia,covid ban
 Vatican,Austria,90
 Vatican,Azerbaijan,covid ban
 Vatican,Bahamas,90
@@ -38584,7 +38584,7 @@ Vatican,Tanzania,visa on arrival
 Vatican,Thailand,visa required
 Vatican,Timor-Leste,visa on arrival
 Vatican,Togo,visa on arrival
-Vatican,Tonga,covid ban
+Vatican,Tonga,visa required
 Vatican,Trinidad and Tobago,visa required
 Vatican,Tunisia,90
 Vatican,Turkey,90
@@ -38612,7 +38612,7 @@ Venezuela,Angola,visa on arrival
 Venezuela,Antigua and Barbuda,180
 Venezuela,Argentina,90
 Venezuela,Armenia,e-visa
-Venezuela,Australia,e-visa
+Venezuela,Australia,covid ban
 Venezuela,Austria,90
 Venezuela,Azerbaijan,covid ban
 Venezuela,Bahamas,90
@@ -38783,7 +38783,7 @@ Venezuela,Tanzania,visa on arrival
 Venezuela,Thailand,visa required
 Venezuela,Timor-Leste,visa on arrival
 Venezuela,Togo,visa on arrival
-Venezuela,Tonga,covid ban
+Venezuela,Tonga,visa required
 Venezuela,Trinidad and Tobago,visa required
 Venezuela,Tunisia,visa required
 Venezuela,Turkey,90
@@ -38811,7 +38811,7 @@ Vietnam,Angola,visa on arrival
 Vietnam,Antigua and Barbuda,e-visa
 Vietnam,Argentina,visa required
 Vietnam,Armenia,visa required
-Vietnam,Australia,e-visa
+Vietnam,Australia,covid ban
 Vietnam,Austria,visa required
 Vietnam,Azerbaijan,covid ban
 Vietnam,Bahamas,visa required
@@ -38982,7 +38982,7 @@ Vietnam,Tanzania,visa on arrival
 Vietnam,Thailand,30
 Vietnam,Timor-Leste,visa on arrival
 Vietnam,Togo,visa on arrival
-Vietnam,Tonga,covid ban
+Vietnam,Tonga,visa required
 Vietnam,Trinidad and Tobago,visa required
 Vietnam,Tunisia,visa required
 Vietnam,Turkey,visa required
@@ -39010,7 +39010,7 @@ Yemen,Angola,visa on arrival
 Yemen,Antigua and Barbuda,e-visa
 Yemen,Argentina,visa required
 Yemen,Armenia,visa required
-Yemen,Australia,e-visa
+Yemen,Australia,covid ban
 Yemen,Austria,visa required
 Yemen,Azerbaijan,covid ban
 Yemen,Bahamas,visa required
@@ -39181,7 +39181,7 @@ Yemen,Tanzania,e-visa
 Yemen,Thailand,visa required
 Yemen,Timor-Leste,visa on arrival
 Yemen,Togo,visa on arrival
-Yemen,Tonga,covid ban
+Yemen,Tonga,visa required
 Yemen,Trinidad and Tobago,visa required
 Yemen,Tunisia,visa required
 Yemen,Turkey,visa required
@@ -39209,7 +39209,7 @@ Zambia,Angola,30
 Zambia,Antigua and Barbuda,180
 Zambia,Argentina,visa required
 Zambia,Armenia,visa required
-Zambia,Australia,e-visa
+Zambia,Australia,covid ban
 Zambia,Austria,visa required
 Zambia,Azerbaijan,covid ban
 Zambia,Bahamas,90
@@ -39380,7 +39380,7 @@ Zambia,Tanzania,90
 Zambia,Thailand,visa required
 Zambia,Timor-Leste,visa on arrival
 Zambia,Togo,visa on arrival
-Zambia,Tonga,covid ban
+Zambia,Tonga,visa required
 Zambia,Trinidad and Tobago,visa free
 Zambia,Tunisia,visa required
 Zambia,Turkey,e-visa
@@ -39408,7 +39408,7 @@ Zimbabwe,Angola,30
 Zimbabwe,Antigua and Barbuda,e-visa
 Zimbabwe,Argentina,visa required
 Zimbabwe,Armenia,visa required
-Zimbabwe,Australia,e-visa
+Zimbabwe,Australia,covid ban
 Zimbabwe,Austria,visa required
 Zimbabwe,Azerbaijan,covid ban
 Zimbabwe,Bahamas,90
@@ -39579,7 +39579,7 @@ Zimbabwe,Tanzania,90
 Zimbabwe,Thailand,visa required
 Zimbabwe,Timor-Leste,visa on arrival
 Zimbabwe,Togo,visa on arrival
-Zimbabwe,Tonga,covid ban
+Zimbabwe,Tonga,visa required
 Zimbabwe,Trinidad and Tobago,visa free
 Zimbabwe,Tunisia,visa required
 Zimbabwe,Turkey,visa required
