@@ -158,14 +158,14 @@ Afghanistan,Sierra Leone,visa on arrival
 Afghanistan,Singapore,e-visa
 Afghanistan,Slovakia,visa required
 Afghanistan,Slovenia,visa required
-Afghanistan,Solomon Islands,visa required
+Afghanistan,Solomon Islands,covid ban
 Afghanistan,Somalia,visa on arrival
 Afghanistan,South Africa,visa required
 Afghanistan,South Korea,visa required
 Afghanistan,South Sudan,e-visa
 Afghanistan,Spain,visa required
 Afghanistan,Sri Lanka,visa required
-Afghanistan,Saint Vincent and the Grenadines,visa required
+Afghanistan,Saint Vincent and the Grenadines,30
 Afghanistan,Sudan,visa required
 Afghanistan,Suriname,e-visa
 Afghanistan,Sweden,visa required
@@ -357,7 +357,7 @@ Albania,Sierra Leone,visa on arrival
 Albania,Singapore,30
 Albania,Slovakia,90
 Albania,Slovenia,90
-Albania,Solomon Islands,visa required
+Albania,Solomon Islands,covid ban
 Albania,Somalia,visa on arrival
 Albania,South Africa,visa required
 Albania,South Korea,e-visa
@@ -556,7 +556,7 @@ Algeria,Sierra Leone,visa on arrival
 Algeria,Singapore,e-visa
 Algeria,Slovakia,visa required
 Algeria,Slovenia,visa required
-Algeria,Solomon Islands,visa required
+Algeria,Solomon Islands,covid ban
 Algeria,Somalia,visa on arrival
 Algeria,South Africa,visa required
 Algeria,South Korea,visa required
@@ -731,7 +731,7 @@ Andorra,Oman,visa on arrival
 Andorra,Pakistan,e-visa
 Andorra,Palau,visa on arrival
 Andorra,Palestine,visa free
-Andorra,Panama,90
+Andorra,Panama,180
 Andorra,Papua New Guinea,visa on arrival
 Andorra,Paraguay,90
 Andorra,Peru,180
@@ -755,7 +755,7 @@ Andorra,Sierra Leone,visa on arrival
 Andorra,Singapore,30
 Andorra,Slovakia,90
 Andorra,Slovenia,90
-Andorra,Solomon Islands,visa on arrival
+Andorra,Solomon Islands,covid ban
 Andorra,Somalia,visa on arrival
 Andorra,South Africa,90
 Andorra,South Korea,e-visa
@@ -930,7 +930,7 @@ Angola,Oman,e-visa
 Angola,Pakistan,e-visa
 Angola,Palau,visa on arrival
 Angola,Palestine,visa required
-Angola,Panama,90
+Angola,Panama,180
 Angola,Papua New Guinea,visa required
 Angola,Paraguay,visa required
 Angola,Peru,visa required
@@ -939,7 +939,7 @@ Angola,Poland,visa required
 Angola,Portugal,visa required
 Angola,Qatar,e-visa
 Angola,Romania,visa required
-Angola,Russia,visa required
+Angola,Russia,covid ban
 Angola,Rwanda,90
 Angola,Saint Kitts and Nevis,e-visa
 Angola,Saint Lucia,visa required
@@ -954,7 +954,7 @@ Angola,Sierra Leone,visa on arrival
 Angola,Singapore,30
 Angola,Slovakia,visa required
 Angola,Slovenia,visa required
-Angola,Solomon Islands,visa required
+Angola,Solomon Islands,covid ban
 Angola,Somalia,visa on arrival
 Angola,South Africa,30
 Angola,South Korea,visa required
@@ -1129,7 +1129,7 @@ Antigua and Barbuda,Oman,e-visa
 Antigua and Barbuda,Pakistan,e-visa
 Antigua and Barbuda,Palau,visa on arrival
 Antigua and Barbuda,Palestine,visa free
-Antigua and Barbuda,Panama,90
+Antigua and Barbuda,Panama,180
 Antigua and Barbuda,Papua New Guinea,e-visa
 Antigua and Barbuda,Paraguay,visa required
 Antigua and Barbuda,Peru,180
@@ -1138,7 +1138,7 @@ Antigua and Barbuda,Poland,90
 Antigua and Barbuda,Portugal,90
 Antigua and Barbuda,Qatar,90
 Antigua and Barbuda,Romania,90
-Antigua and Barbuda,Russia,90
+Antigua and Barbuda,Russia,covid ban
 Antigua and Barbuda,Rwanda,visa on arrival
 Antigua and Barbuda,Saint Kitts and Nevis,visa free
 Antigua and Barbuda,Saint Lucia,visa free
@@ -1153,7 +1153,7 @@ Antigua and Barbuda,Sierra Leone,visa on arrival
 Antigua and Barbuda,Singapore,30
 Antigua and Barbuda,Slovakia,90
 Antigua and Barbuda,Slovenia,90
-Antigua and Barbuda,Solomon Islands,visa on arrival
+Antigua and Barbuda,Solomon Islands,covid ban
 Antigua and Barbuda,Somalia,visa on arrival
 Antigua and Barbuda,South Africa,30
 Antigua and Barbuda,South Korea,e-visa
@@ -1162,7 +1162,7 @@ Antigua and Barbuda,Spain,90
 Antigua and Barbuda,Sri Lanka,e-visa
 Antigua and Barbuda,Saint Vincent and the Grenadines,visa free
 Antigua and Barbuda,Sudan,visa required
-Antigua and Barbuda,Suriname,180
+Antigua and Barbuda,Suriname,90
 Antigua and Barbuda,Sweden,90
 Antigua and Barbuda,Switzerland,90
 Antigua and Barbuda,Syria,visa required
@@ -1328,7 +1328,7 @@ Argentina,Oman,visa on arrival
 Argentina,Pakistan,e-visa
 Argentina,Palau,visa on arrival
 Argentina,Palestine,visa free
-Argentina,Panama,90
+Argentina,Panama,180
 Argentina,Papua New Guinea,visa on arrival
 Argentina,Paraguay,90
 Argentina,Peru,180
@@ -1352,7 +1352,7 @@ Argentina,Sierra Leone,visa on arrival
 Argentina,Singapore,30
 Argentina,Slovakia,90
 Argentina,Slovenia,90
-Argentina,Solomon Islands,visa on arrival
+Argentina,Solomon Islands,covid ban
 Argentina,Somalia,visa on arrival
 Argentina,South Africa,90
 Argentina,South Korea,e-visa
@@ -1361,7 +1361,7 @@ Argentina,Spain,90
 Argentina,Sri Lanka,e-visa
 Argentina,Saint Vincent and the Grenadines,30
 Argentina,Sudan,visa required
-Argentina,Suriname,180
+Argentina,Suriname,90
 Argentina,Sweden,90
 Argentina,Switzerland,90
 Argentina,Syria,visa required
@@ -1527,7 +1527,7 @@ Armenia,Oman,e-visa
 Armenia,Pakistan,visa required
 Armenia,Palau,visa on arrival
 Armenia,Palestine,visa free
-Armenia,Panama,90
+Armenia,Panama,180
 Armenia,Papua New Guinea,visa required
 Armenia,Paraguay,visa required
 Armenia,Peru,visa required
@@ -1551,7 +1551,7 @@ Armenia,Sierra Leone,visa on arrival
 Armenia,Singapore,e-visa
 Armenia,Slovakia,visa required
 Armenia,Slovenia,visa required
-Armenia,Solomon Islands,visa required
+Armenia,Solomon Islands,covid ban
 Armenia,Somalia,visa on arrival
 Armenia,South Africa,visa required
 Armenia,South Korea,visa required
@@ -1726,7 +1726,7 @@ Australia,Oman,visa on arrival
 Australia,Pakistan,e-visa
 Australia,Palau,visa on arrival
 Australia,Palestine,visa free
-Australia,Panama,90
+Australia,Panama,180
 Australia,Papua New Guinea,visa on arrival
 Australia,Paraguay,90
 Australia,Peru,180
@@ -1735,7 +1735,7 @@ Australia,Poland,90
 Australia,Portugal,90
 Australia,Qatar,30
 Australia,Romania,90
-Australia,Russia,visa required
+Australia,Russia,covid ban
 Australia,Rwanda,visa on arrival
 Australia,Saint Kitts and Nevis,90
 Australia,Saint Lucia,42
@@ -1925,7 +1925,7 @@ Austria,Oman,visa on arrival
 Austria,Pakistan,e-visa
 Austria,Palau,90
 Austria,Palestine,visa free
-Austria,Panama,90
+Austria,Panama,180
 Austria,Papua New Guinea,visa on arrival
 Austria,Paraguay,90
 Austria,Peru,90
@@ -1949,7 +1949,7 @@ Austria,Sierra Leone,visa on arrival
 Austria,Singapore,90
 Austria,Slovakia,visa free
 Austria,Slovenia,visa free
-Austria,Solomon Islands,90
+Austria,Solomon Islands,covid ban
 Austria,Somalia,visa on arrival
 Austria,South Africa,90
 Austria,South Korea,e-visa
@@ -1963,7 +1963,7 @@ Austria,Sweden,visa free
 Austria,Switzerland,visa free
 Austria,Syria,visa required
 Austria,Taiwan,covid ban
-Austria,Tajikistan,30
+Austria,Tajikistan,visa free
 Austria,Tanzania,visa on arrival
 Austria,Thailand,30
 Austria,Timor-Leste,90
@@ -2148,7 +2148,7 @@ Azerbaijan,Sierra Leone,visa on arrival
 Azerbaijan,Singapore,e-visa
 Azerbaijan,Slovakia,visa required
 Azerbaijan,Slovenia,visa required
-Azerbaijan,Solomon Islands,visa required
+Azerbaijan,Solomon Islands,covid ban
 Azerbaijan,Somalia,visa on arrival
 Azerbaijan,South Africa,visa required
 Azerbaijan,South Korea,visa required
@@ -2323,7 +2323,7 @@ Bahamas,Oman,e-visa
 Bahamas,Pakistan,e-visa
 Bahamas,Palau,visa on arrival
 Bahamas,Palestine,visa free
-Bahamas,Panama,90
+Bahamas,Panama,180
 Bahamas,Papua New Guinea,e-visa
 Bahamas,Paraguay,visa required
 Bahamas,Peru,180
@@ -2347,7 +2347,7 @@ Bahamas,Sierra Leone,visa on arrival
 Bahamas,Singapore,30
 Bahamas,Slovakia,90
 Bahamas,Slovenia,90
-Bahamas,Solomon Islands,visa on arrival
+Bahamas,Solomon Islands,covid ban
 Bahamas,Somalia,visa on arrival
 Bahamas,South Africa,30
 Bahamas,South Korea,e-visa
@@ -2356,7 +2356,7 @@ Bahamas,Spain,90
 Bahamas,Sri Lanka,e-visa
 Bahamas,Saint Vincent and the Grenadines,30
 Bahamas,Sudan,visa required
-Bahamas,Suriname,180
+Bahamas,Suriname,90
 Bahamas,Sweden,90
 Bahamas,Switzerland,90
 Bahamas,Syria,visa required
@@ -2546,7 +2546,7 @@ Bahrain,Sierra Leone,visa on arrival
 Bahrain,Singapore,30
 Bahrain,Slovakia,visa required
 Bahrain,Slovenia,visa required
-Bahrain,Solomon Islands,visa required
+Bahrain,Solomon Islands,covid ban
 Bahrain,Somalia,visa on arrival
 Bahrain,South Africa,visa required
 Bahrain,South Korea,e-visa
@@ -2560,7 +2560,7 @@ Bahrain,Sweden,visa required
 Bahrain,Switzerland,visa required
 Bahrain,Syria,visa free
 Bahrain,Taiwan,covid ban
-Bahrain,Tajikistan,30
+Bahrain,Tajikistan,visa free
 Bahrain,Tanzania,visa on arrival
 Bahrain,Thailand,30
 Bahrain,Timor-Leste,visa on arrival
@@ -2745,7 +2745,7 @@ Bangladesh,Sierra Leone,visa on arrival
 Bangladesh,Singapore,e-visa
 Bangladesh,Slovakia,visa required
 Bangladesh,Slovenia,visa required
-Bangladesh,Solomon Islands,visa required
+Bangladesh,Solomon Islands,covid ban
 Bangladesh,Somalia,visa on arrival
 Bangladesh,South Africa,visa required
 Bangladesh,South Korea,visa required
@@ -2920,7 +2920,7 @@ Barbados,Oman,e-visa
 Barbados,Pakistan,e-visa
 Barbados,Palau,visa on arrival
 Barbados,Palestine,visa free
-Barbados,Panama,90
+Barbados,Panama,180
 Barbados,Papua New Guinea,e-visa
 Barbados,Paraguay,visa required
 Barbados,Peru,180
@@ -2929,7 +2929,7 @@ Barbados,Poland,90
 Barbados,Portugal,90
 Barbados,Qatar,e-visa
 Barbados,Romania,90
-Barbados,Russia,visa required
+Barbados,Russia,covid ban
 Barbados,Rwanda,visa on arrival
 Barbados,Saint Kitts and Nevis,180
 Barbados,Saint Lucia,42
@@ -2944,7 +2944,7 @@ Barbados,Sierra Leone,visa on arrival
 Barbados,Singapore,30
 Barbados,Slovakia,90
 Barbados,Slovenia,90
-Barbados,Solomon Islands,visa on arrival
+Barbados,Solomon Islands,covid ban
 Barbados,Somalia,visa on arrival
 Barbados,South Africa,30
 Barbados,South Korea,e-visa
@@ -2953,7 +2953,7 @@ Barbados,Spain,90
 Barbados,Sri Lanka,e-visa
 Barbados,Saint Vincent and the Grenadines,30
 Barbados,Sudan,visa required
-Barbados,Suriname,180
+Barbados,Suriname,90
 Barbados,Sweden,90
 Barbados,Switzerland,90
 Barbados,Syria,visa required
@@ -3119,7 +3119,7 @@ Belarus,Oman,visa on arrival
 Belarus,Pakistan,e-visa
 Belarus,Palau,visa on arrival
 Belarus,Palestine,visa free
-Belarus,Panama,90
+Belarus,Panama,180
 Belarus,Papua New Guinea,visa required
 Belarus,Paraguay,visa required
 Belarus,Peru,180
@@ -3143,7 +3143,7 @@ Belarus,Sierra Leone,visa on arrival
 Belarus,Singapore,e-visa
 Belarus,Slovakia,visa required
 Belarus,Slovenia,visa required
-Belarus,Solomon Islands,visa required
+Belarus,Solomon Islands,covid ban
 Belarus,Somalia,visa on arrival
 Belarus,South Africa,visa required
 Belarus,South Korea,visa required
@@ -3318,7 +3318,7 @@ Belgium,Oman,visa on arrival
 Belgium,Pakistan,e-visa
 Belgium,Palau,90
 Belgium,Palestine,visa free
-Belgium,Panama,90
+Belgium,Panama,180
 Belgium,Papua New Guinea,visa on arrival
 Belgium,Paraguay,90
 Belgium,Peru,90
@@ -3342,7 +3342,7 @@ Belgium,Sierra Leone,visa on arrival
 Belgium,Singapore,90
 Belgium,Slovakia,visa free
 Belgium,Slovenia,visa free
-Belgium,Solomon Islands,90
+Belgium,Solomon Islands,covid ban
 Belgium,Somalia,visa on arrival
 Belgium,South Africa,90
 Belgium,South Korea,e-visa
@@ -3517,7 +3517,7 @@ Belize,Oman,e-visa
 Belize,Pakistan,e-visa
 Belize,Palau,visa on arrival
 Belize,Palestine,visa free
-Belize,Panama,90
+Belize,Panama,180
 Belize,Papua New Guinea,e-visa
 Belize,Paraguay,visa required
 Belize,Peru,180
@@ -3526,7 +3526,7 @@ Belize,Poland,visa required
 Belize,Portugal,visa required
 Belize,Qatar,e-visa
 Belize,Romania,visa required
-Belize,Russia,90
+Belize,Russia,covid ban
 Belize,Rwanda,visa on arrival
 Belize,Saint Kitts and Nevis,180
 Belize,Saint Lucia,42
@@ -3541,7 +3541,7 @@ Belize,Sierra Leone,visa on arrival
 Belize,Singapore,30
 Belize,Slovakia,visa required
 Belize,Slovenia,visa required
-Belize,Solomon Islands,visa on arrival
+Belize,Solomon Islands,covid ban
 Belize,Somalia,visa on arrival
 Belize,South Africa,30
 Belize,South Korea,visa required
@@ -3550,7 +3550,7 @@ Belize,Spain,visa required
 Belize,Sri Lanka,e-visa
 Belize,Saint Vincent and the Grenadines,30
 Belize,Sudan,visa required
-Belize,Suriname,180
+Belize,Suriname,90
 Belize,Sweden,visa required
 Belize,Switzerland,visa required
 Belize,Syria,visa required
@@ -3725,7 +3725,7 @@ Benin,Poland,visa required
 Benin,Portugal,visa required
 Benin,Qatar,e-visa
 Benin,Romania,visa required
-Benin,Russia,visa required
+Benin,Russia,covid ban
 Benin,Rwanda,90
 Benin,Saint Kitts and Nevis,e-visa
 Benin,Saint Lucia,visa on arrival
@@ -3740,7 +3740,7 @@ Benin,Sierra Leone,visa free
 Benin,Singapore,30
 Benin,Slovakia,visa required
 Benin,Slovenia,visa required
-Benin,Solomon Islands,visa required
+Benin,Solomon Islands,covid ban
 Benin,Somalia,visa on arrival
 Benin,South Africa,30
 Benin,South Korea,visa required
@@ -3915,7 +3915,7 @@ Bhutan,Oman,e-visa
 Bhutan,Pakistan,e-visa
 Bhutan,Palau,visa on arrival
 Bhutan,Palestine,visa free
-Bhutan,Panama,90
+Bhutan,Panama,180
 Bhutan,Papua New Guinea,visa required
 Bhutan,Paraguay,visa required
 Bhutan,Peru,visa required
@@ -3924,7 +3924,7 @@ Bhutan,Poland,visa required
 Bhutan,Portugal,visa required
 Bhutan,Qatar,e-visa
 Bhutan,Romania,visa required
-Bhutan,Russia,visa required
+Bhutan,Russia,covid ban
 Bhutan,Rwanda,visa on arrival
 Bhutan,Saint Kitts and Nevis,e-visa
 Bhutan,Saint Lucia,visa on arrival
@@ -3939,7 +3939,7 @@ Bhutan,Sierra Leone,visa on arrival
 Bhutan,Singapore,30
 Bhutan,Slovakia,visa required
 Bhutan,Slovenia,visa required
-Bhutan,Solomon Islands,visa required
+Bhutan,Solomon Islands,covid ban
 Bhutan,Somalia,visa on arrival
 Bhutan,South Africa,visa required
 Bhutan,South Korea,visa required
@@ -4114,7 +4114,7 @@ Bolivia,Oman,visa on arrival
 Bolivia,Pakistan,e-visa
 Bolivia,Palau,visa on arrival
 Bolivia,Palestine,visa free
-Bolivia,Panama,90
+Bolivia,Panama,180
 Bolivia,Papua New Guinea,visa required
 Bolivia,Paraguay,90
 Bolivia,Peru,180
@@ -4123,7 +4123,7 @@ Bolivia,Poland,visa required
 Bolivia,Portugal,visa required
 Bolivia,Qatar,30
 Bolivia,Romania,visa required
-Bolivia,Russia,90
+Bolivia,Russia,covid ban
 Bolivia,Rwanda,visa on arrival
 Bolivia,Saint Kitts and Nevis,90
 Bolivia,Saint Lucia,visa on arrival
@@ -4138,7 +4138,7 @@ Bolivia,Sierra Leone,visa on arrival
 Bolivia,Singapore,30
 Bolivia,Slovakia,visa required
 Bolivia,Slovenia,visa required
-Bolivia,Solomon Islands,visa required
+Bolivia,Solomon Islands,covid ban
 Bolivia,Somalia,visa on arrival
 Bolivia,South Africa,30
 Bolivia,South Korea,visa required
@@ -4313,7 +4313,7 @@ Bosnia and Herzegovina,Oman,visa on arrival
 Bosnia and Herzegovina,Pakistan,e-visa
 Bosnia and Herzegovina,Palau,visa on arrival
 Bosnia and Herzegovina,Palestine,visa free
-Bosnia and Herzegovina,Panama,90
+Bosnia and Herzegovina,Panama,180
 Bosnia and Herzegovina,Papua New Guinea,visa required
 Bosnia and Herzegovina,Paraguay,visa required
 Bosnia and Herzegovina,Peru,visa required
@@ -4337,7 +4337,7 @@ Bosnia and Herzegovina,Sierra Leone,visa on arrival
 Bosnia and Herzegovina,Singapore,30
 Bosnia and Herzegovina,Slovakia,90
 Bosnia and Herzegovina,Slovenia,90
-Bosnia and Herzegovina,Solomon Islands,visa required
+Bosnia and Herzegovina,Solomon Islands,covid ban
 Bosnia and Herzegovina,Somalia,visa on arrival
 Bosnia and Herzegovina,South Africa,visa required
 Bosnia and Herzegovina,South Korea,e-visa
@@ -4512,7 +4512,7 @@ Botswana,Oman,e-visa
 Botswana,Pakistan,e-visa
 Botswana,Palau,visa on arrival
 Botswana,Palestine,visa required
-Botswana,Panama,90
+Botswana,Panama,180
 Botswana,Papua New Guinea,e-visa
 Botswana,Paraguay,visa required
 Botswana,Peru,visa required
@@ -4536,7 +4536,7 @@ Botswana,Sierra Leone,visa on arrival
 Botswana,Singapore,30
 Botswana,Slovakia,visa required
 Botswana,Slovenia,visa required
-Botswana,Solomon Islands,visa required
+Botswana,Solomon Islands,covid ban
 Botswana,Somalia,visa on arrival
 Botswana,South Africa,90
 Botswana,South Korea,e-visa
@@ -4561,7 +4561,7 @@ Botswana,Tunisia,visa required
 Botswana,Turkey,e-visa
 Botswana,Turkmenistan,visa required
 Botswana,Tuvalu,visa on arrival
-Botswana,Uganda,90
+Botswana,Uganda,e-visa
 Botswana,Ukraine,visa required
 Botswana,United Arab Emirates,e-visa
 Botswana,United Kingdom,180
@@ -4711,7 +4711,7 @@ Brazil,Oman,visa on arrival
 Brazil,Pakistan,e-visa
 Brazil,Palau,visa on arrival
 Brazil,Palestine,visa free
-Brazil,Panama,90
+Brazil,Panama,180
 Brazil,Papua New Guinea,visa on arrival
 Brazil,Paraguay,90
 Brazil,Peru,180
@@ -4735,7 +4735,7 @@ Brazil,Sierra Leone,visa on arrival
 Brazil,Singapore,30
 Brazil,Slovakia,90
 Brazil,Slovenia,90
-Brazil,Solomon Islands,visa on arrival
+Brazil,Solomon Islands,covid ban
 Brazil,Somalia,visa on arrival
 Brazil,South Africa,90
 Brazil,South Korea,e-visa
@@ -4744,7 +4744,7 @@ Brazil,Spain,90
 Brazil,Sri Lanka,e-visa
 Brazil,Saint Vincent and the Grenadines,30
 Brazil,Sudan,visa required
-Brazil,Suriname,180
+Brazil,Suriname,90
 Brazil,Sweden,90
 Brazil,Switzerland,90
 Brazil,Syria,visa required
@@ -4910,7 +4910,7 @@ Brunei,Oman,visa on arrival
 Brunei,Pakistan,e-visa
 Brunei,Palau,visa on arrival
 Brunei,Palestine,visa free
-Brunei,Panama,90
+Brunei,Panama,180
 Brunei,Papua New Guinea,visa on arrival
 Brunei,Paraguay,visa required
 Brunei,Peru,180
@@ -4919,7 +4919,7 @@ Brunei,Poland,90
 Brunei,Portugal,90
 Brunei,Qatar,30
 Brunei,Romania,90
-Brunei,Russia,14
+Brunei,Russia,covid ban
 Brunei,Rwanda,visa on arrival
 Brunei,Saint Kitts and Nevis,90
 Brunei,Saint Lucia,42
@@ -4934,7 +4934,7 @@ Brunei,Sierra Leone,visa on arrival
 Brunei,Singapore,30
 Brunei,Slovakia,90
 Brunei,Slovenia,90
-Brunei,Solomon Islands,visa on arrival
+Brunei,Solomon Islands,covid ban
 Brunei,Somalia,visa on arrival
 Brunei,South Africa,visa required
 Brunei,South Korea,e-visa
@@ -5109,7 +5109,7 @@ Bulgaria,Oman,visa on arrival
 Bulgaria,Pakistan,e-visa
 Bulgaria,Palau,90
 Bulgaria,Palestine,visa free
-Bulgaria,Panama,90
+Bulgaria,Panama,180
 Bulgaria,Papua New Guinea,visa on arrival
 Bulgaria,Paraguay,90
 Bulgaria,Peru,90
@@ -5133,7 +5133,7 @@ Bulgaria,Sierra Leone,visa on arrival
 Bulgaria,Singapore,90
 Bulgaria,Slovakia,visa free
 Bulgaria,Slovenia,visa free
-Bulgaria,Solomon Islands,90
+Bulgaria,Solomon Islands,covid ban
 Bulgaria,Somalia,visa on arrival
 Bulgaria,South Africa,visa required
 Bulgaria,South Korea,e-visa
@@ -5317,7 +5317,7 @@ Burkina Faso,Poland,visa required
 Burkina Faso,Portugal,visa required
 Burkina Faso,Qatar,e-visa
 Burkina Faso,Romania,visa required
-Burkina Faso,Russia,visa required
+Burkina Faso,Russia,covid ban
 Burkina Faso,Rwanda,visa on arrival
 Burkina Faso,Saint Kitts and Nevis,e-visa
 Burkina Faso,Saint Lucia,visa on arrival
@@ -5332,7 +5332,7 @@ Burkina Faso,Sierra Leone,visa free
 Burkina Faso,Singapore,30
 Burkina Faso,Slovakia,visa required
 Burkina Faso,Slovenia,visa required
-Burkina Faso,Solomon Islands,visa required
+Burkina Faso,Solomon Islands,covid ban
 Burkina Faso,Somalia,visa on arrival
 Burkina Faso,South Africa,visa required
 Burkina Faso,South Korea,visa required
@@ -5516,7 +5516,7 @@ Burundi,Poland,visa required
 Burundi,Portugal,visa required
 Burundi,Qatar,e-visa
 Burundi,Romania,visa required
-Burundi,Russia,visa required
+Burundi,Russia,covid ban
 Burundi,Rwanda,180
 Burundi,Saint Kitts and Nevis,e-visa
 Burundi,Saint Lucia,visa on arrival
@@ -5531,7 +5531,7 @@ Burundi,Sierra Leone,visa on arrival
 Burundi,Singapore,30
 Burundi,Slovakia,visa required
 Burundi,Slovenia,visa required
-Burundi,Solomon Islands,visa required
+Burundi,Solomon Islands,covid ban
 Burundi,Somalia,visa on arrival
 Burundi,South Africa,visa required
 Burundi,South Korea,visa required
@@ -5706,7 +5706,7 @@ Cambodia,Oman,e-visa
 Cambodia,Pakistan,e-visa
 Cambodia,Palau,visa on arrival
 Cambodia,Palestine,visa free
-Cambodia,Panama,90
+Cambodia,Panama,180
 Cambodia,Papua New Guinea,visa required
 Cambodia,Paraguay,visa required
 Cambodia,Peru,visa required
@@ -5715,7 +5715,7 @@ Cambodia,Poland,visa required
 Cambodia,Portugal,visa required
 Cambodia,Qatar,e-visa
 Cambodia,Romania,visa required
-Cambodia,Russia,visa required
+Cambodia,Russia,covid ban
 Cambodia,Rwanda,visa on arrival
 Cambodia,Saint Kitts and Nevis,e-visa
 Cambodia,Saint Lucia,visa on arrival
@@ -5730,7 +5730,7 @@ Cambodia,Sierra Leone,visa on arrival
 Cambodia,Singapore,30
 Cambodia,Slovakia,visa required
 Cambodia,Slovenia,visa required
-Cambodia,Solomon Islands,visa required
+Cambodia,Solomon Islands,covid ban
 Cambodia,Somalia,visa on arrival
 Cambodia,South Africa,visa required
 Cambodia,South Korea,visa required
@@ -5914,7 +5914,7 @@ Cameroon,Poland,visa required
 Cameroon,Portugal,visa required
 Cameroon,Qatar,e-visa
 Cameroon,Romania,visa required
-Cameroon,Russia,visa required
+Cameroon,Russia,covid ban
 Cameroon,Rwanda,visa on arrival
 Cameroon,Saint Kitts and Nevis,e-visa
 Cameroon,Saint Lucia,visa on arrival
@@ -5929,7 +5929,7 @@ Cameroon,Sierra Leone,visa on arrival
 Cameroon,Singapore,30
 Cameroon,Slovakia,visa required
 Cameroon,Slovenia,visa required
-Cameroon,Solomon Islands,visa required
+Cameroon,Solomon Islands,covid ban
 Cameroon,Somalia,visa on arrival
 Cameroon,South Africa,e-visa
 Cameroon,South Korea,visa required
@@ -6113,7 +6113,7 @@ Canada,Poland,90
 Canada,Portugal,90
 Canada,Qatar,30
 Canada,Romania,90
-Canada,Russia,visa required
+Canada,Russia,covid ban
 Canada,Rwanda,visa on arrival
 Canada,Saint Kitts and Nevis,180
 Canada,Saint Lucia,42
@@ -6128,7 +6128,7 @@ Canada,Sierra Leone,visa on arrival
 Canada,Singapore,30
 Canada,Slovakia,90
 Canada,Slovenia,90
-Canada,Solomon Islands,visa on arrival
+Canada,Solomon Islands,covid ban
 Canada,Somalia,visa on arrival
 Canada,South Africa,90
 Canada,South Korea,e-visa
@@ -6303,7 +6303,7 @@ Cape Verde,Oman,e-visa
 Cape Verde,Pakistan,e-visa
 Cape Verde,Palau,visa on arrival
 Cape Verde,Palestine,visa free
-Cape Verde,Panama,90
+Cape Verde,Panama,180
 Cape Verde,Papua New Guinea,visa required
 Cape Verde,Paraguay,visa required
 Cape Verde,Peru,visa required
@@ -6312,7 +6312,7 @@ Cape Verde,Poland,visa required
 Cape Verde,Portugal,visa required
 Cape Verde,Qatar,e-visa
 Cape Verde,Romania,visa required
-Cape Verde,Russia,60
+Cape Verde,Russia,covid ban
 Cape Verde,Rwanda,visa on arrival
 Cape Verde,Saint Kitts and Nevis,e-visa
 Cape Verde,Saint Lucia,visa on arrival
@@ -6327,7 +6327,7 @@ Cape Verde,Sierra Leone,visa free
 Cape Verde,Singapore,30
 Cape Verde,Slovakia,visa required
 Cape Verde,Slovenia,visa required
-Cape Verde,Solomon Islands,visa required
+Cape Verde,Solomon Islands,covid ban
 Cape Verde,Somalia,visa on arrival
 Cape Verde,South Africa,30
 Cape Verde,South Korea,visa required
@@ -6511,7 +6511,7 @@ Central African Republic,Poland,visa required
 Central African Republic,Portugal,visa required
 Central African Republic,Qatar,e-visa
 Central African Republic,Romania,visa required
-Central African Republic,Russia,visa required
+Central African Republic,Russia,covid ban
 Central African Republic,Rwanda,90
 Central African Republic,Saint Kitts and Nevis,e-visa
 Central African Republic,Saint Lucia,visa required
@@ -6526,7 +6526,7 @@ Central African Republic,Sierra Leone,visa on arrival
 Central African Republic,Singapore,30
 Central African Republic,Slovakia,visa required
 Central African Republic,Slovenia,visa required
-Central African Republic,Solomon Islands,visa required
+Central African Republic,Solomon Islands,covid ban
 Central African Republic,Somalia,visa on arrival
 Central African Republic,South Africa,visa required
 Central African Republic,South Korea,visa required
@@ -6710,7 +6710,7 @@ Chad,Poland,visa required
 Chad,Portugal,visa required
 Chad,Qatar,e-visa
 Chad,Romania,visa required
-Chad,Russia,visa required
+Chad,Russia,covid ban
 Chad,Rwanda,90
 Chad,Saint Kitts and Nevis,e-visa
 Chad,Saint Lucia,visa required
@@ -6725,7 +6725,7 @@ Chad,Sierra Leone,visa on arrival
 Chad,Singapore,30
 Chad,Slovakia,visa required
 Chad,Slovenia,visa required
-Chad,Solomon Islands,visa required
+Chad,Solomon Islands,covid ban
 Chad,Somalia,visa on arrival
 Chad,South Africa,visa required
 Chad,South Korea,visa required
@@ -6900,7 +6900,7 @@ Chile,Oman,visa on arrival
 Chile,Pakistan,e-visa
 Chile,Palau,visa on arrival
 Chile,Palestine,visa free
-Chile,Panama,90
+Chile,Panama,180
 Chile,Papua New Guinea,visa on arrival
 Chile,Paraguay,90
 Chile,Peru,180
@@ -6909,7 +6909,7 @@ Chile,Poland,90
 Chile,Portugal,90
 Chile,Qatar,30
 Chile,Romania,90
-Chile,Russia,90
+Chile,Russia,covid ban
 Chile,Rwanda,visa on arrival
 Chile,Saint Kitts and Nevis,90
 Chile,Saint Lucia,42
@@ -6924,7 +6924,7 @@ Chile,Sierra Leone,visa on arrival
 Chile,Singapore,30
 Chile,Slovakia,90
 Chile,Slovenia,90
-Chile,Solomon Islands,visa on arrival
+Chile,Solomon Islands,covid ban
 Chile,Somalia,visa on arrival
 Chile,South Africa,90
 Chile,South Korea,e-visa
@@ -7123,7 +7123,7 @@ China,Sierra Leone,visa on arrival
 China,Singapore,e-visa
 China,Slovakia,visa required
 China,Slovenia,visa required
-China,Solomon Islands,visa required
+China,Solomon Islands,covid ban
 China,Somalia,visa on arrival
 China,South Africa,e-visa
 China,South Korea,visa required
@@ -7132,7 +7132,7 @@ China,Spain,visa required
 China,Sri Lanka,e-visa
 China,Saint Vincent and the Grenadines,visa required
 China,Sudan,visa required
-China,Suriname,30
+China,Suriname,e-visa
 China,Sweden,visa required
 China,Switzerland,visa required
 China,Syria,visa required
@@ -7322,7 +7322,7 @@ Colombia,Sierra Leone,visa on arrival
 Colombia,Singapore,30
 Colombia,Slovakia,90
 Colombia,Slovenia,90
-Colombia,Solomon Islands,visa required
+Colombia,Solomon Islands,covid ban
 Colombia,Somalia,visa on arrival
 Colombia,South Africa,visa required
 Colombia,South Korea,e-visa
@@ -7497,7 +7497,7 @@ Comoros,Oman,e-visa
 Comoros,Pakistan,e-visa
 Comoros,Palau,visa on arrival
 Comoros,Palestine,visa required
-Comoros,Panama,90
+Comoros,Panama,180
 Comoros,Papua New Guinea,visa required
 Comoros,Paraguay,visa required
 Comoros,Peru,visa required
@@ -7506,7 +7506,7 @@ Comoros,Poland,visa required
 Comoros,Portugal,visa required
 Comoros,Qatar,e-visa
 Comoros,Romania,visa required
-Comoros,Russia,visa required
+Comoros,Russia,covid ban
 Comoros,Rwanda,visa on arrival
 Comoros,Saint Kitts and Nevis,e-visa
 Comoros,Saint Lucia,visa on arrival
@@ -7521,7 +7521,7 @@ Comoros,Sierra Leone,visa on arrival
 Comoros,Singapore,30
 Comoros,Slovakia,visa required
 Comoros,Slovenia,visa required
-Comoros,Solomon Islands,visa required
+Comoros,Solomon Islands,covid ban
 Comoros,Somalia,visa on arrival
 Comoros,South Africa,visa required
 Comoros,South Korea,visa required
@@ -7705,7 +7705,7 @@ Congo,Poland,visa required
 Congo,Portugal,visa required
 Congo,Qatar,e-visa
 Congo,Romania,visa required
-Congo,Russia,visa required
+Congo,Russia,covid ban
 Congo,Rwanda,visa on arrival
 Congo,Saint Kitts and Nevis,e-visa
 Congo,Saint Lucia,visa required
@@ -7720,7 +7720,7 @@ Congo,Sierra Leone,visa on arrival
 Congo,Singapore,30
 Congo,Slovakia,visa required
 Congo,Slovenia,visa required
-Congo,Solomon Islands,visa required
+Congo,Solomon Islands,covid ban
 Congo,Somalia,visa on arrival
 Congo,South Africa,visa required
 Congo,South Korea,visa required
@@ -7904,7 +7904,7 @@ DR Congo,Poland,visa required
 DR Congo,Portugal,visa required
 DR Congo,Qatar,e-visa
 DR Congo,Romania,visa required
-DR Congo,Russia,visa required
+DR Congo,Russia,covid ban
 DR Congo,Rwanda,90
 DR Congo,Saint Kitts and Nevis,e-visa
 DR Congo,Saint Lucia,visa required
@@ -7919,7 +7919,7 @@ DR Congo,Sierra Leone,visa on arrival
 DR Congo,Singapore,30
 DR Congo,Slovakia,visa required
 DR Congo,Slovenia,visa required
-DR Congo,Solomon Islands,visa required
+DR Congo,Solomon Islands,covid ban
 DR Congo,Somalia,visa on arrival
 DR Congo,South Africa,e-visa
 DR Congo,South Korea,visa required
@@ -8094,7 +8094,7 @@ Costa Rica,Oman,e-visa
 Costa Rica,Pakistan,e-visa
 Costa Rica,Palau,visa on arrival
 Costa Rica,Palestine,visa free
-Costa Rica,Panama,90
+Costa Rica,Panama,180
 Costa Rica,Papua New Guinea,visa required
 Costa Rica,Paraguay,90
 Costa Rica,Peru,90
@@ -8118,7 +8118,7 @@ Costa Rica,Sierra Leone,visa on arrival
 Costa Rica,Singapore,30
 Costa Rica,Slovakia,90
 Costa Rica,Slovenia,90
-Costa Rica,Solomon Islands,visa required
+Costa Rica,Solomon Islands,covid ban
 Costa Rica,Somalia,visa on arrival
 Costa Rica,South Africa,30
 Costa Rica,South Korea,e-visa
@@ -8302,7 +8302,7 @@ Ivory Coast,Poland,visa required
 Ivory Coast,Portugal,visa required
 Ivory Coast,Qatar,visa required
 Ivory Coast,Romania,visa required
-Ivory Coast,Russia,visa required
+Ivory Coast,Russia,covid ban
 Ivory Coast,Rwanda,90
 Ivory Coast,Saint Kitts and Nevis,e-visa
 Ivory Coast,Saint Lucia,visa on arrival
@@ -8317,7 +8317,7 @@ Ivory Coast,Sierra Leone,visa free
 Ivory Coast,Singapore,30
 Ivory Coast,Slovakia,visa required
 Ivory Coast,Slovenia,visa required
-Ivory Coast,Solomon Islands,visa required
+Ivory Coast,Solomon Islands,covid ban
 Ivory Coast,Somalia,visa on arrival
 Ivory Coast,South Africa,visa required
 Ivory Coast,South Korea,visa required
@@ -8492,7 +8492,7 @@ Croatia,Oman,visa on arrival
 Croatia,Pakistan,e-visa
 Croatia,Palau,90
 Croatia,Palestine,visa free
-Croatia,Panama,90
+Croatia,Panama,180
 Croatia,Papua New Guinea,visa on arrival
 Croatia,Paraguay,90
 Croatia,Peru,90
@@ -8516,7 +8516,7 @@ Croatia,Sierra Leone,visa on arrival
 Croatia,Singapore,90
 Croatia,Slovakia,visa free
 Croatia,Slovenia,visa free
-Croatia,Solomon Islands,90
+Croatia,Solomon Islands,covid ban
 Croatia,Somalia,visa on arrival
 Croatia,South Africa,visa required
 Croatia,South Korea,e-visa
@@ -8715,7 +8715,7 @@ Cuba,Sierra Leone,visa on arrival
 Cuba,Singapore,30
 Cuba,Slovakia,visa required
 Cuba,Slovenia,visa required
-Cuba,Solomon Islands,visa required
+Cuba,Solomon Islands,covid ban
 Cuba,Somalia,visa on arrival
 Cuba,South Africa,visa required
 Cuba,South Korea,visa required
@@ -8890,7 +8890,7 @@ Cyprus,Oman,visa on arrival
 Cyprus,Pakistan,e-visa
 Cyprus,Palau,90
 Cyprus,Palestine,visa free
-Cyprus,Panama,90
+Cyprus,Panama,180
 Cyprus,Papua New Guinea,visa on arrival
 Cyprus,Paraguay,90
 Cyprus,Peru,90
@@ -8914,7 +8914,7 @@ Cyprus,Sierra Leone,visa on arrival
 Cyprus,Singapore,90
 Cyprus,Slovakia,visa free
 Cyprus,Slovenia,visa free
-Cyprus,Solomon Islands,90
+Cyprus,Solomon Islands,covid ban
 Cyprus,Somalia,visa on arrival
 Cyprus,South Africa,30
 Cyprus,South Korea,e-visa
@@ -9089,7 +9089,7 @@ Czech Republic,Oman,visa on arrival
 Czech Republic,Pakistan,e-visa
 Czech Republic,Palau,90
 Czech Republic,Palestine,visa free
-Czech Republic,Panama,90
+Czech Republic,Panama,180
 Czech Republic,Papua New Guinea,visa on arrival
 Czech Republic,Paraguay,90
 Czech Republic,Peru,90
@@ -9113,7 +9113,7 @@ Czech Republic,Sierra Leone,visa on arrival
 Czech Republic,Singapore,90
 Czech Republic,Slovakia,visa free
 Czech Republic,Slovenia,visa free
-Czech Republic,Solomon Islands,90
+Czech Republic,Solomon Islands,covid ban
 Czech Republic,Somalia,visa on arrival
 Czech Republic,South Africa,90
 Czech Republic,South Korea,e-visa
@@ -9288,7 +9288,7 @@ Denmark,Oman,visa on arrival
 Denmark,Pakistan,e-visa
 Denmark,Palau,90
 Denmark,Palestine,visa free
-Denmark,Panama,90
+Denmark,Panama,180
 Denmark,Papua New Guinea,visa on arrival
 Denmark,Paraguay,90
 Denmark,Peru,90
@@ -9312,7 +9312,7 @@ Denmark,Sierra Leone,visa on arrival
 Denmark,Singapore,90
 Denmark,Slovakia,visa free
 Denmark,Slovenia,visa free
-Denmark,Solomon Islands,90
+Denmark,Solomon Islands,covid ban
 Denmark,Somalia,visa on arrival
 Denmark,South Africa,90
 Denmark,South Korea,e-visa
@@ -9511,7 +9511,7 @@ Djibouti,Sierra Leone,visa on arrival
 Djibouti,Singapore,30
 Djibouti,Slovakia,visa required
 Djibouti,Slovenia,visa required
-Djibouti,Solomon Islands,visa required
+Djibouti,Solomon Islands,covid ban
 Djibouti,Somalia,visa on arrival
 Djibouti,South Africa,visa required
 Djibouti,South Korea,visa required
@@ -9686,7 +9686,7 @@ Dominica,Oman,e-visa
 Dominica,Pakistan,e-visa
 Dominica,Palau,visa on arrival
 Dominica,Palestine,visa free
-Dominica,Panama,90
+Dominica,Panama,180
 Dominica,Papua New Guinea,e-visa
 Dominica,Paraguay,visa required
 Dominica,Peru,180
@@ -9695,7 +9695,7 @@ Dominica,Poland,90
 Dominica,Portugal,90
 Dominica,Qatar,e-visa
 Dominica,Romania,90
-Dominica,Russia,90
+Dominica,Russia,covid ban
 Dominica,Rwanda,visa on arrival
 Dominica,Saint Kitts and Nevis,visa free
 Dominica,Saint Lucia,visa free
@@ -9710,7 +9710,7 @@ Dominica,Sierra Leone,visa on arrival
 Dominica,Singapore,30
 Dominica,Slovakia,90
 Dominica,Slovenia,90
-Dominica,Solomon Islands,visa on arrival
+Dominica,Solomon Islands,covid ban
 Dominica,Somalia,visa on arrival
 Dominica,South Africa,visa required
 Dominica,South Korea,e-visa
@@ -9719,7 +9719,7 @@ Dominica,Spain,90
 Dominica,Sri Lanka,e-visa
 Dominica,Saint Vincent and the Grenadines,visa free
 Dominica,Sudan,visa required
-Dominica,Suriname,180
+Dominica,Suriname,90
 Dominica,Sweden,90
 Dominica,Switzerland,90
 Dominica,Syria,visa required
@@ -9909,7 +9909,7 @@ Dominican Republic,Sierra Leone,visa on arrival
 Dominican Republic,Singapore,30
 Dominican Republic,Slovakia,visa required
 Dominican Republic,Slovenia,visa required
-Dominican Republic,Solomon Islands,visa on arrival
+Dominican Republic,Solomon Islands,covid ban
 Dominican Republic,Somalia,visa on arrival
 Dominican Republic,South Africa,visa required
 Dominican Republic,South Korea,e-visa
@@ -9923,7 +9923,7 @@ Dominican Republic,Sweden,visa required
 Dominican Republic,Switzerland,visa required
 Dominican Republic,Syria,visa required
 Dominican Republic,Taiwan,covid ban
-Dominican Republic,Tajikistan,30
+Dominican Republic,Tajikistan,e-visa
 Dominican Republic,Tanzania,visa on arrival
 Dominican Republic,Thailand,visa required
 Dominican Republic,Timor-Leste,visa on arrival
@@ -10084,7 +10084,7 @@ Ecuador,Oman,visa on arrival
 Ecuador,Pakistan,e-visa
 Ecuador,Palau,visa on arrival
 Ecuador,Palestine,visa free
-Ecuador,Panama,90
+Ecuador,Panama,180
 Ecuador,Papua New Guinea,visa on arrival
 Ecuador,Paraguay,90
 Ecuador,Peru,180
@@ -10108,7 +10108,7 @@ Ecuador,Sierra Leone,visa on arrival
 Ecuador,Singapore,30
 Ecuador,Slovakia,visa required
 Ecuador,Slovenia,visa required
-Ecuador,Solomon Islands,visa required
+Ecuador,Solomon Islands,covid ban
 Ecuador,Somalia,visa on arrival
 Ecuador,South Africa,90
 Ecuador,South Korea,e-visa
@@ -10307,7 +10307,7 @@ Egypt,Sierra Leone,visa on arrival
 Egypt,Singapore,e-visa
 Egypt,Slovakia,visa required
 Egypt,Slovenia,visa required
-Egypt,Solomon Islands,visa required
+Egypt,Solomon Islands,covid ban
 Egypt,Somalia,visa on arrival
 Egypt,South Africa,e-visa
 Egypt,South Korea,visa required
@@ -10482,7 +10482,7 @@ El Salvador,Oman,e-visa
 El Salvador,Pakistan,e-visa
 El Salvador,Palau,visa on arrival
 El Salvador,Palestine,visa free
-El Salvador,Panama,90
+El Salvador,Panama,180
 El Salvador,Papua New Guinea,visa required
 El Salvador,Paraguay,90
 El Salvador,Peru,visa required
@@ -10491,7 +10491,7 @@ El Salvador,Poland,90
 El Salvador,Portugal,90
 El Salvador,Qatar,e-visa
 El Salvador,Romania,90
-El Salvador,Russia,90
+El Salvador,Russia,covid ban
 El Salvador,Rwanda,visa on arrival
 El Salvador,Saint Kitts and Nevis,90
 El Salvador,Saint Lucia,visa on arrival
@@ -10506,7 +10506,7 @@ El Salvador,Sierra Leone,visa on arrival
 El Salvador,Singapore,30
 El Salvador,Slovakia,90
 El Salvador,Slovenia,90
-El Salvador,Solomon Islands,visa required
+El Salvador,Solomon Islands,covid ban
 El Salvador,Somalia,visa on arrival
 El Salvador,South Africa,visa required
 El Salvador,South Korea,e-visa
@@ -10690,7 +10690,7 @@ Equatorial Guinea,Poland,visa required
 Equatorial Guinea,Portugal,visa required
 Equatorial Guinea,Qatar,e-visa
 Equatorial Guinea,Romania,visa required
-Equatorial Guinea,Russia,visa required
+Equatorial Guinea,Russia,covid ban
 Equatorial Guinea,Rwanda,visa on arrival
 Equatorial Guinea,Saint Kitts and Nevis,e-visa
 Equatorial Guinea,Saint Lucia,visa on arrival
@@ -10705,7 +10705,7 @@ Equatorial Guinea,Sierra Leone,visa on arrival
 Equatorial Guinea,Singapore,30
 Equatorial Guinea,Slovakia,visa required
 Equatorial Guinea,Slovenia,visa required
-Equatorial Guinea,Solomon Islands,visa required
+Equatorial Guinea,Solomon Islands,covid ban
 Equatorial Guinea,Somalia,visa on arrival
 Equatorial Guinea,South Africa,visa required
 Equatorial Guinea,South Korea,visa required
@@ -10889,7 +10889,7 @@ Eritrea,Poland,visa required
 Eritrea,Portugal,visa required
 Eritrea,Qatar,e-visa
 Eritrea,Romania,visa required
-Eritrea,Russia,visa required
+Eritrea,Russia,covid ban
 Eritrea,Rwanda,visa on arrival
 Eritrea,Saint Kitts and Nevis,e-visa
 Eritrea,Saint Lucia,visa required
@@ -10904,7 +10904,7 @@ Eritrea,Sierra Leone,visa on arrival
 Eritrea,Singapore,30
 Eritrea,Slovakia,visa required
 Eritrea,Slovenia,visa required
-Eritrea,Solomon Islands,visa required
+Eritrea,Solomon Islands,covid ban
 Eritrea,Somalia,visa on arrival
 Eritrea,South Africa,visa required
 Eritrea,South Korea,visa required
@@ -11079,7 +11079,7 @@ Estonia,Oman,visa on arrival
 Estonia,Pakistan,e-visa
 Estonia,Palau,90
 Estonia,Palestine,visa free
-Estonia,Panama,90
+Estonia,Panama,180
 Estonia,Papua New Guinea,visa on arrival
 Estonia,Paraguay,90
 Estonia,Peru,90
@@ -11088,7 +11088,7 @@ Estonia,Poland,visa free
 Estonia,Portugal,visa free
 Estonia,Qatar,90
 Estonia,Romania,visa free
-Estonia,Russia,visa required
+Estonia,Russia,covid ban
 Estonia,Rwanda,visa on arrival
 Estonia,Saint Kitts and Nevis,90
 Estonia,Saint Lucia,90
@@ -11103,7 +11103,7 @@ Estonia,Sierra Leone,visa on arrival
 Estonia,Singapore,90
 Estonia,Slovakia,visa free
 Estonia,Slovenia,visa free
-Estonia,Solomon Islands,90
+Estonia,Solomon Islands,covid ban
 Estonia,Somalia,visa on arrival
 Estonia,South Africa,visa required
 Estonia,South Korea,e-visa
@@ -11287,7 +11287,7 @@ Swaziland,Poland,visa required
 Swaziland,Portugal,visa required
 Swaziland,Qatar,e-visa
 Swaziland,Romania,visa required
-Swaziland,Russia,visa required
+Swaziland,Russia,covid ban
 Swaziland,Rwanda,visa on arrival
 Swaziland,Saint Kitts and Nevis,90
 Swaziland,Saint Lucia,42
@@ -11302,7 +11302,7 @@ Swaziland,Sierra Leone,visa on arrival
 Swaziland,Singapore,30
 Swaziland,Slovakia,visa required
 Swaziland,Slovenia,visa required
-Swaziland,Solomon Islands,visa required
+Swaziland,Solomon Islands,covid ban
 Swaziland,Somalia,visa on arrival
 Swaziland,South Africa,30
 Swaziland,South Korea,e-visa
@@ -11501,7 +11501,7 @@ Ethiopia,Sierra Leone,visa on arrival
 Ethiopia,Singapore,30
 Ethiopia,Slovakia,visa required
 Ethiopia,Slovenia,visa required
-Ethiopia,Solomon Islands,visa required
+Ethiopia,Solomon Islands,covid ban
 Ethiopia,Somalia,visa on arrival
 Ethiopia,South Africa,e-visa
 Ethiopia,South Korea,visa required
@@ -11676,7 +11676,7 @@ Fiji,Oman,e-visa
 Fiji,Pakistan,e-visa
 Fiji,Palau,visa on arrival
 Fiji,Palestine,visa free
-Fiji,Panama,90
+Fiji,Panama,180
 Fiji,Papua New Guinea,visa on arrival
 Fiji,Paraguay,visa required
 Fiji,Peru,180
@@ -11700,7 +11700,7 @@ Fiji,Sierra Leone,visa on arrival
 Fiji,Singapore,30
 Fiji,Slovakia,visa required
 Fiji,Slovenia,visa required
-Fiji,Solomon Islands,visa on arrival
+Fiji,Solomon Islands,covid ban
 Fiji,Somalia,visa on arrival
 Fiji,South Africa,visa required
 Fiji,South Korea,e-visa
@@ -11875,7 +11875,7 @@ Finland,Oman,visa on arrival
 Finland,Pakistan,e-visa
 Finland,Palau,90
 Finland,Palestine,visa free
-Finland,Panama,90
+Finland,Panama,180
 Finland,Papua New Guinea,visa on arrival
 Finland,Paraguay,90
 Finland,Peru,90
@@ -11899,7 +11899,7 @@ Finland,Sierra Leone,visa on arrival
 Finland,Singapore,90
 Finland,Slovakia,visa free
 Finland,Slovenia,visa free
-Finland,Solomon Islands,90
+Finland,Solomon Islands,covid ban
 Finland,Somalia,visa on arrival
 Finland,South Africa,90
 Finland,South Korea,e-visa
@@ -12074,7 +12074,7 @@ France,Oman,visa on arrival
 France,Pakistan,e-visa
 France,Palau,90
 France,Palestine,visa free
-France,Panama,90
+France,Panama,180
 France,Papua New Guinea,visa on arrival
 France,Paraguay,90
 France,Peru,90
@@ -12098,7 +12098,7 @@ France,Sierra Leone,visa on arrival
 France,Singapore,90
 France,Slovakia,visa free
 France,Slovenia,visa free
-France,Solomon Islands,90
+France,Solomon Islands,covid ban
 France,Somalia,visa on arrival
 France,South Africa,90
 France,South Korea,e-visa
@@ -12273,7 +12273,7 @@ Gabon,Oman,e-visa
 Gabon,Pakistan,e-visa
 Gabon,Palau,visa on arrival
 Gabon,Palestine,visa required
-Gabon,Panama,90
+Gabon,Panama,180
 Gabon,Papua New Guinea,visa required
 Gabon,Paraguay,visa required
 Gabon,Peru,visa required
@@ -12282,7 +12282,7 @@ Gabon,Poland,visa required
 Gabon,Portugal,visa required
 Gabon,Qatar,e-visa
 Gabon,Romania,visa required
-Gabon,Russia,visa required
+Gabon,Russia,covid ban
 Gabon,Rwanda,visa on arrival
 Gabon,Saint Kitts and Nevis,e-visa
 Gabon,Saint Lucia,visa on arrival
@@ -12297,7 +12297,7 @@ Gabon,Sierra Leone,visa on arrival
 Gabon,Singapore,30
 Gabon,Slovakia,visa required
 Gabon,Slovenia,visa required
-Gabon,Solomon Islands,visa required
+Gabon,Solomon Islands,covid ban
 Gabon,Somalia,visa on arrival
 Gabon,South Africa,30
 Gabon,South Korea,visa required
@@ -12481,7 +12481,7 @@ Gambia,Poland,visa required
 Gambia,Portugal,visa required
 Gambia,Qatar,e-visa
 Gambia,Romania,visa required
-Gambia,Russia,visa required
+Gambia,Russia,covid ban
 Gambia,Rwanda,visa on arrival
 Gambia,Saint Kitts and Nevis,90
 Gambia,Saint Lucia,visa on arrival
@@ -12496,7 +12496,7 @@ Gambia,Sierra Leone,visa free
 Gambia,Singapore,30
 Gambia,Slovakia,visa required
 Gambia,Slovenia,visa required
-Gambia,Solomon Islands,visa required
+Gambia,Solomon Islands,covid ban
 Gambia,Somalia,visa on arrival
 Gambia,South Africa,visa required
 Gambia,South Korea,visa required
@@ -12671,7 +12671,7 @@ Georgia,Oman,visa on arrival
 Georgia,Pakistan,e-visa
 Georgia,Palau,visa on arrival
 Georgia,Palestine,visa free
-Georgia,Panama,90
+Georgia,Panama,180
 Georgia,Papua New Guinea,visa required
 Georgia,Paraguay,visa required
 Georgia,Peru,visa required
@@ -12680,7 +12680,7 @@ Georgia,Poland,90
 Georgia,Portugal,90
 Georgia,Qatar,30
 Georgia,Romania,90
-Georgia,Russia,visa required
+Georgia,Russia,covid ban
 Georgia,Rwanda,visa on arrival
 Georgia,Saint Kitts and Nevis,e-visa
 Georgia,Saint Lucia,42
@@ -12695,7 +12695,7 @@ Georgia,Sierra Leone,visa on arrival
 Georgia,Singapore,e-visa
 Georgia,Slovakia,90
 Georgia,Slovenia,90
-Georgia,Solomon Islands,visa required
+Georgia,Solomon Islands,covid ban
 Georgia,Somalia,visa on arrival
 Georgia,South Africa,visa required
 Georgia,South Korea,visa required
@@ -12722,7 +12722,7 @@ Georgia,Turkmenistan,visa required
 Georgia,Tuvalu,visa on arrival
 Georgia,Uganda,e-visa
 Georgia,Ukraine,90
-Georgia,United Arab Emirates,visa on arrival
+Georgia,United Arab Emirates,e-visa
 Georgia,United Kingdom,visa required
 Georgia,United States,visa required
 Georgia,Uruguay,90
@@ -12870,7 +12870,7 @@ Germany,Oman,visa on arrival
 Germany,Pakistan,e-visa
 Germany,Palau,90
 Germany,Palestine,visa free
-Germany,Panama,90
+Germany,Panama,180
 Germany,Papua New Guinea,visa on arrival
 Germany,Paraguay,90
 Germany,Peru,90
@@ -12894,7 +12894,7 @@ Germany,Sierra Leone,visa on arrival
 Germany,Singapore,90
 Germany,Slovakia,visa free
 Germany,Slovenia,visa free
-Germany,Solomon Islands,90
+Germany,Solomon Islands,covid ban
 Germany,Somalia,visa on arrival
 Germany,South Africa,90
 Germany,South Korea,e-visa
@@ -13078,7 +13078,7 @@ Ghana,Poland,visa required
 Ghana,Portugal,visa required
 Ghana,Qatar,e-visa
 Ghana,Romania,visa required
-Ghana,Russia,visa required
+Ghana,Russia,covid ban
 Ghana,Rwanda,90
 Ghana,Saint Kitts and Nevis,90
 Ghana,Saint Lucia,visa on arrival
@@ -13093,7 +13093,7 @@ Ghana,Sierra Leone,visa free
 Ghana,Singapore,30
 Ghana,Slovakia,visa required
 Ghana,Slovenia,visa required
-Ghana,Solomon Islands,visa required
+Ghana,Solomon Islands,covid ban
 Ghana,Somalia,visa on arrival
 Ghana,South Africa,visa required
 Ghana,South Korea,visa required
@@ -13268,7 +13268,7 @@ Greece,Oman,visa on arrival
 Greece,Pakistan,e-visa
 Greece,Palau,90
 Greece,Palestine,visa free
-Greece,Panama,90
+Greece,Panama,180
 Greece,Papua New Guinea,visa on arrival
 Greece,Paraguay,90
 Greece,Peru,180
@@ -13292,7 +13292,7 @@ Greece,Sierra Leone,visa on arrival
 Greece,Singapore,90
 Greece,Slovakia,visa free
 Greece,Slovenia,visa free
-Greece,Solomon Islands,90
+Greece,Solomon Islands,covid ban
 Greece,Somalia,visa on arrival
 Greece,South Africa,90
 Greece,South Korea,e-visa
@@ -13467,7 +13467,7 @@ Grenada,Oman,e-visa
 Grenada,Pakistan,e-visa
 Grenada,Palau,visa on arrival
 Grenada,Palestine,visa free
-Grenada,Panama,90
+Grenada,Panama,180
 Grenada,Papua New Guinea,e-visa
 Grenada,Paraguay,visa required
 Grenada,Peru,180
@@ -13476,7 +13476,7 @@ Grenada,Poland,90
 Grenada,Portugal,90
 Grenada,Qatar,e-visa
 Grenada,Romania,90
-Grenada,Russia,90
+Grenada,Russia,covid ban
 Grenada,Rwanda,visa on arrival
 Grenada,Saint Kitts and Nevis,90
 Grenada,Saint Lucia,visa free
@@ -13491,7 +13491,7 @@ Grenada,Sierra Leone,visa on arrival
 Grenada,Singapore,30
 Grenada,Slovakia,90
 Grenada,Slovenia,90
-Grenada,Solomon Islands,visa on arrival
+Grenada,Solomon Islands,covid ban
 Grenada,Somalia,visa on arrival
 Grenada,South Africa,visa required
 Grenada,South Korea,e-visa
@@ -13500,7 +13500,7 @@ Grenada,Spain,90
 Grenada,Sri Lanka,e-visa
 Grenada,Saint Vincent and the Grenadines,visa free
 Grenada,Sudan,visa required
-Grenada,Suriname,180
+Grenada,Suriname,90
 Grenada,Sweden,90
 Grenada,Switzerland,90
 Grenada,Syria,visa required
@@ -13666,7 +13666,7 @@ Guatemala,Oman,e-visa
 Guatemala,Pakistan,e-visa
 Guatemala,Palau,visa on arrival
 Guatemala,Palestine,visa free
-Guatemala,Panama,90
+Guatemala,Panama,180
 Guatemala,Papua New Guinea,visa required
 Guatemala,Paraguay,90
 Guatemala,Peru,90
@@ -13675,7 +13675,7 @@ Guatemala,Poland,90
 Guatemala,Portugal,90
 Guatemala,Qatar,e-visa
 Guatemala,Romania,90
-Guatemala,Russia,90
+Guatemala,Russia,covid ban
 Guatemala,Rwanda,visa on arrival
 Guatemala,Saint Kitts and Nevis,90
 Guatemala,Saint Lucia,visa on arrival
@@ -13690,7 +13690,7 @@ Guatemala,Sierra Leone,visa on arrival
 Guatemala,Singapore,30
 Guatemala,Slovakia,90
 Guatemala,Slovenia,90
-Guatemala,Solomon Islands,visa required
+Guatemala,Solomon Islands,covid ban
 Guatemala,Somalia,visa on arrival
 Guatemala,South Africa,visa required
 Guatemala,South Korea,e-visa
@@ -13874,7 +13874,7 @@ Guinea,Poland,visa required
 Guinea,Portugal,visa required
 Guinea,Qatar,e-visa
 Guinea,Romania,visa required
-Guinea,Russia,visa required
+Guinea,Russia,covid ban
 Guinea,Rwanda,90
 Guinea,Saint Kitts and Nevis,e-visa
 Guinea,Saint Lucia,visa on arrival
@@ -13889,7 +13889,7 @@ Guinea,Sierra Leone,visa free
 Guinea,Singapore,30
 Guinea,Slovakia,visa required
 Guinea,Slovenia,visa required
-Guinea,Solomon Islands,visa required
+Guinea,Solomon Islands,covid ban
 Guinea,Somalia,visa on arrival
 Guinea,South Africa,visa required
 Guinea,South Korea,visa required
@@ -14073,7 +14073,7 @@ Guinea-Bissau,Poland,visa required
 Guinea-Bissau,Portugal,visa required
 Guinea-Bissau,Qatar,e-visa
 Guinea-Bissau,Romania,visa required
-Guinea-Bissau,Russia,visa required
+Guinea-Bissau,Russia,covid ban
 Guinea-Bissau,Rwanda,visa on arrival
 Guinea-Bissau,Saint Kitts and Nevis,e-visa
 Guinea-Bissau,Saint Lucia,visa on arrival
@@ -14088,7 +14088,7 @@ Guinea-Bissau,Sierra Leone,visa free
 Guinea-Bissau,Singapore,30
 Guinea-Bissau,Slovakia,visa required
 Guinea-Bissau,Slovenia,visa required
-Guinea-Bissau,Solomon Islands,visa required
+Guinea-Bissau,Solomon Islands,covid ban
 Guinea-Bissau,Somalia,visa on arrival
 Guinea-Bissau,South Africa,visa required
 Guinea-Bissau,South Korea,visa required
@@ -14263,7 +14263,7 @@ Guyana,Oman,e-visa
 Guyana,Pakistan,e-visa
 Guyana,Palau,visa on arrival
 Guyana,Palestine,visa free
-Guyana,Panama,90
+Guyana,Panama,180
 Guyana,Papua New Guinea,e-visa
 Guyana,Paraguay,visa required
 Guyana,Peru,180
@@ -14272,7 +14272,7 @@ Guyana,Poland,visa required
 Guyana,Portugal,visa required
 Guyana,Qatar,30
 Guyana,Romania,visa required
-Guyana,Russia,90
+Guyana,Russia,covid ban
 Guyana,Rwanda,visa on arrival
 Guyana,Saint Kitts and Nevis,180
 Guyana,Saint Lucia,42
@@ -14287,7 +14287,7 @@ Guyana,Sierra Leone,visa on arrival
 Guyana,Singapore,30
 Guyana,Slovakia,visa required
 Guyana,Slovenia,visa required
-Guyana,Solomon Islands,visa on arrival
+Guyana,Solomon Islands,covid ban
 Guyana,Somalia,visa on arrival
 Guyana,South Africa,30
 Guyana,South Korea,e-visa
@@ -14296,7 +14296,7 @@ Guyana,Spain,visa required
 Guyana,Sri Lanka,e-visa
 Guyana,Saint Vincent and the Grenadines,30
 Guyana,Sudan,visa required
-Guyana,Suriname,180
+Guyana,Suriname,90
 Guyana,Sweden,visa required
 Guyana,Switzerland,visa required
 Guyana,Syria,visa required
@@ -14471,7 +14471,7 @@ Haiti,Poland,visa required
 Haiti,Portugal,visa required
 Haiti,Qatar,e-visa
 Haiti,Romania,visa required
-Haiti,Russia,visa required
+Haiti,Russia,covid ban
 Haiti,Rwanda,90
 Haiti,Saint Kitts and Nevis,e-visa
 Haiti,Saint Lucia,visa required
@@ -14486,14 +14486,14 @@ Haiti,Sierra Leone,visa on arrival
 Haiti,Singapore,30
 Haiti,Slovakia,visa required
 Haiti,Slovenia,visa required
-Haiti,Solomon Islands,visa required
+Haiti,Solomon Islands,covid ban
 Haiti,Somalia,visa on arrival
 Haiti,South Africa,visa required
 Haiti,South Korea,e-visa
 Haiti,South Sudan,e-visa
 Haiti,Spain,visa required
 Haiti,Sri Lanka,e-visa
-Haiti,Saint Vincent and the Grenadines,180
+Haiti,Saint Vincent and the Grenadines,30
 Haiti,Sudan,visa required
 Haiti,Suriname,visa required
 Haiti,Sweden,visa required
@@ -14661,7 +14661,7 @@ Honduras,Oman,e-visa
 Honduras,Pakistan,e-visa
 Honduras,Palau,visa on arrival
 Honduras,Palestine,visa free
-Honduras,Panama,90
+Honduras,Panama,180
 Honduras,Papua New Guinea,visa required
 Honduras,Paraguay,90
 Honduras,Peru,180
@@ -14670,7 +14670,7 @@ Honduras,Poland,90
 Honduras,Portugal,90
 Honduras,Qatar,e-visa
 Honduras,Romania,90
-Honduras,Russia,90
+Honduras,Russia,covid ban
 Honduras,Rwanda,visa on arrival
 Honduras,Saint Kitts and Nevis,90
 Honduras,Saint Lucia,visa on arrival
@@ -14685,7 +14685,7 @@ Honduras,Sierra Leone,visa on arrival
 Honduras,Singapore,30
 Honduras,Slovakia,90
 Honduras,Slovenia,90
-Honduras,Solomon Islands,visa required
+Honduras,Solomon Islands,covid ban
 Honduras,Somalia,visa on arrival
 Honduras,South Africa,visa required
 Honduras,South Korea,e-visa
@@ -14860,7 +14860,7 @@ Hong Kong,Oman,visa on arrival
 Hong Kong,Pakistan,visa required
 Hong Kong,Palau,visa on arrival
 Hong Kong,Palestine,visa free
-Hong Kong,Panama,90
+Hong Kong,Panama,30
 Hong Kong,Papua New Guinea,visa on arrival
 Hong Kong,Paraguay,visa required
 Hong Kong,Peru,180
@@ -14869,7 +14869,7 @@ Hong Kong,Poland,90
 Hong Kong,Portugal,90
 Hong Kong,Qatar,30
 Hong Kong,Romania,90
-Hong Kong,Russia,14
+Hong Kong,Russia,covid ban
 Hong Kong,Rwanda,visa on arrival
 Hong Kong,Saint Kitts and Nevis,90
 Hong Kong,Saint Lucia,42
@@ -14884,7 +14884,7 @@ Hong Kong,Sierra Leone,visa on arrival
 Hong Kong,Singapore,30
 Hong Kong,Slovakia,90
 Hong Kong,Slovenia,90
-Hong Kong,Solomon Islands,visa required
+Hong Kong,Solomon Islands,covid ban
 Hong Kong,Somalia,visa on arrival
 Hong Kong,South Africa,30
 Hong Kong,South Korea,visa required
@@ -15059,7 +15059,7 @@ Hungary,Oman,visa on arrival
 Hungary,Pakistan,e-visa
 Hungary,Palau,90
 Hungary,Palestine,visa free
-Hungary,Panama,90
+Hungary,Panama,180
 Hungary,Papua New Guinea,visa on arrival
 Hungary,Paraguay,90
 Hungary,Peru,180
@@ -15083,7 +15083,7 @@ Hungary,Sierra Leone,visa on arrival
 Hungary,Singapore,90
 Hungary,Slovakia,visa free
 Hungary,Slovenia,visa free
-Hungary,Solomon Islands,90
+Hungary,Solomon Islands,covid ban
 Hungary,Somalia,visa on arrival
 Hungary,South Africa,30
 Hungary,South Korea,e-visa
@@ -15258,7 +15258,7 @@ Iceland,Oman,visa on arrival
 Iceland,Pakistan,e-visa
 Iceland,Palau,visa on arrival
 Iceland,Palestine,visa free
-Iceland,Panama,90
+Iceland,Panama,180
 Iceland,Papua New Guinea,visa on arrival
 Iceland,Paraguay,90
 Iceland,Peru,90
@@ -15282,7 +15282,7 @@ Iceland,Sierra Leone,visa on arrival
 Iceland,Singapore,30
 Iceland,Slovakia,visa free
 Iceland,Slovenia,visa free
-Iceland,Solomon Islands,visa on arrival
+Iceland,Solomon Islands,covid ban
 Iceland,Somalia,visa on arrival
 Iceland,South Africa,90
 Iceland,South Korea,e-visa
@@ -15481,7 +15481,7 @@ India,Sierra Leone,visa on arrival
 India,Singapore,e-visa
 India,Slovakia,visa required
 India,Slovenia,visa required
-India,Solomon Islands,visa required
+India,Solomon Islands,covid ban
 India,Somalia,visa on arrival
 India,South Africa,e-visa
 India,South Korea,visa required
@@ -15680,7 +15680,7 @@ Indonesia,Sierra Leone,visa on arrival
 Indonesia,Singapore,30
 Indonesia,Slovakia,visa required
 Indonesia,Slovenia,visa required
-Indonesia,Solomon Islands,visa required
+Indonesia,Solomon Islands,covid ban
 Indonesia,Somalia,visa on arrival
 Indonesia,South Africa,visa required
 Indonesia,South Korea,visa required
@@ -15689,7 +15689,7 @@ Indonesia,Spain,visa required
 Indonesia,Sri Lanka,e-visa
 Indonesia,Saint Vincent and the Grenadines,30
 Indonesia,Sudan,visa required
-Indonesia,Suriname,e-visa
+Indonesia,Suriname,30
 Indonesia,Sweden,visa required
 Indonesia,Switzerland,visa required
 Indonesia,Syria,visa required
@@ -15879,7 +15879,7 @@ Iran,Sierra Leone,visa on arrival
 Iran,Singapore,e-visa
 Iran,Slovakia,visa required
 Iran,Slovenia,visa required
-Iran,Solomon Islands,visa required
+Iran,Solomon Islands,covid ban
 Iran,Somalia,visa on arrival
 Iran,South Africa,e-visa
 Iran,South Korea,visa required
@@ -16078,7 +16078,7 @@ Iraq,Sierra Leone,visa on arrival
 Iraq,Singapore,e-visa
 Iraq,Slovakia,visa required
 Iraq,Slovenia,visa required
-Iraq,Solomon Islands,visa required
+Iraq,Solomon Islands,covid ban
 Iraq,Somalia,visa on arrival
 Iraq,South Africa,visa required
 Iraq,South Korea,visa required
@@ -16253,7 +16253,7 @@ Ireland,Oman,visa on arrival
 Ireland,Pakistan,e-visa
 Ireland,Palau,visa on arrival
 Ireland,Palestine,visa free
-Ireland,Panama,90
+Ireland,Panama,180
 Ireland,Papua New Guinea,visa on arrival
 Ireland,Paraguay,90
 Ireland,Peru,180
@@ -16277,7 +16277,7 @@ Ireland,Sierra Leone,visa on arrival
 Ireland,Singapore,90
 Ireland,Slovakia,visa free
 Ireland,Slovenia,visa free
-Ireland,Solomon Islands,visa on arrival
+Ireland,Solomon Islands,covid ban
 Ireland,Somalia,visa on arrival
 Ireland,South Africa,90
 Ireland,South Korea,e-visa
@@ -16452,7 +16452,7 @@ Israel,Oman,e-visa
 Israel,Pakistan,visa required
 Israel,Palau,90
 Israel,Palestine,visa free
-Israel,Panama,90
+Israel,Panama,180
 Israel,Papua New Guinea,visa on arrival
 Israel,Paraguay,90
 Israel,Peru,180
@@ -16476,7 +16476,7 @@ Israel,Sierra Leone,visa on arrival
 Israel,Singapore,30
 Israel,Slovakia,90
 Israel,Slovenia,90
-Israel,Solomon Islands,visa on arrival
+Israel,Solomon Islands,covid ban
 Israel,Somalia,visa on arrival
 Israel,South Africa,90
 Israel,South Korea,e-visa
@@ -16485,7 +16485,7 @@ Israel,Spain,90
 Israel,Sri Lanka,e-visa
 Israel,Saint Vincent and the Grenadines,30
 Israel,Sudan,visa required
-Israel,Suriname,180
+Israel,Suriname,90
 Israel,Sweden,90
 Israel,Switzerland,90
 Israel,Syria,visa required
@@ -16651,7 +16651,7 @@ Italy,Oman,visa on arrival
 Italy,Pakistan,e-visa
 Italy,Palau,90
 Italy,Palestine,visa free
-Italy,Panama,90
+Italy,Panama,180
 Italy,Papua New Guinea,visa on arrival
 Italy,Paraguay,90
 Italy,Peru,90
@@ -16675,7 +16675,7 @@ Italy,Sierra Leone,visa on arrival
 Italy,Singapore,90
 Italy,Slovakia,visa free
 Italy,Slovenia,visa free
-Italy,Solomon Islands,90
+Italy,Solomon Islands,covid ban
 Italy,Somalia,visa on arrival
 Italy,South Africa,90
 Italy,South Korea,e-visa
@@ -16850,7 +16850,7 @@ Jamaica,Oman,e-visa
 Jamaica,Pakistan,e-visa
 Jamaica,Palau,visa on arrival
 Jamaica,Palestine,visa free
-Jamaica,Panama,90
+Jamaica,Panama,180
 Jamaica,Papua New Guinea,e-visa
 Jamaica,Paraguay,visa required
 Jamaica,Peru,180
@@ -16874,7 +16874,7 @@ Jamaica,Sierra Leone,visa on arrival
 Jamaica,Singapore,30
 Jamaica,Slovakia,visa required
 Jamaica,Slovenia,visa required
-Jamaica,Solomon Islands,visa required
+Jamaica,Solomon Islands,covid ban
 Jamaica,Somalia,visa on arrival
 Jamaica,South Africa,90
 Jamaica,South Korea,e-visa
@@ -16888,7 +16888,7 @@ Jamaica,Sweden,visa required
 Jamaica,Switzerland,visa required
 Jamaica,Syria,visa required
 Jamaica,Taiwan,covid ban
-Jamaica,Tajikistan,30
+Jamaica,Tajikistan,e-visa
 Jamaica,Tanzania,90
 Jamaica,Thailand,visa required
 Jamaica,Timor-Leste,visa on arrival
@@ -17049,7 +17049,7 @@ Japan,Oman,visa on arrival
 Japan,Pakistan,e-visa
 Japan,Palau,visa on arrival
 Japan,Palestine,visa free
-Japan,Panama,90
+Japan,Panama,180
 Japan,Papua New Guinea,visa on arrival
 Japan,Paraguay,90
 Japan,Peru,180
@@ -17073,7 +17073,7 @@ Japan,Sierra Leone,visa on arrival
 Japan,Singapore,30
 Japan,Slovakia,90
 Japan,Slovenia,90
-Japan,Solomon Islands,visa on arrival
+Japan,Solomon Islands,covid ban
 Japan,Somalia,visa on arrival
 Japan,South Africa,90
 Japan,South Korea,visa required
@@ -17082,7 +17082,7 @@ Japan,Spain,90
 Japan,Sri Lanka,e-visa
 Japan,Saint Vincent and the Grenadines,30
 Japan,Sudan,visa required
-Japan,Suriname,e-visa
+Japan,Suriname,90
 Japan,Sweden,90
 Japan,Switzerland,90
 Japan,Syria,visa required
@@ -17272,7 +17272,7 @@ Jordan,Sierra Leone,visa on arrival
 Jordan,Singapore,e-visa
 Jordan,Slovakia,visa required
 Jordan,Slovenia,visa required
-Jordan,Solomon Islands,visa required
+Jordan,Solomon Islands,covid ban
 Jordan,Somalia,visa on arrival
 Jordan,South Africa,30
 Jordan,South Korea,visa required
@@ -17471,7 +17471,7 @@ Kazakhstan,Sierra Leone,visa on arrival
 Kazakhstan,Singapore,e-visa
 Kazakhstan,Slovakia,visa required
 Kazakhstan,Slovenia,visa required
-Kazakhstan,Solomon Islands,visa required
+Kazakhstan,Solomon Islands,covid ban
 Kazakhstan,Somalia,visa on arrival
 Kazakhstan,South Africa,visa required
 Kazakhstan,South Korea,e-visa
@@ -17646,7 +17646,7 @@ Kenya,Oman,e-visa
 Kenya,Pakistan,e-visa
 Kenya,Palau,visa on arrival
 Kenya,Palestine,visa required
-Kenya,Panama,90
+Kenya,Panama,180
 Kenya,Papua New Guinea,e-visa
 Kenya,Paraguay,visa required
 Kenya,Peru,visa required
@@ -17670,7 +17670,7 @@ Kenya,Sierra Leone,visa on arrival
 Kenya,Singapore,30
 Kenya,Slovakia,visa required
 Kenya,Slovenia,visa required
-Kenya,Solomon Islands,visa required
+Kenya,Solomon Islands,covid ban
 Kenya,Somalia,visa on arrival
 Kenya,South Africa,e-visa
 Kenya,South Korea,visa required
@@ -17845,7 +17845,7 @@ Kiribati,Oman,e-visa
 Kiribati,Pakistan,e-visa
 Kiribati,Palau,visa on arrival
 Kiribati,Palestine,visa free
-Kiribati,Panama,90
+Kiribati,Panama,180
 Kiribati,Papua New Guinea,visa on arrival
 Kiribati,Paraguay,visa required
 Kiribati,Peru,180
@@ -17854,7 +17854,7 @@ Kiribati,Poland,90
 Kiribati,Portugal,90
 Kiribati,Qatar,e-visa
 Kiribati,Romania,90
-Kiribati,Russia,visa required
+Kiribati,Russia,covid ban
 Kiribati,Rwanda,visa on arrival
 Kiribati,Saint Kitts and Nevis,90
 Kiribati,Saint Lucia,42
@@ -18053,7 +18053,7 @@ Kosovo,Poland,visa required
 Kosovo,Portugal,visa required
 Kosovo,Qatar,e-visa
 Kosovo,Romania,visa required
-Kosovo,Russia,visa required
+Kosovo,Russia,covid ban
 Kosovo,Rwanda,visa on arrival
 Kosovo,Saint Kitts and Nevis,e-visa
 Kosovo,Saint Lucia,visa required
@@ -18068,7 +18068,7 @@ Kosovo,Sierra Leone,visa on arrival
 Kosovo,Singapore,e-visa
 Kosovo,Slovakia,visa required
 Kosovo,Slovenia,visa required
-Kosovo,Solomon Islands,visa required
+Kosovo,Solomon Islands,covid ban
 Kosovo,Somalia,visa on arrival
 Kosovo,South Africa,visa required
 Kosovo,South Korea,visa required
@@ -18243,7 +18243,7 @@ Kuwait,Oman,90
 Kuwait,Pakistan,e-visa
 Kuwait,Palau,visa on arrival
 Kuwait,Palestine,visa free
-Kuwait,Panama,90
+Kuwait,Panama,180
 Kuwait,Papua New Guinea,visa required
 Kuwait,Paraguay,visa required
 Kuwait,Peru,visa required
@@ -18267,7 +18267,7 @@ Kuwait,Sierra Leone,visa on arrival
 Kuwait,Singapore,30
 Kuwait,Slovakia,visa required
 Kuwait,Slovenia,visa required
-Kuwait,Solomon Islands,visa on arrival
+Kuwait,Solomon Islands,covid ban
 Kuwait,Somalia,visa on arrival
 Kuwait,South Africa,visa required
 Kuwait,South Korea,e-visa
@@ -18466,7 +18466,7 @@ Kyrgyzstan,Sierra Leone,visa on arrival
 Kyrgyzstan,Singapore,e-visa
 Kyrgyzstan,Slovakia,visa required
 Kyrgyzstan,Slovenia,visa required
-Kyrgyzstan,Solomon Islands,visa required
+Kyrgyzstan,Solomon Islands,covid ban
 Kyrgyzstan,Somalia,visa on arrival
 Kyrgyzstan,South Africa,visa required
 Kyrgyzstan,South Korea,visa required
@@ -18650,7 +18650,7 @@ Laos,Poland,visa required
 Laos,Portugal,visa required
 Laos,Qatar,e-visa
 Laos,Romania,visa required
-Laos,Russia,30
+Laos,Russia,covid ban
 Laos,Rwanda,visa on arrival
 Laos,Saint Kitts and Nevis,e-visa
 Laos,Saint Lucia,visa required
@@ -18665,7 +18665,7 @@ Laos,Sierra Leone,visa on arrival
 Laos,Singapore,30
 Laos,Slovakia,visa required
 Laos,Slovenia,visa required
-Laos,Solomon Islands,visa required
+Laos,Solomon Islands,covid ban
 Laos,Somalia,visa on arrival
 Laos,South Africa,visa required
 Laos,South Korea,visa required
@@ -18840,7 +18840,7 @@ Latvia,Oman,visa on arrival
 Latvia,Pakistan,e-visa
 Latvia,Palau,90
 Latvia,Palestine,visa free
-Latvia,Panama,90
+Latvia,Panama,180
 Latvia,Papua New Guinea,visa on arrival
 Latvia,Paraguay,90
 Latvia,Peru,90
@@ -18849,7 +18849,7 @@ Latvia,Poland,visa free
 Latvia,Portugal,visa free
 Latvia,Qatar,90
 Latvia,Romania,visa free
-Latvia,Russia,visa required
+Latvia,Russia,covid ban
 Latvia,Rwanda,visa on arrival
 Latvia,Saint Kitts and Nevis,90
 Latvia,Saint Lucia,90
@@ -18864,7 +18864,7 @@ Latvia,Sierra Leone,visa on arrival
 Latvia,Singapore,90
 Latvia,Slovakia,visa free
 Latvia,Slovenia,visa free
-Latvia,Solomon Islands,90
+Latvia,Solomon Islands,covid ban
 Latvia,Somalia,visa on arrival
 Latvia,South Africa,visa required
 Latvia,South Korea,e-visa
@@ -19063,7 +19063,7 @@ Lebanon,Sierra Leone,visa on arrival
 Lebanon,Singapore,e-visa
 Lebanon,Slovakia,visa required
 Lebanon,Slovenia,visa required
-Lebanon,Solomon Islands,visa required
+Lebanon,Solomon Islands,covid ban
 Lebanon,Somalia,visa on arrival
 Lebanon,South Africa,visa required
 Lebanon,South Korea,visa required
@@ -19262,7 +19262,7 @@ Lesotho,Sierra Leone,visa on arrival
 Lesotho,Singapore,30
 Lesotho,Slovakia,visa required
 Lesotho,Slovenia,visa required
-Lesotho,Solomon Islands,visa required
+Lesotho,Solomon Islands,covid ban
 Lesotho,Somalia,visa on arrival
 Lesotho,South Africa,30
 Lesotho,South Korea,e-visa
@@ -19446,7 +19446,7 @@ Liberia,Poland,visa required
 Liberia,Portugal,visa required
 Liberia,Qatar,e-visa
 Liberia,Romania,visa required
-Liberia,Russia,visa required
+Liberia,Russia,covid ban
 Liberia,Rwanda,visa on arrival
 Liberia,Saint Kitts and Nevis,e-visa
 Liberia,Saint Lucia,visa required
@@ -19461,7 +19461,7 @@ Liberia,Sierra Leone,visa free
 Liberia,Singapore,30
 Liberia,Slovakia,visa required
 Liberia,Slovenia,visa required
-Liberia,Solomon Islands,visa required
+Liberia,Solomon Islands,covid ban
 Liberia,Somalia,visa on arrival
 Liberia,South Africa,visa required
 Liberia,South Korea,visa required
@@ -19645,7 +19645,7 @@ Libya,Poland,visa required
 Libya,Portugal,visa required
 Libya,Qatar,e-visa
 Libya,Romania,visa required
-Libya,Russia,visa required
+Libya,Russia,covid ban
 Libya,Rwanda,visa on arrival
 Libya,Saint Kitts and Nevis,e-visa
 Libya,Saint Lucia,visa required
@@ -19660,7 +19660,7 @@ Libya,Sierra Leone,visa on arrival
 Libya,Singapore,e-visa
 Libya,Slovakia,visa required
 Libya,Slovenia,visa required
-Libya,Solomon Islands,visa required
+Libya,Solomon Islands,covid ban
 Libya,Somalia,visa on arrival
 Libya,South Africa,visa required
 Libya,South Korea,visa required
@@ -19835,7 +19835,7 @@ Liechtenstein,Oman,visa on arrival
 Liechtenstein,Pakistan,e-visa
 Liechtenstein,Palau,visa on arrival
 Liechtenstein,Palestine,visa free
-Liechtenstein,Panama,90
+Liechtenstein,Panama,180
 Liechtenstein,Papua New Guinea,visa on arrival
 Liechtenstein,Paraguay,90
 Liechtenstein,Peru,90
@@ -19859,7 +19859,7 @@ Liechtenstein,Sierra Leone,visa on arrival
 Liechtenstein,Singapore,30
 Liechtenstein,Slovakia,visa free
 Liechtenstein,Slovenia,visa free
-Liechtenstein,Solomon Islands,90
+Liechtenstein,Solomon Islands,covid ban
 Liechtenstein,Somalia,visa on arrival
 Liechtenstein,South Africa,90
 Liechtenstein,South Korea,e-visa
@@ -20034,7 +20034,7 @@ Lithuania,Oman,visa on arrival
 Lithuania,Pakistan,e-visa
 Lithuania,Palau,90
 Lithuania,Palestine,visa free
-Lithuania,Panama,90
+Lithuania,Panama,180
 Lithuania,Papua New Guinea,visa on arrival
 Lithuania,Paraguay,90
 Lithuania,Peru,90
@@ -20043,7 +20043,7 @@ Lithuania,Poland,visa free
 Lithuania,Portugal,visa free
 Lithuania,Qatar,90
 Lithuania,Romania,visa free
-Lithuania,Russia,visa required
+Lithuania,Russia,covid ban
 Lithuania,Rwanda,visa on arrival
 Lithuania,Saint Kitts and Nevis,90
 Lithuania,Saint Lucia,90
@@ -20058,7 +20058,7 @@ Lithuania,Sierra Leone,visa on arrival
 Lithuania,Singapore,90
 Lithuania,Slovakia,visa free
 Lithuania,Slovenia,visa free
-Lithuania,Solomon Islands,90
+Lithuania,Solomon Islands,covid ban
 Lithuania,Somalia,visa on arrival
 Lithuania,South Africa,visa required
 Lithuania,South Korea,e-visa
@@ -20233,7 +20233,7 @@ Luxembourg,Oman,visa on arrival
 Luxembourg,Pakistan,e-visa
 Luxembourg,Palau,90
 Luxembourg,Palestine,visa free
-Luxembourg,Panama,90
+Luxembourg,Panama,180
 Luxembourg,Papua New Guinea,visa on arrival
 Luxembourg,Paraguay,90
 Luxembourg,Peru,90
@@ -20257,7 +20257,7 @@ Luxembourg,Sierra Leone,visa on arrival
 Luxembourg,Singapore,90
 Luxembourg,Slovakia,visa free
 Luxembourg,Slovenia,visa free
-Luxembourg,Solomon Islands,90
+Luxembourg,Solomon Islands,covid ban
 Luxembourg,Somalia,visa on arrival
 Luxembourg,South Africa,90
 Luxembourg,South Korea,e-visa
@@ -20456,7 +20456,7 @@ Macao,Sierra Leone,visa on arrival
 Macao,Singapore,30
 Macao,Slovakia,90
 Macao,Slovenia,90
-Macao,Solomon Islands,visa required
+Macao,Solomon Islands,covid ban
 Macao,Somalia,visa on arrival
 Macao,South Africa,30
 Macao,South Korea,visa required
@@ -20631,7 +20631,7 @@ Madagascar,Oman,e-visa
 Madagascar,Pakistan,e-visa
 Madagascar,Palau,visa on arrival
 Madagascar,Palestine,visa required
-Madagascar,Panama,90
+Madagascar,Panama,180
 Madagascar,Papua New Guinea,visa required
 Madagascar,Paraguay,visa required
 Madagascar,Peru,visa required
@@ -20655,7 +20655,7 @@ Madagascar,Sierra Leone,visa on arrival
 Madagascar,Singapore,30
 Madagascar,Slovakia,visa required
 Madagascar,Slovenia,visa required
-Madagascar,Solomon Islands,visa required
+Madagascar,Solomon Islands,covid ban
 Madagascar,Somalia,visa on arrival
 Madagascar,South Africa,90
 Madagascar,South Korea,visa required
@@ -20839,7 +20839,7 @@ Malawi,Poland,visa required
 Malawi,Portugal,visa required
 Malawi,Qatar,e-visa
 Malawi,Romania,visa required
-Malawi,Russia,visa required
+Malawi,Russia,covid ban
 Malawi,Rwanda,visa on arrival
 Malawi,Saint Kitts and Nevis,90
 Malawi,Saint Lucia,42
@@ -20854,7 +20854,7 @@ Malawi,Sierra Leone,visa on arrival
 Malawi,Singapore,30
 Malawi,Slovakia,visa required
 Malawi,Slovenia,visa required
-Malawi,Solomon Islands,visa required
+Malawi,Solomon Islands,covid ban
 Malawi,Somalia,visa on arrival
 Malawi,South Africa,30
 Malawi,South Korea,visa required
@@ -21029,7 +21029,7 @@ Malaysia,Oman,visa on arrival
 Malaysia,Pakistan,e-visa
 Malaysia,Palau,visa on arrival
 Malaysia,Palestine,visa free
-Malaysia,Panama,90
+Malaysia,Panama,180
 Malaysia,Papua New Guinea,visa on arrival
 Malaysia,Paraguay,visa required
 Malaysia,Peru,180
@@ -21053,7 +21053,7 @@ Malaysia,Sierra Leone,visa on arrival
 Malaysia,Singapore,30
 Malaysia,Slovakia,90
 Malaysia,Slovenia,90
-Malaysia,Solomon Islands,visa on arrival
+Malaysia,Solomon Islands,covid ban
 Malaysia,Somalia,visa on arrival
 Malaysia,South Africa,30
 Malaysia,South Korea,e-visa
@@ -21078,7 +21078,7 @@ Malaysia,Tunisia,90
 Malaysia,Turkey,90
 Malaysia,Turkmenistan,visa required
 Malaysia,Tuvalu,visa on arrival
-Malaysia,Uganda,e-visa
+Malaysia,Uganda,90
 Malaysia,Ukraine,e-visa
 Malaysia,United Arab Emirates,visa on arrival
 Malaysia,United Kingdom,180
@@ -21228,7 +21228,7 @@ Maldives,Oman,e-visa
 Maldives,Pakistan,90
 Maldives,Palau,visa on arrival
 Maldives,Palestine,visa free
-Maldives,Panama,90
+Maldives,Panama,180
 Maldives,Papua New Guinea,visa on arrival
 Maldives,Paraguay,visa required
 Maldives,Peru,visa required
@@ -21252,7 +21252,7 @@ Maldives,Sierra Leone,visa on arrival
 Maldives,Singapore,30
 Maldives,Slovakia,visa required
 Maldives,Slovenia,visa required
-Maldives,Solomon Islands,visa on arrival
+Maldives,Solomon Islands,covid ban
 Maldives,Somalia,visa on arrival
 Maldives,South Africa,30
 Maldives,South Korea,visa required
@@ -21266,7 +21266,7 @@ Maldives,Sweden,visa required
 Maldives,Switzerland,visa required
 Maldives,Syria,visa required
 Maldives,Taiwan,covid ban
-Maldives,Tajikistan,30
+Maldives,Tajikistan,e-visa
 Maldives,Tanzania,visa on arrival
 Maldives,Thailand,30
 Maldives,Timor-Leste,visa on arrival
@@ -21436,7 +21436,7 @@ Mali,Poland,visa required
 Mali,Portugal,visa required
 Mali,Qatar,e-visa
 Mali,Romania,visa required
-Mali,Russia,visa required
+Mali,Russia,covid ban
 Mali,Rwanda,visa on arrival
 Mali,Saint Kitts and Nevis,e-visa
 Mali,Saint Lucia,visa on arrival
@@ -21451,7 +21451,7 @@ Mali,Sierra Leone,visa free
 Mali,Singapore,e-visa
 Mali,Slovakia,visa required
 Mali,Slovenia,visa required
-Mali,Solomon Islands,visa required
+Mali,Solomon Islands,covid ban
 Mali,Somalia,visa on arrival
 Mali,South Africa,visa required
 Mali,South Korea,visa required
@@ -21626,7 +21626,7 @@ Malta,Oman,visa on arrival
 Malta,Pakistan,e-visa
 Malta,Palau,90
 Malta,Palestine,visa free
-Malta,Panama,90
+Malta,Panama,180
 Malta,Papua New Guinea,visa on arrival
 Malta,Paraguay,90
 Malta,Peru,90
@@ -21650,7 +21650,7 @@ Malta,Sierra Leone,visa on arrival
 Malta,Singapore,90
 Malta,Slovakia,visa free
 Malta,Slovenia,visa free
-Malta,Solomon Islands,90
+Malta,Solomon Islands,covid ban
 Malta,Somalia,visa on arrival
 Malta,South Africa,90
 Malta,South Korea,e-visa
@@ -21825,7 +21825,7 @@ Marshall Islands,Oman,e-visa
 Marshall Islands,Pakistan,e-visa
 Marshall Islands,Palau,360
 Marshall Islands,Palestine,visa free
-Marshall Islands,Panama,90
+Marshall Islands,Panama,180
 Marshall Islands,Papua New Guinea,visa on arrival
 Marshall Islands,Paraguay,visa required
 Marshall Islands,Peru,180
@@ -21834,7 +21834,7 @@ Marshall Islands,Poland,90
 Marshall Islands,Portugal,90
 Marshall Islands,Qatar,e-visa
 Marshall Islands,Romania,90
-Marshall Islands,Russia,visa required
+Marshall Islands,Russia,covid ban
 Marshall Islands,Rwanda,visa on arrival
 Marshall Islands,Saint Kitts and Nevis,e-visa
 Marshall Islands,Saint Lucia,42
@@ -21849,7 +21849,7 @@ Marshall Islands,Sierra Leone,visa on arrival
 Marshall Islands,Singapore,30
 Marshall Islands,Slovakia,90
 Marshall Islands,Slovenia,90
-Marshall Islands,Solomon Islands,visa on arrival
+Marshall Islands,Solomon Islands,covid ban
 Marshall Islands,Somalia,visa on arrival
 Marshall Islands,South Africa,visa required
 Marshall Islands,South Korea,e-visa
@@ -22033,7 +22033,7 @@ Mauritania,Poland,visa required
 Mauritania,Portugal,visa required
 Mauritania,Qatar,e-visa
 Mauritania,Romania,visa required
-Mauritania,Russia,visa required
+Mauritania,Russia,covid ban
 Mauritania,Rwanda,visa on arrival
 Mauritania,Saint Kitts and Nevis,e-visa
 Mauritania,Saint Lucia,visa on arrival
@@ -22048,7 +22048,7 @@ Mauritania,Sierra Leone,90
 Mauritania,Singapore,30
 Mauritania,Slovakia,visa required
 Mauritania,Slovenia,visa required
-Mauritania,Solomon Islands,visa required
+Mauritania,Solomon Islands,covid ban
 Mauritania,Somalia,visa on arrival
 Mauritania,South Africa,visa required
 Mauritania,South Korea,visa required
@@ -22223,7 +22223,7 @@ Mauritius,Oman,e-visa
 Mauritius,Pakistan,e-visa
 Mauritius,Palau,visa on arrival
 Mauritius,Palestine,visa free
-Mauritius,Panama,90
+Mauritius,Panama,180
 Mauritius,Papua New Guinea,e-visa
 Mauritius,Paraguay,visa required
 Mauritius,Peru,visa required
@@ -22247,7 +22247,7 @@ Mauritius,Sierra Leone,visa on arrival
 Mauritius,Singapore,30
 Mauritius,Slovakia,90
 Mauritius,Slovenia,90
-Mauritius,Solomon Islands,visa required
+Mauritius,Solomon Islands,covid ban
 Mauritius,Somalia,visa on arrival
 Mauritius,South Africa,30
 Mauritius,South Korea,e-visa
@@ -22422,7 +22422,7 @@ Mexico,Oman,e-visa
 Mexico,Pakistan,e-visa
 Mexico,Palau,visa on arrival
 Mexico,Palestine,visa free
-Mexico,Panama,90
+Mexico,Panama,180
 Mexico,Papua New Guinea,visa on arrival
 Mexico,Paraguay,90
 Mexico,Peru,180
@@ -22446,7 +22446,7 @@ Mexico,Sierra Leone,visa on arrival
 Mexico,Singapore,30
 Mexico,Slovakia,90
 Mexico,Slovenia,90
-Mexico,Solomon Islands,visa required
+Mexico,Solomon Islands,covid ban
 Mexico,Somalia,visa on arrival
 Mexico,South Africa,e-visa
 Mexico,South Korea,e-visa
@@ -22621,7 +22621,7 @@ Micronesia,Oman,e-visa
 Micronesia,Pakistan,e-visa
 Micronesia,Palau,360
 Micronesia,Palestine,visa free
-Micronesia,Panama,90
+Micronesia,Panama,180
 Micronesia,Papua New Guinea,visa on arrival
 Micronesia,Paraguay,visa required
 Micronesia,Peru,180
@@ -22630,7 +22630,7 @@ Micronesia,Poland,90
 Micronesia,Portugal,90
 Micronesia,Qatar,e-visa
 Micronesia,Romania,90
-Micronesia,Russia,visa required
+Micronesia,Russia,covid ban
 Micronesia,Rwanda,visa on arrival
 Micronesia,Saint Kitts and Nevis,e-visa
 Micronesia,Saint Lucia,42
@@ -22645,7 +22645,7 @@ Micronesia,Sierra Leone,visa on arrival
 Micronesia,Singapore,30
 Micronesia,Slovakia,90
 Micronesia,Slovenia,90
-Micronesia,Solomon Islands,visa on arrival
+Micronesia,Solomon Islands,covid ban
 Micronesia,Somalia,visa on arrival
 Micronesia,South Africa,visa required
 Micronesia,South Korea,visa required
@@ -22820,7 +22820,7 @@ Moldova,Oman,visa on arrival
 Moldova,Pakistan,e-visa
 Moldova,Palau,visa on arrival
 Moldova,Palestine,visa free
-Moldova,Panama,90
+Moldova,Panama,180
 Moldova,Papua New Guinea,visa required
 Moldova,Paraguay,visa required
 Moldova,Peru,180
@@ -22844,7 +22844,7 @@ Moldova,Sierra Leone,visa on arrival
 Moldova,Singapore,e-visa
 Moldova,Slovakia,90
 Moldova,Slovenia,90
-Moldova,Solomon Islands,visa required
+Moldova,Solomon Islands,covid ban
 Moldova,Somalia,visa on arrival
 Moldova,South Africa,visa required
 Moldova,South Korea,visa required
@@ -23019,7 +23019,7 @@ Monaco,Oman,visa on arrival
 Monaco,Pakistan,e-visa
 Monaco,Palau,visa on arrival
 Monaco,Palestine,visa free
-Monaco,Panama,90
+Monaco,Panama,180
 Monaco,Papua New Guinea,visa on arrival
 Monaco,Paraguay,90
 Monaco,Peru,180
@@ -23028,7 +23028,7 @@ Monaco,Poland,90
 Monaco,Portugal,90
 Monaco,Qatar,30
 Monaco,Romania,90
-Monaco,Russia,visa required
+Monaco,Russia,covid ban
 Monaco,Rwanda,visa on arrival
 Monaco,Saint Kitts and Nevis,90
 Monaco,Saint Lucia,42
@@ -23043,7 +23043,7 @@ Monaco,Sierra Leone,visa on arrival
 Monaco,Singapore,30
 Monaco,Slovakia,90
 Monaco,Slovenia,90
-Monaco,Solomon Islands,visa on arrival
+Monaco,Solomon Islands,covid ban
 Monaco,Somalia,visa on arrival
 Monaco,South Africa,90
 Monaco,South Korea,e-visa
@@ -23218,10 +23218,10 @@ Mongolia,Oman,e-visa
 Mongolia,Pakistan,e-visa
 Mongolia,Palau,visa on arrival
 Mongolia,Palestine,visa free
-Mongolia,Panama,90
+Mongolia,Panama,180
 Mongolia,Papua New Guinea,visa required
 Mongolia,Paraguay,visa required
-Mongolia,Peru,90
+Mongolia,Peru,visa required
 Mongolia,Philippines,30
 Mongolia,Poland,visa required
 Mongolia,Portugal,visa required
@@ -23242,10 +23242,10 @@ Mongolia,Sierra Leone,visa on arrival
 Mongolia,Singapore,30
 Mongolia,Slovakia,visa required
 Mongolia,Slovenia,visa required
-Mongolia,Solomon Islands,visa required
+Mongolia,Solomon Islands,covid ban
 Mongolia,Somalia,visa on arrival
 Mongolia,South Africa,visa required
-Mongolia,South Korea,e-visa
+Mongolia,South Korea,visa required
 Mongolia,South Sudan,e-visa
 Mongolia,Spain,visa required
 Mongolia,Sri Lanka,e-visa
@@ -23417,7 +23417,7 @@ Montenegro,Oman,visa on arrival
 Montenegro,Pakistan,e-visa
 Montenegro,Palau,visa on arrival
 Montenegro,Palestine,visa free
-Montenegro,Panama,90
+Montenegro,Panama,180
 Montenegro,Papua New Guinea,visa required
 Montenegro,Paraguay,visa required
 Montenegro,Peru,90
@@ -23426,7 +23426,7 @@ Montenegro,Poland,90
 Montenegro,Portugal,90
 Montenegro,Qatar,visa on arrival
 Montenegro,Romania,90
-Montenegro,Russia,30
+Montenegro,Russia,covid ban
 Montenegro,Rwanda,visa on arrival
 Montenegro,Saint Kitts and Nevis,e-visa
 Montenegro,Saint Lucia,42
@@ -23441,7 +23441,7 @@ Montenegro,Sierra Leone,visa on arrival
 Montenegro,Singapore,30
 Montenegro,Slovakia,90
 Montenegro,Slovenia,90
-Montenegro,Solomon Islands,visa required
+Montenegro,Solomon Islands,covid ban
 Montenegro,Somalia,visa on arrival
 Montenegro,South Africa,visa required
 Montenegro,South Korea,e-visa
@@ -23640,7 +23640,7 @@ Morocco,Sierra Leone,visa on arrival
 Morocco,Singapore,e-visa
 Morocco,Slovakia,visa required
 Morocco,Slovenia,visa required
-Morocco,Solomon Islands,visa required
+Morocco,Solomon Islands,covid ban
 Morocco,Somalia,visa on arrival
 Morocco,South Africa,visa required
 Morocco,South Korea,e-visa
@@ -23839,7 +23839,7 @@ Mozambique,Sierra Leone,visa on arrival
 Mozambique,Singapore,30
 Mozambique,Slovakia,visa required
 Mozambique,Slovenia,visa required
-Mozambique,Solomon Islands,visa required
+Mozambique,Solomon Islands,covid ban
 Mozambique,Somalia,visa on arrival
 Mozambique,South Africa,30
 Mozambique,South Korea,visa required
@@ -24038,7 +24038,7 @@ Myanmar,Sierra Leone,visa on arrival
 Myanmar,Singapore,30
 Myanmar,Slovakia,visa required
 Myanmar,Slovenia,visa required
-Myanmar,Solomon Islands,visa required
+Myanmar,Solomon Islands,covid ban
 Myanmar,Somalia,visa on arrival
 Myanmar,South Africa,visa required
 Myanmar,South Korea,visa required
@@ -24213,7 +24213,7 @@ Namibia,Oman,e-visa
 Namibia,Pakistan,e-visa
 Namibia,Palau,visa on arrival
 Namibia,Palestine,visa required
-Namibia,Panama,90
+Namibia,Panama,180
 Namibia,Papua New Guinea,e-visa
 Namibia,Paraguay,visa required
 Namibia,Peru,visa required
@@ -24237,7 +24237,7 @@ Namibia,Sierra Leone,visa on arrival
 Namibia,Singapore,30
 Namibia,Slovakia,visa required
 Namibia,Slovenia,visa required
-Namibia,Solomon Islands,visa required
+Namibia,Solomon Islands,covid ban
 Namibia,Somalia,visa on arrival
 Namibia,South Africa,90
 Namibia,South Korea,visa required
@@ -24412,7 +24412,7 @@ Nauru,Oman,e-visa
 Nauru,Pakistan,e-visa
 Nauru,Palau,visa on arrival
 Nauru,Palestine,visa free
-Nauru,Panama,90
+Nauru,Panama,180
 Nauru,Papua New Guinea,visa on arrival
 Nauru,Paraguay,visa required
 Nauru,Peru,180
@@ -24421,7 +24421,7 @@ Nauru,Poland,visa required
 Nauru,Portugal,visa required
 Nauru,Qatar,e-visa
 Nauru,Romania,visa required
-Nauru,Russia,14
+Nauru,Russia,covid ban
 Nauru,Rwanda,visa on arrival
 Nauru,Saint Kitts and Nevis,90
 Nauru,Saint Lucia,42
@@ -24436,7 +24436,7 @@ Nauru,Sierra Leone,visa on arrival
 Nauru,Singapore,30
 Nauru,Slovakia,visa required
 Nauru,Slovenia,visa required
-Nauru,Solomon Islands,visa on arrival
+Nauru,Solomon Islands,covid ban
 Nauru,Somalia,visa on arrival
 Nauru,South Africa,visa required
 Nauru,South Korea,e-visa
@@ -24620,7 +24620,7 @@ Nepal,Poland,visa required
 Nepal,Portugal,visa required
 Nepal,Qatar,e-visa
 Nepal,Romania,visa required
-Nepal,Russia,visa required
+Nepal,Russia,covid ban
 Nepal,Rwanda,visa on arrival
 Nepal,Saint Kitts and Nevis,e-visa
 Nepal,Saint Lucia,visa required
@@ -24635,7 +24635,7 @@ Nepal,Sierra Leone,visa on arrival
 Nepal,Singapore,30
 Nepal,Slovakia,visa required
 Nepal,Slovenia,visa required
-Nepal,Solomon Islands,visa required
+Nepal,Solomon Islands,covid ban
 Nepal,Somalia,visa on arrival
 Nepal,South Africa,visa required
 Nepal,South Korea,visa required
@@ -24810,7 +24810,7 @@ Netherlands,Oman,visa on arrival
 Netherlands,Pakistan,e-visa
 Netherlands,Palau,90
 Netherlands,Palestine,visa free
-Netherlands,Panama,90
+Netherlands,Panama,180
 Netherlands,Papua New Guinea,visa on arrival
 Netherlands,Paraguay,90
 Netherlands,Peru,90
@@ -24834,7 +24834,7 @@ Netherlands,Sierra Leone,visa on arrival
 Netherlands,Singapore,90
 Netherlands,Slovakia,visa free
 Netherlands,Slovenia,visa free
-Netherlands,Solomon Islands,90
+Netherlands,Solomon Islands,covid ban
 Netherlands,Somalia,visa on arrival
 Netherlands,South Africa,90
 Netherlands,South Korea,e-visa
@@ -25009,7 +25009,7 @@ New Zealand,Oman,visa on arrival
 New Zealand,Pakistan,e-visa
 New Zealand,Palau,visa on arrival
 New Zealand,Palestine,visa free
-New Zealand,Panama,90
+New Zealand,Panama,180
 New Zealand,Papua New Guinea,visa on arrival
 New Zealand,Paraguay,90
 New Zealand,Peru,180
@@ -25217,7 +25217,7 @@ Nicaragua,Poland,90
 Nicaragua,Portugal,90
 Nicaragua,Qatar,e-visa
 Nicaragua,Romania,90
-Nicaragua,Russia,90
+Nicaragua,Russia,covid ban
 Nicaragua,Rwanda,visa on arrival
 Nicaragua,Saint Kitts and Nevis,90
 Nicaragua,Saint Lucia,visa on arrival
@@ -25232,7 +25232,7 @@ Nicaragua,Sierra Leone,visa on arrival
 Nicaragua,Singapore,30
 Nicaragua,Slovakia,90
 Nicaragua,Slovenia,90
-Nicaragua,Solomon Islands,visa required
+Nicaragua,Solomon Islands,covid ban
 Nicaragua,Somalia,visa on arrival
 Nicaragua,South Africa,visa required
 Nicaragua,South Korea,e-visa
@@ -25416,7 +25416,7 @@ Niger,Poland,visa required
 Niger,Portugal,visa required
 Niger,Qatar,e-visa
 Niger,Romania,visa required
-Niger,Russia,visa required
+Niger,Russia,covid ban
 Niger,Rwanda,visa on arrival
 Niger,Saint Kitts and Nevis,e-visa
 Niger,Saint Lucia,visa required
@@ -25431,7 +25431,7 @@ Niger,Sierra Leone,visa free
 Niger,Singapore,30
 Niger,Slovakia,visa required
 Niger,Slovenia,visa required
-Niger,Solomon Islands,visa required
+Niger,Solomon Islands,covid ban
 Niger,Somalia,visa on arrival
 Niger,South Africa,visa required
 Niger,South Korea,visa required
@@ -25615,7 +25615,7 @@ Nigeria,Poland,visa required
 Nigeria,Portugal,visa required
 Nigeria,Qatar,e-visa
 Nigeria,Romania,visa required
-Nigeria,Russia,visa required
+Nigeria,Russia,covid ban
 Nigeria,Rwanda,visa on arrival
 Nigeria,Saint Kitts and Nevis,90
 Nigeria,Saint Lucia,visa required
@@ -25630,7 +25630,7 @@ Nigeria,Sierra Leone,visa free
 Nigeria,Singapore,e-visa
 Nigeria,Slovakia,visa required
 Nigeria,Slovenia,visa required
-Nigeria,Solomon Islands,visa required
+Nigeria,Solomon Islands,covid ban
 Nigeria,Somalia,visa on arrival
 Nigeria,South Africa,e-visa
 Nigeria,South Korea,visa required
@@ -25814,7 +25814,7 @@ North Korea,Poland,visa required
 North Korea,Portugal,visa required
 North Korea,Qatar,e-visa
 North Korea,Romania,visa required
-North Korea,Russia,visa required
+North Korea,Russia,covid ban
 North Korea,Rwanda,visa on arrival
 North Korea,Saint Kitts and Nevis,e-visa
 North Korea,Saint Lucia,visa required
@@ -25829,7 +25829,7 @@ North Korea,Sierra Leone,visa on arrival
 North Korea,Singapore,e-visa
 North Korea,Slovakia,visa required
 North Korea,Slovenia,visa required
-North Korea,Solomon Islands,visa required
+North Korea,Solomon Islands,covid ban
 North Korea,Somalia,visa on arrival
 North Korea,South Africa,visa required
 North Korea,South Korea,visa required
@@ -26004,7 +26004,7 @@ North Macedonia,Oman,visa on arrival
 North Macedonia,Pakistan,e-visa
 North Macedonia,Palau,visa on arrival
 North Macedonia,Palestine,visa free
-North Macedonia,Panama,90
+North Macedonia,Panama,180
 North Macedonia,Papua New Guinea,visa required
 North Macedonia,Paraguay,visa required
 North Macedonia,Peru,180
@@ -26028,7 +26028,7 @@ North Macedonia,Sierra Leone,visa on arrival
 North Macedonia,Singapore,30
 North Macedonia,Slovakia,90
 North Macedonia,Slovenia,90
-North Macedonia,Solomon Islands,visa required
+North Macedonia,Solomon Islands,covid ban
 North Macedonia,Somalia,visa on arrival
 North Macedonia,South Africa,visa required
 North Macedonia,South Korea,visa required
@@ -26203,7 +26203,7 @@ Norway,Oman,visa on arrival
 Norway,Pakistan,e-visa
 Norway,Palau,visa on arrival
 Norway,Palestine,visa free
-Norway,Panama,90
+Norway,Panama,180
 Norway,Papua New Guinea,visa on arrival
 Norway,Paraguay,90
 Norway,Peru,90
@@ -26227,7 +26227,7 @@ Norway,Sierra Leone,visa on arrival
 Norway,Singapore,90
 Norway,Slovakia,visa free
 Norway,Slovenia,visa free
-Norway,Solomon Islands,90
+Norway,Solomon Islands,covid ban
 Norway,Somalia,visa on arrival
 Norway,South Africa,90
 Norway,South Korea,e-visa
@@ -26426,7 +26426,7 @@ Oman,Sierra Leone,visa on arrival
 Oman,Singapore,30
 Oman,Slovakia,visa required
 Oman,Slovenia,visa required
-Oman,Solomon Islands,visa required
+Oman,Solomon Islands,covid ban
 Oman,Somalia,visa on arrival
 Oman,South Africa,visa required
 Oman,South Korea,e-visa
@@ -26625,7 +26625,7 @@ Pakistan,Sierra Leone,visa on arrival
 Pakistan,Singapore,e-visa
 Pakistan,Slovakia,visa required
 Pakistan,Slovenia,visa required
-Pakistan,Solomon Islands,visa required
+Pakistan,Solomon Islands,covid ban
 Pakistan,Somalia,visa on arrival
 Pakistan,South Africa,e-visa
 Pakistan,South Korea,visa required
@@ -26800,7 +26800,7 @@ Palau,Oman,e-visa
 Palau,Pakistan,e-visa
 Palau,Palau,-1
 Palau,Palestine,visa free
-Palau,Panama,90
+Palau,Panama,180
 Palau,Papua New Guinea,visa on arrival
 Palau,Paraguay,visa required
 Palau,Peru,180
@@ -26809,7 +26809,7 @@ Palau,Poland,90
 Palau,Portugal,90
 Palau,Qatar,e-visa
 Palau,Romania,90
-Palau,Russia,30
+Palau,Russia,covid ban
 Palau,Rwanda,visa on arrival
 Palau,Saint Kitts and Nevis,e-visa
 Palau,Saint Lucia,visa on arrival
@@ -26824,7 +26824,7 @@ Palau,Sierra Leone,visa on arrival
 Palau,Singapore,30
 Palau,Slovakia,90
 Palau,Slovenia,90
-Palau,Solomon Islands,visa on arrival
+Palau,Solomon Islands,covid ban
 Palau,Somalia,visa on arrival
 Palau,South Africa,visa required
 Palau,South Korea,e-visa
@@ -27008,7 +27008,7 @@ Palestine,Poland,visa required
 Palestine,Portugal,visa required
 Palestine,Qatar,e-visa
 Palestine,Romania,visa required
-Palestine,Russia,visa required
+Palestine,Russia,covid ban
 Palestine,Rwanda,visa on arrival
 Palestine,Saint Kitts and Nevis,e-visa
 Palestine,Saint Lucia,visa required
@@ -27023,14 +27023,14 @@ Palestine,Sierra Leone,visa on arrival
 Palestine,Singapore,e-visa
 Palestine,Slovakia,visa required
 Palestine,Slovenia,visa required
-Palestine,Solomon Islands,visa required
+Palestine,Solomon Islands,covid ban
 Palestine,Somalia,visa on arrival
 Palestine,South Africa,visa required
 Palestine,South Korea,visa required
 Palestine,South Sudan,e-visa
 Palestine,Spain,visa required
 Palestine,Sri Lanka,e-visa
-Palestine,Saint Vincent and the Grenadines,visa required
+Palestine,Saint Vincent and the Grenadines,30
 Palestine,Sudan,visa required
 Palestine,Suriname,e-visa
 Palestine,Sweden,visa required
@@ -27207,7 +27207,7 @@ Panama,Poland,90
 Panama,Portugal,90
 Panama,Qatar,30
 Panama,Romania,90
-Panama,Russia,90
+Panama,Russia,covid ban
 Panama,Rwanda,visa on arrival
 Panama,Saint Kitts and Nevis,90
 Panama,Saint Lucia,42
@@ -27222,7 +27222,7 @@ Panama,Sierra Leone,visa on arrival
 Panama,Singapore,30
 Panama,Slovakia,90
 Panama,Slovenia,90
-Panama,Solomon Islands,visa required
+Panama,Solomon Islands,covid ban
 Panama,Somalia,visa on arrival
 Panama,South Africa,90
 Panama,South Korea,e-visa
@@ -27397,7 +27397,7 @@ Papua New Guinea,Oman,e-visa
 Papua New Guinea,Pakistan,e-visa
 Papua New Guinea,Palau,visa on arrival
 Papua New Guinea,Palestine,visa free
-Papua New Guinea,Panama,90
+Papua New Guinea,Panama,180
 Papua New Guinea,Papua New Guinea,-1
 Papua New Guinea,Paraguay,visa required
 Papua New Guinea,Peru,180
@@ -27406,7 +27406,7 @@ Papua New Guinea,Poland,visa required
 Papua New Guinea,Portugal,visa required
 Papua New Guinea,Qatar,e-visa
 Papua New Guinea,Romania,visa required
-Papua New Guinea,Russia,visa required
+Papua New Guinea,Russia,covid ban
 Papua New Guinea,Rwanda,visa on arrival
 Papua New Guinea,Saint Kitts and Nevis,90
 Papua New Guinea,Saint Lucia,visa on arrival
@@ -27421,7 +27421,7 @@ Papua New Guinea,Sierra Leone,visa on arrival
 Papua New Guinea,Singapore,30
 Papua New Guinea,Slovakia,visa required
 Papua New Guinea,Slovenia,visa required
-Papua New Guinea,Solomon Islands,visa on arrival
+Papua New Guinea,Solomon Islands,covid ban
 Papua New Guinea,Somalia,visa on arrival
 Papua New Guinea,South Africa,visa required
 Papua New Guinea,South Korea,visa required
@@ -27596,7 +27596,7 @@ Paraguay,Oman,visa on arrival
 Paraguay,Pakistan,e-visa
 Paraguay,Palau,visa on arrival
 Paraguay,Palestine,visa free
-Paraguay,Panama,90
+Paraguay,Panama,180
 Paraguay,Papua New Guinea,visa required
 Paraguay,Paraguay,-1
 Paraguay,Peru,180
@@ -27605,7 +27605,7 @@ Paraguay,Poland,90
 Paraguay,Portugal,90
 Paraguay,Qatar,30
 Paraguay,Romania,90
-Paraguay,Russia,90
+Paraguay,Russia,covid ban
 Paraguay,Rwanda,visa on arrival
 Paraguay,Saint Kitts and Nevis,90
 Paraguay,Saint Lucia,visa on arrival
@@ -27620,7 +27620,7 @@ Paraguay,Sierra Leone,visa on arrival
 Paraguay,Singapore,30
 Paraguay,Slovakia,90
 Paraguay,Slovenia,90
-Paraguay,Solomon Islands,visa required
+Paraguay,Solomon Islands,covid ban
 Paraguay,Somalia,visa on arrival
 Paraguay,South Africa,90
 Paraguay,South Korea,e-visa
@@ -27795,7 +27795,7 @@ Peru,Oman,visa on arrival
 Peru,Pakistan,e-visa
 Peru,Palau,visa on arrival
 Peru,Palestine,visa free
-Peru,Panama,90
+Peru,Panama,180
 Peru,Papua New Guinea,visa on arrival
 Peru,Paraguay,90
 Peru,Peru,-1
@@ -27819,7 +27819,7 @@ Peru,Sierra Leone,visa on arrival
 Peru,Singapore,30
 Peru,Slovakia,90
 Peru,Slovenia,90
-Peru,Solomon Islands,visa required
+Peru,Solomon Islands,covid ban
 Peru,Somalia,visa on arrival
 Peru,South Africa,30
 Peru,South Korea,e-visa
@@ -28018,7 +28018,7 @@ Philippines,Sierra Leone,visa on arrival
 Philippines,Singapore,30
 Philippines,Slovakia,visa required
 Philippines,Slovenia,visa required
-Philippines,Solomon Islands,visa required
+Philippines,Solomon Islands,covid ban
 Philippines,Somalia,visa on arrival
 Philippines,South Africa,e-visa
 Philippines,South Korea,visa required
@@ -28193,7 +28193,7 @@ Poland,Oman,visa on arrival
 Poland,Pakistan,e-visa
 Poland,Palau,90
 Poland,Palestine,visa free
-Poland,Panama,90
+Poland,Panama,180
 Poland,Papua New Guinea,visa on arrival
 Poland,Paraguay,90
 Poland,Peru,90
@@ -28202,7 +28202,7 @@ Poland,Poland,-1
 Poland,Portugal,visa free
 Poland,Qatar,90
 Poland,Romania,visa free
-Poland,Russia,visa required
+Poland,Russia,covid ban
 Poland,Rwanda,visa on arrival
 Poland,Saint Kitts and Nevis,90
 Poland,Saint Lucia,90
@@ -28217,7 +28217,7 @@ Poland,Sierra Leone,visa on arrival
 Poland,Singapore,90
 Poland,Slovakia,visa free
 Poland,Slovenia,visa free
-Poland,Solomon Islands,90
+Poland,Solomon Islands,covid ban
 Poland,Somalia,visa on arrival
 Poland,South Africa,30
 Poland,South Korea,e-visa
@@ -28392,7 +28392,7 @@ Portugal,Oman,visa on arrival
 Portugal,Pakistan,e-visa
 Portugal,Palau,90
 Portugal,Palestine,visa free
-Portugal,Panama,90
+Portugal,Panama,180
 Portugal,Papua New Guinea,visa on arrival
 Portugal,Paraguay,90
 Portugal,Peru,90
@@ -28416,7 +28416,7 @@ Portugal,Sierra Leone,visa on arrival
 Portugal,Singapore,90
 Portugal,Slovakia,visa free
 Portugal,Slovenia,visa free
-Portugal,Solomon Islands,90
+Portugal,Solomon Islands,covid ban
 Portugal,Somalia,visa on arrival
 Portugal,South Africa,90
 Portugal,South Korea,e-visa
@@ -28591,7 +28591,7 @@ Qatar,Oman,90
 Qatar,Pakistan,e-visa
 Qatar,Palau,visa on arrival
 Qatar,Palestine,visa free
-Qatar,Panama,90
+Qatar,Panama,180
 Qatar,Papua New Guinea,visa required
 Qatar,Paraguay,visa on arrival
 Qatar,Peru,visa required
@@ -28615,7 +28615,7 @@ Qatar,Sierra Leone,visa on arrival
 Qatar,Singapore,30
 Qatar,Slovakia,visa required
 Qatar,Slovenia,visa required
-Qatar,Solomon Islands,visa required
+Qatar,Solomon Islands,covid ban
 Qatar,Somalia,visa on arrival
 Qatar,South Africa,90
 Qatar,South Korea,e-visa
@@ -28790,7 +28790,7 @@ Romania,Oman,visa on arrival
 Romania,Pakistan,e-visa
 Romania,Palau,90
 Romania,Palestine,visa free
-Romania,Panama,90
+Romania,Panama,180
 Romania,Papua New Guinea,visa on arrival
 Romania,Paraguay,90
 Romania,Peru,90
@@ -28799,7 +28799,7 @@ Romania,Poland,visa free
 Romania,Portugal,visa free
 Romania,Qatar,90
 Romania,Romania,-1
-Romania,Russia,visa required
+Romania,Russia,covid ban
 Romania,Rwanda,visa on arrival
 Romania,Saint Kitts and Nevis,90
 Romania,Saint Lucia,90
@@ -28814,7 +28814,7 @@ Romania,Sierra Leone,visa on arrival
 Romania,Singapore,90
 Romania,Slovakia,visa free
 Romania,Slovenia,visa free
-Romania,Solomon Islands,90
+Romania,Solomon Islands,covid ban
 Romania,Somalia,visa on arrival
 Romania,South Africa,visa required
 Romania,South Korea,e-visa
@@ -29013,7 +29013,7 @@ Russia,Sierra Leone,visa on arrival
 Russia,Singapore,e-visa
 Russia,Slovakia,visa required
 Russia,Slovenia,visa required
-Russia,Solomon Islands,visa required
+Russia,Solomon Islands,covid ban
 Russia,Somalia,visa on arrival
 Russia,South Africa,90
 Russia,South Korea,e-visa
@@ -29039,7 +29039,7 @@ Russia,Turkey,60
 Russia,Turkmenistan,visa required
 Russia,Tuvalu,visa on arrival
 Russia,Uganda,e-visa
-Russia,Ukraine,visa required
+Russia,Ukraine,visa free
 Russia,United Arab Emirates,90
 Russia,United Kingdom,visa required
 Russia,United States,visa required
@@ -29197,7 +29197,7 @@ Rwanda,Poland,visa required
 Rwanda,Portugal,visa required
 Rwanda,Qatar,visa on arrival
 Rwanda,Romania,visa required
-Rwanda,Russia,visa required
+Rwanda,Russia,covid ban
 Rwanda,Rwanda,-1
 Rwanda,Saint Kitts and Nevis,e-visa
 Rwanda,Saint Lucia,visa required
@@ -29212,7 +29212,7 @@ Rwanda,Sierra Leone,visa on arrival
 Rwanda,Singapore,30
 Rwanda,Slovakia,visa required
 Rwanda,Slovenia,visa required
-Rwanda,Solomon Islands,visa required
+Rwanda,Solomon Islands,covid ban
 Rwanda,Somalia,visa on arrival
 Rwanda,South Africa,visa required
 Rwanda,South Korea,visa required
@@ -29387,7 +29387,7 @@ Saint Kitts and Nevis,Oman,e-visa
 Saint Kitts and Nevis,Pakistan,e-visa
 Saint Kitts and Nevis,Palau,visa on arrival
 Saint Kitts and Nevis,Palestine,visa free
-Saint Kitts and Nevis,Panama,90
+Saint Kitts and Nevis,Panama,180
 Saint Kitts and Nevis,Papua New Guinea,e-visa
 Saint Kitts and Nevis,Paraguay,visa required
 Saint Kitts and Nevis,Peru,180
@@ -29396,7 +29396,7 @@ Saint Kitts and Nevis,Poland,90
 Saint Kitts and Nevis,Portugal,90
 Saint Kitts and Nevis,Qatar,e-visa
 Saint Kitts and Nevis,Romania,90
-Saint Kitts and Nevis,Russia,90
+Saint Kitts and Nevis,Russia,covid ban
 Saint Kitts and Nevis,Rwanda,90
 Saint Kitts and Nevis,Saint Kitts and Nevis,-1
 Saint Kitts and Nevis,Saint Lucia,visa free
@@ -29411,7 +29411,7 @@ Saint Kitts and Nevis,Sierra Leone,visa on arrival
 Saint Kitts and Nevis,Singapore,30
 Saint Kitts and Nevis,Slovakia,90
 Saint Kitts and Nevis,Slovenia,90
-Saint Kitts and Nevis,Solomon Islands,visa on arrival
+Saint Kitts and Nevis,Solomon Islands,covid ban
 Saint Kitts and Nevis,Somalia,visa on arrival
 Saint Kitts and Nevis,South Africa,visa required
 Saint Kitts and Nevis,South Korea,e-visa
@@ -29420,7 +29420,7 @@ Saint Kitts and Nevis,Spain,90
 Saint Kitts and Nevis,Sri Lanka,e-visa
 Saint Kitts and Nevis,Saint Vincent and the Grenadines,visa free
 Saint Kitts and Nevis,Sudan,visa required
-Saint Kitts and Nevis,Suriname,180
+Saint Kitts and Nevis,Suriname,90
 Saint Kitts and Nevis,Sweden,90
 Saint Kitts and Nevis,Switzerland,90
 Saint Kitts and Nevis,Syria,visa required
@@ -29586,7 +29586,7 @@ Saint Lucia,Oman,e-visa
 Saint Lucia,Pakistan,e-visa
 Saint Lucia,Palau,visa on arrival
 Saint Lucia,Palestine,visa free
-Saint Lucia,Panama,90
+Saint Lucia,Panama,180
 Saint Lucia,Papua New Guinea,e-visa
 Saint Lucia,Paraguay,visa required
 Saint Lucia,Peru,180
@@ -29595,7 +29595,7 @@ Saint Lucia,Poland,90
 Saint Lucia,Portugal,90
 Saint Lucia,Qatar,e-visa
 Saint Lucia,Romania,90
-Saint Lucia,Russia,visa required
+Saint Lucia,Russia,covid ban
 Saint Lucia,Rwanda,visa on arrival
 Saint Lucia,Saint Kitts and Nevis,visa free
 Saint Lucia,Saint Lucia,-1
@@ -29610,7 +29610,7 @@ Saint Lucia,Sierra Leone,visa on arrival
 Saint Lucia,Singapore,30
 Saint Lucia,Slovakia,90
 Saint Lucia,Slovenia,90
-Saint Lucia,Solomon Islands,visa on arrival
+Saint Lucia,Solomon Islands,covid ban
 Saint Lucia,Somalia,visa on arrival
 Saint Lucia,South Africa,visa required
 Saint Lucia,South Korea,e-visa
@@ -29619,7 +29619,7 @@ Saint Lucia,Spain,90
 Saint Lucia,Sri Lanka,e-visa
 Saint Lucia,Saint Vincent and the Grenadines,visa free
 Saint Lucia,Sudan,visa required
-Saint Lucia,Suriname,180
+Saint Lucia,Suriname,90
 Saint Lucia,Sweden,90
 Saint Lucia,Switzerland,90
 Saint Lucia,Syria,visa required
@@ -29785,7 +29785,7 @@ Samoa,Oman,e-visa
 Samoa,Pakistan,30
 Samoa,Palau,visa on arrival
 Samoa,Palestine,visa free
-Samoa,Panama,90
+Samoa,Panama,180
 Samoa,Papua New Guinea,visa on arrival
 Samoa,Paraguay,visa required
 Samoa,Peru,180
@@ -29794,7 +29794,7 @@ Samoa,Poland,90
 Samoa,Portugal,90
 Samoa,Qatar,e-visa
 Samoa,Romania,90
-Samoa,Russia,60
+Samoa,Russia,covid ban
 Samoa,Rwanda,visa on arrival
 Samoa,Saint Kitts and Nevis,e-visa
 Samoa,Saint Lucia,42
@@ -29984,7 +29984,7 @@ San Marino,Oman,visa on arrival
 San Marino,Pakistan,e-visa
 San Marino,Palau,visa on arrival
 San Marino,Palestine,visa free
-San Marino,Panama,90
+San Marino,Panama,180
 San Marino,Papua New Guinea,visa on arrival
 San Marino,Paraguay,visa required
 San Marino,Peru,180
@@ -29993,7 +29993,7 @@ San Marino,Poland,90
 San Marino,Portugal,90
 San Marino,Qatar,30
 San Marino,Romania,90
-San Marino,Russia,visa required
+San Marino,Russia,covid ban
 San Marino,Rwanda,visa on arrival
 San Marino,Saint Kitts and Nevis,e-visa
 San Marino,Saint Lucia,42
@@ -30008,7 +30008,7 @@ San Marino,Sierra Leone,visa on arrival
 San Marino,Singapore,30
 San Marino,Slovakia,90
 San Marino,Slovenia,90
-San Marino,Solomon Islands,visa on arrival
+San Marino,Solomon Islands,covid ban
 San Marino,Somalia,visa on arrival
 San Marino,South Africa,90
 San Marino,South Korea,e-visa
@@ -30183,7 +30183,7 @@ Sao Tome and Principe,Oman,e-visa
 Sao Tome and Principe,Pakistan,e-visa
 Sao Tome and Principe,Palau,visa on arrival
 Sao Tome and Principe,Palestine,visa free
-Sao Tome and Principe,Panama,90
+Sao Tome and Principe,Panama,180
 Sao Tome and Principe,Papua New Guinea,visa required
 Sao Tome and Principe,Paraguay,visa required
 Sao Tome and Principe,Peru,visa required
@@ -30192,7 +30192,7 @@ Sao Tome and Principe,Poland,visa required
 Sao Tome and Principe,Portugal,visa required
 Sao Tome and Principe,Qatar,e-visa
 Sao Tome and Principe,Romania,visa required
-Sao Tome and Principe,Russia,visa required
+Sao Tome and Principe,Russia,covid ban
 Sao Tome and Principe,Rwanda,90
 Sao Tome and Principe,Saint Kitts and Nevis,e-visa
 Sao Tome and Principe,Saint Lucia,visa on arrival
@@ -30207,7 +30207,7 @@ Sao Tome and Principe,Sierra Leone,visa on arrival
 Sao Tome and Principe,Singapore,30
 Sao Tome and Principe,Slovakia,visa required
 Sao Tome and Principe,Slovenia,visa required
-Sao Tome and Principe,Solomon Islands,visa required
+Sao Tome and Principe,Solomon Islands,covid ban
 Sao Tome and Principe,Somalia,visa on arrival
 Sao Tome and Principe,South Africa,90
 Sao Tome and Principe,South Korea,visa required
@@ -30382,7 +30382,7 @@ Saudi Arabia,Oman,90
 Saudi Arabia,Pakistan,e-visa
 Saudi Arabia,Palau,visa on arrival
 Saudi Arabia,Palestine,visa free
-Saudi Arabia,Panama,90
+Saudi Arabia,Panama,180
 Saudi Arabia,Papua New Guinea,visa required
 Saudi Arabia,Paraguay,visa required
 Saudi Arabia,Peru,visa required
@@ -30406,7 +30406,7 @@ Saudi Arabia,Sierra Leone,visa on arrival
 Saudi Arabia,Singapore,e-visa
 Saudi Arabia,Slovakia,visa required
 Saudi Arabia,Slovenia,visa required
-Saudi Arabia,Solomon Islands,visa required
+Saudi Arabia,Solomon Islands,covid ban
 Saudi Arabia,Somalia,visa on arrival
 Saudi Arabia,South Africa,90
 Saudi Arabia,South Korea,e-visa
@@ -30590,7 +30590,7 @@ Senegal,Poland,visa required
 Senegal,Portugal,visa required
 Senegal,Qatar,e-visa
 Senegal,Romania,visa required
-Senegal,Russia,visa required
+Senegal,Russia,covid ban
 Senegal,Rwanda,visa on arrival
 Senegal,Saint Kitts and Nevis,e-visa
 Senegal,Saint Lucia,visa on arrival
@@ -30605,7 +30605,7 @@ Senegal,Sierra Leone,visa free
 Senegal,Singapore,30
 Senegal,Slovakia,visa required
 Senegal,Slovenia,visa required
-Senegal,Solomon Islands,visa required
+Senegal,Solomon Islands,covid ban
 Senegal,Somalia,visa on arrival
 Senegal,South Africa,visa required
 Senegal,South Korea,visa required
@@ -30780,7 +30780,7 @@ Serbia,Oman,visa on arrival
 Serbia,Pakistan,e-visa
 Serbia,Palau,visa on arrival
 Serbia,Palestine,visa free
-Serbia,Panama,90
+Serbia,Panama,180
 Serbia,Papua New Guinea,visa required
 Serbia,Paraguay,visa required
 Serbia,Peru,90
@@ -30804,7 +30804,7 @@ Serbia,Sierra Leone,visa on arrival
 Serbia,Singapore,30
 Serbia,Slovakia,90
 Serbia,Slovenia,90
-Serbia,Solomon Islands,visa required
+Serbia,Solomon Islands,covid ban
 Serbia,Somalia,visa on arrival
 Serbia,South Africa,visa required
 Serbia,South Korea,e-visa
@@ -30979,7 +30979,7 @@ Seychelles,Oman,visa on arrival
 Seychelles,Pakistan,e-visa
 Seychelles,Palau,visa on arrival
 Seychelles,Palestine,visa free
-Seychelles,Panama,90
+Seychelles,Panama,180
 Seychelles,Papua New Guinea,e-visa
 Seychelles,Paraguay,visa required
 Seychelles,Peru,visa required
@@ -31003,7 +31003,7 @@ Seychelles,Sierra Leone,visa on arrival
 Seychelles,Singapore,30
 Seychelles,Slovakia,90
 Seychelles,Slovenia,90
-Seychelles,Solomon Islands,visa required
+Seychelles,Solomon Islands,covid ban
 Seychelles,Somalia,visa on arrival
 Seychelles,South Africa,30
 Seychelles,South Korea,e-visa
@@ -31187,7 +31187,7 @@ Sierra Leone,Poland,visa required
 Sierra Leone,Portugal,visa required
 Sierra Leone,Qatar,e-visa
 Sierra Leone,Romania,visa required
-Sierra Leone,Russia,visa required
+Sierra Leone,Russia,covid ban
 Sierra Leone,Rwanda,90
 Sierra Leone,Saint Kitts and Nevis,90
 Sierra Leone,Saint Lucia,visa on arrival
@@ -31202,7 +31202,7 @@ Sierra Leone,Sierra Leone,-1
 Sierra Leone,Singapore,30
 Sierra Leone,Slovakia,visa required
 Sierra Leone,Slovenia,visa required
-Sierra Leone,Solomon Islands,visa required
+Sierra Leone,Solomon Islands,covid ban
 Sierra Leone,Somalia,visa on arrival
 Sierra Leone,South Africa,visa required
 Sierra Leone,South Korea,visa required
@@ -31377,7 +31377,7 @@ Singapore,Oman,visa on arrival
 Singapore,Pakistan,e-visa
 Singapore,Palau,visa on arrival
 Singapore,Palestine,visa free
-Singapore,Panama,90
+Singapore,Panama,180
 Singapore,Papua New Guinea,visa on arrival
 Singapore,Paraguay,30
 Singapore,Peru,180
@@ -31401,7 +31401,7 @@ Singapore,Sierra Leone,visa on arrival
 Singapore,Singapore,-1
 Singapore,Slovakia,90
 Singapore,Slovenia,90
-Singapore,Solomon Islands,visa on arrival
+Singapore,Solomon Islands,covid ban
 Singapore,Somalia,visa on arrival
 Singapore,South Africa,90
 Singapore,South Korea,e-visa
@@ -31576,7 +31576,7 @@ Slovakia,Oman,visa on arrival
 Slovakia,Pakistan,e-visa
 Slovakia,Palau,90
 Slovakia,Palestine,visa free
-Slovakia,Panama,90
+Slovakia,Panama,180
 Slovakia,Papua New Guinea,visa on arrival
 Slovakia,Paraguay,90
 Slovakia,Peru,90
@@ -31600,7 +31600,7 @@ Slovakia,Sierra Leone,visa on arrival
 Slovakia,Singapore,90
 Slovakia,Slovakia,-1
 Slovakia,Slovenia,visa free
-Slovakia,Solomon Islands,90
+Slovakia,Solomon Islands,covid ban
 Slovakia,Somalia,visa on arrival
 Slovakia,South Africa,visa required
 Slovakia,South Korea,e-visa
@@ -31775,7 +31775,7 @@ Slovenia,Oman,visa on arrival
 Slovenia,Pakistan,e-visa
 Slovenia,Palau,90
 Slovenia,Palestine,visa free
-Slovenia,Panama,90
+Slovenia,Panama,180
 Slovenia,Papua New Guinea,visa on arrival
 Slovenia,Paraguay,90
 Slovenia,Peru,90
@@ -31799,7 +31799,7 @@ Slovenia,Sierra Leone,visa on arrival
 Slovenia,Singapore,90
 Slovenia,Slovakia,visa free
 Slovenia,Slovenia,-1
-Slovenia,Solomon Islands,90
+Slovenia,Solomon Islands,covid ban
 Slovenia,Somalia,visa on arrival
 Slovenia,South Africa,visa required
 Slovenia,South Korea,e-visa
@@ -31974,7 +31974,7 @@ Solomon Islands,Oman,e-visa
 Solomon Islands,Pakistan,e-visa
 Solomon Islands,Palau,visa on arrival
 Solomon Islands,Palestine,visa free
-Solomon Islands,Panama,90
+Solomon Islands,Panama,180
 Solomon Islands,Papua New Guinea,visa on arrival
 Solomon Islands,Paraguay,visa required
 Solomon Islands,Peru,180
@@ -31983,7 +31983,7 @@ Solomon Islands,Poland,90
 Solomon Islands,Portugal,90
 Solomon Islands,Qatar,e-visa
 Solomon Islands,Romania,90
-Solomon Islands,Russia,visa required
+Solomon Islands,Russia,covid ban
 Solomon Islands,Rwanda,visa on arrival
 Solomon Islands,Saint Kitts and Nevis,90
 Solomon Islands,Saint Lucia,42
@@ -32182,7 +32182,7 @@ Somalia,Poland,visa required
 Somalia,Portugal,visa required
 Somalia,Qatar,e-visa
 Somalia,Romania,visa required
-Somalia,Russia,visa required
+Somalia,Russia,covid ban
 Somalia,Rwanda,visa on arrival
 Somalia,Saint Kitts and Nevis,e-visa
 Somalia,Saint Lucia,visa required
@@ -32197,7 +32197,7 @@ Somalia,Sierra Leone,visa on arrival
 Somalia,Singapore,e-visa
 Somalia,Slovakia,visa required
 Somalia,Slovenia,visa required
-Somalia,Solomon Islands,visa required
+Somalia,Solomon Islands,covid ban
 Somalia,Somalia,-1
 Somalia,South Africa,visa required
 Somalia,South Korea,visa required
@@ -32372,7 +32372,7 @@ South Africa,Oman,visa on arrival
 South Africa,Pakistan,e-visa
 South Africa,Palau,visa on arrival
 South Africa,Palestine,visa free
-South Africa,Panama,90
+South Africa,Panama,180
 South Africa,Papua New Guinea,e-visa
 South Africa,Paraguay,90
 South Africa,Peru,180
@@ -32381,7 +32381,7 @@ South Africa,Poland,visa required
 South Africa,Portugal,visa required
 South Africa,Qatar,30
 South Africa,Romania,visa required
-South Africa,Russia,90
+South Africa,Russia,covid ban
 South Africa,Rwanda,visa on arrival
 South Africa,Saint Kitts and Nevis,90
 South Africa,Saint Lucia,42
@@ -32396,7 +32396,7 @@ South Africa,Sierra Leone,visa on arrival
 South Africa,Singapore,30
 South Africa,Slovakia,visa required
 South Africa,Slovenia,visa required
-South Africa,Solomon Islands,visa required
+South Africa,Solomon Islands,covid ban
 South Africa,Somalia,visa on arrival
 South Africa,South Africa,-1
 South Africa,South Korea,e-visa
@@ -32551,7 +32551,7 @@ South Korea,Mexico,180
 South Korea,Micronesia,covid ban
 South Korea,Moldova,90
 South Korea,Monaco,90
-South Korea,Mongolia,90
+South Korea,Mongolia,e-visa
 South Korea,Montenegro,90
 South Korea,Morocco,90
 South Korea,Mozambique,visa on arrival
@@ -32571,7 +32571,7 @@ South Korea,Oman,visa on arrival
 South Korea,Pakistan,e-visa
 South Korea,Palau,visa on arrival
 South Korea,Palestine,visa free
-South Korea,Panama,90
+South Korea,Panama,180
 South Korea,Papua New Guinea,visa on arrival
 South Korea,Paraguay,30
 South Korea,Peru,180
@@ -32595,7 +32595,7 @@ South Korea,Sierra Leone,visa on arrival
 South Korea,Singapore,90
 South Korea,Slovakia,90
 South Korea,Slovenia,90
-South Korea,Solomon Islands,visa on arrival
+South Korea,Solomon Islands,covid ban
 South Korea,Somalia,visa on arrival
 South Korea,South Africa,30
 South Korea,South Korea,-1
@@ -32779,7 +32779,7 @@ South Sudan,Poland,visa required
 South Sudan,Portugal,visa required
 South Sudan,Qatar,e-visa
 South Sudan,Romania,visa required
-South Sudan,Russia,visa required
+South Sudan,Russia,covid ban
 South Sudan,Rwanda,180
 South Sudan,Saint Kitts and Nevis,e-visa
 South Sudan,Saint Lucia,visa required
@@ -32794,7 +32794,7 @@ South Sudan,Sierra Leone,visa on arrival
 South Sudan,Singapore,30
 South Sudan,Slovakia,visa required
 South Sudan,Slovenia,visa required
-South Sudan,Solomon Islands,visa required
+South Sudan,Solomon Islands,covid ban
 South Sudan,Somalia,visa on arrival
 South Sudan,South Africa,visa required
 South Sudan,South Korea,visa required
@@ -32969,7 +32969,7 @@ Spain,Oman,visa on arrival
 Spain,Pakistan,e-visa
 Spain,Palau,90
 Spain,Palestine,visa free
-Spain,Panama,90
+Spain,Panama,180
 Spain,Papua New Guinea,visa on arrival
 Spain,Paraguay,90
 Spain,Peru,90
@@ -32993,7 +32993,7 @@ Spain,Sierra Leone,visa on arrival
 Spain,Singapore,90
 Spain,Slovakia,visa free
 Spain,Slovenia,visa free
-Spain,Solomon Islands,90
+Spain,Solomon Islands,covid ban
 Spain,Somalia,visa on arrival
 Spain,South Africa,90
 Spain,South Korea,e-visa
@@ -33192,7 +33192,7 @@ Sri Lanka,Sierra Leone,visa on arrival
 Sri Lanka,Singapore,30
 Sri Lanka,Slovakia,visa required
 Sri Lanka,Slovenia,visa required
-Sri Lanka,Solomon Islands,visa required
+Sri Lanka,Solomon Islands,covid ban
 Sri Lanka,Somalia,visa on arrival
 Sri Lanka,South Africa,visa required
 Sri Lanka,South Korea,visa required
@@ -33206,7 +33206,7 @@ Sri Lanka,Sweden,visa required
 Sri Lanka,Switzerland,visa required
 Sri Lanka,Syria,visa required
 Sri Lanka,Taiwan,covid ban
-Sri Lanka,Tajikistan,30
+Sri Lanka,Tajikistan,e-visa
 Sri Lanka,Tanzania,e-visa
 Sri Lanka,Thailand,visa required
 Sri Lanka,Timor-Leste,visa on arrival
@@ -33367,7 +33367,7 @@ Saint Vincent and the Grenadines,Oman,e-visa
 Saint Vincent and the Grenadines,Pakistan,e-visa
 Saint Vincent and the Grenadines,Palau,visa on arrival
 Saint Vincent and the Grenadines,Palestine,visa free
-Saint Vincent and the Grenadines,Panama,90
+Saint Vincent and the Grenadines,Panama,180
 Saint Vincent and the Grenadines,Papua New Guinea,e-visa
 Saint Vincent and the Grenadines,Paraguay,visa required
 Saint Vincent and the Grenadines,Peru,180
@@ -33376,7 +33376,7 @@ Saint Vincent and the Grenadines,Poland,90
 Saint Vincent and the Grenadines,Portugal,90
 Saint Vincent and the Grenadines,Qatar,e-visa
 Saint Vincent and the Grenadines,Romania,90
-Saint Vincent and the Grenadines,Russia,90
+Saint Vincent and the Grenadines,Russia,covid ban
 Saint Vincent and the Grenadines,Rwanda,visa on arrival
 Saint Vincent and the Grenadines,Saint Kitts and Nevis,visa free
 Saint Vincent and the Grenadines,Saint Lucia,visa free
@@ -33391,7 +33391,7 @@ Saint Vincent and the Grenadines,Sierra Leone,visa on arrival
 Saint Vincent and the Grenadines,Singapore,30
 Saint Vincent and the Grenadines,Slovakia,90
 Saint Vincent and the Grenadines,Slovenia,90
-Saint Vincent and the Grenadines,Solomon Islands,visa on arrival
+Saint Vincent and the Grenadines,Solomon Islands,covid ban
 Saint Vincent and the Grenadines,Somalia,visa on arrival
 Saint Vincent and the Grenadines,South Africa,90
 Saint Vincent and the Grenadines,South Korea,e-visa
@@ -33400,7 +33400,7 @@ Saint Vincent and the Grenadines,Spain,90
 Saint Vincent and the Grenadines,Sri Lanka,e-visa
 Saint Vincent and the Grenadines,Saint Vincent and the Grenadines,-1
 Saint Vincent and the Grenadines,Sudan,visa required
-Saint Vincent and the Grenadines,Suriname,180
+Saint Vincent and the Grenadines,Suriname,90
 Saint Vincent and the Grenadines,Sweden,90
 Saint Vincent and the Grenadines,Switzerland,90
 Saint Vincent and the Grenadines,Syria,visa required
@@ -33575,7 +33575,7 @@ Sudan,Poland,visa required
 Sudan,Portugal,visa required
 Sudan,Qatar,e-visa
 Sudan,Romania,visa required
-Sudan,Russia,visa required
+Sudan,Russia,covid ban
 Sudan,Rwanda,visa on arrival
 Sudan,Saint Kitts and Nevis,e-visa
 Sudan,Saint Lucia,visa on arrival
@@ -33590,7 +33590,7 @@ Sudan,Sierra Leone,visa on arrival
 Sudan,Singapore,e-visa
 Sudan,Slovakia,visa required
 Sudan,Slovenia,visa required
-Sudan,Solomon Islands,visa required
+Sudan,Solomon Islands,covid ban
 Sudan,Somalia,visa on arrival
 Sudan,South Africa,visa required
 Sudan,South Korea,visa required
@@ -33774,7 +33774,7 @@ Suriname,Poland,visa required
 Suriname,Portugal,visa required
 Suriname,Qatar,30
 Suriname,Romania,visa required
-Suriname,Russia,90
+Suriname,Russia,covid ban
 Suriname,Rwanda,visa on arrival
 Suriname,Saint Kitts and Nevis,180
 Suriname,Saint Lucia,42
@@ -33789,7 +33789,7 @@ Suriname,Sierra Leone,visa on arrival
 Suriname,Singapore,30
 Suriname,Slovakia,visa required
 Suriname,Slovenia,visa required
-Suriname,Solomon Islands,visa required
+Suriname,Solomon Islands,covid ban
 Suriname,Somalia,visa on arrival
 Suriname,South Africa,visa required
 Suriname,South Korea,e-visa
@@ -33964,7 +33964,7 @@ Sweden,Oman,visa on arrival
 Sweden,Pakistan,e-visa
 Sweden,Palau,90
 Sweden,Palestine,visa free
-Sweden,Panama,90
+Sweden,Panama,180
 Sweden,Papua New Guinea,visa on arrival
 Sweden,Paraguay,90
 Sweden,Peru,90
@@ -33988,7 +33988,7 @@ Sweden,Sierra Leone,visa on arrival
 Sweden,Singapore,90
 Sweden,Slovakia,visa free
 Sweden,Slovenia,visa free
-Sweden,Solomon Islands,90
+Sweden,Solomon Islands,covid ban
 Sweden,Somalia,visa on arrival
 Sweden,South Africa,90
 Sweden,South Korea,e-visa
@@ -34163,7 +34163,7 @@ Switzerland,Oman,visa on arrival
 Switzerland,Pakistan,e-visa
 Switzerland,Palau,visa on arrival
 Switzerland,Palestine,visa free
-Switzerland,Panama,90
+Switzerland,Panama,180
 Switzerland,Papua New Guinea,visa on arrival
 Switzerland,Paraguay,90
 Switzerland,Peru,90
@@ -34187,7 +34187,7 @@ Switzerland,Sierra Leone,visa on arrival
 Switzerland,Singapore,90
 Switzerland,Slovakia,visa free
 Switzerland,Slovenia,visa free
-Switzerland,Solomon Islands,90
+Switzerland,Solomon Islands,covid ban
 Switzerland,Somalia,visa on arrival
 Switzerland,South Africa,90
 Switzerland,South Korea,e-visa
@@ -34386,7 +34386,7 @@ Syria,Sierra Leone,visa on arrival
 Syria,Singapore,e-visa
 Syria,Slovakia,visa required
 Syria,Slovenia,visa required
-Syria,Solomon Islands,visa required
+Syria,Solomon Islands,covid ban
 Syria,Somalia,visa on arrival
 Syria,South Africa,visa required
 Syria,South Korea,visa required
@@ -34561,7 +34561,7 @@ Taiwan,Oman,visa on arrival
 Taiwan,Pakistan,visa required
 Taiwan,Palau,visa on arrival
 Taiwan,Palestine,visa free
-Taiwan,Panama,90
+Taiwan,Panama,180
 Taiwan,Papua New Guinea,visa on arrival
 Taiwan,Paraguay,90
 Taiwan,Peru,180
@@ -34716,7 +34716,7 @@ Tajikistan,Kenya,e-visa
 Tajikistan,Kiribati,visa required
 Tajikistan,Kosovo,visa required
 Tajikistan,Kuwait,visa required
-Tajikistan,Kyrgyzstan,no admission
+Tajikistan,Kyrgyzstan,visa required
 Tajikistan,Laos,visa on arrival
 Tajikistan,Latvia,visa required
 Tajikistan,Lebanon,visa on arrival
@@ -34784,7 +34784,7 @@ Tajikistan,Sierra Leone,visa on arrival
 Tajikistan,Singapore,e-visa
 Tajikistan,Slovakia,visa required
 Tajikistan,Slovenia,visa required
-Tajikistan,Solomon Islands,visa required
+Tajikistan,Solomon Islands,covid ban
 Tajikistan,Somalia,visa on arrival
 Tajikistan,South Africa,visa required
 Tajikistan,South Korea,visa required
@@ -34983,7 +34983,7 @@ Tanzania,Sierra Leone,visa on arrival
 Tanzania,Singapore,30
 Tanzania,Slovakia,visa required
 Tanzania,Slovenia,visa required
-Tanzania,Solomon Islands,visa required
+Tanzania,Solomon Islands,covid ban
 Tanzania,Somalia,visa on arrival
 Tanzania,South Africa,90
 Tanzania,South Korea,visa required
@@ -35158,7 +35158,7 @@ Thailand,Oman,visa on arrival
 Thailand,Pakistan,e-visa
 Thailand,Palau,visa on arrival
 Thailand,Palestine,visa free
-Thailand,Panama,90
+Thailand,Panama,180
 Thailand,Papua New Guinea,visa on arrival
 Thailand,Paraguay,visa required
 Thailand,Peru,180
@@ -35182,7 +35182,7 @@ Thailand,Sierra Leone,visa on arrival
 Thailand,Singapore,30
 Thailand,Slovakia,visa required
 Thailand,Slovenia,visa required
-Thailand,Solomon Islands,visa on arrival
+Thailand,Solomon Islands,covid ban
 Thailand,Somalia,visa on arrival
 Thailand,South Africa,30
 Thailand,South Korea,e-visa
@@ -35366,7 +35366,7 @@ Timor-Leste,Poland,90
 Timor-Leste,Portugal,90
 Timor-Leste,Qatar,e-visa
 Timor-Leste,Romania,90
-Timor-Leste,Russia,visa required
+Timor-Leste,Russia,covid ban
 Timor-Leste,Rwanda,visa on arrival
 Timor-Leste,Saint Kitts and Nevis,e-visa
 Timor-Leste,Saint Lucia,visa on arrival
@@ -35381,7 +35381,7 @@ Timor-Leste,Sierra Leone,visa on arrival
 Timor-Leste,Singapore,30
 Timor-Leste,Slovakia,90
 Timor-Leste,Slovenia,90
-Timor-Leste,Solomon Islands,visa required
+Timor-Leste,Solomon Islands,covid ban
 Timor-Leste,Somalia,visa on arrival
 Timor-Leste,South Africa,visa required
 Timor-Leste,South Korea,visa required
@@ -35565,7 +35565,7 @@ Togo,Poland,visa required
 Togo,Portugal,visa required
 Togo,Qatar,e-visa
 Togo,Romania,visa required
-Togo,Russia,visa required
+Togo,Russia,covid ban
 Togo,Rwanda,visa on arrival
 Togo,Saint Kitts and Nevis,e-visa
 Togo,Saint Lucia,visa on arrival
@@ -35580,7 +35580,7 @@ Togo,Sierra Leone,visa free
 Togo,Singapore,30
 Togo,Slovakia,visa required
 Togo,Slovenia,visa required
-Togo,Solomon Islands,visa required
+Togo,Solomon Islands,covid ban
 Togo,Somalia,visa on arrival
 Togo,South Africa,visa required
 Togo,South Korea,visa required
@@ -35755,7 +35755,7 @@ Tonga,Oman,e-visa
 Tonga,Pakistan,e-visa
 Tonga,Palau,visa on arrival
 Tonga,Palestine,visa free
-Tonga,Panama,90
+Tonga,Panama,180
 Tonga,Papua New Guinea,visa on arrival
 Tonga,Paraguay,visa required
 Tonga,Peru,180
@@ -35764,7 +35764,7 @@ Tonga,Poland,90
 Tonga,Portugal,90
 Tonga,Qatar,e-visa
 Tonga,Romania,90
-Tonga,Russia,visa required
+Tonga,Russia,covid ban
 Tonga,Rwanda,visa on arrival
 Tonga,Saint Kitts and Nevis,90
 Tonga,Saint Lucia,42
@@ -35779,7 +35779,7 @@ Tonga,Sierra Leone,visa on arrival
 Tonga,Singapore,30
 Tonga,Slovakia,90
 Tonga,Slovenia,90
-Tonga,Solomon Islands,visa on arrival
+Tonga,Solomon Islands,covid ban
 Tonga,Somalia,visa on arrival
 Tonga,South Africa,visa required
 Tonga,South Korea,visa required
@@ -35954,7 +35954,7 @@ Trinidad and Tobago,Oman,e-visa
 Trinidad and Tobago,Pakistan,visa free
 Trinidad and Tobago,Palau,visa on arrival
 Trinidad and Tobago,Palestine,visa free
-Trinidad and Tobago,Panama,90
+Trinidad and Tobago,Panama,180
 Trinidad and Tobago,Papua New Guinea,visa required
 Trinidad and Tobago,Paraguay,visa required
 Trinidad and Tobago,Peru,180
@@ -35963,7 +35963,7 @@ Trinidad and Tobago,Poland,90
 Trinidad and Tobago,Portugal,90
 Trinidad and Tobago,Qatar,e-visa
 Trinidad and Tobago,Romania,90
-Trinidad and Tobago,Russia,visa required
+Trinidad and Tobago,Russia,covid ban
 Trinidad and Tobago,Rwanda,visa on arrival
 Trinidad and Tobago,Saint Kitts and Nevis,180
 Trinidad and Tobago,Saint Lucia,42
@@ -35978,7 +35978,7 @@ Trinidad and Tobago,Sierra Leone,visa on arrival
 Trinidad and Tobago,Singapore,30
 Trinidad and Tobago,Slovakia,90
 Trinidad and Tobago,Slovenia,90
-Trinidad and Tobago,Solomon Islands,visa on arrival
+Trinidad and Tobago,Solomon Islands,covid ban
 Trinidad and Tobago,Somalia,visa on arrival
 Trinidad and Tobago,South Africa,90
 Trinidad and Tobago,South Korea,e-visa
@@ -35987,7 +35987,7 @@ Trinidad and Tobago,Spain,90
 Trinidad and Tobago,Sri Lanka,e-visa
 Trinidad and Tobago,Saint Vincent and the Grenadines,30
 Trinidad and Tobago,Sudan,visa required
-Trinidad and Tobago,Suriname,180
+Trinidad and Tobago,Suriname,90
 Trinidad and Tobago,Sweden,90
 Trinidad and Tobago,Switzerland,90
 Trinidad and Tobago,Syria,visa required
@@ -36177,7 +36177,7 @@ Tunisia,Sierra Leone,visa on arrival
 Tunisia,Singapore,e-visa
 Tunisia,Slovakia,visa required
 Tunisia,Slovenia,visa required
-Tunisia,Solomon Islands,visa required
+Tunisia,Solomon Islands,covid ban
 Tunisia,Somalia,visa on arrival
 Tunisia,South Africa,90
 Tunisia,South Korea,e-visa
@@ -36352,7 +36352,7 @@ Turkey,Oman,visa on arrival
 Turkey,Pakistan,e-visa
 Turkey,Palau,visa on arrival
 Turkey,Palestine,visa free
-Turkey,Panama,90
+Turkey,Panama,180
 Turkey,Papua New Guinea,visa required
 Turkey,Paraguay,90
 Turkey,Peru,180
@@ -36376,7 +36376,7 @@ Turkey,Sierra Leone,visa on arrival
 Turkey,Singapore,30
 Turkey,Slovakia,visa required
 Turkey,Slovenia,visa required
-Turkey,Solomon Islands,visa required
+Turkey,Solomon Islands,covid ban
 Turkey,Somalia,visa on arrival
 Turkey,South Africa,30
 Turkey,South Korea,e-visa
@@ -36575,7 +36575,7 @@ Turkmenistan,Sierra Leone,visa on arrival
 Turkmenistan,Singapore,e-visa
 Turkmenistan,Slovakia,visa required
 Turkmenistan,Slovenia,visa required
-Turkmenistan,Solomon Islands,visa required
+Turkmenistan,Solomon Islands,covid ban
 Turkmenistan,Somalia,visa on arrival
 Turkmenistan,South Africa,visa required
 Turkmenistan,South Korea,visa required
@@ -36750,7 +36750,7 @@ Tuvalu,Oman,e-visa
 Tuvalu,Pakistan,e-visa
 Tuvalu,Palau,visa on arrival
 Tuvalu,Palestine,visa free
-Tuvalu,Panama,90
+Tuvalu,Panama,180
 Tuvalu,Papua New Guinea,visa on arrival
 Tuvalu,Paraguay,visa required
 Tuvalu,Peru,180
@@ -36759,7 +36759,7 @@ Tuvalu,Poland,90
 Tuvalu,Portugal,90
 Tuvalu,Qatar,e-visa
 Tuvalu,Romania,90
-Tuvalu,Russia,visa required
+Tuvalu,Russia,covid ban
 Tuvalu,Rwanda,visa on arrival
 Tuvalu,Saint Kitts and Nevis,90
 Tuvalu,Saint Lucia,42
@@ -36958,7 +36958,7 @@ Uganda,Poland,visa required
 Uganda,Portugal,visa required
 Uganda,Qatar,e-visa
 Uganda,Romania,visa required
-Uganda,Russia,visa required
+Uganda,Russia,covid ban
 Uganda,Rwanda,180
 Uganda,Saint Kitts and Nevis,90
 Uganda,Saint Lucia,visa on arrival
@@ -36973,7 +36973,7 @@ Uganda,Sierra Leone,visa on arrival
 Uganda,Singapore,30
 Uganda,Slovakia,visa required
 Uganda,Slovenia,visa required
-Uganda,Solomon Islands,visa required
+Uganda,Solomon Islands,covid ban
 Uganda,Somalia,visa on arrival
 Uganda,South Africa,e-visa
 Uganda,South Korea,visa required
@@ -37148,7 +37148,7 @@ Ukraine,Oman,visa on arrival
 Ukraine,Pakistan,e-visa
 Ukraine,Palau,visa on arrival
 Ukraine,Palestine,visa free
-Ukraine,Panama,90
+Ukraine,Panama,180
 Ukraine,Papua New Guinea,visa required
 Ukraine,Paraguay,90
 Ukraine,Peru,180
@@ -37157,7 +37157,7 @@ Ukraine,Poland,90
 Ukraine,Portugal,90
 Ukraine,Qatar,90
 Ukraine,Romania,90
-Ukraine,Russia,90
+Ukraine,Russia,covid ban
 Ukraine,Rwanda,visa on arrival
 Ukraine,Saint Kitts and Nevis,90
 Ukraine,Saint Lucia,visa required
@@ -37172,7 +37172,7 @@ Ukraine,Sierra Leone,visa on arrival
 Ukraine,Singapore,e-visa
 Ukraine,Slovakia,90
 Ukraine,Slovenia,90
-Ukraine,Solomon Islands,visa required
+Ukraine,Solomon Islands,covid ban
 Ukraine,Somalia,visa on arrival
 Ukraine,South Africa,visa required
 Ukraine,South Korea,visa required
@@ -37274,7 +37274,7 @@ United Arab Emirates,Finland,90
 United Arab Emirates,France,90
 United Arab Emirates,Gabon,visa on arrival
 United Arab Emirates,Gambia,90
-United Arab Emirates,Georgia,90
+United Arab Emirates,Georgia,360
 United Arab Emirates,Germany,90
 United Arab Emirates,Ghana,visa required
 United Arab Emirates,Greece,90
@@ -37347,7 +37347,7 @@ United Arab Emirates,Oman,90
 United Arab Emirates,Pakistan,e-visa
 United Arab Emirates,Palau,visa on arrival
 United Arab Emirates,Palestine,visa free
-United Arab Emirates,Panama,90
+United Arab Emirates,Panama,180
 United Arab Emirates,Papua New Guinea,visa required
 United Arab Emirates,Paraguay,90
 United Arab Emirates,Peru,90
@@ -37371,7 +37371,7 @@ United Arab Emirates,Sierra Leone,visa on arrival
 United Arab Emirates,Singapore,30
 United Arab Emirates,Slovakia,90
 United Arab Emirates,Slovenia,90
-United Arab Emirates,Solomon Islands,visa required
+United Arab Emirates,Solomon Islands,covid ban
 United Arab Emirates,Somalia,visa on arrival
 United Arab Emirates,South Africa,90
 United Arab Emirates,South Korea,e-visa
@@ -37546,7 +37546,7 @@ United Kingdom,Oman,visa on arrival
 United Kingdom,Pakistan,e-visa
 United Kingdom,Palau,visa on arrival
 United Kingdom,Palestine,visa free
-United Kingdom,Panama,90
+United Kingdom,Panama,180
 United Kingdom,Papua New Guinea,visa on arrival
 United Kingdom,Paraguay,90
 United Kingdom,Peru,180
@@ -37570,7 +37570,7 @@ United Kingdom,Sierra Leone,visa on arrival
 United Kingdom,Singapore,90
 United Kingdom,Slovakia,90
 United Kingdom,Slovenia,90
-United Kingdom,Solomon Islands,visa on arrival
+United Kingdom,Solomon Islands,covid ban
 United Kingdom,Somalia,visa on arrival
 United Kingdom,South Africa,90
 United Kingdom,South Korea,e-visa
@@ -37769,7 +37769,7 @@ United States,Sierra Leone,visa on arrival
 United States,Singapore,90
 United States,Slovakia,90
 United States,Slovenia,90
-United States,Solomon Islands,visa on arrival
+United States,Solomon Islands,covid ban
 United States,Somalia,visa on arrival
 United States,South Africa,90
 United States,South Korea,e-visa
@@ -37944,7 +37944,7 @@ Uruguay,Oman,visa on arrival
 Uruguay,Pakistan,e-visa
 Uruguay,Palau,visa on arrival
 Uruguay,Palestine,visa free
-Uruguay,Panama,90
+Uruguay,Panama,180
 Uruguay,Papua New Guinea,visa on arrival
 Uruguay,Paraguay,90
 Uruguay,Peru,180
@@ -37968,7 +37968,7 @@ Uruguay,Sierra Leone,visa on arrival
 Uruguay,Singapore,30
 Uruguay,Slovakia,90
 Uruguay,Slovenia,90
-Uruguay,Solomon Islands,visa required
+Uruguay,Solomon Islands,covid ban
 Uruguay,Somalia,visa on arrival
 Uruguay,South Africa,90
 Uruguay,South Korea,e-visa
@@ -38123,7 +38123,7 @@ Uzbekistan,Mexico,visa required
 Uzbekistan,Micronesia,covid ban
 Uzbekistan,Moldova,90
 Uzbekistan,Monaco,visa required
-Uzbekistan,Mongolia,30
+Uzbekistan,Mongolia,visa required
 Uzbekistan,Montenegro,visa required
 Uzbekistan,Morocco,visa required
 Uzbekistan,Mozambique,visa on arrival
@@ -38167,7 +38167,7 @@ Uzbekistan,Sierra Leone,visa on arrival
 Uzbekistan,Singapore,e-visa
 Uzbekistan,Slovakia,visa required
 Uzbekistan,Slovenia,visa required
-Uzbekistan,Solomon Islands,visa required
+Uzbekistan,Solomon Islands,covid ban
 Uzbekistan,Somalia,visa on arrival
 Uzbekistan,South Africa,visa required
 Uzbekistan,South Korea,visa required
@@ -38209,20 +38209,20 @@ Uzbekistan,Zimbabwe,visa on arrival
 Uzbekistan,Afghanistan,visa required
 Vanuatu,Albania,e-visa
 Vanuatu,Algeria,visa required
-Vanuatu,Andorra,visa required
+Vanuatu,Andorra,90
 Vanuatu,Angola,visa on arrival
 Vanuatu,Antigua and Barbuda,180
 Vanuatu,Argentina,visa required
 Vanuatu,Armenia,e-visa
 Vanuatu,Australia,e-visa
-Vanuatu,Austria,visa required
+Vanuatu,Austria,90
 Vanuatu,Azerbaijan,covid ban
 Vanuatu,Bahamas,90
 Vanuatu,Bahrain,e-visa
 Vanuatu,Bangladesh,visa on arrival
 Vanuatu,Barbados,180
 Vanuatu,Belarus,30
-Vanuatu,Belgium,visa required
+Vanuatu,Belgium,90
 Vanuatu,Belize,visa free
 Vanuatu,Benin,e-visa
 Vanuatu,Bhutan,visa required
@@ -38231,7 +38231,7 @@ Vanuatu,Bosnia and Herzegovina,90
 Vanuatu,Botswana,90
 Vanuatu,Brazil,visa required
 Vanuatu,Brunei,visa required
-Vanuatu,Bulgaria,visa required
+Vanuatu,Bulgaria,90
 Vanuatu,Burkina Faso,visa required
 Vanuatu,Burundi,visa on arrival
 Vanuatu,Cambodia,e-visa
@@ -38248,11 +38248,11 @@ Vanuatu,Congo,visa required
 Vanuatu,DR Congo,e-visa
 Vanuatu,Costa Rica,90
 Vanuatu,Ivory Coast,e-visa
-Vanuatu,Croatia,visa required
+Vanuatu,Croatia,90
 Vanuatu,Cuba,visa required
-Vanuatu,Cyprus,visa required
-Vanuatu,Czech Republic,visa required
-Vanuatu,Denmark,visa required
+Vanuatu,Cyprus,90
+Vanuatu,Czech Republic,90
+Vanuatu,Denmark,visa free
 Vanuatu,Djibouti,e-visa
 Vanuatu,Dominica,180
 Vanuatu,Dominican Republic,visa free
@@ -38261,18 +38261,18 @@ Vanuatu,Egypt,visa on arrival
 Vanuatu,El Salvador,90
 Vanuatu,Equatorial Guinea,visa required
 Vanuatu,Eritrea,visa required
-Vanuatu,Estonia,visa required
+Vanuatu,Estonia,90
 Vanuatu,Swaziland,30
 Vanuatu,Ethiopia,e-visa
 Vanuatu,Fiji,120
-Vanuatu,Finland,visa required
-Vanuatu,France,visa required
+Vanuatu,Finland,90
+Vanuatu,France,90
 Vanuatu,Gabon,e-visa
 Vanuatu,Gambia,90
 Vanuatu,Georgia,e-visa
-Vanuatu,Germany,visa required
+Vanuatu,Germany,90
 Vanuatu,Ghana,visa required
-Vanuatu,Greece,visa required
+Vanuatu,Greece,90
 Vanuatu,Grenada,90
 Vanuatu,Guatemala,90
 Vanuatu,Guinea,e-visa
@@ -38281,15 +38281,15 @@ Vanuatu,Guyana,visa on arrival
 Vanuatu,Haiti,90
 Vanuatu,Honduras,90
 Vanuatu,Hong Kong,90
-Vanuatu,Hungary,visa required
-Vanuatu,Iceland,visa required
+Vanuatu,Hungary,90
+Vanuatu,Iceland,90
 Vanuatu,India,e-visa
 Vanuatu,Indonesia,covid ban
 Vanuatu,Iran,e-visa
 Vanuatu,Iraq,visa required
 Vanuatu,Ireland,90
 Vanuatu,Israel,90
-Vanuatu,Italy,visa required
+Vanuatu,Italy,90
 Vanuatu,Jamaica,visa free
 Vanuatu,Japan,visa required
 Vanuatu,Jordan,visa on arrival
@@ -38300,28 +38300,28 @@ Vanuatu,Kosovo,90
 Vanuatu,Kuwait,visa required
 Vanuatu,Kyrgyzstan,e-visa
 Vanuatu,Laos,visa on arrival
-Vanuatu,Latvia,visa required
+Vanuatu,Latvia,90
 Vanuatu,Lebanon,visa required
 Vanuatu,Lesotho,90
 Vanuatu,Liberia,visa required
 Vanuatu,Libya,visa required
-Vanuatu,Liechtenstein,visa required
-Vanuatu,Lithuania,visa required
-Vanuatu,Luxembourg,visa required
+Vanuatu,Liechtenstein,90
+Vanuatu,Lithuania,90
+Vanuatu,Luxembourg,90
 Vanuatu,Macao,covid ban
 Vanuatu,Madagascar,visa on arrival
 Vanuatu,Malawi,visa on arrival
 Vanuatu,Malaysia,30
 Vanuatu,Maldives,visa on arrival
 Vanuatu,Mali,visa required
-Vanuatu,Malta,visa required
+Vanuatu,Malta,90
 Vanuatu,Marshall Islands,covid ban
 Vanuatu,Mauritania,visa on arrival
 Vanuatu,Mauritius,90
 Vanuatu,Mexico,visa required
 Vanuatu,Micronesia,covid ban
 Vanuatu,Moldova,90
-Vanuatu,Monaco,visa required
+Vanuatu,Monaco,60
 Vanuatu,Mongolia,visa required
 Vanuatu,Montenegro,90
 Vanuatu,Morocco,visa required
@@ -38330,33 +38330,33 @@ Vanuatu,Myanmar,visa required
 Vanuatu,Namibia,visa required
 Vanuatu,Nauru,visa on arrival
 Vanuatu,Nepal,visa on arrival
-Vanuatu,Netherlands,visa required
+Vanuatu,Netherlands,90
 Vanuatu,New Zealand,visa required
 Vanuatu,Nicaragua,90
 Vanuatu,Niger,visa required
 Vanuatu,Nigeria,visa on arrival
 Vanuatu,North Korea,visa required
 Vanuatu,North Macedonia,visa required
-Vanuatu,Norway,visa required
+Vanuatu,Norway,90
 Vanuatu,Oman,e-visa
 Vanuatu,Pakistan,e-visa
 Vanuatu,Palau,visa on arrival
 Vanuatu,Palestine,visa free
-Vanuatu,Panama,90
+Vanuatu,Panama,180
 Vanuatu,Papua New Guinea,visa on arrival
 Vanuatu,Paraguay,visa required
 Vanuatu,Peru,180
 Vanuatu,Philippines,30
-Vanuatu,Poland,visa required
-Vanuatu,Portugal,visa required
+Vanuatu,Poland,90
+Vanuatu,Portugal,90
 Vanuatu,Qatar,e-visa
-Vanuatu,Romania,visa required
-Vanuatu,Russia,90
+Vanuatu,Romania,90
+Vanuatu,Russia,covid ban
 Vanuatu,Rwanda,visa on arrival
 Vanuatu,Saint Kitts and Nevis,90
 Vanuatu,Saint Lucia,42
 Vanuatu,Samoa,visa on arrival
-Vanuatu,San Marino,visa required
+Vanuatu,San Marino,90
 Vanuatu,Sao Tome and Principe,e-visa
 Vanuatu,Saudi Arabia,visa required
 Vanuatu,Senegal,visa required
@@ -38364,20 +38364,20 @@ Vanuatu,Serbia,visa required
 Vanuatu,Seychelles,90
 Vanuatu,Sierra Leone,visa on arrival
 Vanuatu,Singapore,30
-Vanuatu,Slovakia,visa required
-Vanuatu,Slovenia,visa required
+Vanuatu,Slovakia,90
+Vanuatu,Slovenia,90
 Vanuatu,Solomon Islands,visa on arrival
 Vanuatu,Somalia,visa on arrival
 Vanuatu,South Africa,visa required
 Vanuatu,South Korea,visa required
 Vanuatu,South Sudan,e-visa
-Vanuatu,Spain,visa required
+Vanuatu,Spain,90
 Vanuatu,Sri Lanka,e-visa
 Vanuatu,Saint Vincent and the Grenadines,30
 Vanuatu,Sudan,visa required
 Vanuatu,Suriname,e-visa
-Vanuatu,Sweden,visa required
-Vanuatu,Switzerland,visa required
+Vanuatu,Sweden,90
+Vanuatu,Switzerland,90
 Vanuatu,Syria,visa required
 Vanuatu,Taiwan,covid ban
 Vanuatu,Tajikistan,e-visa
@@ -38399,7 +38399,7 @@ Vanuatu,United States,visa required
 Vanuatu,Uruguay,visa required
 Vanuatu,Uzbekistan,e-visa
 Vanuatu,Vanuatu,-1
-Vanuatu,Vatican,visa required
+Vanuatu,Vatican,90
 Vanuatu,Venezuela,visa required
 Vanuatu,Vietnam,e-visa
 Vanuatu,Yemen,visa required
@@ -38541,7 +38541,7 @@ Vatican,Oman,visa on arrival
 Vatican,Pakistan,e-visa
 Vatican,Palau,visa on arrival
 Vatican,Palestine,visa free
-Vatican,Panama,90
+Vatican,Panama,180
 Vatican,Papua New Guinea,visa on arrival
 Vatican,Paraguay,visa required
 Vatican,Peru,180
@@ -38550,7 +38550,7 @@ Vatican,Poland,90
 Vatican,Portugal,90
 Vatican,Qatar,30
 Vatican,Romania,90
-Vatican,Russia,visa required
+Vatican,Russia,covid ban
 Vatican,Rwanda,visa on arrival
 Vatican,Saint Kitts and Nevis,90
 Vatican,Saint Lucia,visa required
@@ -38565,7 +38565,7 @@ Vatican,Sierra Leone,visa on arrival
 Vatican,Singapore,30
 Vatican,Slovakia,90
 Vatican,Slovenia,90
-Vatican,Solomon Islands,visa required
+Vatican,Solomon Islands,covid ban
 Vatican,Somalia,visa on arrival
 Vatican,South Africa,visa required
 Vatican,South Korea,e-visa
@@ -38621,7 +38621,7 @@ Venezuela,Bangladesh,visa on arrival
 Venezuela,Barbados,28
 Venezuela,Belarus,90
 Venezuela,Belgium,90
-Venezuela,Belize,visa required
+Venezuela,Belize,30
 Venezuela,Benin,e-visa
 Venezuela,Bhutan,visa required
 Venezuela,Bolivia,90
@@ -38764,7 +38764,7 @@ Venezuela,Sierra Leone,visa on arrival
 Venezuela,Singapore,30
 Venezuela,Slovakia,90
 Venezuela,Slovenia,90
-Venezuela,Solomon Islands,visa required
+Venezuela,Solomon Islands,covid ban
 Venezuela,Somalia,visa on arrival
 Venezuela,South Africa,90
 Venezuela,South Korea,e-visa
@@ -38939,7 +38939,7 @@ Vietnam,Oman,e-visa
 Vietnam,Pakistan,e-visa
 Vietnam,Palau,visa on arrival
 Vietnam,Palestine,visa free
-Vietnam,Panama,90
+Vietnam,Panama,180
 Vietnam,Papua New Guinea,e-visa
 Vietnam,Paraguay,visa required
 Vietnam,Peru,visa required
@@ -38963,7 +38963,7 @@ Vietnam,Sierra Leone,visa on arrival
 Vietnam,Singapore,30
 Vietnam,Slovakia,visa required
 Vietnam,Slovenia,visa required
-Vietnam,Solomon Islands,visa required
+Vietnam,Solomon Islands,covid ban
 Vietnam,Somalia,visa on arrival
 Vietnam,South Africa,visa required
 Vietnam,South Korea,visa required
@@ -39147,7 +39147,7 @@ Yemen,Poland,visa required
 Yemen,Portugal,visa required
 Yemen,Qatar,e-visa
 Yemen,Romania,visa required
-Yemen,Russia,visa required
+Yemen,Russia,covid ban
 Yemen,Rwanda,visa on arrival
 Yemen,Saint Kitts and Nevis,e-visa
 Yemen,Saint Lucia,visa required
@@ -39162,7 +39162,7 @@ Yemen,Sierra Leone,visa on arrival
 Yemen,Singapore,e-visa
 Yemen,Slovakia,visa required
 Yemen,Slovenia,visa required
-Yemen,Solomon Islands,visa required
+Yemen,Solomon Islands,covid ban
 Yemen,Somalia,visa on arrival
 Yemen,South Africa,visa required
 Yemen,South Korea,visa required
@@ -39346,7 +39346,7 @@ Zambia,Poland,visa required
 Zambia,Portugal,visa required
 Zambia,Qatar,e-visa
 Zambia,Romania,visa required
-Zambia,Russia,visa required
+Zambia,Russia,covid ban
 Zambia,Rwanda,visa on arrival
 Zambia,Saint Kitts and Nevis,90
 Zambia,Saint Lucia,42
@@ -39361,7 +39361,7 @@ Zambia,Sierra Leone,visa on arrival
 Zambia,Singapore,30
 Zambia,Slovakia,visa required
 Zambia,Slovenia,visa required
-Zambia,Solomon Islands,visa required
+Zambia,Solomon Islands,covid ban
 Zambia,Somalia,visa on arrival
 Zambia,South Africa,90
 Zambia,South Korea,visa required
@@ -39560,7 +39560,7 @@ Zimbabwe,Sierra Leone,visa on arrival
 Zimbabwe,Singapore,30
 Zimbabwe,Slovakia,visa required
 Zimbabwe,Slovenia,visa required
-Zimbabwe,Solomon Islands,visa required
+Zimbabwe,Solomon Islands,covid ban
 Zimbabwe,Somalia,visa on arrival
 Zimbabwe,South Africa,90
 Zimbabwe,South Korea,visa required
