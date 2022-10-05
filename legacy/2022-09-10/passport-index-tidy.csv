@@ -48,7 +48,7 @@ Afghanistan,Denmark,visa required
 Afghanistan,Djibouti,e-visa
 Afghanistan,Dominica,21
 Afghanistan,Dominican Republic,visa required
-Afghanistan,Ecuador,e-visa
+Afghanistan,Ecuador,visa required
 Afghanistan,Egypt,visa required
 Afghanistan,El Salvador,visa required
 Afghanistan,Equatorial Guinea,visa required
@@ -247,7 +247,7 @@ Albania,Denmark,90
 Albania,Djibouti,e-visa
 Albania,Dominica,21
 Albania,Dominican Republic,visa required
-Albania,Ecuador,e-visa
+Albania,Ecuador,90
 Albania,Egypt,visa on arrival
 Albania,El Salvador,90
 Albania,Equatorial Guinea,visa required
@@ -275,7 +275,7 @@ Albania,Hong Kong,14
 Albania,Hungary,90
 Albania,Iceland,90
 Albania,India,e-visa
-Albania,Indonesia,visa on arrival
+Albania,Indonesia,visa required
 Albania,Iran,e-visa
 Albania,Iraq,visa required
 Albania,Ireland,visa required
@@ -317,7 +317,7 @@ Albania,Mongolia,visa required
 Albania,Montenegro,90
 Albania,Morocco,visa required
 Albania,Mozambique,visa on arrival
-Albania,Myanmar,e-visa
+Albania,Myanmar,visa required
 Albania,Namibia,visa required
 Albania,Nauru,visa required
 Albania,Nepal,visa on arrival
@@ -516,7 +516,7 @@ Algeria,Mongolia,visa required
 Algeria,Montenegro,visa required
 Algeria,Morocco,90
 Algeria,Mozambique,visa on arrival
-Algeria,Myanmar,e-visa
+Algeria,Myanmar,visa required
 Algeria,Namibia,visa required
 Algeria,Nauru,visa required
 Algeria,Nepal,visa on arrival
@@ -673,7 +673,7 @@ Andorra,Hong Kong,90
 Andorra,Hungary,90
 Andorra,Iceland,90
 Andorra,India,e-visa
-Andorra,Indonesia,visa on arrival
+Andorra,Indonesia,visa required
 Andorra,Iran,e-visa
 Andorra,Iraq,visa required
 Andorra,Ireland,90
@@ -768,7 +768,7 @@ Andorra,Suriname,e-visa
 Andorra,Sweden,90
 Andorra,Switzerland,90
 Andorra,Syria,visa required
-Andorra,Taiwan,90
+Andorra,Taiwan,covid ban
 Andorra,Tajikistan,visa on arrival
 Andorra,Tanzania,visa on arrival
 Andorra,Thailand,30
@@ -1312,7 +1312,7 @@ Argentina,Mongolia,90
 Argentina,Montenegro,90
 Argentina,Morocco,90
 Argentina,Mozambique,visa on arrival
-Argentina,Myanmar,e-visa
+Argentina,Myanmar,visa required
 Argentina,Namibia,visa required
 Argentina,Nauru,visa required
 Argentina,Nepal,visa on arrival
@@ -1710,7 +1710,7 @@ Australia,Mongolia,e-visa
 Australia,Montenegro,90
 Australia,Morocco,90
 Australia,Mozambique,visa on arrival
-Australia,Myanmar,e-visa
+Australia,Myanmar,visa required
 Australia,Namibia,90
 Australia,Nauru,visa required
 Australia,Nepal,visa on arrival
@@ -1763,7 +1763,7 @@ Australia,Suriname,e-visa
 Australia,Sweden,90
 Australia,Switzerland,90
 Australia,Syria,visa required
-Australia,Taiwan,90
+Australia,Taiwan,covid ban
 Australia,Tajikistan,30
 Australia,Tanzania,visa on arrival
 Australia,Thailand,30
@@ -1909,7 +1909,7 @@ Austria,Mongolia,e-visa
 Austria,Montenegro,90
 Austria,Morocco,90
 Austria,Mozambique,visa on arrival
-Austria,Myanmar,e-visa
+Austria,Myanmar,visa required
 Austria,Namibia,90
 Austria,Nauru,visa required
 Austria,Nepal,visa on arrival
@@ -1962,7 +1962,7 @@ Austria,Suriname,e-visa
 Austria,Sweden,visa free
 Austria,Switzerland,visa free
 Austria,Syria,visa required
-Austria,Taiwan,90
+Austria,Taiwan,covid ban
 Austria,Tajikistan,30
 Austria,Tanzania,visa on arrival
 Austria,Thailand,30
@@ -2635,7 +2635,7 @@ Bangladesh,Denmark,visa required
 Bangladesh,Djibouti,e-visa
 Bangladesh,Dominica,180
 Bangladesh,Dominican Republic,visa required
-Bangladesh,Ecuador,e-visa
+Bangladesh,Ecuador,visa required
 Bangladesh,Egypt,visa required
 Bangladesh,El Salvador,visa required
 Bangladesh,Equatorial Guinea,visa required
@@ -2681,7 +2681,7 @@ Bangladesh,Kyrgyzstan,e-visa
 Bangladesh,Laos,visa required
 Bangladesh,Latvia,visa required
 Bangladesh,Lebanon,visa required
-Bangladesh,Lesotho,visa required
+Bangladesh,Lesotho,visa free
 Bangladesh,Liberia,visa required
 Bangladesh,Libya,visa required
 Bangladesh,Liechtenstein,visa required
@@ -2705,7 +2705,7 @@ Bangladesh,Mongolia,visa required
 Bangladesh,Montenegro,visa required
 Bangladesh,Morocco,visa required
 Bangladesh,Mozambique,visa required
-Bangladesh,Myanmar,e-visa
+Bangladesh,Myanmar,visa required
 Bangladesh,Namibia,visa required
 Bangladesh,Nauru,visa required
 Bangladesh,Nepal,visa on arrival
@@ -3103,7 +3103,7 @@ Belarus,Mongolia,90
 Belarus,Montenegro,30
 Belarus,Morocco,visa required
 Belarus,Mozambique,visa on arrival
-Belarus,Myanmar,e-visa
+Belarus,Myanmar,visa required
 Belarus,Namibia,90
 Belarus,Nauru,visa required
 Belarus,Nepal,visa on arrival
@@ -3302,7 +3302,7 @@ Belgium,Mongolia,e-visa
 Belgium,Montenegro,90
 Belgium,Morocco,90
 Belgium,Mozambique,visa on arrival
-Belgium,Myanmar,e-visa
+Belgium,Myanmar,visa required
 Belgium,Namibia,90
 Belgium,Nauru,visa required
 Belgium,Nepal,visa on arrival
@@ -3355,7 +3355,7 @@ Belgium,Suriname,e-visa
 Belgium,Sweden,visa free
 Belgium,Switzerland,visa free
 Belgium,Syria,visa required
-Belgium,Taiwan,90
+Belgium,Taiwan,covid ban
 Belgium,Tajikistan,30
 Belgium,Tanzania,visa on arrival
 Belgium,Thailand,30
@@ -3554,7 +3554,7 @@ Belize,Suriname,180
 Belize,Sweden,visa required
 Belize,Switzerland,visa required
 Belize,Syria,visa required
-Belize,Taiwan,30
+Belize,Taiwan,covid ban
 Belize,Tajikistan,e-visa
 Belize,Tanzania,90
 Belize,Thailand,visa required
@@ -3899,7 +3899,7 @@ Bhutan,Mongolia,visa required
 Bhutan,Montenegro,visa required
 Bhutan,Morocco,visa required
 Bhutan,Mozambique,visa on arrival
-Bhutan,Myanmar,e-visa
+Bhutan,Myanmar,visa required
 Bhutan,Namibia,visa required
 Bhutan,Nauru,visa required
 Bhutan,Nepal,visa on arrival
@@ -4098,7 +4098,7 @@ Bolivia,Mongolia,visa required
 Bolivia,Montenegro,visa required
 Bolivia,Morocco,visa required
 Bolivia,Mozambique,visa on arrival
-Bolivia,Myanmar,e-visa
+Bolivia,Myanmar,visa required
 Bolivia,Namibia,visa required
 Bolivia,Nauru,visa required
 Bolivia,Nepal,visa on arrival
@@ -4297,7 +4297,7 @@ Bosnia and Herzegovina,Mongolia,visa required
 Bosnia and Herzegovina,Montenegro,90
 Bosnia and Herzegovina,Morocco,visa required
 Bosnia and Herzegovina,Mozambique,visa on arrival
-Bosnia and Herzegovina,Myanmar,e-visa
+Bosnia and Herzegovina,Myanmar,visa required
 Bosnia and Herzegovina,Namibia,visa required
 Bosnia and Herzegovina,Nauru,visa required
 Bosnia and Herzegovina,Nepal,visa on arrival
@@ -4472,7 +4472,7 @@ Botswana,Kyrgyzstan,e-visa
 Botswana,Laos,visa on arrival
 Botswana,Latvia,visa required
 Botswana,Lebanon,visa required
-Botswana,Lesotho,visa free
+Botswana,Lesotho,90
 Botswana,Liberia,visa required
 Botswana,Libya,visa required
 Botswana,Liechtenstein,visa required
@@ -4695,7 +4695,7 @@ Brazil,Mongolia,90
 Brazil,Montenegro,90
 Brazil,Morocco,90
 Brazil,Mozambique,visa on arrival
-Brazil,Myanmar,e-visa
+Brazil,Myanmar,visa required
 Brazil,Namibia,90
 Brazil,Nauru,visa required
 Brazil,Nepal,visa on arrival
@@ -4809,7 +4809,7 @@ Brunei,Cape Verde,visa on arrival
 Brunei,Central African Republic,visa required
 Brunei,Chad,visa required
 Brunei,Chile,visa required
-Brunei,China,covid ban
+Brunei,China,15
 Brunei,Colombia,90
 Brunei,Comoros,visa on arrival
 Brunei,Congo,visa required
@@ -4894,7 +4894,7 @@ Brunei,Mongolia,visa required
 Brunei,Montenegro,90
 Brunei,Morocco,visa required
 Brunei,Mozambique,visa on arrival
-Brunei,Myanmar,14
+Brunei,Myanmar,visa required
 Brunei,Namibia,visa required
 Brunei,Nauru,visa required
 Brunei,Nepal,visa on arrival
@@ -4947,7 +4947,7 @@ Brunei,Suriname,e-visa
 Brunei,Sweden,90
 Brunei,Switzerland,90
 Brunei,Syria,visa required
-Brunei,Taiwan,14
+Brunei,Taiwan,covid ban
 Brunei,Tajikistan,30
 Brunei,Tanzania,90
 Brunei,Thailand,30
@@ -5093,7 +5093,7 @@ Bulgaria,Mongolia,e-visa
 Bulgaria,Montenegro,90
 Bulgaria,Morocco,90
 Bulgaria,Mozambique,visa on arrival
-Bulgaria,Myanmar,e-visa
+Bulgaria,Myanmar,visa required
 Bulgaria,Namibia,visa on arrival
 Bulgaria,Nauru,visa required
 Bulgaria,Nepal,visa on arrival
@@ -5146,7 +5146,7 @@ Bulgaria,Suriname,e-visa
 Bulgaria,Sweden,visa free
 Bulgaria,Switzerland,visa free
 Bulgaria,Syria,visa required
-Bulgaria,Taiwan,90
+Bulgaria,Taiwan,covid ban
 Bulgaria,Tajikistan,visa on arrival
 Bulgaria,Tanzania,visa on arrival
 Bulgaria,Thailand,visa on arrival
@@ -5690,7 +5690,7 @@ Cambodia,Mongolia,visa required
 Cambodia,Montenegro,visa required
 Cambodia,Morocco,visa required
 Cambodia,Mozambique,visa on arrival
-Cambodia,Myanmar,14
+Cambodia,Myanmar,visa required
 Cambodia,Namibia,visa on arrival
 Cambodia,Nauru,visa required
 Cambodia,Nepal,visa on arrival
@@ -5865,7 +5865,7 @@ Cameroon,Kyrgyzstan,e-visa
 Cameroon,Laos,visa required
 Cameroon,Latvia,visa required
 Cameroon,Lebanon,visa required
-Cameroon,Lesotho,visa required
+Cameroon,Lesotho,90
 Cameroon,Liberia,visa required
 Cameroon,Libya,visa required
 Cameroon,Liechtenstein,visa required
@@ -5889,7 +5889,7 @@ Cameroon,Mongolia,visa required
 Cameroon,Montenegro,visa required
 Cameroon,Morocco,visa required
 Cameroon,Mozambique,visa on arrival
-Cameroon,Myanmar,e-visa
+Cameroon,Myanmar,visa required
 Cameroon,Namibia,visa on arrival
 Cameroon,Nauru,visa required
 Cameroon,Nepal,visa required
@@ -6053,7 +6053,7 @@ Canada,Ireland,90
 Canada,Israel,90
 Canada,Italy,90
 Canada,Jamaica,visa free
-Canada,Japan,e-visa
+Canada,Japan,visa required
 Canada,Jordan,visa on arrival
 Canada,Kazakhstan,30
 Canada,Kenya,e-visa
@@ -6088,7 +6088,7 @@ Canada,Mongolia,30
 Canada,Montenegro,90
 Canada,Morocco,90
 Canada,Mozambique,visa on arrival
-Canada,Myanmar,e-visa
+Canada,Myanmar,visa required
 Canada,Namibia,90
 Canada,Nauru,visa required
 Canada,Nepal,visa on arrival
@@ -6141,7 +6141,7 @@ Canada,Suriname,e-visa
 Canada,Sweden,90
 Canada,Switzerland,90
 Canada,Syria,visa required
-Canada,Taiwan,90
+Canada,Taiwan,covid ban
 Canada,Tajikistan,30
 Canada,Tanzania,visa on arrival
 Canada,Thailand,30
@@ -6842,7 +6842,7 @@ Chile,Hong Kong,90
 Chile,Hungary,90
 Chile,Iceland,90
 Chile,India,e-visa
-Chile,Indonesia,visa on arrival
+Chile,Indonesia,visa required
 Chile,Iran,e-visa
 Chile,Iraq,visa required
 Chile,Ireland,90
@@ -6884,7 +6884,7 @@ Chile,Mongolia,90
 Chile,Montenegro,90
 Chile,Morocco,90
 Chile,Mozambique,visa on arrival
-Chile,Myanmar,e-visa
+Chile,Myanmar,visa required
 Chile,Namibia,visa on arrival
 Chile,Nauru,visa required
 Chile,Nepal,visa on arrival
@@ -6937,7 +6937,7 @@ Chile,Suriname,e-visa
 Chile,Sweden,90
 Chile,Switzerland,90
 Chile,Syria,visa required
-Chile,Taiwan,90
+Chile,Taiwan,covid ban
 Chile,Tajikistan,30
 Chile,Tanzania,visa on arrival
 Chile,Thailand,90
@@ -7083,7 +7083,7 @@ China,Mongolia,e-visa
 China,Montenegro,visa required
 China,Morocco,90
 China,Mozambique,visa on arrival
-China,Myanmar,e-visa
+China,Myanmar,visa required
 China,Namibia,visa required
 China,Nauru,visa required
 China,Nepal,visa on arrival
@@ -7240,7 +7240,7 @@ Colombia,Hong Kong,90
 Colombia,Hungary,90
 Colombia,Iceland,90
 Colombia,India,e-visa
-Colombia,Indonesia,visa on arrival
+Colombia,Indonesia,visa required
 Colombia,Iran,e-visa
 Colombia,Iraq,visa required
 Colombia,Ireland,visa required
@@ -7282,7 +7282,7 @@ Colombia,Mongolia,visa required
 Colombia,Montenegro,90
 Colombia,Morocco,90
 Colombia,Mozambique,visa on arrival
-Colombia,Myanmar,e-visa
+Colombia,Myanmar,visa required
 Colombia,Namibia,visa required
 Colombia,Nauru,visa required
 Colombia,Nepal,visa on arrival
@@ -8078,7 +8078,7 @@ Costa Rica,Mongolia,visa required
 Costa Rica,Montenegro,90
 Costa Rica,Morocco,visa required
 Costa Rica,Mozambique,visa on arrival
-Costa Rica,Myanmar,e-visa
+Costa Rica,Myanmar,visa required
 Costa Rica,Namibia,visa required
 Costa Rica,Nauru,visa required
 Costa Rica,Nepal,visa on arrival
@@ -8277,7 +8277,7 @@ Ivory Coast,Mongolia,visa required
 Ivory Coast,Montenegro,visa required
 Ivory Coast,Morocco,90
 Ivory Coast,Mozambique,visa on arrival
-Ivory Coast,Myanmar,e-visa
+Ivory Coast,Myanmar,visa required
 Ivory Coast,Namibia,visa on arrival
 Ivory Coast,Nauru,visa required
 Ivory Coast,Nepal,visa on arrival
@@ -8476,7 +8476,7 @@ Croatia,Mongolia,e-visa
 Croatia,Montenegro,90
 Croatia,Morocco,90
 Croatia,Mozambique,visa on arrival
-Croatia,Myanmar,e-visa
+Croatia,Myanmar,visa required
 Croatia,Namibia,visa required
 Croatia,Nauru,visa required
 Croatia,Nepal,visa on arrival
@@ -8529,7 +8529,7 @@ Croatia,Suriname,e-visa
 Croatia,Sweden,visa free
 Croatia,Switzerland,visa free
 Croatia,Syria,visa required
-Croatia,Taiwan,90
+Croatia,Taiwan,covid ban
 Croatia,Tajikistan,30
 Croatia,Tanzania,visa on arrival
 Croatia,Thailand,visa required
@@ -8874,7 +8874,7 @@ Cyprus,Mongolia,e-visa
 Cyprus,Montenegro,90
 Cyprus,Morocco,90
 Cyprus,Mozambique,visa on arrival
-Cyprus,Myanmar,e-visa
+Cyprus,Myanmar,visa required
 Cyprus,Namibia,visa required
 Cyprus,Nauru,visa required
 Cyprus,Nepal,visa on arrival
@@ -8927,7 +8927,7 @@ Cyprus,Suriname,e-visa
 Cyprus,Sweden,visa free
 Cyprus,Switzerland,visa free
 Cyprus,Syria,visa required
-Cyprus,Taiwan,90
+Cyprus,Taiwan,covid ban
 Cyprus,Tajikistan,visa on arrival
 Cyprus,Tanzania,90
 Cyprus,Thailand,visa on arrival
@@ -9073,7 +9073,7 @@ Czech Republic,Mongolia,e-visa
 Czech Republic,Montenegro,90
 Czech Republic,Morocco,90
 Czech Republic,Mozambique,visa on arrival
-Czech Republic,Myanmar,e-visa
+Czech Republic,Myanmar,visa required
 Czech Republic,Namibia,visa on arrival
 Czech Republic,Nauru,visa required
 Czech Republic,Nepal,visa on arrival
@@ -9126,7 +9126,7 @@ Czech Republic,Suriname,e-visa
 Czech Republic,Sweden,visa free
 Czech Republic,Switzerland,visa free
 Czech Republic,Syria,visa required
-Czech Republic,Taiwan,90
+Czech Republic,Taiwan,covid ban
 Czech Republic,Tajikistan,30
 Czech Republic,Tanzania,visa on arrival
 Czech Republic,Thailand,30
@@ -9272,7 +9272,7 @@ Denmark,Mongolia,e-visa
 Denmark,Montenegro,90
 Denmark,Morocco,90
 Denmark,Mozambique,visa on arrival
-Denmark,Myanmar,e-visa
+Denmark,Myanmar,visa required
 Denmark,Namibia,90
 Denmark,Nauru,visa required
 Denmark,Nepal,visa on arrival
@@ -9325,7 +9325,7 @@ Denmark,Suriname,e-visa
 Denmark,Sweden,visa free
 Denmark,Switzerland,visa free
 Denmark,Syria,visa required
-Denmark,Taiwan,90
+Denmark,Taiwan,covid ban
 Denmark,Tajikistan,30
 Denmark,Tanzania,visa on arrival
 Denmark,Thailand,30
@@ -9585,7 +9585,7 @@ Dominica,Cape Verde,visa free
 Dominica,Central African Republic,visa required
 Dominica,Chad,visa required
 Dominica,Chile,visa required
-Dominica,China,30
+Dominica,China,visa required
 Dominica,Colombia,90
 Dominica,Comoros,visa on arrival
 Dominica,Congo,visa required
@@ -9922,7 +9922,7 @@ Dominican Republic,Suriname,e-visa
 Dominican Republic,Sweden,visa required
 Dominican Republic,Switzerland,visa required
 Dominican Republic,Syria,visa required
-Dominican Republic,Taiwan,30
+Dominican Republic,Taiwan,covid ban
 Dominican Republic,Tajikistan,30
 Dominican Republic,Tanzania,visa on arrival
 Dominican Republic,Thailand,visa required
@@ -10026,7 +10026,7 @@ Ecuador,Hong Kong,90
 Ecuador,Hungary,visa required
 Ecuador,Iceland,visa required
 Ecuador,India,e-visa
-Ecuador,Indonesia,visa on arrival
+Ecuador,Indonesia,visa required
 Ecuador,Iran,e-visa
 Ecuador,Iraq,visa required
 Ecuador,Ireland,visa required
@@ -10068,7 +10068,7 @@ Ecuador,Mongolia,90
 Ecuador,Montenegro,30
 Ecuador,Morocco,visa required
 Ecuador,Mozambique,visa on arrival
-Ecuador,Myanmar,e-visa
+Ecuador,Myanmar,visa required
 Ecuador,Namibia,visa required
 Ecuador,Nauru,visa required
 Ecuador,Nepal,visa on arrival
@@ -10142,7 +10142,7 @@ Ecuador,Uruguay,90
 Ecuador,Uzbekistan,e-visa
 Ecuador,Vanuatu,visa required
 Ecuador,Vatican,visa required
-Ecuador,Venezuela,90
+Ecuador,Venezuela,visa required
 Ecuador,Vietnam,visa required
 Ecuador,Yemen,visa required
 Ecuador,Zambia,visa on arrival
@@ -10197,7 +10197,7 @@ Egypt,Denmark,visa required
 Egypt,Djibouti,e-visa
 Egypt,Dominica,21
 Egypt,Dominican Republic,visa required
-Egypt,Ecuador,e-visa
+Egypt,Ecuador,visa required
 Egypt,Egypt,-1
 Egypt,El Salvador,visa required
 Egypt,Equatorial Guinea,visa required
@@ -10267,7 +10267,7 @@ Egypt,Mongolia,visa required
 Egypt,Montenegro,visa required
 Egypt,Morocco,visa required
 Egypt,Mozambique,visa on arrival
-Egypt,Myanmar,e-visa
+Egypt,Myanmar,visa required
 Egypt,Namibia,visa required
 Egypt,Nauru,visa required
 Egypt,Nepal,visa on arrival
@@ -10864,7 +10864,7 @@ Eritrea,Mongolia,visa required
 Eritrea,Montenegro,visa required
 Eritrea,Morocco,visa required
 Eritrea,Mozambique,visa required
-Eritrea,Myanmar,e-visa
+Eritrea,Myanmar,visa required
 Eritrea,Namibia,visa on arrival
 Eritrea,Nauru,visa required
 Eritrea,Nepal,visa on arrival
@@ -11063,7 +11063,7 @@ Estonia,Mongolia,e-visa
 Estonia,Montenegro,90
 Estonia,Morocco,90
 Estonia,Mozambique,visa on arrival
-Estonia,Myanmar,e-visa
+Estonia,Myanmar,visa required
 Estonia,Namibia,visa required
 Estonia,Nauru,visa required
 Estonia,Nepal,visa on arrival
@@ -11116,7 +11116,7 @@ Estonia,Suriname,e-visa
 Estonia,Sweden,visa free
 Estonia,Switzerland,visa free
 Estonia,Syria,visa required
-Estonia,Taiwan,90
+Estonia,Taiwan,covid ban
 Estonia,Tajikistan,30
 Estonia,Tanzania,visa on arrival
 Estonia,Thailand,30
@@ -11315,7 +11315,7 @@ Swaziland,Suriname,e-visa
 Swaziland,Sweden,visa required
 Swaziland,Switzerland,visa required
 Swaziland,Syria,visa required
-Swaziland,Taiwan,90
+Swaziland,Taiwan,covid ban
 Swaziland,Tajikistan,e-visa
 Swaziland,Tanzania,90
 Swaziland,Thailand,visa required
@@ -11660,7 +11660,7 @@ Fiji,Mongolia,visa required
 Fiji,Montenegro,visa required
 Fiji,Morocco,visa required
 Fiji,Mozambique,visa on arrival
-Fiji,Myanmar,e-visa
+Fiji,Myanmar,visa required
 Fiji,Namibia,visa required
 Fiji,Nauru,visa on arrival
 Fiji,Nepal,visa on arrival
@@ -11859,7 +11859,7 @@ Finland,Mongolia,e-visa
 Finland,Montenegro,90
 Finland,Morocco,90
 Finland,Mozambique,visa on arrival
-Finland,Myanmar,e-visa
+Finland,Myanmar,visa required
 Finland,Namibia,90
 Finland,Nauru,visa required
 Finland,Nepal,visa on arrival
@@ -11912,7 +11912,7 @@ Finland,Suriname,e-visa
 Finland,Sweden,visa free
 Finland,Switzerland,visa free
 Finland,Syria,visa required
-Finland,Taiwan,90
+Finland,Taiwan,covid ban
 Finland,Tajikistan,30
 Finland,Tanzania,visa on arrival
 Finland,Thailand,30
@@ -12058,7 +12058,7 @@ France,Mongolia,e-visa
 France,Montenegro,90
 France,Morocco,90
 France,Mozambique,visa on arrival
-France,Myanmar,e-visa
+France,Myanmar,visa required
 France,Namibia,90
 France,Nauru,visa required
 France,Nepal,visa on arrival
@@ -12111,7 +12111,7 @@ France,Suriname,e-visa
 France,Sweden,visa free
 France,Switzerland,visa free
 France,Syria,visa required
-France,Taiwan,90
+France,Taiwan,covid ban
 France,Tajikistan,30
 France,Tanzania,visa on arrival
 France,Thailand,30
@@ -12655,7 +12655,7 @@ Georgia,Mongolia,visa required
 Georgia,Montenegro,90
 Georgia,Morocco,visa required
 Georgia,Mozambique,visa on arrival
-Georgia,Myanmar,e-visa
+Georgia,Myanmar,visa required
 Georgia,Namibia,visa required
 Georgia,Nauru,visa required
 Georgia,Nepal,visa on arrival
@@ -12854,7 +12854,7 @@ Germany,Mongolia,30
 Germany,Montenegro,90
 Germany,Morocco,90
 Germany,Mozambique,visa on arrival
-Germany,Myanmar,e-visa
+Germany,Myanmar,visa required
 Germany,Namibia,90
 Germany,Nauru,visa required
 Germany,Nepal,visa on arrival
@@ -12907,7 +12907,7 @@ Germany,Suriname,e-visa
 Germany,Sweden,visa free
 Germany,Switzerland,visa free
 Germany,Syria,visa required
-Germany,Taiwan,90
+Germany,Taiwan,covid ban
 Germany,Tajikistan,30
 Germany,Tanzania,visa on arrival
 Germany,Thailand,30
@@ -13053,7 +13053,7 @@ Ghana,Mongolia,visa required
 Ghana,Montenegro,visa required
 Ghana,Morocco,visa required
 Ghana,Mozambique,visa on arrival
-Ghana,Myanmar,e-visa
+Ghana,Myanmar,visa required
 Ghana,Namibia,visa required
 Ghana,Nauru,visa required
 Ghana,Nepal,visa required
@@ -13252,7 +13252,7 @@ Greece,Mongolia,e-visa
 Greece,Montenegro,90
 Greece,Morocco,90
 Greece,Mozambique,visa on arrival
-Greece,Myanmar,e-visa
+Greece,Myanmar,visa required
 Greece,Namibia,visa required
 Greece,Nauru,visa required
 Greece,Nepal,visa on arrival
@@ -13305,7 +13305,7 @@ Greece,Suriname,e-visa
 Greece,Sweden,visa free
 Greece,Switzerland,visa free
 Greece,Syria,visa required
-Greece,Taiwan,90
+Greece,Taiwan,covid ban
 Greece,Tajikistan,30
 Greece,Tanzania,visa on arrival
 Greece,Thailand,30
@@ -13650,7 +13650,7 @@ Guatemala,Mongolia,visa required
 Guatemala,Montenegro,90
 Guatemala,Morocco,visa required
 Guatemala,Mozambique,visa on arrival
-Guatemala,Myanmar,e-visa
+Guatemala,Myanmar,visa required
 Guatemala,Namibia,visa required
 Guatemala,Nauru,visa required
 Guatemala,Nepal,visa on arrival
@@ -13703,7 +13703,7 @@ Guatemala,Suriname,e-visa
 Guatemala,Sweden,90
 Guatemala,Switzerland,90
 Guatemala,Syria,visa required
-Guatemala,Taiwan,90
+Guatemala,Taiwan,covid ban
 Guatemala,Tajikistan,e-visa
 Guatemala,Tanzania,visa on arrival
 Guatemala,Thailand,visa required
@@ -13849,7 +13849,7 @@ Guinea,Mongolia,visa required
 Guinea,Montenegro,visa required
 Guinea,Morocco,e-visa
 Guinea,Mozambique,visa on arrival
-Guinea,Myanmar,e-visa
+Guinea,Myanmar,visa required
 Guinea,Namibia,visa on arrival
 Guinea,Nauru,visa required
 Guinea,Nepal,visa on arrival
@@ -14499,7 +14499,7 @@ Haiti,Suriname,visa required
 Haiti,Sweden,visa required
 Haiti,Switzerland,visa required
 Haiti,Syria,visa required
-Haiti,Taiwan,90
+Haiti,Taiwan,covid ban
 Haiti,Tajikistan,e-visa
 Haiti,Tanzania,visa on arrival
 Haiti,Thailand,visa required
@@ -14698,7 +14698,7 @@ Honduras,Suriname,e-visa
 Honduras,Sweden,90
 Honduras,Switzerland,90
 Honduras,Syria,visa required
-Honduras,Taiwan,90
+Honduras,Taiwan,covid ban
 Honduras,Tajikistan,e-visa
 Honduras,Tanzania,visa on arrival
 Honduras,Thailand,visa required
@@ -14909,7 +14909,7 @@ Hong Kong,Tunisia,90
 Hong Kong,Turkey,90
 Hong Kong,Turkmenistan,visa required
 Hong Kong,Tuvalu,visa on arrival
-Hong Kong,Uganda,visa required
+Hong Kong,Uganda,90
 Hong Kong,Ukraine,14
 Hong Kong,United Arab Emirates,visa on arrival
 Hong Kong,United Kingdom,180
@@ -15043,7 +15043,7 @@ Hungary,Mongolia,e-visa
 Hungary,Montenegro,90
 Hungary,Morocco,90
 Hungary,Mozambique,visa on arrival
-Hungary,Myanmar,e-visa
+Hungary,Myanmar,visa required
 Hungary,Namibia,visa on arrival
 Hungary,Nauru,visa required
 Hungary,Nepal,visa on arrival
@@ -15096,7 +15096,7 @@ Hungary,Suriname,e-visa
 Hungary,Sweden,visa free
 Hungary,Switzerland,visa free
 Hungary,Syria,visa required
-Hungary,Taiwan,90
+Hungary,Taiwan,covid ban
 Hungary,Tajikistan,30
 Hungary,Tanzania,visa on arrival
 Hungary,Thailand,30
@@ -15200,7 +15200,7 @@ Iceland,Hong Kong,90
 Iceland,Hungary,visa free
 Iceland,Iceland,-1
 Iceland,India,e-visa
-Iceland,Indonesia,visa on arrival
+Iceland,Indonesia,visa required
 Iceland,Iran,e-visa
 Iceland,Iraq,visa required
 Iceland,Ireland,visa free
@@ -15242,7 +15242,7 @@ Iceland,Mongolia,e-visa
 Iceland,Montenegro,90
 Iceland,Morocco,90
 Iceland,Mozambique,visa on arrival
-Iceland,Myanmar,e-visa
+Iceland,Myanmar,visa required
 Iceland,Namibia,90
 Iceland,Nauru,visa required
 Iceland,Nepal,visa on arrival
@@ -15295,7 +15295,7 @@ Iceland,Suriname,e-visa
 Iceland,Sweden,visa free
 Iceland,Switzerland,visa free
 Iceland,Syria,visa required
-Iceland,Taiwan,90
+Iceland,Taiwan,covid ban
 Iceland,Tajikistan,30
 Iceland,Tanzania,visa on arrival
 Iceland,Thailand,30
@@ -15441,7 +15441,7 @@ India,Mongolia,visa required
 India,Montenegro,visa required
 India,Morocco,visa required
 India,Mozambique,visa required
-India,Myanmar,e-visa
+India,Myanmar,visa required
 India,Namibia,visa required
 India,Nauru,visa required
 India,Nepal,visa free
@@ -15640,7 +15640,7 @@ Indonesia,Mongolia,visa required
 Indonesia,Montenegro,visa required
 Indonesia,Morocco,90
 Indonesia,Mozambique,visa on arrival
-Indonesia,Myanmar,14
+Indonesia,Myanmar,visa required
 Indonesia,Namibia,30
 Indonesia,Nauru,visa required
 Indonesia,Nepal,visa on arrival
@@ -16237,7 +16237,7 @@ Ireland,Mongolia,e-visa
 Ireland,Montenegro,90
 Ireland,Morocco,90
 Ireland,Mozambique,visa on arrival
-Ireland,Myanmar,e-visa
+Ireland,Myanmar,visa required
 Ireland,Namibia,90
 Ireland,Nauru,visa required
 Ireland,Nepal,visa on arrival
@@ -16290,7 +16290,7 @@ Ireland,Suriname,e-visa
 Ireland,Sweden,visa free
 Ireland,Switzerland,visa free
 Ireland,Syria,visa required
-Ireland,Taiwan,90
+Ireland,Taiwan,covid ban
 Ireland,Tajikistan,visa on arrival
 Ireland,Tanzania,visa on arrival
 Ireland,Thailand,30
@@ -16436,7 +16436,7 @@ Israel,Mongolia,30
 Israel,Montenegro,90
 Israel,Morocco,e-visa
 Israel,Mozambique,visa on arrival
-Israel,Myanmar,e-visa
+Israel,Myanmar,visa required
 Israel,Namibia,visa required
 Israel,Nauru,visa on arrival
 Israel,Nepal,visa on arrival
@@ -16456,7 +16456,7 @@ Israel,Panama,90
 Israel,Papua New Guinea,visa on arrival
 Israel,Paraguay,90
 Israel,Peru,180
-Israel,Philippines,60
+Israel,Philippines,30
 Israel,Poland,90
 Israel,Portugal,90
 Israel,Qatar,e-visa
@@ -16489,7 +16489,7 @@ Israel,Suriname,180
 Israel,Sweden,90
 Israel,Switzerland,90
 Israel,Syria,no admission
-Israel,Taiwan,90
+Israel,Taiwan,covid ban
 Israel,Tajikistan,visa on arrival
 Israel,Tanzania,visa on arrival
 Israel,Thailand,30
@@ -16635,7 +16635,7 @@ Italy,Mongolia,e-visa
 Italy,Montenegro,90
 Italy,Morocco,90
 Italy,Mozambique,visa on arrival
-Italy,Myanmar,e-visa
+Italy,Myanmar,visa required
 Italy,Namibia,90
 Italy,Nauru,visa required
 Italy,Nepal,visa on arrival
@@ -16688,7 +16688,7 @@ Italy,Suriname,e-visa
 Italy,Sweden,visa free
 Italy,Switzerland,visa free
 Italy,Syria,visa required
-Italy,Taiwan,90
+Italy,Taiwan,covid ban
 Italy,Tajikistan,30
 Italy,Tanzania,visa on arrival
 Italy,Thailand,30
@@ -16834,7 +16834,7 @@ Jamaica,Mongolia,visa required
 Jamaica,Montenegro,visa required
 Jamaica,Morocco,visa required
 Jamaica,Mozambique,visa on arrival
-Jamaica,Myanmar,e-visa
+Jamaica,Myanmar,visa required
 Jamaica,Namibia,90
 Jamaica,Nauru,visa required
 Jamaica,Nepal,visa on arrival
@@ -16948,7 +16948,7 @@ Japan,Cape Verde,visa on arrival
 Japan,Central African Republic,visa required
 Japan,Chad,visa required
 Japan,Chile,90
-Japan,China,covid ban
+Japan,China,15
 Japan,Colombia,90
 Japan,Comoros,visa on arrival
 Japan,Congo,visa required
@@ -17033,7 +17033,7 @@ Japan,Mongolia,30
 Japan,Montenegro,90
 Japan,Morocco,90
 Japan,Mozambique,visa on arrival
-Japan,Myanmar,e-visa
+Japan,Myanmar,visa required
 Japan,Namibia,90
 Japan,Nauru,visa required
 Japan,Nepal,visa on arrival
@@ -17086,7 +17086,7 @@ Japan,Suriname,90
 Japan,Sweden,90
 Japan,Switzerland,90
 Japan,Syria,visa required
-Japan,Taiwan,90
+Japan,Taiwan,covid ban
 Japan,Tajikistan,30
 Japan,Tanzania,visa on arrival
 Japan,Thailand,30
@@ -17232,7 +17232,7 @@ Jordan,Mongolia,visa required
 Jordan,Montenegro,visa required
 Jordan,Morocco,visa required
 Jordan,Mozambique,visa on arrival
-Jordan,Myanmar,e-visa
+Jordan,Myanmar,visa required
 Jordan,Namibia,visa required
 Jordan,Nauru,visa required
 Jordan,Nepal,visa on arrival
@@ -17431,7 +17431,7 @@ Kazakhstan,Mongolia,90
 Kazakhstan,Montenegro,30
 Kazakhstan,Morocco,visa required
 Kazakhstan,Mozambique,visa on arrival
-Kazakhstan,Myanmar,e-visa
+Kazakhstan,Myanmar,visa required
 Kazakhstan,Namibia,90
 Kazakhstan,Nauru,visa required
 Kazakhstan,Nepal,visa on arrival
@@ -17630,7 +17630,7 @@ Kenya,Mongolia,visa required
 Kenya,Montenegro,visa required
 Kenya,Morocco,visa required
 Kenya,Mozambique,visa on arrival
-Kenya,Myanmar,e-visa
+Kenya,Myanmar,visa required
 Kenya,Namibia,90
 Kenya,Nauru,visa required
 Kenya,Nepal,visa on arrival
@@ -18227,7 +18227,7 @@ Kuwait,Mongolia,visa required
 Kuwait,Montenegro,90
 Kuwait,Morocco,90
 Kuwait,Mozambique,visa on arrival
-Kuwait,Myanmar,e-visa
+Kuwait,Myanmar,visa required
 Kuwait,Namibia,visa required
 Kuwait,Nauru,visa required
 Kuwait,Nepal,visa on arrival
@@ -18426,7 +18426,7 @@ Kyrgyzstan,Mongolia,90
 Kyrgyzstan,Montenegro,visa required
 Kyrgyzstan,Morocco,visa required
 Kyrgyzstan,Mozambique,visa on arrival
-Kyrgyzstan,Myanmar,e-visa
+Kyrgyzstan,Myanmar,visa required
 Kyrgyzstan,Namibia,90
 Kyrgyzstan,Nauru,visa required
 Kyrgyzstan,Nepal,visa on arrival
@@ -18625,7 +18625,7 @@ Laos,Mongolia,30
 Laos,Montenegro,visa required
 Laos,Morocco,visa required
 Laos,Mozambique,visa on arrival
-Laos,Myanmar,14
+Laos,Myanmar,visa required
 Laos,Namibia,visa required
 Laos,Nauru,visa required
 Laos,Nepal,visa on arrival
@@ -18824,7 +18824,7 @@ Latvia,Mongolia,e-visa
 Latvia,Montenegro,90
 Latvia,Morocco,90
 Latvia,Mozambique,visa on arrival
-Latvia,Myanmar,e-visa
+Latvia,Myanmar,visa required
 Latvia,Namibia,visa required
 Latvia,Nauru,visa required
 Latvia,Nepal,visa on arrival
@@ -18877,7 +18877,7 @@ Latvia,Suriname,e-visa
 Latvia,Sweden,visa free
 Latvia,Switzerland,visa free
 Latvia,Syria,visa required
-Latvia,Taiwan,90
+Latvia,Taiwan,covid ban
 Latvia,Tajikistan,30
 Latvia,Tanzania,visa on arrival
 Latvia,Thailand,30
@@ -19777,7 +19777,7 @@ Liechtenstein,Hong Kong,90
 Liechtenstein,Hungary,visa free
 Liechtenstein,Iceland,visa free
 Liechtenstein,India,e-visa
-Liechtenstein,Indonesia,visa on arrival
+Liechtenstein,Indonesia,visa required
 Liechtenstein,Iran,e-visa
 Liechtenstein,Iraq,visa required
 Liechtenstein,Ireland,visa free
@@ -19872,7 +19872,7 @@ Liechtenstein,Suriname,e-visa
 Liechtenstein,Sweden,visa free
 Liechtenstein,Switzerland,visa free
 Liechtenstein,Syria,visa required
-Liechtenstein,Taiwan,90
+Liechtenstein,Taiwan,covid ban
 Liechtenstein,Tajikistan,30
 Liechtenstein,Tanzania,visa on arrival
 Liechtenstein,Thailand,30
@@ -20018,7 +20018,7 @@ Lithuania,Mongolia,e-visa
 Lithuania,Montenegro,90
 Lithuania,Morocco,90
 Lithuania,Mozambique,visa on arrival
-Lithuania,Myanmar,e-visa
+Lithuania,Myanmar,visa required
 Lithuania,Namibia,visa required
 Lithuania,Nauru,visa required
 Lithuania,Nepal,visa on arrival
@@ -20071,7 +20071,7 @@ Lithuania,Suriname,e-visa
 Lithuania,Sweden,visa free
 Lithuania,Switzerland,visa free
 Lithuania,Syria,visa required
-Lithuania,Taiwan,90
+Lithuania,Taiwan,covid ban
 Lithuania,Tajikistan,30
 Lithuania,Tanzania,visa on arrival
 Lithuania,Thailand,30
@@ -20217,7 +20217,7 @@ Luxembourg,Mongolia,e-visa
 Luxembourg,Montenegro,90
 Luxembourg,Morocco,90
 Luxembourg,Mozambique,visa on arrival
-Luxembourg,Myanmar,e-visa
+Luxembourg,Myanmar,visa required
 Luxembourg,Namibia,90
 Luxembourg,Nauru,visa required
 Luxembourg,Nepal,visa on arrival
@@ -20270,7 +20270,7 @@ Luxembourg,Suriname,e-visa
 Luxembourg,Sweden,visa free
 Luxembourg,Switzerland,visa free
 Luxembourg,Syria,visa required
-Luxembourg,Taiwan,90
+Luxembourg,Taiwan,covid ban
 Luxembourg,Tajikistan,30
 Luxembourg,Tanzania,visa on arrival
 Luxembourg,Thailand,30
@@ -21013,7 +21013,7 @@ Malaysia,Mongolia,30
 Malaysia,Montenegro,90
 Malaysia,Morocco,90
 Malaysia,Mozambique,visa on arrival
-Malaysia,Myanmar,e-visa
+Malaysia,Myanmar,visa required
 Malaysia,Namibia,90
 Malaysia,Nauru,visa required
 Malaysia,Nepal,visa on arrival
@@ -21066,7 +21066,7 @@ Malaysia,Suriname,30
 Malaysia,Sweden,90
 Malaysia,Switzerland,90
 Malaysia,Syria,visa required
-Malaysia,Taiwan,30
+Malaysia,Taiwan,covid ban
 Malaysia,Tajikistan,30
 Malaysia,Tanzania,90
 Malaysia,Thailand,30
@@ -21170,7 +21170,7 @@ Maldives,Hong Kong,90
 Maldives,Hungary,visa required
 Maldives,Iceland,visa required
 Maldives,India,90
-Maldives,Indonesia,visa on arrival
+Maldives,Indonesia,visa required
 Maldives,Iran,e-visa
 Maldives,Iraq,visa required
 Maldives,Ireland,90
@@ -21212,7 +21212,7 @@ Maldives,Mongolia,visa required
 Maldives,Montenegro,visa required
 Maldives,Morocco,30
 Maldives,Mozambique,visa on arrival
-Maldives,Myanmar,e-visa
+Maldives,Myanmar,visa required
 Maldives,Namibia,visa required
 Maldives,Nauru,visa required
 Maldives,Nepal,visa on arrival
@@ -21610,7 +21610,7 @@ Malta,Mongolia,e-visa
 Malta,Montenegro,90
 Malta,Morocco,90
 Malta,Mozambique,visa on arrival
-Malta,Myanmar,e-visa
+Malta,Myanmar,visa required
 Malta,Namibia,visa required
 Malta,Nauru,visa required
 Malta,Nepal,visa on arrival
@@ -21663,7 +21663,7 @@ Malta,Suriname,e-visa
 Malta,Sweden,visa free
 Malta,Switzerland,visa free
 Malta,Syria,visa required
-Malta,Taiwan,90
+Malta,Taiwan,covid ban
 Malta,Tajikistan,visa on arrival
 Malta,Tanzania,90
 Malta,Thailand,visa on arrival
@@ -21862,7 +21862,7 @@ Marshall Islands,Suriname,e-visa
 Marshall Islands,Sweden,90
 Marshall Islands,Switzerland,90
 Marshall Islands,Syria,visa required
-Marshall Islands,Taiwan,90
+Marshall Islands,Taiwan,covid ban
 Marshall Islands,Tajikistan,e-visa
 Marshall Islands,Tanzania,visa on arrival
 Marshall Islands,Thailand,visa required
@@ -22207,7 +22207,7 @@ Mauritius,Mongolia,visa required
 Mauritius,Montenegro,90
 Mauritius,Morocco,visa required
 Mauritius,Mozambique,visa free
-Mauritius,Myanmar,e-visa
+Mauritius,Myanmar,visa required
 Mauritius,Namibia,90
 Mauritius,Nauru,visa required
 Mauritius,Nepal,visa on arrival
@@ -22406,7 +22406,7 @@ Mexico,Mongolia,visa required
 Mexico,Montenegro,90
 Mexico,Morocco,90
 Mexico,Mozambique,visa on arrival
-Mexico,Myanmar,e-visa
+Mexico,Myanmar,visa required
 Mexico,Namibia,visa on arrival
 Mexico,Nauru,visa required
 Mexico,Nepal,visa on arrival
@@ -22961,7 +22961,7 @@ Monaco,Hong Kong,90
 Monaco,Hungary,90
 Monaco,Iceland,90
 Monaco,India,e-visa
-Monaco,Indonesia,visa on arrival
+Monaco,Indonesia,visa required
 Monaco,Iran,e-visa
 Monaco,Iraq,visa required
 Monaco,Ireland,90
@@ -23003,7 +23003,7 @@ Monaco,Mongolia,e-visa
 Monaco,Montenegro,90
 Monaco,Morocco,90
 Monaco,Mozambique,visa on arrival
-Monaco,Myanmar,e-visa
+Monaco,Myanmar,visa required
 Monaco,Namibia,visa required
 Monaco,Nauru,visa required
 Monaco,Nepal,visa on arrival
@@ -23056,7 +23056,7 @@ Monaco,Suriname,e-visa
 Monaco,Sweden,90
 Monaco,Switzerland,90
 Monaco,Syria,visa required
-Monaco,Taiwan,90
+Monaco,Taiwan,covid ban
 Monaco,Tajikistan,30
 Monaco,Tanzania,visa on arrival
 Monaco,Thailand,30
@@ -23202,7 +23202,7 @@ Mongolia,Mongolia,-1
 Mongolia,Montenegro,visa required
 Mongolia,Morocco,visa required
 Mongolia,Mozambique,visa on arrival
-Mongolia,Myanmar,e-visa
+Mongolia,Myanmar,visa required
 Mongolia,Namibia,visa required
 Mongolia,Nauru,visa required
 Mongolia,Nepal,visa on arrival
@@ -23600,7 +23600,7 @@ Morocco,Mongolia,visa required
 Morocco,Montenegro,visa required
 Morocco,Morocco,-1
 Morocco,Mozambique,visa on arrival
-Morocco,Myanmar,e-visa
+Morocco,Myanmar,visa required
 Morocco,Namibia,visa required
 Morocco,Nauru,visa required
 Morocco,Nepal,visa on arrival
@@ -24449,7 +24449,7 @@ Nauru,Suriname,e-visa
 Nauru,Sweden,visa required
 Nauru,Switzerland,visa required
 Nauru,Syria,visa required
-Nauru,Taiwan,30
+Nauru,Taiwan,covid ban
 Nauru,Tajikistan,e-visa
 Nauru,Tanzania,90
 Nauru,Thailand,visa on arrival
@@ -24595,7 +24595,7 @@ Nepal,Mongolia,visa required
 Nepal,Montenegro,visa required
 Nepal,Morocco,visa required
 Nepal,Mozambique,visa on arrival
-Nepal,Myanmar,e-visa
+Nepal,Myanmar,visa required
 Nepal,Namibia,visa required
 Nepal,Nauru,visa required
 Nepal,Nepal,-1
@@ -24794,7 +24794,7 @@ Netherlands,Mongolia,e-visa
 Netherlands,Montenegro,90
 Netherlands,Morocco,90
 Netherlands,Mozambique,visa on arrival
-Netherlands,Myanmar,e-visa
+Netherlands,Myanmar,visa required
 Netherlands,Namibia,90
 Netherlands,Nauru,visa required
 Netherlands,Nepal,visa on arrival
@@ -24847,7 +24847,7 @@ Netherlands,Suriname,e-visa
 Netherlands,Sweden,visa free
 Netherlands,Switzerland,visa free
 Netherlands,Syria,visa required
-Netherlands,Taiwan,90
+Netherlands,Taiwan,covid ban
 Netherlands,Tajikistan,30
 Netherlands,Tanzania,visa on arrival
 Netherlands,Thailand,30
@@ -24993,7 +24993,7 @@ New Zealand,Mongolia,e-visa
 New Zealand,Montenegro,90
 New Zealand,Morocco,90
 New Zealand,Mozambique,visa on arrival
-New Zealand,Myanmar,e-visa
+New Zealand,Myanmar,visa required
 New Zealand,Namibia,90
 New Zealand,Nauru,visa required
 New Zealand,Nepal,visa on arrival
@@ -25046,7 +25046,7 @@ New Zealand,Suriname,e-visa
 New Zealand,Sweden,90
 New Zealand,Switzerland,90
 New Zealand,Syria,visa required
-New Zealand,Taiwan,90
+New Zealand,Taiwan,covid ban
 New Zealand,Tajikistan,30
 New Zealand,Tanzania,visa on arrival
 New Zealand,Thailand,30
@@ -25245,7 +25245,7 @@ Nicaragua,Suriname,e-visa
 Nicaragua,Sweden,90
 Nicaragua,Switzerland,90
 Nicaragua,Syria,visa required
-Nicaragua,Taiwan,90
+Nicaragua,Taiwan,covid ban
 Nicaragua,Tajikistan,e-visa
 Nicaragua,Tanzania,visa on arrival
 Nicaragua,Thailand,visa required
@@ -26041,7 +26041,7 @@ North Macedonia,Suriname,e-visa
 North Macedonia,Sweden,90
 North Macedonia,Switzerland,90
 North Macedonia,Syria,visa required
-North Macedonia,Taiwan,90
+North Macedonia,Taiwan,covid ban
 North Macedonia,Tajikistan,e-visa
 North Macedonia,Tanzania,visa on arrival
 North Macedonia,Thailand,visa required
@@ -26187,7 +26187,7 @@ Norway,Mongolia,e-visa
 Norway,Montenegro,90
 Norway,Morocco,90
 Norway,Mozambique,visa on arrival
-Norway,Myanmar,e-visa
+Norway,Myanmar,visa required
 Norway,Namibia,90
 Norway,Nauru,visa required
 Norway,Nepal,visa on arrival
@@ -26240,7 +26240,7 @@ Norway,Suriname,e-visa
 Norway,Sweden,visa free
 Norway,Switzerland,visa free
 Norway,Syria,visa required
-Norway,Taiwan,90
+Norway,Taiwan,covid ban
 Norway,Tajikistan,30
 Norway,Tanzania,visa on arrival
 Norway,Thailand,30
@@ -26317,7 +26317,7 @@ Oman,Djibouti,e-visa
 Oman,Dominica,21
 Oman,Dominican Republic,visa required
 Oman,Ecuador,90
-Oman,Egypt,180
+Oman,Egypt,90
 Oman,El Salvador,visa required
 Oman,Equatorial Guinea,visa required
 Oman,Eritrea,visa required
@@ -26585,7 +26585,7 @@ Pakistan,Mongolia,visa required
 Pakistan,Montenegro,visa required
 Pakistan,Morocco,visa required
 Pakistan,Mozambique,visa required
-Pakistan,Myanmar,e-visa
+Pakistan,Myanmar,visa required
 Pakistan,Namibia,visa required
 Pakistan,Nauru,visa required
 Pakistan,Nepal,visa on arrival
@@ -26837,7 +26837,7 @@ Palau,Suriname,e-visa
 Palau,Sweden,90
 Palau,Switzerland,90
 Palau,Syria,visa required
-Palau,Taiwan,90
+Palau,Taiwan,covid ban
 Palau,Tajikistan,e-visa
 Palau,Tanzania,visa on arrival
 Palau,Thailand,visa required
@@ -26941,7 +26941,7 @@ Palestine,Hong Kong,visa required
 Palestine,Hungary,visa required
 Palestine,Iceland,visa required
 Palestine,India,e-visa
-Palestine,Indonesia,visa on arrival
+Palestine,Indonesia,visa required
 Palestine,Iran,e-visa
 Palestine,Iraq,visa required
 Palestine,Ireland,visa required
@@ -27182,7 +27182,7 @@ Panama,Mongolia,visa required
 Panama,Montenegro,90
 Panama,Morocco,visa required
 Panama,Mozambique,visa on arrival
-Panama,Myanmar,e-visa
+Panama,Myanmar,visa required
 Panama,Namibia,visa required
 Panama,Nauru,visa required
 Panama,Nepal,visa on arrival
@@ -27633,7 +27633,7 @@ Paraguay,Suriname,e-visa
 Paraguay,Sweden,90
 Paraguay,Switzerland,90
 Paraguay,Syria,visa required
-Paraguay,Taiwan,90
+Paraguay,Taiwan,covid ban
 Paraguay,Tajikistan,e-visa
 Paraguay,Tanzania,visa on arrival
 Paraguay,Thailand,visa required
@@ -27779,7 +27779,7 @@ Peru,Mongolia,90
 Peru,Montenegro,30
 Peru,Morocco,90
 Peru,Mozambique,visa on arrival
-Peru,Myanmar,e-visa
+Peru,Myanmar,visa required
 Peru,Namibia,visa required
 Peru,Nauru,visa required
 Peru,Nepal,visa on arrival
@@ -27978,7 +27978,7 @@ Philippines,Mongolia,21
 Philippines,Montenegro,visa required
 Philippines,Morocco,90
 Philippines,Mozambique,visa on arrival
-Philippines,Myanmar,14
+Philippines,Myanmar,visa required
 Philippines,Namibia,visa required
 Philippines,Nauru,visa required
 Philippines,Nepal,visa on arrival
@@ -28031,7 +28031,7 @@ Philippines,Suriname,30
 Philippines,Sweden,visa required
 Philippines,Switzerland,visa required
 Philippines,Syria,visa required
-Philippines,Taiwan,14
+Philippines,Taiwan,covid ban
 Philippines,Tajikistan,30
 Philippines,Tanzania,visa on arrival
 Philippines,Thailand,30
@@ -28177,7 +28177,7 @@ Poland,Mongolia,e-visa
 Poland,Montenegro,90
 Poland,Morocco,90
 Poland,Mozambique,visa on arrival
-Poland,Myanmar,e-visa
+Poland,Myanmar,visa required
 Poland,Namibia,visa on arrival
 Poland,Nauru,visa required
 Poland,Nepal,visa on arrival
@@ -28230,7 +28230,7 @@ Poland,Suriname,e-visa
 Poland,Sweden,visa free
 Poland,Switzerland,visa free
 Poland,Syria,visa required
-Poland,Taiwan,90
+Poland,Taiwan,covid ban
 Poland,Tajikistan,30
 Poland,Tanzania,visa on arrival
 Poland,Thailand,30
@@ -28376,7 +28376,7 @@ Portugal,Mongolia,e-visa
 Portugal,Montenegro,90
 Portugal,Morocco,90
 Portugal,Mozambique,visa on arrival
-Portugal,Myanmar,e-visa
+Portugal,Myanmar,visa required
 Portugal,Namibia,90
 Portugal,Nauru,visa required
 Portugal,Nepal,visa on arrival
@@ -28429,7 +28429,7 @@ Portugal,Suriname,e-visa
 Portugal,Sweden,visa free
 Portugal,Switzerland,visa free
 Portugal,Syria,visa required
-Portugal,Taiwan,90
+Portugal,Taiwan,covid ban
 Portugal,Tajikistan,30
 Portugal,Tanzania,visa on arrival
 Portugal,Thailand,30
@@ -28575,7 +28575,7 @@ Qatar,Mongolia,visa required
 Qatar,Montenegro,90
 Qatar,Morocco,90
 Qatar,Mozambique,visa on arrival
-Qatar,Myanmar,e-visa
+Qatar,Myanmar,visa required
 Qatar,Namibia,visa required
 Qatar,Nauru,visa required
 Qatar,Nepal,visa on arrival
@@ -28774,7 +28774,7 @@ Romania,Mongolia,e-visa
 Romania,Montenegro,90
 Romania,Morocco,90
 Romania,Mozambique,visa on arrival
-Romania,Myanmar,e-visa
+Romania,Myanmar,visa required
 Romania,Namibia,visa on arrival
 Romania,Nauru,visa required
 Romania,Nepal,visa on arrival
@@ -28827,7 +28827,7 @@ Romania,Suriname,e-visa
 Romania,Sweden,visa free
 Romania,Switzerland,visa free
 Romania,Syria,visa required
-Romania,Taiwan,90
+Romania,Taiwan,covid ban
 Romania,Tajikistan,visa on arrival
 Romania,Tanzania,90
 Romania,Thailand,visa on arrival
@@ -28973,7 +28973,7 @@ Russia,Mongolia,30
 Russia,Montenegro,30
 Russia,Morocco,90
 Russia,Mozambique,visa on arrival
-Russia,Myanmar,30
+Russia,Myanmar,visa required
 Russia,Namibia,90
 Russia,Nauru,visa on arrival
 Russia,Nepal,visa on arrival
@@ -29424,7 +29424,7 @@ Saint Kitts and Nevis,Suriname,180
 Saint Kitts and Nevis,Sweden,90
 Saint Kitts and Nevis,Switzerland,90
 Saint Kitts and Nevis,Syria,visa required
-Saint Kitts and Nevis,Taiwan,30
+Saint Kitts and Nevis,Taiwan,covid ban
 Saint Kitts and Nevis,Tajikistan,e-visa
 Saint Kitts and Nevis,Tanzania,90
 Saint Kitts and Nevis,Thailand,visa required
@@ -29623,7 +29623,7 @@ Saint Lucia,Suriname,180
 Saint Lucia,Sweden,90
 Saint Lucia,Switzerland,90
 Saint Lucia,Syria,visa required
-Saint Lucia,Taiwan,30
+Saint Lucia,Taiwan,covid ban
 Saint Lucia,Tajikistan,e-visa
 Saint Lucia,Tanzania,90
 Saint Lucia,Thailand,visa required
@@ -29926,7 +29926,7 @@ San Marino,Hong Kong,90
 San Marino,Hungary,90
 San Marino,Iceland,90
 San Marino,India,e-visa
-San Marino,Indonesia,visa on arrival
+San Marino,Indonesia,visa required
 San Marino,Iran,e-visa
 San Marino,Iraq,visa required
 San Marino,Ireland,90
@@ -30021,7 +30021,7 @@ San Marino,Suriname,e-visa
 San Marino,Sweden,90
 San Marino,Switzerland,90
 San Marino,Syria,visa required
-San Marino,Taiwan,90
+San Marino,Taiwan,covid ban
 San Marino,Tajikistan,e-visa
 San Marino,Tanzania,visa on arrival
 San Marino,Thailand,30
@@ -30366,7 +30366,7 @@ Saudi Arabia,Mongolia,visa required
 Saudi Arabia,Montenegro,30
 Saudi Arabia,Morocco,90
 Saudi Arabia,Mozambique,visa on arrival
-Saudi Arabia,Myanmar,e-visa
+Saudi Arabia,Myanmar,visa required
 Saudi Arabia,Namibia,visa required
 Saudi Arabia,Nauru,visa required
 Saudi Arabia,Nepal,visa on arrival
@@ -30764,7 +30764,7 @@ Serbia,Mongolia,90
 Serbia,Montenegro,90
 Serbia,Morocco,visa required
 Serbia,Mozambique,visa on arrival
-Serbia,Myanmar,e-visa
+Serbia,Myanmar,visa required
 Serbia,Namibia,visa required
 Serbia,Nauru,visa required
 Serbia,Nepal,visa on arrival
@@ -31276,7 +31276,7 @@ Singapore,Cape Verde,30
 Singapore,Central African Republic,visa required
 Singapore,Chad,visa required
 Singapore,Chile,30
-Singapore,China,covid ban
+Singapore,China,15
 Singapore,Colombia,90
 Singapore,Comoros,visa on arrival
 Singapore,Congo,visa required
@@ -31361,7 +31361,7 @@ Singapore,Mongolia,30
 Singapore,Montenegro,90
 Singapore,Morocco,30
 Singapore,Mozambique,visa on arrival
-Singapore,Myanmar,30
+Singapore,Myanmar,visa required
 Singapore,Namibia,90
 Singapore,Nauru,visa required
 Singapore,Nepal,visa on arrival
@@ -31414,7 +31414,7 @@ Singapore,Suriname,e-visa
 Singapore,Sweden,90
 Singapore,Switzerland,90
 Singapore,Syria,visa required
-Singapore,Taiwan,30
+Singapore,Taiwan,covid ban
 Singapore,Tajikistan,30
 Singapore,Tanzania,90
 Singapore,Thailand,30
@@ -31560,7 +31560,7 @@ Slovakia,Mongolia,e-visa
 Slovakia,Montenegro,90
 Slovakia,Morocco,90
 Slovakia,Mozambique,visa on arrival
-Slovakia,Myanmar,e-visa
+Slovakia,Myanmar,visa required
 Slovakia,Namibia,visa on arrival
 Slovakia,Nauru,visa required
 Slovakia,Nepal,visa on arrival
@@ -31613,7 +31613,7 @@ Slovakia,Suriname,e-visa
 Slovakia,Sweden,visa free
 Slovakia,Switzerland,visa free
 Slovakia,Syria,visa required
-Slovakia,Taiwan,90
+Slovakia,Taiwan,covid ban
 Slovakia,Tajikistan,visa on arrival
 Slovakia,Tanzania,visa on arrival
 Slovakia,Thailand,30
@@ -31759,7 +31759,7 @@ Slovenia,Mongolia,e-visa
 Slovenia,Montenegro,90
 Slovenia,Morocco,90
 Slovenia,Mozambique,visa on arrival
-Slovenia,Myanmar,e-visa
+Slovenia,Myanmar,visa required
 Slovenia,Namibia,visa required
 Slovenia,Nauru,visa required
 Slovenia,Nepal,visa on arrival
@@ -31812,7 +31812,7 @@ Slovenia,Suriname,e-visa
 Slovenia,Sweden,visa free
 Slovenia,Switzerland,visa free
 Slovenia,Syria,visa required
-Slovenia,Taiwan,90
+Slovenia,Taiwan,covid ban
 Slovenia,Tajikistan,visa on arrival
 Slovenia,Tanzania,visa on arrival
 Slovenia,Thailand,30
@@ -32332,7 +32332,7 @@ South Africa,Kyrgyzstan,visa on arrival
 South Africa,Laos,visa on arrival
 South Africa,Latvia,visa required
 South Africa,Lebanon,visa required
-South Africa,Lesotho,visa free
+South Africa,Lesotho,90
 South Africa,Liberia,visa required
 South Africa,Libya,visa required
 South Africa,Liechtenstein,visa required
@@ -32356,7 +32356,7 @@ South Africa,Mongolia,visa required
 South Africa,Montenegro,visa required
 South Africa,Morocco,visa required
 South Africa,Mozambique,visa free
-South Africa,Myanmar,e-visa
+South Africa,Myanmar,visa required
 South Africa,Namibia,90
 South Africa,Nauru,visa required
 South Africa,Nepal,visa on arrival
@@ -32608,7 +32608,7 @@ South Korea,Suriname,30
 South Korea,Sweden,90
 South Korea,Switzerland,90
 South Korea,Syria,visa required
-South Korea,Taiwan,90
+South Korea,Taiwan,covid ban
 South Korea,Tajikistan,30
 South Korea,Tanzania,visa on arrival
 South Korea,Thailand,90
@@ -32953,7 +32953,7 @@ Spain,Mongolia,e-visa
 Spain,Montenegro,90
 Spain,Morocco,90
 Spain,Mozambique,visa on arrival
-Spain,Myanmar,e-visa
+Spain,Myanmar,visa required
 Spain,Namibia,90
 Spain,Nauru,visa required
 Spain,Nepal,visa on arrival
@@ -33006,7 +33006,7 @@ Spain,Suriname,e-visa
 Spain,Sweden,visa free
 Spain,Switzerland,visa free
 Spain,Syria,visa required
-Spain,Taiwan,90
+Spain,Taiwan,covid ban
 Spain,Tajikistan,30
 Spain,Tanzania,visa on arrival
 Spain,Thailand,30
@@ -33152,7 +33152,7 @@ Sri Lanka,Mongolia,visa required
 Sri Lanka,Montenegro,visa required
 Sri Lanka,Morocco,visa required
 Sri Lanka,Mozambique,visa required
-Sri Lanka,Myanmar,e-visa
+Sri Lanka,Myanmar,visa required
 Sri Lanka,Namibia,visa required
 Sri Lanka,Nauru,visa required
 Sri Lanka,Nepal,visa on arrival
@@ -33404,7 +33404,7 @@ Saint Vincent and the Grenadines,Suriname,180
 Saint Vincent and the Grenadines,Sweden,90
 Saint Vincent and the Grenadines,Switzerland,90
 Saint Vincent and the Grenadines,Syria,visa required
-Saint Vincent and the Grenadines,Taiwan,30
+Saint Vincent and the Grenadines,Taiwan,covid ban
 Saint Vincent and the Grenadines,Tajikistan,e-visa
 Saint Vincent and the Grenadines,Tanzania,90
 Saint Vincent and the Grenadines,Thailand,visa required
@@ -33707,7 +33707,7 @@ Suriname,Hong Kong,14
 Suriname,Hungary,visa required
 Suriname,Iceland,visa required
 Suriname,India,e-visa
-Suriname,Indonesia,visa on arrival
+Suriname,Indonesia,visa required
 Suriname,Iran,e-visa
 Suriname,Iraq,visa required
 Suriname,Ireland,visa required
@@ -33948,7 +33948,7 @@ Sweden,Mongolia,e-visa
 Sweden,Montenegro,90
 Sweden,Morocco,90
 Sweden,Mozambique,visa on arrival
-Sweden,Myanmar,e-visa
+Sweden,Myanmar,visa required
 Sweden,Namibia,90
 Sweden,Nauru,visa required
 Sweden,Nepal,visa on arrival
@@ -34001,7 +34001,7 @@ Sweden,Suriname,e-visa
 Sweden,Sweden,-1
 Sweden,Switzerland,visa free
 Sweden,Syria,visa required
-Sweden,Taiwan,90
+Sweden,Taiwan,covid ban
 Sweden,Tajikistan,30
 Sweden,Tanzania,visa on arrival
 Sweden,Thailand,30
@@ -34147,7 +34147,7 @@ Switzerland,Mongolia,e-visa
 Switzerland,Montenegro,90
 Switzerland,Morocco,90
 Switzerland,Mozambique,visa on arrival
-Switzerland,Myanmar,e-visa
+Switzerland,Myanmar,visa required
 Switzerland,Namibia,90
 Switzerland,Nauru,visa required
 Switzerland,Nepal,visa on arrival
@@ -34200,7 +34200,7 @@ Switzerland,Suriname,e-visa
 Switzerland,Sweden,visa free
 Switzerland,Switzerland,-1
 Switzerland,Syria,visa required
-Switzerland,Taiwan,90
+Switzerland,Taiwan,covid ban
 Switzerland,Tajikistan,30
 Switzerland,Tanzania,visa on arrival
 Switzerland,Thailand,30
@@ -34510,7 +34510,7 @@ Taiwan,Ireland,90
 Taiwan,Israel,90
 Taiwan,Italy,90
 Taiwan,Jamaica,visa required
-Taiwan,Japan,e-visa
+Taiwan,Japan,visa required
 Taiwan,Jordan,visa on arrival
 Taiwan,Kazakhstan,visa required
 Taiwan,Kenya,e-visa
@@ -35142,7 +35142,7 @@ Thailand,Mongolia,30
 Thailand,Montenegro,visa required
 Thailand,Morocco,e-visa
 Thailand,Mozambique,visa on arrival
-Thailand,Myanmar,14
+Thailand,Myanmar,visa required
 Thailand,Namibia,visa on arrival
 Thailand,Nauru,visa on arrival
 Thailand,Nepal,visa on arrival
@@ -35195,7 +35195,7 @@ Thailand,Suriname,e-visa
 Thailand,Sweden,visa required
 Thailand,Switzerland,visa required
 Thailand,Syria,visa required
-Thailand,Taiwan,14
+Thailand,Taiwan,covid ban
 Thailand,Tajikistan,30
 Thailand,Tanzania,visa on arrival
 Thailand,Thailand,-1
@@ -36336,7 +36336,7 @@ Turkey,Mongolia,30
 Turkey,Montenegro,90
 Turkey,Morocco,90
 Turkey,Mozambique,visa on arrival
-Turkey,Myanmar,e-visa
+Turkey,Myanmar,visa required
 Turkey,Namibia,visa on arrival
 Turkey,Nauru,visa required
 Turkey,Nepal,visa on arrival
@@ -36597,7 +36597,7 @@ Turkmenistan,Togo,visa on arrival
 Turkmenistan,Tonga,visa required
 Turkmenistan,Trinidad and Tobago,visa required
 Turkmenistan,Tunisia,visa required
-Turkmenistan,Turkey,visa required
+Turkmenistan,Turkey,30
 Turkmenistan,Turkmenistan,-1
 Turkmenistan,Tuvalu,visa on arrival
 Turkmenistan,Uganda,e-visa
@@ -36787,7 +36787,7 @@ Tuvalu,Suriname,e-visa
 Tuvalu,Sweden,90
 Tuvalu,Switzerland,90
 Tuvalu,Syria,visa required
-Tuvalu,Taiwan,90
+Tuvalu,Taiwan,covid ban
 Tuvalu,Tajikistan,e-visa
 Tuvalu,Tanzania,90
 Tuvalu,Thailand,visa required
@@ -36933,7 +36933,7 @@ Uganda,Mongolia,visa required
 Uganda,Montenegro,visa required
 Uganda,Morocco,visa required
 Uganda,Mozambique,visa on arrival
-Uganda,Myanmar,e-visa
+Uganda,Myanmar,visa required
 Uganda,Namibia,visa on arrival
 Uganda,Nauru,visa required
 Uganda,Nepal,visa on arrival
@@ -37132,7 +37132,7 @@ Ukraine,Mongolia,visa required
 Ukraine,Montenegro,90
 Ukraine,Morocco,visa required
 Ukraine,Mozambique,visa on arrival
-Ukraine,Myanmar,e-visa
+Ukraine,Myanmar,visa required
 Ukraine,Namibia,90
 Ukraine,Nauru,visa required
 Ukraine,Nepal,visa on arrival
@@ -37262,7 +37262,7 @@ United Arab Emirates,Djibouti,e-visa
 United Arab Emirates,Dominica,180
 United Arab Emirates,Dominican Republic,visa free
 United Arab Emirates,Ecuador,90
-United Arab Emirates,Egypt,180
+United Arab Emirates,Egypt,90
 United Arab Emirates,El Salvador,90
 United Arab Emirates,Equatorial Guinea,visa on arrival
 United Arab Emirates,Eritrea,visa required
@@ -37530,7 +37530,7 @@ United Kingdom,Mongolia,e-visa
 United Kingdom,Montenegro,90
 United Kingdom,Morocco,90
 United Kingdom,Mozambique,visa on arrival
-United Kingdom,Myanmar,e-visa
+United Kingdom,Myanmar,visa required
 United Kingdom,Namibia,90
 United Kingdom,Nauru,visa required
 United Kingdom,Nepal,visa on arrival
@@ -37694,7 +37694,7 @@ United States,Ireland,90
 United States,Israel,90
 United States,Italy,90
 United States,Jamaica,180
-United States,Japan,e-visa
+United States,Japan,visa required
 United States,Jordan,visa on arrival
 United States,Kazakhstan,30
 United States,Kenya,e-visa
@@ -37729,7 +37729,7 @@ United States,Mongolia,90
 United States,Montenegro,90
 United States,Morocco,90
 United States,Mozambique,visa on arrival
-United States,Myanmar,e-visa
+United States,Myanmar,visa required
 United States,Namibia,90
 United States,Nauru,visa required
 United States,Nepal,visa on arrival
@@ -37782,7 +37782,7 @@ United States,Suriname,e-visa
 United States,Sweden,90
 United States,Switzerland,90
 United States,Syria,visa required
-United States,Taiwan,90
+United States,Taiwan,covid ban
 United States,Tajikistan,30
 United States,Tanzania,visa on arrival
 United States,Thailand,30
@@ -37928,7 +37928,7 @@ Uruguay,Mongolia,visa required
 Uruguay,Montenegro,90
 Uruguay,Morocco,visa required
 Uruguay,Mozambique,visa on arrival
-Uruguay,Myanmar,e-visa
+Uruguay,Myanmar,visa required
 Uruguay,Namibia,visa required
 Uruguay,Nauru,visa required
 Uruguay,Nepal,visa on arrival
@@ -38085,7 +38085,7 @@ Uzbekistan,Hong Kong,visa required
 Uzbekistan,Hungary,visa required
 Uzbekistan,Iceland,visa required
 Uzbekistan,India,visa required
-Uzbekistan,Indonesia,visa on arrival
+Uzbekistan,Indonesia,visa required
 Uzbekistan,Iran,e-visa
 Uzbekistan,Iraq,visa required
 Uzbekistan,Ireland,visa required
@@ -38127,7 +38127,7 @@ Uzbekistan,Mongolia,30
 Uzbekistan,Montenegro,visa required
 Uzbekistan,Morocco,visa required
 Uzbekistan,Mozambique,visa on arrival
-Uzbekistan,Myanmar,e-visa
+Uzbekistan,Myanmar,visa required
 Uzbekistan,Namibia,90
 Uzbekistan,Nauru,visa required
 Uzbekistan,Nepal,visa on arrival
@@ -38483,7 +38483,7 @@ Vatican,Hong Kong,14
 Vatican,Hungary,90
 Vatican,Iceland,90
 Vatican,India,e-visa
-Vatican,Indonesia,visa on arrival
+Vatican,Indonesia,visa required
 Vatican,Iran,e-visa
 Vatican,Iraq,visa required
 Vatican,Ireland,90
@@ -38578,7 +38578,7 @@ Vatican,Suriname,e-visa
 Vatican,Sweden,90
 Vatican,Switzerland,90
 Vatican,Syria,visa required
-Vatican,Taiwan,90
+Vatican,Taiwan,covid ban
 Vatican,Tajikistan,visa on arrival
 Vatican,Tanzania,visa on arrival
 Vatican,Thailand,visa required
@@ -38724,7 +38724,7 @@ Venezuela,Mongolia,visa required
 Venezuela,Montenegro,90
 Venezuela,Morocco,visa required
 Venezuela,Mozambique,visa on arrival
-Venezuela,Myanmar,e-visa
+Venezuela,Myanmar,visa required
 Venezuela,Namibia,visa on arrival
 Venezuela,Nauru,visa required
 Venezuela,Nepal,visa on arrival
@@ -38853,7 +38853,7 @@ Vietnam,Denmark,visa required
 Vietnam,Djibouti,e-visa
 Vietnam,Dominica,21
 Vietnam,Dominican Republic,visa required
-Vietnam,Ecuador,e-visa
+Vietnam,Ecuador,visa required
 Vietnam,Egypt,visa required
 Vietnam,El Salvador,visa required
 Vietnam,Equatorial Guinea,visa required
@@ -38923,7 +38923,7 @@ Vietnam,Mongolia,visa required
 Vietnam,Montenegro,visa required
 Vietnam,Morocco,visa required
 Vietnam,Mozambique,visa on arrival
-Vietnam,Myanmar,14
+Vietnam,Myanmar,visa required
 Vietnam,Namibia,visa on arrival
 Vietnam,Nauru,visa required
 Vietnam,Nepal,visa on arrival
@@ -39052,7 +39052,7 @@ Yemen,Denmark,visa required
 Yemen,Djibouti,e-visa
 Yemen,Dominica,21
 Yemen,Dominican Republic,visa required
-Yemen,Ecuador,e-visa
+Yemen,Ecuador,visa required
 Yemen,Egypt,visa required
 Yemen,El Salvador,visa required
 Yemen,Equatorial Guinea,visa required
