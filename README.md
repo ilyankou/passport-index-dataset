@@ -1,6 +1,6 @@
 # 2022 Passport Index Dataset
 ## Travel visa requirements for 199 countries, in .csv
-Last updated on 05 October 2022. Check out the `/legacy` folder for earlier versions.
+Last updated on 06 November 2022. Check out the `/legacy` folder for earlier versions.
 
 ![Passport](passport.png)
 
@@ -24,6 +24,7 @@ For visa-free regimes, the number of days (a positive integer) is specified when
 |`visa required`| Obtaining a visa is required for travel. Includes Cuba's tourist cards |
 |`covid ban`| Travelling is banned for most people. This is perhaps the most dynamic category right now, with varying exemptions|
 |`no admission`| Includes rare tricky situations, such as war conflicts |
+|`Hayya Entry Permit`| Fan ID for the FIFA World Cup 2022 to enter Qatar in Nov-Dec 2022 |
 |`-1`| where passport=destination|
 
 ### Update data with Jupyter notebook

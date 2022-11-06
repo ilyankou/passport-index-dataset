@@ -141,7 +141,7 @@ AF,PE,visa required
 AF,PH,visa required
 AF,PL,visa required
 AF,PT,visa required
-AF,QA,Hayya Entry Permit
+AF,QA,e-visa
 AF,RO,visa required
 AF,RU,visa required
 AF,RW,visa on arrival
@@ -171,7 +171,7 @@ AF,SR,e-visa
 AF,SE,visa required
 AF,CH,visa required
 AF,SY,visa required
-AF,TW,visa required
+AF,TW,covid ban
 AF,TJ,e-visa
 AF,TZ,e-visa
 AF,TH,visa required
@@ -340,7 +340,7 @@ AL,PE,visa required
 AL,PH,visa required
 AL,PL,90
 AL,PT,90
-AL,QA,Hayya Entry Permit
+AL,QA,e-visa
 AL,RO,90
 AL,RU,visa required
 AL,RW,visa on arrival
@@ -370,7 +370,7 @@ AL,SR,90
 AL,SE,90
 AL,CH,90
 AL,SY,visa required
-AL,TW,visa required
+AL,TW,covid ban
 AL,TJ,e-visa
 AL,TZ,visa on arrival
 AL,TH,visa required
@@ -453,7 +453,7 @@ DZ,GQ,visa required
 DZ,ER,visa required
 DZ,EE,visa required
 DZ,SZ,visa required
-DZ,ET,e-visa
+DZ,ET,visa on arrival
 DZ,FJ,visa required
 DZ,FI,visa required
 DZ,FR,visa required
@@ -539,7 +539,7 @@ DZ,PE,visa required
 DZ,PH,visa required
 DZ,PL,visa required
 DZ,PT,visa required
-DZ,QA,Hayya Entry Permit
+DZ,QA,e-visa
 DZ,RO,visa required
 DZ,RU,visa required
 DZ,RW,visa on arrival
@@ -569,7 +569,7 @@ DZ,SR,e-visa
 DZ,SE,visa required
 DZ,CH,visa required
 DZ,SY,visa free
-DZ,TW,visa required
+DZ,TW,covid ban
 DZ,TJ,visa on arrival
 DZ,TZ,visa on arrival
 DZ,TH,visa required
@@ -680,7 +680,7 @@ AD,IE,90
 AD,IL,90
 AD,IT,90
 AD,JM,visa on arrival
-AD,JP,90
+AD,JP,visa required
 AD,JO,visa on arrival
 AD,KZ,e-visa
 AD,KE,e-visa
@@ -732,13 +732,13 @@ AD,PK,e-visa
 AD,PW,visa on arrival
 AD,PS,visa free
 AD,PA,90
-AD,PG,e-visa
+AD,PG,visa on arrival
 AD,PY,90
 AD,PE,180
 AD,PH,30
 AD,PL,90
 AD,PT,90
-AD,QA,Hayya Entry Permit
+AD,QA,30
 AD,RO,90
 AD,RU,90
 AD,RW,visa on arrival
@@ -851,7 +851,7 @@ AO,GQ,visa required
 AO,ER,visa required
 AO,EE,visa required
 AO,SZ,visa required
-AO,ET,e-visa
+AO,ET,visa on arrival
 AO,FJ,visa required
 AO,FI,visa required
 AO,FR,visa required
@@ -937,7 +937,7 @@ AO,PE,visa required
 AO,PH,30
 AO,PL,visa required
 AO,PT,visa required
-AO,QA,Hayya Entry Permit
+AO,QA,e-visa
 AO,RO,visa required
 AO,RU,visa required
 AO,RW,90
@@ -967,7 +967,7 @@ AO,SR,e-visa
 AO,SE,visa required
 AO,CH,visa required
 AO,SY,visa required
-AO,TW,visa required
+AO,TW,covid ban
 AO,TJ,e-visa
 AO,TZ,visa on arrival
 AO,TH,visa required
@@ -1136,7 +1136,7 @@ AG,PE,180
 AG,PH,30
 AG,PL,90
 AG,PT,90
-AG,QA,Hayya Entry Permit
+AG,QA,90
 AG,RO,90
 AG,RU,90
 AG,RW,visa on arrival
@@ -1166,7 +1166,7 @@ AG,SR,180
 AG,SE,90
 AG,CH,90
 AG,SY,visa required
-AG,TW,visa required
+AG,TW,covid ban
 AG,TJ,e-visa
 AG,TZ,90
 AG,TH,visa required
@@ -1249,7 +1249,7 @@ AR,GQ,visa required
 AR,ER,visa required
 AR,EE,90
 AR,SZ,30
-AR,ET,e-visa
+AR,ET,visa on arrival
 AR,FJ,120
 AR,FI,90
 AR,FR,90
@@ -1277,7 +1277,7 @@ AR,IE,90
 AR,IL,90
 AR,IT,90
 AR,JM,30
-AR,JP,90
+AR,JP,visa required
 AR,JO,visa on arrival
 AR,KZ,30
 AR,KE,e-visa
@@ -1329,13 +1329,13 @@ AR,PK,e-visa
 AR,PW,visa on arrival
 AR,PS,visa free
 AR,PA,90
-AR,PG,e-visa
+AR,PG,visa on arrival
 AR,PY,90
 AR,PE,180
 AR,PH,30
 AR,PL,90
 AR,PT,90
-AR,QA,Hayya Entry Permit
+AR,QA,90
 AR,RO,90
 AR,RU,90
 AR,RW,visa on arrival
@@ -1365,7 +1365,7 @@ AR,SR,180
 AR,SE,90
 AR,CH,90
 AR,SY,visa required
-AR,TW,visa required
+AR,TW,covid ban
 AR,TJ,30
 AR,TZ,visa on arrival
 AR,TH,90
@@ -1534,7 +1534,7 @@ AM,PE,visa required
 AM,PH,visa required
 AM,PL,visa required
 AM,PT,visa required
-AM,QA,Hayya Entry Permit
+AM,QA,visa on arrival
 AM,RO,visa required
 AM,RU,90
 AM,RW,visa on arrival
@@ -1564,7 +1564,7 @@ AM,SR,e-visa
 AM,SE,visa required
 AM,CH,visa required
 AM,SY,visa required
-AM,TW,visa required
+AM,TW,covid ban
 AM,TJ,90
 AM,TZ,visa on arrival
 AM,TH,visa required
@@ -1647,7 +1647,7 @@ AU,GQ,visa required
 AU,ER,visa required
 AU,EE,90
 AU,SZ,30
-AU,ET,e-visa
+AU,ET,visa on arrival
 AU,FJ,120
 AU,FI,90
 AU,FR,90
@@ -1675,7 +1675,7 @@ AU,IE,90
 AU,IL,90
 AU,IT,90
 AU,JM,visa free
-AU,JP,90
+AU,JP,visa required
 AU,JO,visa on arrival
 AU,KZ,30
 AU,KE,e-visa
@@ -1727,13 +1727,13 @@ AU,PK,e-visa
 AU,PW,visa on arrival
 AU,PS,visa free
 AU,PA,90
-AU,PG,e-visa
+AU,PG,visa on arrival
 AU,PY,90
 AU,PE,180
 AU,PH,30
 AU,PL,90
 AU,PT,90
-AU,QA,Hayya Entry Permit
+AU,QA,30
 AU,RO,90
 AU,RU,visa required
 AU,RW,visa on arrival
@@ -1846,7 +1846,7 @@ AT,GQ,visa required
 AT,ER,visa required
 AT,EE,visa free
 AT,SZ,30
-AT,ET,e-visa
+AT,ET,visa on arrival
 AT,FJ,120
 AT,FI,visa free
 AT,FR,visa free
@@ -1874,7 +1874,7 @@ AT,IE,visa free
 AT,IL,90
 AT,IT,visa free
 AT,JM,90
-AT,JP,90
+AT,JP,visa required
 AT,JO,visa on arrival
 AT,KZ,30
 AT,KE,e-visa
@@ -1926,13 +1926,13 @@ AT,PK,e-visa
 AT,PW,90
 AT,PS,visa free
 AT,PA,90
-AT,PG,e-visa
+AT,PG,visa on arrival
 AT,PY,90
 AT,PE,90
 AT,PH,30
 AT,PL,visa free
 AT,PT,visa free
-AT,QA,Hayya Entry Permit
+AT,QA,90
 AT,RO,visa free
 AT,RU,visa required
 AT,RW,visa on arrival
@@ -2131,7 +2131,7 @@ AZ,PE,visa required
 AZ,PH,visa required
 AZ,PL,visa required
 AZ,PT,visa required
-AZ,QA,Hayya Entry Permit
+AZ,QA,30
 AZ,RO,visa required
 AZ,RU,90
 AZ,RW,visa on arrival
@@ -2161,7 +2161,7 @@ AZ,SR,e-visa
 AZ,SE,visa required
 AZ,CH,visa required
 AZ,SY,visa required
-AZ,TW,visa required
+AZ,TW,covid ban
 AZ,TJ,90
 AZ,TZ,e-visa
 AZ,TH,visa required
@@ -2272,7 +2272,7 @@ BS,IE,90
 BS,IL,90
 BS,IT,90
 BS,JM,visa free
-BS,JP,90
+BS,JP,visa required
 BS,JO,visa on arrival
 BS,KZ,e-visa
 BS,KE,90
@@ -2330,7 +2330,7 @@ BS,PE,180
 BS,PH,30
 BS,PL,90
 BS,PT,90
-BS,QA,Hayya Entry Permit
+BS,QA,90
 BS,RO,90
 BS,RU,visa required
 BS,RW,visa on arrival
@@ -2360,7 +2360,7 @@ BS,SR,180
 BS,SE,90
 BS,CH,90
 BS,SY,visa required
-BS,TW,visa required
+BS,TW,covid ban
 BS,TJ,e-visa
 BS,TZ,90
 BS,TH,visa required
@@ -2529,7 +2529,7 @@ BH,PE,visa required
 BH,PH,30
 BH,PL,visa required
 BH,PT,visa required
-BH,QA,Hayya Entry Permit
+BH,QA,visa free
 BH,RO,visa required
 BH,RU,visa required
 BH,RW,visa on arrival
@@ -2559,7 +2559,7 @@ BH,SR,e-visa
 BH,SE,visa required
 BH,CH,visa required
 BH,SY,visa free
-BH,TW,e-visa
+BH,TW,covid ban
 BH,TJ,30
 BH,TZ,visa on arrival
 BH,TH,30
@@ -2728,7 +2728,7 @@ BD,PE,visa required
 BD,PH,visa required
 BD,PL,visa required
 BD,PT,visa required
-BD,QA,Hayya Entry Permit
+BD,QA,e-visa
 BD,RO,visa required
 BD,RU,visa required
 BD,RW,visa on arrival
@@ -2758,7 +2758,7 @@ BD,SR,e-visa
 BD,SE,visa required
 BD,CH,visa required
 BD,SY,visa required
-BD,TW,visa required
+BD,TW,covid ban
 BD,TJ,e-visa
 BD,TZ,e-visa
 BD,TH,visa required
@@ -2869,7 +2869,7 @@ BB,IE,90
 BB,IL,90
 BB,IT,90
 BB,JM,visa free
-BB,JP,90
+BB,JP,visa required
 BB,JO,visa on arrival
 BB,KZ,e-visa
 BB,KE,90
@@ -2927,7 +2927,7 @@ BB,PE,180
 BB,PH,30
 BB,PL,90
 BB,PT,90
-BB,QA,Hayya Entry Permit
+BB,QA,e-visa
 BB,RO,90
 BB,RU,visa required
 BB,RW,visa on arrival
@@ -2957,7 +2957,7 @@ BB,SR,180
 BB,SE,90
 BB,CH,90
 BB,SY,visa required
-BB,TW,visa required
+BB,TW,covid ban
 BB,TJ,e-visa
 BB,TZ,90
 BB,TH,visa required
@@ -3126,7 +3126,7 @@ BY,PE,180
 BY,PH,visa required
 BY,PL,visa required
 BY,PT,visa required
-BY,QA,Hayya Entry Permit
+BY,QA,30
 BY,RO,visa required
 BY,RU,90
 BY,RW,visa on arrival
@@ -3156,7 +3156,7 @@ BY,SR,e-visa
 BY,SE,visa required
 BY,CH,visa required
 BY,SY,visa required
-BY,TW,visa required
+BY,TW,covid ban
 BY,TJ,90
 BY,TZ,visa on arrival
 BY,TH,visa required
@@ -3239,7 +3239,7 @@ BE,GQ,visa required
 BE,ER,visa required
 BE,EE,visa free
 BE,SZ,30
-BE,ET,e-visa
+BE,ET,visa on arrival
 BE,FJ,120
 BE,FI,visa free
 BE,FR,visa free
@@ -3267,7 +3267,7 @@ BE,IE,visa free
 BE,IL,90
 BE,IT,visa free
 BE,JM,90
-BE,JP,90
+BE,JP,visa required
 BE,JO,visa on arrival
 BE,KZ,30
 BE,KE,e-visa
@@ -3319,13 +3319,13 @@ BE,PK,e-visa
 BE,PW,90
 BE,PS,visa free
 BE,PA,90
-BE,PG,e-visa
+BE,PG,visa on arrival
 BE,PY,90
 BE,PE,90
 BE,PH,30
 BE,PL,visa free
 BE,PT,visa free
-BE,QA,Hayya Entry Permit
+BE,QA,90
 BE,RO,visa free
 BE,RU,visa required
 BE,RW,visa on arrival
@@ -3524,7 +3524,7 @@ BZ,PE,180
 BZ,PH,30
 BZ,PL,visa required
 BZ,PT,visa required
-BZ,QA,Hayya Entry Permit
+BZ,QA,e-visa
 BZ,RO,visa required
 BZ,RU,90
 BZ,RW,visa on arrival
@@ -3637,7 +3637,7 @@ BJ,GQ,visa required
 BJ,ER,visa required
 BJ,EE,visa required
 BJ,SZ,visa required
-BJ,ET,e-visa
+BJ,ET,visa on arrival
 BJ,FJ,visa required
 BJ,FI,visa required
 BJ,FR,visa required
@@ -3723,7 +3723,7 @@ BJ,PE,visa required
 BJ,PH,30
 BJ,PL,visa required
 BJ,PT,visa required
-BJ,QA,Hayya Entry Permit
+BJ,QA,e-visa
 BJ,RO,visa required
 BJ,RU,visa required
 BJ,RW,90
@@ -3753,7 +3753,7 @@ BJ,SR,e-visa
 BJ,SE,visa required
 BJ,CH,visa required
 BJ,SY,visa required
-BJ,TW,visa required
+BJ,TW,covid ban
 BJ,TJ,e-visa
 BJ,TZ,visa on arrival
 BJ,TH,visa required
@@ -3922,7 +3922,7 @@ BT,PE,visa required
 BT,PH,30
 BT,PL,visa required
 BT,PT,visa required
-BT,QA,Hayya Entry Permit
+BT,QA,e-visa
 BT,RO,visa required
 BT,RU,visa required
 BT,RW,visa on arrival
@@ -3952,7 +3952,7 @@ BT,SR,e-visa
 BT,SE,visa required
 BT,CH,visa required
 BT,SY,visa required
-BT,TW,visa required
+BT,TW,covid ban
 BT,TJ,e-visa
 BT,TZ,visa on arrival
 BT,TH,visa on arrival
@@ -4121,7 +4121,7 @@ BO,PE,180
 BO,PH,30
 BO,PL,visa required
 BO,PT,visa required
-BO,QA,Hayya Entry Permit
+BO,QA,30
 BO,RO,visa required
 BO,RU,90
 BO,RW,visa on arrival
@@ -4151,7 +4151,7 @@ BO,SR,e-visa
 BO,SE,visa required
 BO,CH,visa required
 BO,SY,visa required
-BO,TW,visa required
+BO,TW,covid ban
 BO,TJ,e-visa
 BO,TZ,visa on arrival
 BO,TH,visa required
@@ -4320,7 +4320,7 @@ BA,PE,visa required
 BA,PH,visa required
 BA,PL,90
 BA,PT,90
-BA,QA,Hayya Entry Permit
+BA,QA,e-visa
 BA,RO,90
 BA,RU,30
 BA,RW,visa on arrival
@@ -4350,7 +4350,7 @@ BA,SR,e-visa
 BA,SE,90
 BA,CH,90
 BA,SY,visa required
-BA,TW,e-visa
+BA,TW,covid ban
 BA,TJ,e-visa
 BA,TZ,visa on arrival
 BA,TH,visa required
@@ -4433,7 +4433,7 @@ BW,GQ,visa required
 BW,ER,visa required
 BW,EE,visa required
 BW,SZ,30
-BW,ET,e-visa
+BW,ET,visa on arrival
 BW,FJ,120
 BW,FI,visa required
 BW,FR,visa required
@@ -4519,7 +4519,7 @@ BW,PE,visa required
 BW,PH,30
 BW,PL,visa required
 BW,PT,visa required
-BW,QA,Hayya Entry Permit
+BW,QA,e-visa
 BW,RO,visa required
 BW,RU,30
 BW,RW,visa on arrival
@@ -4549,7 +4549,7 @@ BW,SR,e-visa
 BW,SE,visa required
 BW,CH,visa required
 BW,SY,visa required
-BW,TW,visa required
+BW,TW,covid ban
 BW,TJ,e-visa
 BW,TZ,90
 BW,TH,visa required
@@ -4632,7 +4632,7 @@ BR,GQ,visa required
 BR,ER,visa required
 BR,EE,90
 BR,SZ,30
-BR,ET,e-visa
+BR,ET,visa on arrival
 BR,FJ,120
 BR,FI,90
 BR,FR,90
@@ -4712,13 +4712,13 @@ BR,PK,e-visa
 BR,PW,visa on arrival
 BR,PS,visa free
 BR,PA,90
-BR,PG,e-visa
+BR,PG,visa on arrival
 BR,PY,90
 BR,PE,180
 BR,PH,60
 BR,PL,90
 BR,PT,90
-BR,QA,Hayya Entry Permit
+BR,QA,30
 BR,RO,90
 BR,RU,90
 BR,RW,visa on arrival
@@ -4748,7 +4748,7 @@ BR,SR,180
 BR,SE,90
 BR,CH,90
 BR,SY,visa required
-BR,TW,visa required
+BR,TW,covid ban
 BR,TJ,visa on arrival
 BR,TZ,visa on arrival
 BR,TH,90
@@ -4859,7 +4859,7 @@ BN,IE,90
 BN,IL,visa required
 BN,IT,90
 BN,JM,visa free
-BN,JP,14
+BN,JP,visa required
 BN,JO,visa on arrival
 BN,KZ,e-visa
 BN,KE,90
@@ -4911,13 +4911,13 @@ BN,PK,e-visa
 BN,PW,visa on arrival
 BN,PS,visa free
 BN,PA,90
-BN,PG,e-visa
+BN,PG,visa on arrival
 BN,PY,visa required
 BN,PE,180
 BN,PH,30
 BN,PL,90
 BN,PT,90
-BN,QA,Hayya Entry Permit
+BN,QA,30
 BN,RO,90
 BN,RU,14
 BN,RW,visa on arrival
@@ -5058,7 +5058,7 @@ BG,IE,visa free
 BG,IL,90
 BG,IT,visa free
 BG,JM,visa on arrival
-BG,JP,90
+BG,JP,visa required
 BG,JO,visa on arrival
 BG,KZ,30
 BG,KE,e-visa
@@ -5110,13 +5110,13 @@ BG,PK,e-visa
 BG,PW,90
 BG,PS,visa free
 BG,PA,90
-BG,PG,e-visa
+BG,PG,visa on arrival
 BG,PY,90
 BG,PE,90
 BG,PH,30
 BG,PL,visa free
 BG,PT,visa free
-BG,QA,Hayya Entry Permit
+BG,QA,90
 BG,RO,visa free
 BG,RU,visa required
 BG,RW,visa on arrival
@@ -5229,7 +5229,7 @@ BF,GQ,visa required
 BF,ER,visa required
 BF,EE,visa required
 BF,SZ,visa required
-BF,ET,e-visa
+BF,ET,visa on arrival
 BF,FJ,visa required
 BF,FI,visa required
 BF,FR,visa required
@@ -5315,7 +5315,7 @@ BF,PE,visa required
 BF,PH,30
 BF,PL,visa required
 BF,PT,visa required
-BF,QA,Hayya Entry Permit
+BF,QA,e-visa
 BF,RO,visa required
 BF,RU,visa required
 BF,RW,visa on arrival
@@ -5345,7 +5345,7 @@ BF,SR,e-visa
 BF,SE,visa required
 BF,CH,visa required
 BF,SY,visa required
-BF,TW,e-visa
+BF,TW,covid ban
 BF,TJ,e-visa
 BF,TZ,visa on arrival
 BF,TH,visa required
@@ -5428,7 +5428,7 @@ BI,GQ,visa required
 BI,ER,visa required
 BI,EE,visa required
 BI,SZ,visa required
-BI,ET,e-visa
+BI,ET,visa on arrival
 BI,FJ,visa required
 BI,FI,visa required
 BI,FR,visa required
@@ -5514,7 +5514,7 @@ BI,PE,visa required
 BI,PH,30
 BI,PL,visa required
 BI,PT,visa required
-BI,QA,Hayya Entry Permit
+BI,QA,e-visa
 BI,RO,visa required
 BI,RU,visa required
 BI,RW,180
@@ -5544,7 +5544,7 @@ BI,SR,e-visa
 BI,SE,visa required
 BI,CH,visa required
 BI,SY,visa required
-BI,TW,visa required
+BI,TW,covid ban
 BI,TJ,e-visa
 BI,TZ,visa on arrival
 BI,TH,visa required
@@ -5713,7 +5713,7 @@ KH,PE,visa required
 KH,PH,30
 KH,PL,visa required
 KH,PT,visa required
-KH,QA,Hayya Entry Permit
+KH,QA,e-visa
 KH,RO,visa required
 KH,RU,visa required
 KH,RW,visa on arrival
@@ -5743,7 +5743,7 @@ KH,SR,e-visa
 KH,SE,visa required
 KH,CH,visa required
 KH,SY,visa required
-KH,TW,e-visa
+KH,TW,covid ban
 KH,TJ,e-visa
 KH,TZ,visa on arrival
 KH,TH,14
@@ -5826,11 +5826,11 @@ CM,GQ,visa required
 CM,ER,visa required
 CM,EE,visa required
 CM,SZ,visa required
-CM,ET,e-visa
+CM,ET,visa on arrival
 CM,FJ,visa required
 CM,FI,visa required
 CM,FR,visa required
-CM,GA,90
+CM,GA,e-visa
 CM,GM,90
 CM,GE,visa required
 CM,DE,visa required
@@ -5912,7 +5912,7 @@ CM,PE,visa required
 CM,PH,30
 CM,PL,visa required
 CM,PT,visa required
-CM,QA,Hayya Entry Permit
+CM,QA,e-visa
 CM,RO,visa required
 CM,RU,visa required
 CM,RW,visa on arrival
@@ -5942,7 +5942,7 @@ CM,SR,e-visa
 CM,SE,visa required
 CM,CH,visa required
 CM,SY,visa required
-CM,TW,visa required
+CM,TW,covid ban
 CM,TJ,e-visa
 CM,TZ,visa on arrival
 CM,TH,visa required
@@ -6025,7 +6025,7 @@ CA,GQ,visa required
 CA,ER,visa required
 CA,EE,90
 CA,SZ,30
-CA,ET,e-visa
+CA,ET,visa on arrival
 CA,FJ,120
 CA,FI,90
 CA,FR,90
@@ -6053,7 +6053,7 @@ CA,IE,90
 CA,IL,90
 CA,IT,90
 CA,JM,visa free
-CA,JP,90
+CA,JP,e-visa
 CA,JO,visa on arrival
 CA,KZ,30
 CA,KE,e-visa
@@ -6105,13 +6105,13 @@ CA,PK,e-visa
 CA,PW,visa on arrival
 CA,PS,visa free
 CA,PA,180
-CA,PG,e-visa
+CA,PG,visa on arrival
 CA,PY,90
 CA,PE,180
 CA,PH,30
 CA,PL,90
 CA,PT,90
-CA,QA,Hayya Entry Permit
+CA,QA,30
 CA,RO,90
 CA,RU,visa required
 CA,RW,visa on arrival
@@ -6224,7 +6224,7 @@ CV,GQ,visa required
 CV,ER,visa required
 CV,EE,visa required
 CV,SZ,visa required
-CV,ET,e-visa
+CV,ET,visa on arrival
 CV,FJ,visa required
 CV,FI,visa required
 CV,FR,visa required
@@ -6310,7 +6310,7 @@ CV,PE,visa required
 CV,PH,30
 CV,PL,visa required
 CV,PT,visa required
-CV,QA,Hayya Entry Permit
+CV,QA,e-visa
 CV,RO,visa required
 CV,RU,60
 CV,RW,visa on arrival
@@ -6340,7 +6340,7 @@ CV,SR,e-visa
 CV,SE,visa required
 CV,CH,visa required
 CV,SY,visa required
-CV,TW,visa required
+CV,TW,covid ban
 CV,TJ,e-visa
 CV,TZ,visa on arrival
 CV,TH,visa required
@@ -6423,7 +6423,7 @@ CF,GQ,visa required
 CF,ER,visa required
 CF,EE,visa required
 CF,SZ,visa required
-CF,ET,e-visa
+CF,ET,visa on arrival
 CF,FJ,visa required
 CF,FI,visa required
 CF,FR,visa required
@@ -6509,7 +6509,7 @@ CF,PE,visa required
 CF,PH,30
 CF,PL,visa required
 CF,PT,visa required
-CF,QA,Hayya Entry Permit
+CF,QA,e-visa
 CF,RO,visa required
 CF,RU,visa required
 CF,RW,90
@@ -6539,7 +6539,7 @@ CF,SR,e-visa
 CF,SE,visa required
 CF,CH,visa required
 CF,SY,visa required
-CF,TW,visa required
+CF,TW,covid ban
 CF,TJ,e-visa
 CF,TZ,visa on arrival
 CF,TH,visa required
@@ -6622,7 +6622,7 @@ TD,GQ,visa required
 TD,ER,visa required
 TD,EE,visa required
 TD,SZ,visa required
-TD,ET,e-visa
+TD,ET,visa on arrival
 TD,FJ,visa required
 TD,FI,visa required
 TD,FR,visa required
@@ -6708,7 +6708,7 @@ TD,PE,visa required
 TD,PH,30
 TD,PL,visa required
 TD,PT,visa required
-TD,QA,Hayya Entry Permit
+TD,QA,e-visa
 TD,RO,visa required
 TD,RU,visa required
 TD,RW,90
@@ -6738,7 +6738,7 @@ TD,SR,e-visa
 TD,SE,visa required
 TD,CH,visa required
 TD,SY,visa required
-TD,TW,visa required
+TD,TW,covid ban
 TD,TJ,e-visa
 TD,TZ,e-visa
 TD,TH,visa required
@@ -6849,7 +6849,7 @@ CL,IE,90
 CL,IL,90
 CL,IT,90
 CL,JM,90
-CL,JP,90
+CL,JP,visa required
 CL,JO,visa on arrival
 CL,KZ,30
 CL,KE,e-visa
@@ -6901,13 +6901,13 @@ CL,PK,e-visa
 CL,PW,visa on arrival
 CL,PS,visa free
 CL,PA,90
-CL,PG,e-visa
+CL,PG,visa on arrival
 CL,PY,90
 CL,PE,180
 CL,PH,30
 CL,PL,90
 CL,PT,90
-CL,QA,Hayya Entry Permit
+CL,QA,30
 CL,RO,90
 CL,RU,90
 CL,RW,visa on arrival
@@ -7020,7 +7020,7 @@ CN,GQ,visa free
 CN,ER,visa required
 CN,EE,visa required
 CN,SZ,visa required
-CN,ET,e-visa
+CN,ET,visa on arrival
 CN,FJ,120
 CN,FI,visa required
 CN,FR,visa required
@@ -7100,13 +7100,13 @@ CN,PK,e-visa
 CN,PW,visa on arrival
 CN,PS,visa free
 CN,PA,visa required
-CN,PG,visa required
+CN,PG,e-visa
 CN,PY,visa required
 CN,PE,visa required
 CN,PH,visa required
 CN,PL,visa required
 CN,PT,visa required
-CN,QA,Hayya Entry Permit
+CN,QA,30
 CN,RO,visa required
 CN,RU,visa required
 CN,RW,visa on arrival
@@ -7136,7 +7136,7 @@ CN,SR,30
 CN,SE,visa required
 CN,CH,visa required
 CN,SY,visa required
-CN,TW,visa required
+CN,TW,covid ban
 CN,TJ,e-visa
 CN,TZ,visa on arrival
 CN,TH,visa on arrival
@@ -7248,7 +7248,7 @@ CO,IL,90
 CO,IT,90
 CO,JM,30
 CO,JP,visa required
-CO,JO,visa on arrival
+CO,JO,visa required
 CO,KZ,30
 CO,KE,e-visa
 CO,KI,visa required
@@ -7305,7 +7305,7 @@ CO,PE,180
 CO,PH,30
 CO,PL,90
 CO,PT,90
-CO,QA,Hayya Entry Permit
+CO,QA,30
 CO,RO,90
 CO,RU,90
 CO,RW,visa on arrival
@@ -7335,7 +7335,7 @@ CO,SR,e-visa
 CO,SE,90
 CO,CH,90
 CO,SY,visa required
-CO,TW,e-visa
+CO,TW,covid ban
 CO,TJ,e-visa
 CO,TZ,visa on arrival
 CO,TH,visa required
@@ -7418,7 +7418,7 @@ KM,GQ,visa required
 KM,ER,visa required
 KM,EE,visa required
 KM,SZ,visa required
-KM,ET,e-visa
+KM,ET,visa on arrival
 KM,FJ,visa required
 KM,FI,visa required
 KM,FR,visa required
@@ -7504,7 +7504,7 @@ KM,PE,visa required
 KM,PH,30
 KM,PL,visa required
 KM,PT,visa required
-KM,QA,Hayya Entry Permit
+KM,QA,e-visa
 KM,RO,visa required
 KM,RU,visa required
 KM,RW,visa on arrival
@@ -7534,7 +7534,7 @@ KM,SR,e-visa
 KM,SE,visa required
 KM,CH,visa required
 KM,SY,visa required
-KM,TW,visa required
+KM,TW,covid ban
 KM,TJ,e-visa
 KM,TZ,visa on arrival
 KM,TH,visa required
@@ -7617,11 +7617,11 @@ CG,GQ,visa required
 CG,ER,visa required
 CG,EE,visa required
 CG,SZ,visa required
-CG,ET,e-visa
+CG,ET,visa on arrival
 CG,FJ,visa required
 CG,FI,visa required
 CG,FR,visa required
-CG,GA,90
+CG,GA,e-visa
 CG,GM,90
 CG,GE,visa required
 CG,DE,visa required
@@ -7703,7 +7703,7 @@ CG,PE,visa required
 CG,PH,30
 CG,PL,visa required
 CG,PT,visa required
-CG,QA,Hayya Entry Permit
+CG,QA,e-visa
 CG,RO,visa required
 CG,RU,visa required
 CG,RW,visa on arrival
@@ -7733,7 +7733,7 @@ CG,SR,e-visa
 CG,SE,visa required
 CG,CH,visa required
 CG,SY,visa required
-CG,TW,visa required
+CG,TW,covid ban
 CG,TJ,e-visa
 CG,TZ,visa on arrival
 CG,TH,visa required
@@ -7816,7 +7816,7 @@ CD,GQ,visa required
 CD,ER,visa required
 CD,EE,visa required
 CD,SZ,visa required
-CD,ET,e-visa
+CD,ET,visa on arrival
 CD,FJ,visa required
 CD,FI,visa required
 CD,FR,visa required
@@ -7902,7 +7902,7 @@ CD,PE,visa required
 CD,PH,30
 CD,PL,visa required
 CD,PT,visa required
-CD,QA,Hayya Entry Permit
+CD,QA,e-visa
 CD,RO,visa required
 CD,RU,visa required
 CD,RW,90
@@ -7932,7 +7932,7 @@ CD,SR,e-visa
 CD,SE,visa required
 CD,CH,visa required
 CD,SY,visa required
-CD,TW,visa required
+CD,TW,covid ban
 CD,TJ,e-visa
 CD,TZ,visa on arrival
 CD,TH,visa required
@@ -8043,7 +8043,7 @@ CR,IE,90
 CR,IL,90
 CR,IT,90
 CR,JM,30
-CR,JP,90
+CR,JP,visa required
 CR,JO,visa on arrival
 CR,KZ,e-visa
 CR,KE,e-visa
@@ -8101,7 +8101,7 @@ CR,PE,90
 CR,PH,30
 CR,PL,90
 CR,PT,90
-CR,QA,Hayya Entry Permit
+CR,QA,30
 CR,RO,90
 CR,RU,90
 CR,RW,visa on arrival
@@ -8131,7 +8131,7 @@ CR,SR,e-visa
 CR,SE,90
 CR,CH,90
 CR,SY,visa required
-CR,TW,visa required
+CR,TW,covid ban
 CR,TJ,e-visa
 CR,TZ,visa on arrival
 CR,TH,visa required
@@ -8214,7 +8214,7 @@ CI,GQ,visa required
 CI,ER,visa required
 CI,EE,visa required
 CI,SZ,visa required
-CI,ET,e-visa
+CI,ET,visa on arrival
 CI,FJ,visa required
 CI,FI,visa required
 CI,FR,visa required
@@ -8300,7 +8300,7 @@ CI,PE,visa required
 CI,PH,30
 CI,PL,visa required
 CI,PT,visa required
-CI,QA,Hayya Entry Permit
+CI,QA,visa required
 CI,RO,visa required
 CI,RU,visa required
 CI,RW,90
@@ -8330,7 +8330,7 @@ CI,SR,e-visa
 CI,SE,visa required
 CI,CH,visa required
 CI,SY,visa required
-CI,TW,visa required
+CI,TW,covid ban
 CI,TJ,e-visa
 CI,TZ,visa on arrival
 CI,TH,visa required
@@ -8441,7 +8441,7 @@ HR,IE,visa free
 HR,IL,90
 HR,IT,visa free
 HR,JM,visa on arrival
-HR,JP,90
+HR,JP,visa required
 HR,JO,visa on arrival
 HR,KZ,30
 HR,KE,e-visa
@@ -8472,7 +8472,7 @@ HR,MX,180
 HR,FM,90
 HR,MD,90
 HR,MC,visa free
-HR,MN,visa on arrival
+HR,MN,e-visa
 HR,ME,90
 HR,MA,90
 HR,MZ,visa on arrival
@@ -8493,13 +8493,13 @@ HR,PK,e-visa
 HR,PW,90
 HR,PS,visa free
 HR,PA,90
-HR,PG,e-visa
+HR,PG,visa on arrival
 HR,PY,90
 HR,PE,90
 HR,PH,30
 HR,PL,visa free
 HR,PT,visa free
-HR,QA,Hayya Entry Permit
+HR,QA,90
 HR,RO,visa free
 HR,RU,visa required
 HR,RW,visa on arrival
@@ -8624,7 +8624,7 @@ CU,GH,visa required
 CU,GR,visa required
 CU,GD,60
 CU,GT,visa required
-CU,GN,e-visa
+CU,GN,visa free
 CU,GW,visa on arrival
 CU,GY,90
 CU,HT,visa required
@@ -8698,7 +8698,7 @@ CU,PE,visa required
 CU,PH,visa required
 CU,PL,visa required
 CU,PT,visa required
-CU,QA,Hayya Entry Permit
+CU,QA,30
 CU,RO,visa required
 CU,RU,90
 CU,RW,visa on arrival
@@ -8728,7 +8728,7 @@ CU,SR,e-visa
 CU,SE,visa required
 CU,CH,visa required
 CU,SY,visa required
-CU,TW,visa required
+CU,TW,covid ban
 CU,TJ,30
 CU,TZ,visa on arrival
 CU,TH,visa required
@@ -8839,7 +8839,7 @@ CY,IE,visa free
 CY,IL,90
 CY,IT,visa free
 CY,JM,visa free
-CY,JP,90
+CY,JP,visa required
 CY,JO,visa on arrival
 CY,KZ,30
 CY,KE,90
@@ -8870,7 +8870,7 @@ CY,MX,180
 CY,FM,90
 CY,MD,90
 CY,MC,visa free
-CY,MN,visa on arrival
+CY,MN,e-visa
 CY,ME,90
 CY,MA,90
 CY,MZ,visa on arrival
@@ -8891,13 +8891,13 @@ CY,PK,e-visa
 CY,PW,90
 CY,PS,visa free
 CY,PA,90
-CY,PG,e-visa
+CY,PG,visa on arrival
 CY,PY,90
 CY,PE,90
 CY,PH,30
 CY,PL,visa free
 CY,PT,visa free
-CY,QA,Hayya Entry Permit
+CY,QA,90
 CY,RO,visa free
 CY,RU,visa required
 CY,RW,visa on arrival
@@ -9010,7 +9010,7 @@ CZ,GQ,visa required
 CZ,ER,visa required
 CZ,EE,visa free
 CZ,SZ,30
-CZ,ET,e-visa
+CZ,ET,visa on arrival
 CZ,FJ,120
 CZ,FI,visa free
 CZ,FR,visa free
@@ -9038,7 +9038,7 @@ CZ,IE,visa free
 CZ,IL,90
 CZ,IT,visa free
 CZ,JM,30
-CZ,JP,90
+CZ,JP,visa required
 CZ,JO,visa on arrival
 CZ,KZ,30
 CZ,KE,e-visa
@@ -9090,13 +9090,13 @@ CZ,PK,e-visa
 CZ,PW,90
 CZ,PS,visa free
 CZ,PA,90
-CZ,PG,e-visa
+CZ,PG,visa on arrival
 CZ,PY,90
 CZ,PE,90
 CZ,PH,30
 CZ,PL,visa free
 CZ,PT,visa free
-CZ,QA,Hayya Entry Permit
+CZ,QA,90
 CZ,RO,visa free
 CZ,RU,visa required
 CZ,RW,visa on arrival
@@ -9209,7 +9209,7 @@ DK,GQ,visa required
 DK,ER,visa required
 DK,EE,visa free
 DK,SZ,30
-DK,ET,e-visa
+DK,ET,visa on arrival
 DK,FJ,120
 DK,FI,visa free
 DK,FR,visa free
@@ -9237,7 +9237,7 @@ DK,IE,visa free
 DK,IL,90
 DK,IT,visa free
 DK,JM,90
-DK,JP,90
+DK,JP,visa required
 DK,JO,visa on arrival
 DK,KZ,30
 DK,KE,e-visa
@@ -9268,7 +9268,7 @@ DK,MX,180
 DK,FM,90
 DK,MD,90
 DK,MC,visa free
-DK,MN,visa on arrival
+DK,MN,e-visa
 DK,ME,90
 DK,MA,90
 DK,MZ,visa on arrival
@@ -9289,13 +9289,13 @@ DK,PK,e-visa
 DK,PW,90
 DK,PS,visa free
 DK,PA,90
-DK,PG,e-visa
+DK,PG,visa on arrival
 DK,PY,90
 DK,PE,90
 DK,PH,30
 DK,PL,visa free
 DK,PT,visa free
-DK,QA,Hayya Entry Permit
+DK,QA,90
 DK,RO,visa free
 DK,RU,visa required
 DK,RW,visa on arrival
@@ -9494,7 +9494,7 @@ DJ,PE,visa required
 DJ,PH,30
 DJ,PL,visa required
 DJ,PT,visa required
-DJ,QA,Hayya Entry Permit
+DJ,QA,e-visa
 DJ,RO,visa required
 DJ,RU,visa required
 DJ,RW,visa on arrival
@@ -9524,7 +9524,7 @@ DJ,SR,e-visa
 DJ,SE,visa required
 DJ,CH,visa required
 DJ,SY,visa required
-DJ,TW,visa required
+DJ,TW,covid ban
 DJ,TJ,e-visa
 DJ,TZ,e-visa
 DJ,TH,visa required
@@ -9693,7 +9693,7 @@ DM,PE,180
 DM,PH,30
 DM,PL,90
 DM,PT,90
-DM,QA,Hayya Entry Permit
+DM,QA,e-visa
 DM,RO,90
 DM,RU,90
 DM,RW,visa on arrival
@@ -9723,7 +9723,7 @@ DM,SR,180
 DM,SE,90
 DM,CH,90
 DM,SY,visa required
-DM,TW,e-visa
+DM,TW,covid ban
 DM,TJ,e-visa
 DM,TZ,90
 DM,TH,visa required
@@ -9834,7 +9834,7 @@ DO,IE,visa required
 DO,IL,90
 DO,IT,visa required
 DO,JM,visa required
-DO,JP,90
+DO,JP,visa required
 DO,JO,visa on arrival
 DO,KZ,e-visa
 DO,KE,e-visa
@@ -9892,7 +9892,7 @@ DO,PE,60
 DO,PH,30
 DO,PL,visa required
 DO,PT,visa required
-DO,QA,Hayya Entry Permit
+DO,QA,90
 DO,RO,visa required
 DO,RU,60
 DO,RW,visa on arrival
@@ -10064,7 +10064,7 @@ EC,MX,visa required
 EC,FM,30
 EC,MD,90
 EC,MC,visa required
-EC,MN,30
+EC,MN,90
 EC,ME,30
 EC,MA,visa required
 EC,MZ,visa on arrival
@@ -10085,13 +10085,13 @@ EC,PK,e-visa
 EC,PW,visa on arrival
 EC,PS,visa free
 EC,PA,90
-EC,PG,e-visa
+EC,PG,visa on arrival
 EC,PY,90
 EC,PE,180
 EC,PH,30
 EC,PL,visa required
 EC,PT,visa required
-EC,QA,Hayya Entry Permit
+EC,QA,30
 EC,RO,visa required
 EC,RU,90
 EC,RW,visa on arrival
@@ -10121,7 +10121,7 @@ EC,SR,e-visa
 EC,SE,visa required
 EC,CH,visa required
 EC,SY,visa required
-EC,TW,e-visa
+EC,TW,covid ban
 EC,TJ,30
 EC,TZ,visa on arrival
 EC,TH,visa required
@@ -10204,7 +10204,7 @@ EG,GQ,visa required
 EG,ER,visa required
 EG,EE,visa required
 EG,SZ,visa required
-EG,ET,e-visa
+EG,ET,visa on arrival
 EG,FJ,visa required
 EG,FI,visa required
 EG,FR,visa required
@@ -10290,7 +10290,7 @@ EG,PE,visa required
 EG,PH,visa required
 EG,PL,visa required
 EG,PT,visa required
-EG,QA,Hayya Entry Permit
+EG,QA,e-visa
 EG,RO,visa required
 EG,RU,visa required
 EG,RW,visa on arrival
@@ -10320,7 +10320,7 @@ EG,SR,e-visa
 EG,SE,visa required
 EG,CH,visa required
 EG,SY,visa required
-EG,TW,visa required
+EG,TW,covid ban
 EG,TJ,visa on arrival
 EG,TZ,visa on arrival
 EG,TH,visa required
@@ -10431,7 +10431,7 @@ SV,IE,90
 SV,IL,90
 SV,IT,90
 SV,JM,30
-SV,JP,90
+SV,JP,visa required
 SV,JO,visa on arrival
 SV,KZ,e-visa
 SV,KE,e-visa
@@ -10489,7 +10489,7 @@ SV,PE,visa required
 SV,PH,30
 SV,PL,90
 SV,PT,90
-SV,QA,Hayya Entry Permit
+SV,QA,e-visa
 SV,RO,90
 SV,RU,90
 SV,RW,visa on arrival
@@ -10519,7 +10519,7 @@ SV,SR,e-visa
 SV,SE,90
 SV,CH,90
 SV,SY,visa required
-SV,TW,visa required
+SV,TW,covid ban
 SV,TJ,e-visa
 SV,TZ,visa on arrival
 SV,TH,visa required
@@ -10602,11 +10602,11 @@ GQ,GQ,-1
 GQ,ER,visa required
 GQ,EE,visa required
 GQ,SZ,visa required
-GQ,ET,e-visa
+GQ,ET,visa on arrival
 GQ,FJ,visa required
 GQ,FI,visa required
 GQ,FR,visa required
-GQ,GA,90
+GQ,GA,e-visa
 GQ,GM,90
 GQ,GE,e-visa
 GQ,DE,visa required
@@ -10688,7 +10688,7 @@ GQ,PE,visa required
 GQ,PH,30
 GQ,PL,visa required
 GQ,PT,visa required
-GQ,QA,Hayya Entry Permit
+GQ,QA,e-visa
 GQ,RO,visa required
 GQ,RU,visa required
 GQ,RW,visa on arrival
@@ -10718,7 +10718,7 @@ GQ,SR,e-visa
 GQ,SE,visa required
 GQ,CH,visa required
 GQ,SY,visa required
-GQ,TW,visa required
+GQ,TW,covid ban
 GQ,TJ,e-visa
 GQ,TZ,e-visa
 GQ,TH,visa required
@@ -10801,7 +10801,7 @@ ER,GQ,visa required
 ER,ER,-1
 ER,EE,visa required
 ER,SZ,visa required
-ER,ET,e-visa
+ER,ET,visa on arrival
 ER,FJ,visa required
 ER,FI,visa required
 ER,FR,visa required
@@ -10887,7 +10887,7 @@ ER,PE,visa required
 ER,PH,30
 ER,PL,visa required
 ER,PT,visa required
-ER,QA,Hayya Entry Permit
+ER,QA,e-visa
 ER,RO,visa required
 ER,RU,visa required
 ER,RW,visa on arrival
@@ -10917,7 +10917,7 @@ ER,SR,e-visa
 ER,SE,visa required
 ER,CH,visa required
 ER,SY,visa required
-ER,TW,visa required
+ER,TW,covid ban
 ER,TJ,e-visa
 ER,TZ,e-visa
 ER,TH,visa required
@@ -11028,7 +11028,7 @@ EE,IE,visa free
 EE,IL,90
 EE,IT,visa free
 EE,JM,30
-EE,JP,90
+EE,JP,visa required
 EE,JO,visa on arrival
 EE,KZ,30
 EE,KE,e-visa
@@ -11059,7 +11059,7 @@ EE,MX,180
 EE,FM,90
 EE,MD,90
 EE,MC,visa free
-EE,MN,visa on arrival
+EE,MN,e-visa
 EE,ME,90
 EE,MA,90
 EE,MZ,visa on arrival
@@ -11080,13 +11080,13 @@ EE,PK,e-visa
 EE,PW,90
 EE,PS,visa free
 EE,PA,90
-EE,PG,e-visa
+EE,PG,visa on arrival
 EE,PY,90
 EE,PE,90
 EE,PH,30
 EE,PL,visa free
 EE,PT,visa free
-EE,QA,Hayya Entry Permit
+EE,QA,90
 EE,RO,visa free
 EE,RU,visa required
 EE,RW,visa on arrival
@@ -11199,7 +11199,7 @@ SZ,GQ,visa required
 SZ,ER,visa required
 SZ,EE,visa required
 SZ,SZ,-1
-SZ,ET,e-visa
+SZ,ET,visa on arrival
 SZ,FJ,120
 SZ,FI,visa required
 SZ,FR,visa required
@@ -11285,7 +11285,7 @@ SZ,PE,visa required
 SZ,PH,30
 SZ,PL,visa required
 SZ,PT,visa required
-SZ,QA,Hayya Entry Permit
+SZ,QA,e-visa
 SZ,RO,visa required
 SZ,RU,visa required
 SZ,RW,visa on arrival
@@ -11484,7 +11484,7 @@ ET,PE,visa required
 ET,PH,30
 ET,PL,visa required
 ET,PT,visa required
-ET,QA,Hayya Entry Permit
+ET,QA,e-visa
 ET,RO,visa required
 ET,RU,visa required
 ET,RW,visa on arrival
@@ -11514,7 +11514,7 @@ ET,SR,e-visa
 ET,SE,visa required
 ET,CH,visa required
 ET,SY,visa required
-ET,TW,visa required
+ET,TW,covid ban
 ET,TJ,e-visa
 ET,TZ,e-visa
 ET,TH,visa on arrival
@@ -11677,13 +11677,13 @@ FJ,PK,e-visa
 FJ,PW,visa on arrival
 FJ,PS,visa free
 FJ,PA,90
-FJ,PG,e-visa
+FJ,PG,visa on arrival
 FJ,PY,visa required
 FJ,PE,180
 FJ,PH,30
 FJ,PL,visa required
 FJ,PT,visa required
-FJ,QA,Hayya Entry Permit
+FJ,QA,e-visa
 FJ,RO,visa required
 FJ,RU,90
 FJ,RW,visa on arrival
@@ -11713,7 +11713,7 @@ FJ,SR,e-visa
 FJ,SE,visa required
 FJ,CH,visa required
 FJ,SY,visa required
-FJ,TW,visa required
+FJ,TW,covid ban
 FJ,TJ,e-visa
 FJ,TZ,visa on arrival
 FJ,TH,visa on arrival
@@ -11796,7 +11796,7 @@ FI,GQ,visa required
 FI,ER,visa required
 FI,EE,visa free
 FI,SZ,30
-FI,ET,e-visa
+FI,ET,visa on arrival
 FI,FJ,120
 FI,FI,-1
 FI,FR,visa free
@@ -11824,7 +11824,7 @@ FI,IE,visa free
 FI,IL,90
 FI,IT,visa free
 FI,JM,90
-FI,JP,90
+FI,JP,visa required
 FI,JO,visa on arrival
 FI,KZ,30
 FI,KE,e-visa
@@ -11855,7 +11855,7 @@ FI,MX,180
 FI,FM,90
 FI,MD,90
 FI,MC,visa free
-FI,MN,visa on arrival
+FI,MN,e-visa
 FI,ME,90
 FI,MA,90
 FI,MZ,visa on arrival
@@ -11876,13 +11876,13 @@ FI,PK,e-visa
 FI,PW,90
 FI,PS,visa free
 FI,PA,90
-FI,PG,e-visa
+FI,PG,visa on arrival
 FI,PY,90
 FI,PE,90
 FI,PH,30
 FI,PL,visa free
 FI,PT,visa free
-FI,QA,Hayya Entry Permit
+FI,QA,90
 FI,RO,visa free
 FI,RU,visa required
 FI,RW,visa on arrival
@@ -11995,7 +11995,7 @@ FR,GQ,visa required
 FR,ER,visa required
 FR,EE,visa free
 FR,SZ,30
-FR,ET,e-visa
+FR,ET,visa on arrival
 FR,FJ,120
 FR,FI,visa free
 FR,FR,-1
@@ -12023,7 +12023,7 @@ FR,IE,visa free
 FR,IL,90
 FR,IT,visa free
 FR,JM,30
-FR,JP,90
+FR,JP,visa required
 FR,JO,visa on arrival
 FR,KZ,30
 FR,KE,e-visa
@@ -12075,13 +12075,13 @@ FR,PK,e-visa
 FR,PW,90
 FR,PS,visa free
 FR,PA,90
-FR,PG,e-visa
+FR,PG,visa on arrival
 FR,PY,90
 FR,PE,90
 FR,PH,30
 FR,PL,visa free
 FR,PT,visa free
-FR,QA,Hayya Entry Permit
+FR,QA,90
 FR,RO,visa free
 FR,RU,visa required
 FR,RW,visa on arrival
@@ -12194,7 +12194,7 @@ GA,GQ,visa required
 GA,ER,visa required
 GA,EE,visa required
 GA,SZ,visa required
-GA,ET,e-visa
+GA,ET,visa on arrival
 GA,FJ,visa required
 GA,FI,visa required
 GA,FR,visa required
@@ -12280,7 +12280,7 @@ GA,PE,visa required
 GA,PH,30
 GA,PL,visa required
 GA,PT,visa required
-GA,QA,Hayya Entry Permit
+GA,QA,e-visa
 GA,RO,visa required
 GA,RU,visa required
 GA,RW,visa on arrival
@@ -12310,7 +12310,7 @@ GA,SR,e-visa
 GA,SE,visa required
 GA,CH,visa required
 GA,SY,visa required
-GA,TW,visa required
+GA,TW,covid ban
 GA,TJ,e-visa
 GA,TZ,visa on arrival
 GA,TH,visa required
@@ -12393,7 +12393,7 @@ GM,GQ,visa required
 GM,ER,visa required
 GM,EE,visa required
 GM,SZ,30
-GM,ET,e-visa
+GM,ET,visa on arrival
 GM,FJ,120
 GM,FI,visa required
 GM,FR,visa required
@@ -12479,7 +12479,7 @@ GM,PE,visa required
 GM,PH,30
 GM,PL,visa required
 GM,PT,visa required
-GM,QA,Hayya Entry Permit
+GM,QA,e-visa
 GM,RO,visa required
 GM,RU,visa required
 GM,RW,visa on arrival
@@ -12509,7 +12509,7 @@ GM,SR,e-visa
 GM,SE,visa required
 GM,CH,visa required
 GM,SY,visa required
-GM,TW,visa required
+GM,TW,covid ban
 GM,TJ,e-visa
 GM,TZ,90
 GM,TH,visa required
@@ -12678,7 +12678,7 @@ GE,PE,visa required
 GE,PH,visa required
 GE,PL,90
 GE,PT,90
-GE,QA,Hayya Entry Permit
+GE,QA,30
 GE,RO,90
 GE,RU,visa required
 GE,RW,visa on arrival
@@ -12708,7 +12708,7 @@ GE,SR,e-visa
 GE,SE,90
 GE,CH,90
 GE,SY,visa required
-GE,TW,visa required
+GE,TW,covid ban
 GE,TJ,visa free
 GE,TZ,e-visa
 GE,TH,visa on arrival
@@ -12791,7 +12791,7 @@ DE,GQ,visa required
 DE,ER,visa required
 DE,EE,visa free
 DE,SZ,30
-DE,ET,e-visa
+DE,ET,visa on arrival
 DE,FJ,120
 DE,FI,visa free
 DE,FR,visa free
@@ -12819,7 +12819,7 @@ DE,IE,visa free
 DE,IL,90
 DE,IT,visa free
 DE,JM,90
-DE,JP,90
+DE,JP,visa required
 DE,JO,visa on arrival
 DE,KZ,30
 DE,KE,e-visa
@@ -12871,13 +12871,13 @@ DE,PK,e-visa
 DE,PW,90
 DE,PS,visa free
 DE,PA,90
-DE,PG,e-visa
+DE,PG,visa on arrival
 DE,PY,90
 DE,PE,90
 DE,PH,30
 DE,PL,visa free
 DE,PT,visa free
-DE,QA,Hayya Entry Permit
+DE,QA,90
 DE,RO,visa free
 DE,RU,visa required
 DE,RW,visa on arrival
@@ -12990,7 +12990,7 @@ GH,GQ,visa required
 GH,ER,visa required
 GH,EE,visa required
 GH,SZ,30
-GH,ET,e-visa
+GH,ET,visa on arrival
 GH,FJ,120
 GH,FI,visa required
 GH,FR,visa required
@@ -13076,7 +13076,7 @@ GH,PE,visa required
 GH,PH,30
 GH,PL,visa required
 GH,PT,visa required
-GH,QA,Hayya Entry Permit
+GH,QA,e-visa
 GH,RO,visa required
 GH,RU,visa required
 GH,RW,90
@@ -13106,7 +13106,7 @@ GH,SR,e-visa
 GH,SE,visa required
 GH,CH,visa required
 GH,SY,visa required
-GH,TW,visa required
+GH,TW,covid ban
 GH,TJ,e-visa
 GH,TZ,visa free
 GH,TH,visa required
@@ -13189,7 +13189,7 @@ GR,GQ,visa required
 GR,ER,visa required
 GR,EE,visa free
 GR,SZ,30
-GR,ET,e-visa
+GR,ET,visa on arrival
 GR,FJ,120
 GR,FI,visa free
 GR,FR,visa free
@@ -13217,7 +13217,7 @@ GR,IE,visa free
 GR,IL,90
 GR,IT,visa free
 GR,JM,30
-GR,JP,90
+GR,JP,visa required
 GR,JO,visa on arrival
 GR,KZ,30
 GR,KE,e-visa
@@ -13248,7 +13248,7 @@ GR,MX,180
 GR,FM,90
 GR,MD,90
 GR,MC,visa free
-GR,MN,visa on arrival
+GR,MN,e-visa
 GR,ME,90
 GR,MA,90
 GR,MZ,visa on arrival
@@ -13269,13 +13269,13 @@ GR,PK,e-visa
 GR,PW,90
 GR,PS,visa free
 GR,PA,90
-GR,PG,e-visa
+GR,PG,visa on arrival
 GR,PY,90
 GR,PE,180
 GR,PH,30
 GR,PL,visa free
 GR,PT,visa free
-GR,QA,Hayya Entry Permit
+GR,QA,90
 GR,RO,visa free
 GR,RU,visa required
 GR,RW,visa on arrival
@@ -13474,7 +13474,7 @@ GD,PE,180
 GD,PH,30
 GD,PL,90
 GD,PT,90
-GD,QA,Hayya Entry Permit
+GD,QA,e-visa
 GD,RO,90
 GD,RU,90
 GD,RW,visa on arrival
@@ -13504,7 +13504,7 @@ GD,SR,180
 GD,SE,90
 GD,CH,90
 GD,SY,visa required
-GD,TW,visa required
+GD,TW,covid ban
 GD,TJ,e-visa
 GD,TZ,90
 GD,TH,visa required
@@ -13615,7 +13615,7 @@ GT,IE,90
 GT,IL,90
 GT,IT,90
 GT,JM,30
-GT,JP,90
+GT,JP,visa required
 GT,JO,visa on arrival
 GT,KZ,e-visa
 GT,KE,e-visa
@@ -13673,7 +13673,7 @@ GT,PE,90
 GT,PH,30
 GT,PL,90
 GT,PT,90
-GT,QA,Hayya Entry Permit
+GT,QA,e-visa
 GT,RO,90
 GT,RU,90
 GT,RW,visa on arrival
@@ -13786,7 +13786,7 @@ GN,GQ,visa required
 GN,ER,visa required
 GN,EE,visa required
 GN,SZ,visa required
-GN,ET,e-visa
+GN,ET,visa on arrival
 GN,FJ,visa required
 GN,FI,visa required
 GN,FR,visa required
@@ -13872,7 +13872,7 @@ GN,PE,visa required
 GN,PH,30
 GN,PL,visa required
 GN,PT,visa required
-GN,QA,Hayya Entry Permit
+GN,QA,e-visa
 GN,RO,visa required
 GN,RU,visa required
 GN,RW,90
@@ -13902,7 +13902,7 @@ GN,SR,e-visa
 GN,SE,visa required
 GN,CH,visa required
 GN,SY,visa required
-GN,TW,visa required
+GN,TW,covid ban
 GN,TJ,e-visa
 GN,TZ,visa on arrival
 GN,TH,visa required
@@ -13985,7 +13985,7 @@ GW,GQ,visa required
 GW,ER,visa required
 GW,EE,visa required
 GW,SZ,visa required
-GW,ET,e-visa
+GW,ET,visa on arrival
 GW,FJ,visa required
 GW,FI,visa required
 GW,FR,visa required
@@ -14071,7 +14071,7 @@ GW,PE,visa required
 GW,PH,30
 GW,PL,visa required
 GW,PT,visa required
-GW,QA,Hayya Entry Permit
+GW,QA,e-visa
 GW,RO,visa required
 GW,RU,visa required
 GW,RW,visa on arrival
@@ -14101,7 +14101,7 @@ GW,SR,e-visa
 GW,SE,visa required
 GW,CH,visa required
 GW,SY,visa required
-GW,TW,visa required
+GW,TW,covid ban
 GW,TJ,e-visa
 GW,TZ,visa on arrival
 GW,TH,visa required
@@ -14270,7 +14270,7 @@ GY,PE,180
 GY,PH,30
 GY,PL,visa required
 GY,PT,visa required
-GY,QA,Hayya Entry Permit
+GY,QA,30
 GY,RO,visa required
 GY,RU,90
 GY,RW,visa on arrival
@@ -14300,7 +14300,7 @@ GY,SR,180
 GY,SE,visa required
 GY,CH,visa required
 GY,SY,visa required
-GY,TW,visa required
+GY,TW,covid ban
 GY,TJ,e-visa
 GY,TZ,90
 GY,TH,visa required
@@ -14469,7 +14469,7 @@ HT,PE,visa required
 HT,PH,30
 HT,PL,visa required
 HT,PT,visa required
-HT,QA,Hayya Entry Permit
+HT,QA,e-visa
 HT,RO,visa required
 HT,RU,visa required
 HT,RW,90
@@ -14610,7 +14610,7 @@ HN,IE,90
 HN,IL,90
 HN,IT,90
 HN,JM,visa required
-HN,JP,90
+HN,JP,visa required
 HN,JO,visa on arrival
 HN,KZ,e-visa
 HN,KE,e-visa
@@ -14668,7 +14668,7 @@ HN,PE,180
 HN,PH,30
 HN,PL,90
 HN,PT,90
-HN,QA,Hayya Entry Permit
+HN,QA,e-visa
 HN,RO,90
 HN,RU,90
 HN,RW,visa on arrival
@@ -14781,7 +14781,7 @@ HK,GQ,visa required
 HK,ER,visa required
 HK,EE,90
 HK,SZ,visa required
-HK,ET,e-visa
+HK,ET,visa on arrival
 HK,FJ,120
 HK,FI,90
 HK,FR,90
@@ -14809,7 +14809,7 @@ HK,IE,90
 HK,IL,90
 HK,IT,90
 HK,JM,visa required
-HK,JP,90
+HK,JP,visa required
 HK,JO,visa on arrival
 HK,KZ,14
 HK,KE,e-visa
@@ -14861,13 +14861,13 @@ HK,PK,visa required
 HK,PW,visa on arrival
 HK,PS,visa free
 HK,PA,90
-HK,PG,e-visa
+HK,PG,visa on arrival
 HK,PY,visa required
 HK,PE,180
 HK,PH,14
 HK,PL,90
 HK,PT,90
-HK,QA,Hayya Entry Permit
+HK,QA,30
 HK,RO,90
 HK,RU,14
 HK,RW,visa on arrival
@@ -14887,7 +14887,7 @@ HK,SI,90
 HK,SB,visa required
 HK,SO,visa on arrival
 HK,ZA,30
-HK,KR,e-visa
+HK,KR,visa required
 HK,SS,e-visa
 HK,ES,90
 HK,LK,e-visa
@@ -14897,7 +14897,7 @@ HK,SR,90
 HK,SE,90
 HK,CH,90
 HK,SY,visa required
-HK,TW,visa on arrival
+HK,TW,covid ban
 HK,TJ,e-visa
 HK,TZ,90
 HK,TH,30
@@ -15008,7 +15008,7 @@ HU,IE,visa free
 HU,IL,90
 HU,IT,visa free
 HU,JM,30
-HU,JP,90
+HU,JP,visa required
 HU,JO,visa on arrival
 HU,KZ,30
 HU,KE,e-visa
@@ -15060,13 +15060,13 @@ HU,PK,e-visa
 HU,PW,90
 HU,PS,visa free
 HU,PA,90
-HU,PG,e-visa
+HU,PG,visa on arrival
 HU,PY,90
 HU,PE,180
 HU,PH,30
 HU,PL,visa free
 HU,PT,visa free
-HU,QA,Hayya Entry Permit
+HU,QA,90
 HU,RO,visa free
 HU,RU,visa required
 HU,RW,visa on arrival
@@ -15207,7 +15207,7 @@ IS,IE,visa free
 IS,IL,90
 IS,IT,visa free
 IS,JM,90
-IS,JP,90
+IS,JP,visa required
 IS,JO,visa on arrival
 IS,KZ,30
 IS,KE,e-visa
@@ -15259,13 +15259,13 @@ IS,PK,e-visa
 IS,PW,visa on arrival
 IS,PS,visa free
 IS,PA,90
-IS,PG,e-visa
+IS,PG,visa on arrival
 IS,PY,90
 IS,PE,90
 IS,PH,30
 IS,PL,visa free
 IS,PT,visa free
-IS,QA,Hayya Entry Permit
+IS,QA,90
 IS,RO,visa free
 IS,RU,visa required
 IS,RW,visa on arrival
@@ -15378,7 +15378,7 @@ IN,GQ,visa required
 IN,ER,visa required
 IN,EE,visa required
 IN,SZ,visa required
-IN,ET,e-visa
+IN,ET,visa on arrival
 IN,FJ,120
 IN,FI,visa required
 IN,FR,visa required
@@ -15437,7 +15437,7 @@ IN,MX,visa required
 IN,FM,30
 IN,MD,e-visa
 IN,MC,visa required
-IN,MN,visa on arrival
+IN,MN,visa required
 IN,ME,visa required
 IN,MA,visa required
 IN,MZ,visa required
@@ -15464,7 +15464,7 @@ IN,PE,visa required
 IN,PH,visa required
 IN,PL,visa required
 IN,PT,visa required
-IN,QA,Hayya Entry Permit
+IN,QA,visa on arrival
 IN,RO,visa required
 IN,RU,visa required
 IN,RW,visa on arrival
@@ -15494,7 +15494,7 @@ IN,SR,e-visa
 IN,SE,visa required
 IN,CH,visa required
 IN,SY,visa required
-IN,TW,visa required
+IN,TW,covid ban
 IN,TJ,e-visa
 IN,TZ,visa on arrival
 IN,TH,visa on arrival
@@ -15657,13 +15657,13 @@ ID,PK,e-visa
 ID,PW,visa on arrival
 ID,PS,visa free
 ID,PA,visa required
-ID,PG,e-visa
+ID,PG,visa on arrival
 ID,PY,visa required
 ID,PE,180
 ID,PH,30
 ID,PL,visa required
 ID,PT,visa required
-ID,QA,Hayya Entry Permit
+ID,QA,30
 ID,RO,visa required
 ID,RU,visa required
 ID,RW,90
@@ -15693,7 +15693,7 @@ ID,SR,90
 ID,SE,visa required
 ID,CH,visa required
 ID,SY,visa required
-ID,TW,visa required
+ID,TW,covid ban
 ID,TJ,30
 ID,TZ,visa on arrival
 ID,TH,30
@@ -15862,7 +15862,7 @@ IR,PE,visa required
 IR,PH,visa required
 IR,PL,visa required
 IR,PT,visa required
-IR,QA,Hayya Entry Permit
+IR,QA,visa on arrival
 IR,RO,visa required
 IR,RU,visa required
 IR,RW,visa on arrival
@@ -15892,7 +15892,7 @@ IR,SR,e-visa
 IR,SE,visa required
 IR,CH,visa required
 IR,SY,visa required
-IR,TW,visa required
+IR,TW,covid ban
 IR,TJ,e-visa
 IR,TZ,e-visa
 IR,TH,visa required
@@ -16061,7 +16061,7 @@ IQ,PE,visa required
 IQ,PH,visa required
 IQ,PL,visa required
 IQ,PT,visa required
-IQ,QA,Hayya Entry Permit
+IQ,QA,e-visa
 IQ,RO,visa required
 IQ,RU,visa required
 IQ,RW,visa on arrival
@@ -16091,7 +16091,7 @@ IQ,SR,e-visa
 IQ,SE,visa required
 IQ,CH,visa required
 IQ,SY,visa required
-IQ,TW,visa required
+IQ,TW,covid ban
 IQ,TJ,e-visa
 IQ,TZ,e-visa
 IQ,TH,visa required
@@ -16174,7 +16174,7 @@ IE,GQ,visa required
 IE,ER,visa required
 IE,EE,visa free
 IE,SZ,30
-IE,ET,e-visa
+IE,ET,visa on arrival
 IE,FJ,120
 IE,FI,visa free
 IE,FR,visa free
@@ -16202,7 +16202,7 @@ IE,IE,-1
 IE,IL,90
 IE,IT,visa free
 IE,JM,90
-IE,JP,90
+IE,JP,visa required
 IE,JO,visa on arrival
 IE,KZ,30
 IE,KE,e-visa
@@ -16233,7 +16233,7 @@ IE,MX,180
 IE,FM,30
 IE,MD,90
 IE,MC,visa free
-IE,MN,visa on arrival
+IE,MN,e-visa
 IE,ME,90
 IE,MA,90
 IE,MZ,visa on arrival
@@ -16254,13 +16254,13 @@ IE,PK,e-visa
 IE,PW,visa on arrival
 IE,PS,visa free
 IE,PA,90
-IE,PG,e-visa
+IE,PG,visa on arrival
 IE,PY,90
 IE,PE,180
 IE,PH,30
 IE,PL,visa free
 IE,PT,visa free
-IE,QA,Hayya Entry Permit
+IE,QA,30
 IE,RO,visa free
 IE,RU,visa required
 IE,RW,visa on arrival
@@ -16373,7 +16373,7 @@ IL,GQ,visa required
 IL,ER,visa required
 IL,EE,90
 IL,SZ,30
-IL,ET,e-visa
+IL,ET,visa on arrival
 IL,FJ,120
 IL,FI,90
 IL,FR,90
@@ -16401,7 +16401,7 @@ IL,IE,90
 IL,IL,-1
 IL,IT,90
 IL,JM,90
-IL,JP,90
+IL,JP,visa required
 IL,JO,visa on arrival
 IL,KZ,30
 IL,KE,e-visa
@@ -16453,13 +16453,13 @@ IL,PK,no admission
 IL,PW,90
 IL,PS,visa free
 IL,PA,90
-IL,PG,e-visa
+IL,PG,visa on arrival
 IL,PY,90
 IL,PE,180
 IL,PH,60
 IL,PL,90
 IL,PT,90
-IL,QA,Hayya Entry Permit
+IL,QA,e-visa
 IL,RO,90
 IL,RU,90
 IL,RW,visa on arrival
@@ -16572,7 +16572,7 @@ IT,GQ,visa required
 IT,ER,visa required
 IT,EE,visa free
 IT,SZ,30
-IT,ET,e-visa
+IT,ET,visa on arrival
 IT,FJ,120
 IT,FI,visa free
 IT,FR,visa free
@@ -16600,7 +16600,7 @@ IT,IE,visa free
 IT,IL,90
 IT,IT,-1
 IT,JM,90
-IT,JP,90
+IT,JP,visa required
 IT,JO,visa on arrival
 IT,KZ,30
 IT,KE,e-visa
@@ -16652,13 +16652,13 @@ IT,PK,e-visa
 IT,PW,90
 IT,PS,visa free
 IT,PA,90
-IT,PG,e-visa
+IT,PG,visa on arrival
 IT,PY,90
 IT,PE,90
 IT,PH,30
 IT,PL,visa free
 IT,PT,visa free
-IT,QA,Hayya Entry Permit
+IT,QA,visa free
 IT,RO,visa free
 IT,RU,visa required
 IT,RW,visa on arrival
@@ -16857,7 +16857,7 @@ JM,PE,180
 JM,PH,30
 JM,PL,visa required
 JM,PT,visa required
-JM,QA,Hayya Entry Permit
+JM,QA,e-visa
 JM,RO,visa required
 JM,RU,90
 JM,RW,visa on arrival
@@ -16887,7 +16887,7 @@ JM,SR,180
 JM,SE,visa required
 JM,CH,visa required
 JM,SY,visa required
-JM,TW,visa required
+JM,TW,covid ban
 JM,TJ,30
 JM,TZ,90
 JM,TH,visa required
@@ -16970,7 +16970,7 @@ JP,GQ,visa required
 JP,ER,visa required
 JP,EE,90
 JP,SZ,30
-JP,ET,e-visa
+JP,ET,visa on arrival
 JP,FJ,120
 JP,FI,90
 JP,FR,90
@@ -17050,13 +17050,13 @@ JP,PK,e-visa
 JP,PW,visa on arrival
 JP,PS,visa free
 JP,PA,90
-JP,PG,e-visa
+JP,PG,visa on arrival
 JP,PY,90
 JP,PE,180
 JP,PH,30
 JP,PL,90
 JP,PT,90
-JP,QA,Hayya Entry Permit
+JP,QA,30
 JP,RO,90
 JP,RU,visa required
 JP,RW,visa on arrival
@@ -17255,7 +17255,7 @@ JO,PE,visa required
 JO,PH,visa required
 JO,PL,visa required
 JO,PT,visa required
-JO,QA,Hayya Entry Permit
+JO,QA,e-visa
 JO,RO,visa required
 JO,RU,visa required
 JO,RW,visa on arrival
@@ -17285,7 +17285,7 @@ JO,SR,e-visa
 JO,SE,visa required
 JO,CH,visa required
 JO,SY,visa free
-JO,TW,visa required
+JO,TW,covid ban
 JO,TJ,30
 JO,TZ,visa on arrival
 JO,TH,visa required
@@ -17454,7 +17454,7 @@ KZ,PE,visa required
 KZ,PH,30
 KZ,PL,visa required
 KZ,PT,visa required
-KZ,QA,Hayya Entry Permit
+KZ,QA,30
 KZ,RO,visa required
 KZ,RU,90
 KZ,RW,visa on arrival
@@ -17484,7 +17484,7 @@ KZ,SR,e-visa
 KZ,SE,visa required
 KZ,CH,visa required
 KZ,SY,visa required
-KZ,TW,visa required
+KZ,TW,covid ban
 KZ,TJ,visa free
 KZ,TZ,e-visa
 KZ,TH,visa on arrival
@@ -17653,7 +17653,7 @@ KE,PE,visa required
 KE,PH,30
 KE,PL,visa required
 KE,PT,visa required
-KE,QA,Hayya Entry Permit
+KE,QA,e-visa
 KE,RO,visa required
 KE,RU,visa required
 KE,RW,180
@@ -17683,7 +17683,7 @@ KE,SR,e-visa
 KE,SE,visa required
 KE,CH,visa required
 KE,SY,visa required
-KE,TW,visa required
+KE,TW,covid ban
 KE,TJ,e-visa
 KE,TZ,90
 KE,TH,visa required
@@ -17846,13 +17846,13 @@ KI,PK,e-visa
 KI,PW,visa on arrival
 KI,PS,visa free
 KI,PA,90
-KI,PG,e-visa
+KI,PG,visa on arrival
 KI,PY,visa required
 KI,PE,180
 KI,PH,30
 KI,PL,90
 KI,PT,90
-KI,QA,Hayya Entry Permit
+KI,QA,e-visa
 KI,RO,90
 KI,RU,visa required
 KI,RW,visa on arrival
@@ -17872,7 +17872,7 @@ KI,SI,90
 KI,SB,visa on arrival
 KI,SO,visa on arrival
 KI,ZA,visa required
-KI,KR,e-visa
+KI,KR,visa required
 KI,SS,e-visa
 KI,ES,90
 KI,LK,e-visa
@@ -17882,7 +17882,7 @@ KI,SR,e-visa
 KI,SE,90
 KI,CH,90
 KI,SY,visa required
-KI,TW,e-visa
+KI,TW,covid ban
 KI,TJ,e-visa
 KI,TZ,90
 KI,TH,visa required
@@ -18051,7 +18051,7 @@ XK,PE,visa required
 XK,PH,visa required
 XK,PL,visa required
 XK,PT,visa required
-XK,QA,Hayya Entry Permit
+XK,QA,e-visa
 XK,RO,visa required
 XK,RU,visa required
 XK,RW,visa on arrival
@@ -18063,7 +18063,7 @@ XK,ST,e-visa
 XK,SA,visa required
 XK,SN,visa required
 XK,RS,visa free
-XK,SC,no admission
+XK,SC,90
 XK,SL,visa on arrival
 XK,SG,e-visa
 XK,SK,visa required
@@ -18081,7 +18081,7 @@ XK,SR,e-visa
 XK,SE,visa required
 XK,CH,visa required
 XK,SY,visa required
-XK,TW,e-visa
+XK,TW,covid ban
 XK,TJ,e-visa
 XK,TZ,visa on arrival
 XK,TH,visa required
@@ -18164,7 +18164,7 @@ KW,GQ,visa required
 KW,ER,visa required
 KW,EE,visa required
 KW,SZ,30
-KW,ET,e-visa
+KW,ET,visa on arrival
 KW,FJ,visa required
 KW,FI,visa required
 KW,FR,visa required
@@ -18223,7 +18223,7 @@ KW,MX,visa required
 KW,FM,30
 KW,MD,e-visa
 KW,MC,visa required
-KW,MN,visa on arrival
+KW,MN,visa required
 KW,ME,90
 KW,MA,90
 KW,MZ,visa on arrival
@@ -18250,7 +18250,7 @@ KW,PE,visa required
 KW,PH,30
 KW,PL,visa required
 KW,PT,visa required
-KW,QA,Hayya Entry Permit
+KW,QA,visa free
 KW,RO,visa required
 KW,RU,visa required
 KW,RW,visa on arrival
@@ -18280,7 +18280,7 @@ KW,SR,e-visa
 KW,SE,visa required
 KW,CH,visa required
 KW,SY,visa free
-KW,TW,e-visa
+KW,TW,covid ban
 KW,TJ,30
 KW,TZ,visa on arrival
 KW,TH,30
@@ -18449,7 +18449,7 @@ KG,PE,visa required
 KG,PH,30
 KG,PL,visa required
 KG,PT,visa required
-KG,QA,Hayya Entry Permit
+KG,QA,e-visa
 KG,RO,visa required
 KG,RU,visa free
 KG,RW,visa on arrival
@@ -18479,7 +18479,7 @@ KG,SR,e-visa
 KG,SE,visa required
 KG,CH,visa required
 KG,SY,visa required
-KG,TW,visa required
+KG,TW,covid ban
 KG,TJ,visa free
 KG,TZ,e-visa
 KG,TH,visa required
@@ -18648,7 +18648,7 @@ LA,PE,visa required
 LA,PH,30
 LA,PL,visa required
 LA,PT,visa required
-LA,QA,Hayya Entry Permit
+LA,QA,e-visa
 LA,RO,visa required
 LA,RU,30
 LA,RW,visa on arrival
@@ -18678,7 +18678,7 @@ LA,SR,e-visa
 LA,SE,visa required
 LA,CH,visa required
 LA,SY,visa required
-LA,TW,e-visa
+LA,TW,covid ban
 LA,TJ,e-visa
 LA,TZ,visa on arrival
 LA,TH,30
@@ -18789,7 +18789,7 @@ LV,IE,visa free
 LV,IL,90
 LV,IT,visa free
 LV,JM,30
-LV,JP,90
+LV,JP,visa required
 LV,JO,visa on arrival
 LV,KZ,30
 LV,KE,e-visa
@@ -18820,7 +18820,7 @@ LV,MX,180
 LV,FM,90
 LV,MD,90
 LV,MC,visa free
-LV,MN,visa on arrival
+LV,MN,e-visa
 LV,ME,90
 LV,MA,90
 LV,MZ,visa on arrival
@@ -18841,13 +18841,13 @@ LV,PK,e-visa
 LV,PW,90
 LV,PS,visa free
 LV,PA,90
-LV,PG,e-visa
+LV,PG,visa on arrival
 LV,PY,90
 LV,PE,90
 LV,PH,30
 LV,PL,visa free
 LV,PT,visa free
-LV,QA,Hayya Entry Permit
+LV,QA,90
 LV,RO,visa free
 LV,RU,visa required
 LV,RW,visa on arrival
@@ -19046,7 +19046,7 @@ LB,PE,visa required
 LB,PH,visa required
 LB,PL,visa required
 LB,PT,visa required
-LB,QA,Hayya Entry Permit
+LB,QA,visa free
 LB,RO,visa required
 LB,RU,visa required
 LB,RW,visa on arrival
@@ -19076,7 +19076,7 @@ LB,SR,e-visa
 LB,SE,visa required
 LB,CH,visa required
 LB,SY,visa free
-LB,TW,visa required
+LB,TW,covid ban
 LB,TJ,visa on arrival
 LB,TZ,e-visa
 LB,TH,visa required
@@ -19159,7 +19159,7 @@ LS,GQ,visa required
 LS,ER,visa required
 LS,EE,visa required
 LS,SZ,30
-LS,ET,e-visa
+LS,ET,visa on arrival
 LS,FJ,120
 LS,FI,visa required
 LS,FR,visa required
@@ -19187,7 +19187,7 @@ LS,IE,90
 LS,IL,90
 LS,IT,visa required
 LS,JM,visa free
-LS,JP,90
+LS,JP,visa required
 LS,JO,visa on arrival
 LS,KZ,e-visa
 LS,KE,90
@@ -19245,7 +19245,7 @@ LS,PE,visa required
 LS,PH,30
 LS,PL,visa required
 LS,PT,visa required
-LS,QA,Hayya Entry Permit
+LS,QA,e-visa
 LS,RO,visa required
 LS,RU,visa required
 LS,RW,visa on arrival
@@ -19275,7 +19275,7 @@ LS,SR,e-visa
 LS,SE,visa required
 LS,CH,visa required
 LS,SY,visa required
-LS,TW,visa required
+LS,TW,covid ban
 LS,TJ,e-visa
 LS,TZ,90
 LS,TH,visa required
@@ -19358,7 +19358,7 @@ LR,GQ,visa required
 LR,ER,visa required
 LR,EE,visa required
 LR,SZ,visa required
-LR,ET,e-visa
+LR,ET,visa on arrival
 LR,FJ,visa required
 LR,FI,visa required
 LR,FR,visa required
@@ -19444,7 +19444,7 @@ LR,PE,visa required
 LR,PH,30
 LR,PL,visa required
 LR,PT,visa required
-LR,QA,Hayya Entry Permit
+LR,QA,e-visa
 LR,RO,visa required
 LR,RU,visa required
 LR,RW,visa on arrival
@@ -19464,7 +19464,7 @@ LR,SI,visa required
 LR,SB,visa required
 LR,SO,visa on arrival
 LR,ZA,visa required
-LR,KR,e-visa
+LR,KR,visa required
 LR,SS,e-visa
 LR,ES,visa required
 LR,LK,visa required
@@ -19474,7 +19474,7 @@ LR,SR,e-visa
 LR,SE,visa required
 LR,CH,visa required
 LR,SY,visa required
-LR,TW,visa required
+LR,TW,covid ban
 LR,TJ,e-visa
 LR,TZ,visa on arrival
 LR,TH,visa required
@@ -19488,7 +19488,7 @@ LR,TM,visa required
 LR,TV,visa on arrival
 LR,UG,e-visa
 LR,UA,visa required
-LR,AE,visa free
+LR,AE,180
 LR,GB,visa required
 LR,US,visa required
 LR,UY,visa required
@@ -19557,7 +19557,7 @@ LY,GQ,visa required
 LY,ER,visa required
 LY,EE,visa required
 LY,SZ,visa required
-LY,ET,e-visa
+LY,ET,visa on arrival
 LY,FJ,visa required
 LY,FI,visa required
 LY,FR,visa required
@@ -19643,7 +19643,7 @@ LY,PE,visa required
 LY,PH,visa required
 LY,PL,visa required
 LY,PT,visa required
-LY,QA,Hayya Entry Permit
+LY,QA,e-visa
 LY,RO,visa required
 LY,RU,visa required
 LY,RW,visa on arrival
@@ -19673,7 +19673,7 @@ LY,SR,e-visa
 LY,SE,visa required
 LY,CH,visa required
 LY,SY,visa required
-LY,TW,visa required
+LY,TW,covid ban
 LY,TJ,e-visa
 LY,TZ,visa on arrival
 LY,TH,visa required
@@ -19784,7 +19784,7 @@ LI,IE,visa free
 LI,IL,90
 LI,IT,visa free
 LI,JM,90
-LI,JP,90
+LI,JP,visa required
 LI,JO,visa on arrival
 LI,KZ,30
 LI,KE,e-visa
@@ -19836,13 +19836,13 @@ LI,PK,e-visa
 LI,PW,visa on arrival
 LI,PS,visa free
 LI,PA,90
-LI,PG,e-visa
+LI,PG,visa on arrival
 LI,PY,90
 LI,PE,90
 LI,PH,30
 LI,PL,visa free
 LI,PT,visa free
-LI,QA,Hayya Entry Permit
+LI,QA,90
 LI,RO,visa free
 LI,RU,visa required
 LI,RW,visa on arrival
@@ -19983,7 +19983,7 @@ LT,IE,visa free
 LT,IL,90
 LT,IT,visa free
 LT,JM,30
-LT,JP,90
+LT,JP,visa required
 LT,JO,visa on arrival
 LT,KZ,30
 LT,KE,e-visa
@@ -20014,7 +20014,7 @@ LT,MX,180
 LT,FM,90
 LT,MD,90
 LT,MC,visa free
-LT,MN,visa on arrival
+LT,MN,e-visa
 LT,ME,90
 LT,MA,90
 LT,MZ,visa on arrival
@@ -20035,13 +20035,13 @@ LT,PK,e-visa
 LT,PW,90
 LT,PS,visa free
 LT,PA,90
-LT,PG,e-visa
+LT,PG,visa on arrival
 LT,PY,90
 LT,PE,90
 LT,PH,30
 LT,PL,visa free
 LT,PT,visa free
-LT,QA,Hayya Entry Permit
+LT,QA,90
 LT,RO,visa free
 LT,RU,visa required
 LT,RW,visa on arrival
@@ -20154,7 +20154,7 @@ LU,GQ,visa required
 LU,ER,visa required
 LU,EE,visa free
 LU,SZ,30
-LU,ET,e-visa
+LU,ET,visa on arrival
 LU,FJ,120
 LU,FI,visa free
 LU,FR,visa free
@@ -20182,7 +20182,7 @@ LU,IE,visa free
 LU,IL,90
 LU,IT,visa free
 LU,JM,90
-LU,JP,90
+LU,JP,visa required
 LU,JO,visa on arrival
 LU,KZ,30
 LU,KE,e-visa
@@ -20213,7 +20213,7 @@ LU,MX,180
 LU,FM,90
 LU,MD,90
 LU,MC,visa free
-LU,MN,visa on arrival
+LU,MN,e-visa
 LU,ME,90
 LU,MA,90
 LU,MZ,visa on arrival
@@ -20234,13 +20234,13 @@ LU,PK,e-visa
 LU,PW,90
 LU,PS,visa free
 LU,PA,90
-LU,PG,e-visa
+LU,PG,visa on arrival
 LU,PY,90
 LU,PE,90
 LU,PH,30
 LU,PL,visa free
 LU,PT,visa free
-LU,QA,Hayya Entry Permit
+LU,QA,90
 LU,RO,visa free
 LU,RU,visa required
 LU,RW,visa on arrival
@@ -20353,7 +20353,7 @@ MO,GQ,visa required
 MO,ER,visa required
 MO,EE,90
 MO,SZ,visa required
-MO,ET,e-visa
+MO,ET,visa on arrival
 MO,FJ,120
 MO,FI,90
 MO,FR,90
@@ -20381,7 +20381,7 @@ MO,IE,90
 MO,IL,90
 MO,IT,90
 MO,JM,visa required
-MO,JP,90
+MO,JP,visa required
 MO,JO,visa on arrival
 MO,KZ,e-visa
 MO,KE,e-visa
@@ -20433,13 +20433,13 @@ MO,PK,visa required
 MO,PW,visa on arrival
 MO,PS,visa free
 MO,PA,visa required
-MO,PG,e-visa
+MO,PG,visa on arrival
 MO,PY,visa required
 MO,PE,visa required
 MO,PH,14
 MO,PL,90
 MO,PT,90
-MO,QA,Hayya Entry Permit
+MO,QA,visa on arrival
 MO,RO,90
 MO,RU,30
 MO,RW,visa on arrival
@@ -20469,7 +20469,7 @@ MO,SR,e-visa
 MO,SE,90
 MO,CH,90
 MO,SY,visa required
-MO,TW,visa on arrival
+MO,TW,covid ban
 MO,TJ,e-visa
 MO,TZ,90
 MO,TH,30
@@ -20638,7 +20638,7 @@ MG,PE,visa required
 MG,PH,30
 MG,PL,visa required
 MG,PT,visa required
-MG,QA,Hayya Entry Permit
+MG,QA,e-visa
 MG,RO,visa required
 MG,RU,visa required
 MG,RW,visa on arrival
@@ -20668,7 +20668,7 @@ MG,SR,e-visa
 MG,SE,visa required
 MG,CH,visa required
 MG,SY,visa required
-MG,TW,visa required
+MG,TW,covid ban
 MG,TJ,e-visa
 MG,TZ,90
 MG,TH,visa required
@@ -20837,7 +20837,7 @@ MW,PE,visa required
 MW,PH,30
 MW,PL,visa required
 MW,PT,visa required
-MW,QA,Hayya Entry Permit
+MW,QA,e-visa
 MW,RO,visa required
 MW,RU,visa required
 MW,RW,visa on arrival
@@ -20867,7 +20867,7 @@ MW,SR,e-visa
 MW,SE,visa required
 MW,CH,visa required
 MW,SY,visa required
-MW,TW,visa required
+MW,TW,covid ban
 MW,TJ,e-visa
 MW,TZ,90
 MW,TH,visa required
@@ -20978,7 +20978,7 @@ MY,IE,90
 MY,IL,visa required
 MY,IT,90
 MY,JM,visa free
-MY,JP,90
+MY,JP,visa required
 MY,JO,visa on arrival
 MY,KZ,30
 MY,KE,30
@@ -21030,13 +21030,13 @@ MY,PK,e-visa
 MY,PW,visa on arrival
 MY,PS,visa free
 MY,PA,90
-MY,PG,e-visa
+MY,PG,visa on arrival
 MY,PY,visa required
 MY,PE,180
 MY,PH,30
 MY,PL,90
 MY,PT,90
-MY,QA,Hayya Entry Permit
+MY,QA,90
 MY,RO,90
 MY,RU,visa required
 MY,RW,visa on arrival
@@ -21078,7 +21078,7 @@ MY,TN,90
 MY,TR,90
 MY,TM,visa required
 MY,TV,visa on arrival
-MY,UG,180
+MY,UG,e-visa
 MY,UA,e-visa
 MY,AE,visa on arrival
 MY,GB,180
@@ -21229,13 +21229,13 @@ MV,PK,90
 MV,PW,visa on arrival
 MV,PS,visa free
 MV,PA,90
-MV,PG,e-visa
+MV,PG,visa on arrival
 MV,PY,visa required
 MV,PE,visa required
 MV,PH,30
 MV,PL,visa required
 MV,PT,visa required
-MV,QA,Hayya Entry Permit
+MV,QA,30
 MV,RO,visa required
 MV,RU,90
 MV,RW,visa on arrival
@@ -21265,7 +21265,7 @@ MV,SR,e-visa
 MV,SE,visa required
 MV,CH,visa required
 MV,SY,visa required
-MV,TW,visa required
+MV,TW,covid ban
 MV,TJ,30
 MV,TZ,visa on arrival
 MV,TH,30
@@ -21348,7 +21348,7 @@ ML,GQ,visa required
 ML,ER,visa required
 ML,EE,visa required
 ML,SZ,visa required
-ML,ET,e-visa
+ML,ET,visa on arrival
 ML,FJ,visa required
 ML,FI,visa required
 ML,FR,visa required
@@ -21434,7 +21434,7 @@ ML,PE,visa required
 ML,PH,30
 ML,PL,visa required
 ML,PT,visa required
-ML,QA,Hayya Entry Permit
+ML,QA,e-visa
 ML,RO,visa required
 ML,RU,visa required
 ML,RW,visa on arrival
@@ -21464,7 +21464,7 @@ ML,SR,e-visa
 ML,SE,visa required
 ML,CH,visa required
 ML,SY,visa required
-ML,TW,visa required
+ML,TW,covid ban
 ML,TJ,e-visa
 ML,TZ,e-visa
 ML,TH,visa required
@@ -21575,7 +21575,7 @@ MT,IE,visa free
 MT,IL,90
 MT,IT,visa free
 MT,JM,visa free
-MT,JP,90
+MT,JP,visa required
 MT,JO,visa on arrival
 MT,KZ,30
 MT,KE,e-visa
@@ -21606,7 +21606,7 @@ MT,MX,180
 MT,FM,90
 MT,MD,90
 MT,MC,visa free
-MT,MN,visa on arrival
+MT,MN,e-visa
 MT,ME,90
 MT,MA,90
 MT,MZ,visa on arrival
@@ -21627,13 +21627,13 @@ MT,PK,e-visa
 MT,PW,90
 MT,PS,visa free
 MT,PA,90
-MT,PG,e-visa
+MT,PG,visa on arrival
 MT,PY,90
 MT,PE,90
 MT,PH,30
 MT,PL,visa free
 MT,PT,visa free
-MT,QA,Hayya Entry Permit
+MT,QA,90
 MT,RO,visa free
 MT,RU,visa required
 MT,RW,visa on arrival
@@ -21826,13 +21826,13 @@ MH,PK,e-visa
 MH,PW,360
 MH,PS,visa free
 MH,PA,90
-MH,PG,e-visa
+MH,PG,visa on arrival
 MH,PY,visa required
 MH,PE,180
 MH,PH,30
 MH,PL,90
 MH,PT,90
-MH,QA,Hayya Entry Permit
+MH,QA,e-visa
 MH,RO,90
 MH,RU,visa required
 MH,RW,visa on arrival
@@ -21945,7 +21945,7 @@ MR,GQ,visa required
 MR,ER,visa required
 MR,EE,visa required
 MR,SZ,visa required
-MR,ET,e-visa
+MR,ET,visa on arrival
 MR,FJ,visa required
 MR,FI,visa required
 MR,FR,visa required
@@ -22031,7 +22031,7 @@ MR,PE,visa required
 MR,PH,30
 MR,PL,visa required
 MR,PT,visa required
-MR,QA,Hayya Entry Permit
+MR,QA,e-visa
 MR,RO,visa required
 MR,RU,visa required
 MR,RW,visa on arrival
@@ -22061,7 +22061,7 @@ MR,SR,e-visa
 MR,SE,visa required
 MR,CH,visa required
 MR,SY,visa free
-MR,TW,visa required
+MR,TW,covid ban
 MR,TJ,e-visa
 MR,TZ,e-visa
 MR,TH,visa required
@@ -22144,7 +22144,7 @@ MU,GQ,visa required
 MU,ER,visa required
 MU,EE,90
 MU,SZ,30
-MU,ET,e-visa
+MU,ET,visa on arrival
 MU,FJ,120
 MU,FI,90
 MU,FR,90
@@ -22172,7 +22172,7 @@ MU,IE,visa required
 MU,IL,90
 MU,IT,90
 MU,JM,visa free
-MU,JP,90
+MU,JP,visa required
 MU,JO,visa on arrival
 MU,KZ,e-visa
 MU,KE,90
@@ -22230,7 +22230,7 @@ MU,PE,visa required
 MU,PH,30
 MU,PL,90
 MU,PT,90
-MU,QA,Hayya Entry Permit
+MU,QA,e-visa
 MU,RO,90
 MU,RU,60
 MU,RW,90
@@ -22260,7 +22260,7 @@ MU,SR,e-visa
 MU,SE,90
 MU,CH,90
 MU,SY,visa required
-MU,TW,e-visa
+MU,TW,covid ban
 MU,TJ,e-visa
 MU,TZ,90
 MU,TH,30
@@ -22343,7 +22343,7 @@ MX,GQ,visa required
 MX,ER,visa required
 MX,EE,90
 MX,SZ,visa required
-MX,ET,e-visa
+MX,ET,visa on arrival
 MX,FJ,120
 MX,FI,90
 MX,FR,90
@@ -22371,7 +22371,7 @@ MX,IE,90
 MX,IL,90
 MX,IT,90
 MX,JM,90
-MX,JP,90
+MX,JP,visa required
 MX,JO,visa on arrival
 MX,KZ,30
 MX,KE,e-visa
@@ -22423,13 +22423,13 @@ MX,PK,e-visa
 MX,PW,visa on arrival
 MX,PS,visa free
 MX,PA,90
-MX,PG,e-visa
+MX,PG,visa on arrival
 MX,PY,90
 MX,PE,180
 MX,PH,30
 MX,PL,90
 MX,PT,90
-MX,QA,Hayya Entry Permit
+MX,QA,30
 MX,RO,90
 MX,RU,visa required
 MX,RW,visa on arrival
@@ -22459,7 +22459,7 @@ MX,SR,e-visa
 MX,SE,90
 MX,CH,90
 MX,SY,visa required
-MX,TW,visa required
+MX,TW,covid ban
 MX,TJ,visa on arrival
 MX,TZ,visa on arrival
 MX,TH,visa on arrival
@@ -22622,13 +22622,13 @@ FM,PK,e-visa
 FM,PW,360
 FM,PS,visa free
 FM,PA,90
-FM,PG,e-visa
+FM,PG,visa on arrival
 FM,PY,visa required
 FM,PE,180
 FM,PH,30
 FM,PL,90
 FM,PT,90
-FM,QA,Hayya Entry Permit
+FM,QA,e-visa
 FM,RO,90
 FM,RU,visa required
 FM,RW,visa on arrival
@@ -22648,7 +22648,7 @@ FM,SI,90
 FM,SB,visa on arrival
 FM,SO,visa on arrival
 FM,ZA,visa required
-FM,KR,e-visa
+FM,KR,visa required
 FM,SS,e-visa
 FM,ES,90
 FM,LK,e-visa
@@ -22658,7 +22658,7 @@ FM,SR,e-visa
 FM,SE,90
 FM,CH,90
 FM,SY,visa required
-FM,TW,visa required
+FM,TW,covid ban
 FM,TJ,e-visa
 FM,TZ,visa on arrival
 FM,TH,visa required
@@ -22827,7 +22827,7 @@ MD,PE,180
 MD,PH,visa required
 MD,PL,90
 MD,PT,90
-MD,QA,Hayya Entry Permit
+MD,QA,30
 MD,RO,90
 MD,RU,90
 MD,RW,visa on arrival
@@ -22857,7 +22857,7 @@ MD,SR,e-visa
 MD,SE,90
 MD,CH,90
 MD,SY,visa required
-MD,TW,visa required
+MD,TW,covid ban
 MD,TJ,visa free
 MD,TZ,visa on arrival
 MD,TH,visa required
@@ -22968,7 +22968,7 @@ MC,IE,90
 MC,IL,90
 MC,IT,90
 MC,JM,30
-MC,JP,90
+MC,JP,visa required
 MC,JO,visa on arrival
 MC,KZ,30
 MC,KE,e-visa
@@ -22999,7 +22999,7 @@ MC,MX,180
 MC,FM,30
 MC,MD,90
 MC,MC,-1
-MC,MN,visa required
+MC,MN,e-visa
 MC,ME,90
 MC,MA,90
 MC,MZ,visa on arrival
@@ -23020,13 +23020,13 @@ MC,PK,e-visa
 MC,PW,visa on arrival
 MC,PS,visa free
 MC,PA,90
-MC,PG,e-visa
+MC,PG,visa on arrival
 MC,PY,90
 MC,PE,180
 MC,PH,30
 MC,PL,90
 MC,PT,90
-MC,QA,Hayya Entry Permit
+MC,QA,30
 MC,RO,90
 MC,RU,visa required
 MC,RW,visa on arrival
@@ -23225,7 +23225,7 @@ MN,PE,90
 MN,PH,30
 MN,PL,visa required
 MN,PT,visa required
-MN,QA,Hayya Entry Permit
+MN,QA,visa required
 MN,RO,visa required
 MN,RU,30
 MN,RW,visa on arrival
@@ -23255,7 +23255,7 @@ MN,SR,e-visa
 MN,SE,visa required
 MN,CH,visa required
 MN,SY,visa required
-MN,TW,visa required
+MN,TW,covid ban
 MN,TJ,visa on arrival
 MN,TZ,visa on arrival
 MN,TH,30
@@ -23424,7 +23424,7 @@ ME,PE,90
 ME,PH,visa required
 ME,PL,90
 ME,PT,90
-ME,QA,Hayya Entry Permit
+ME,QA,visa on arrival
 ME,RO,90
 ME,RU,30
 ME,RW,visa on arrival
@@ -23454,7 +23454,7 @@ ME,SR,e-visa
 ME,SE,90
 ME,CH,90
 ME,SY,visa required
-ME,TW,e-visa
+ME,TW,covid ban
 ME,TJ,e-visa
 ME,TZ,visa on arrival
 ME,TH,visa required
@@ -23623,7 +23623,7 @@ MA,PE,visa required
 MA,PH,30
 MA,PL,visa required
 MA,PT,visa required
-MA,QA,Hayya Entry Permit
+MA,QA,e-visa
 MA,RO,visa required
 MA,RU,visa required
 MA,RW,visa on arrival
@@ -23653,7 +23653,7 @@ MA,SR,e-visa
 MA,SE,visa required
 MA,CH,visa required
 MA,SY,visa free
-MA,TW,visa required
+MA,TW,covid ban
 MA,TJ,visa on arrival
 MA,TZ,visa on arrival
 MA,TH,visa required
@@ -23736,7 +23736,7 @@ MZ,GQ,visa required
 MZ,ER,visa required
 MZ,EE,visa required
 MZ,SZ,30
-MZ,ET,e-visa
+MZ,ET,visa on arrival
 MZ,FJ,visa required
 MZ,FI,visa required
 MZ,FR,visa required
@@ -23822,7 +23822,7 @@ MZ,PE,visa required
 MZ,PH,30
 MZ,PL,visa required
 MZ,PT,visa required
-MZ,QA,Hayya Entry Permit
+MZ,QA,e-visa
 MZ,RO,visa required
 MZ,RU,visa required
 MZ,RW,visa on arrival
@@ -23852,7 +23852,7 @@ MZ,SR,e-visa
 MZ,SE,visa required
 MZ,CH,visa required
 MZ,SY,visa required
-MZ,TW,visa required
+MZ,TW,covid ban
 MZ,TJ,e-visa
 MZ,TZ,90
 MZ,TH,visa required
@@ -24021,7 +24021,7 @@ MM,PE,visa required
 MM,PH,30
 MM,PL,visa required
 MM,PT,visa required
-MM,QA,Hayya Entry Permit
+MM,QA,e-visa
 MM,RO,visa required
 MM,RU,visa required
 MM,RW,visa on arrival
@@ -24051,7 +24051,7 @@ MM,SR,e-visa
 MM,SE,visa required
 MM,CH,visa required
 MM,SY,visa required
-MM,TW,e-visa
+MM,TW,covid ban
 MM,TJ,e-visa
 MM,TZ,visa on arrival
 MM,TH,14
@@ -24220,7 +24220,7 @@ NA,PE,visa required
 NA,PH,30
 NA,PL,visa required
 NA,PT,visa required
-NA,QA,Hayya Entry Permit
+NA,QA,e-visa
 NA,RO,visa required
 NA,RU,90
 NA,RW,visa on arrival
@@ -24250,7 +24250,7 @@ NA,SR,e-visa
 NA,SE,visa required
 NA,CH,visa required
 NA,SY,visa required
-NA,TW,visa required
+NA,TW,covid ban
 NA,TJ,e-visa
 NA,TZ,90
 NA,TH,visa required
@@ -24413,13 +24413,13 @@ NR,PK,e-visa
 NR,PW,visa on arrival
 NR,PS,visa free
 NR,PA,90
-NR,PG,e-visa
+NR,PG,visa on arrival
 NR,PY,visa required
 NR,PE,180
 NR,PH,visa required
 NR,PL,visa required
 NR,PT,visa required
-NR,QA,Hayya Entry Permit
+NR,QA,e-visa
 NR,RO,visa required
 NR,RU,14
 NR,RW,visa on arrival
@@ -24618,7 +24618,7 @@ NP,PE,visa required
 NP,PH,30
 NP,PL,visa required
 NP,PT,visa required
-NP,QA,Hayya Entry Permit
+NP,QA,e-visa
 NP,RO,visa required
 NP,RU,visa required
 NP,RW,visa on arrival
@@ -24648,7 +24648,7 @@ NP,SR,e-visa
 NP,SE,visa required
 NP,CH,visa required
 NP,SY,visa required
-NP,TW,visa required
+NP,TW,covid ban
 NP,TJ,e-visa
 NP,TZ,visa on arrival
 NP,TH,visa required
@@ -24731,7 +24731,7 @@ NL,GQ,visa required
 NL,ER,visa required
 NL,EE,visa free
 NL,SZ,30
-NL,ET,e-visa
+NL,ET,visa on arrival
 NL,FJ,120
 NL,FI,visa free
 NL,FR,visa free
@@ -24759,7 +24759,7 @@ NL,IE,visa free
 NL,IL,90
 NL,IT,visa free
 NL,JM,90
-NL,JP,90
+NL,JP,visa required
 NL,JO,visa on arrival
 NL,KZ,30
 NL,KE,e-visa
@@ -24790,7 +24790,7 @@ NL,MX,180
 NL,FM,90
 NL,MD,90
 NL,MC,visa free
-NL,MN,visa on arrival
+NL,MN,e-visa
 NL,ME,90
 NL,MA,90
 NL,MZ,visa on arrival
@@ -24811,13 +24811,13 @@ NL,PK,e-visa
 NL,PW,90
 NL,PS,visa free
 NL,PA,90
-NL,PG,e-visa
+NL,PG,visa on arrival
 NL,PY,90
 NL,PE,90
 NL,PH,30
 NL,PL,visa free
 NL,PT,visa free
-NL,QA,Hayya Entry Permit
+NL,QA,90
 NL,RO,visa free
 NL,RU,visa required
 NL,RW,visa on arrival
@@ -24930,7 +24930,7 @@ NZ,GQ,visa required
 NZ,ER,visa required
 NZ,EE,90
 NZ,SZ,30
-NZ,ET,e-visa
+NZ,ET,visa on arrival
 NZ,FJ,120
 NZ,FI,90
 NZ,FR,90
@@ -24958,7 +24958,7 @@ NZ,IE,90
 NZ,IL,90
 NZ,IT,90
 NZ,JM,visa free
-NZ,JP,90
+NZ,JP,visa required
 NZ,JO,visa on arrival
 NZ,KZ,30
 NZ,KE,e-visa
@@ -25010,13 +25010,13 @@ NZ,PK,e-visa
 NZ,PW,visa on arrival
 NZ,PS,visa free
 NZ,PA,90
-NZ,PG,e-visa
+NZ,PG,visa on arrival
 NZ,PY,90
 NZ,PE,180
 NZ,PH,30
 NZ,PL,90
 NZ,PT,90
-NZ,QA,Hayya Entry Permit
+NZ,QA,30
 NZ,RO,90
 NZ,RU,visa required
 NZ,RW,visa on arrival
@@ -25215,7 +25215,7 @@ NI,PE,visa required
 NI,PH,30
 NI,PL,90
 NI,PT,90
-NI,QA,Hayya Entry Permit
+NI,QA,e-visa
 NI,RO,90
 NI,RU,90
 NI,RW,visa on arrival
@@ -25328,7 +25328,7 @@ NE,GQ,visa required
 NE,ER,visa required
 NE,EE,visa required
 NE,SZ,visa required
-NE,ET,e-visa
+NE,ET,visa on arrival
 NE,FJ,visa required
 NE,FI,visa required
 NE,FR,visa required
@@ -25414,7 +25414,7 @@ NE,PE,visa required
 NE,PH,30
 NE,PL,visa required
 NE,PT,visa required
-NE,QA,Hayya Entry Permit
+NE,QA,e-visa
 NE,RO,visa required
 NE,RU,visa required
 NE,RW,visa on arrival
@@ -25444,7 +25444,7 @@ NE,SR,e-visa
 NE,SE,visa required
 NE,CH,visa required
 NE,SY,visa required
-NE,TW,visa required
+NE,TW,covid ban
 NE,TJ,e-visa
 NE,TZ,e-visa
 NE,TH,visa required
@@ -25527,7 +25527,7 @@ NG,GQ,visa required
 NG,ER,visa required
 NG,EE,visa required
 NG,SZ,visa required
-NG,ET,e-visa
+NG,ET,visa on arrival
 NG,FJ,120
 NG,FI,visa required
 NG,FR,visa required
@@ -25613,7 +25613,7 @@ NG,PE,visa required
 NG,PH,visa required
 NG,PL,visa required
 NG,PT,visa required
-NG,QA,Hayya Entry Permit
+NG,QA,e-visa
 NG,RO,visa required
 NG,RU,visa required
 NG,RW,visa on arrival
@@ -25643,7 +25643,7 @@ NG,SR,e-visa
 NG,SE,visa required
 NG,CH,visa required
 NG,SY,visa required
-NG,TW,visa required
+NG,TW,covid ban
 NG,TJ,e-visa
 NG,TZ,e-visa
 NG,TH,visa required
@@ -25726,7 +25726,7 @@ KP,GQ,visa required
 KP,ER,visa required
 KP,EE,visa required
 KP,SZ,visa required
-KP,ET,e-visa
+KP,ET,visa on arrival
 KP,FJ,visa required
 KP,FI,visa required
 KP,FR,visa required
@@ -25754,7 +25754,7 @@ KP,IE,visa required
 KP,IL,visa required
 KP,IT,visa required
 KP,JM,visa required
-KP,JP,no admission
+KP,JP,visa required
 KP,JO,visa on arrival
 KP,KZ,e-visa
 KP,KE,e-visa
@@ -25812,7 +25812,7 @@ KP,PE,visa required
 KP,PH,visa required
 KP,PL,visa required
 KP,PT,visa required
-KP,QA,Hayya Entry Permit
+KP,QA,e-visa
 KP,RO,visa required
 KP,RU,visa required
 KP,RW,visa on arrival
@@ -25842,7 +25842,7 @@ KP,SR,e-visa
 KP,SE,visa required
 KP,CH,visa required
 KP,SY,visa required
-KP,TW,visa required
+KP,TW,covid ban
 KP,TJ,e-visa
 KP,TZ,visa on arrival
 KP,TH,visa required
@@ -25953,7 +25953,7 @@ MK,IE,visa required
 MK,IL,90
 MK,IT,90
 MK,JM,visa on arrival
-MK,JP,90
+MK,JP,visa required
 MK,JO,visa on arrival
 MK,KZ,e-visa
 MK,KE,e-visa
@@ -26011,7 +26011,7 @@ MK,PE,180
 MK,PH,visa required
 MK,PL,90
 MK,PT,90
-MK,QA,Hayya Entry Permit
+MK,QA,30
 MK,RO,90
 MK,RU,30
 MK,RW,visa on arrival
@@ -26124,7 +26124,7 @@ NO,GQ,visa required
 NO,ER,visa required
 NO,EE,visa free
 NO,SZ,30
-NO,ET,e-visa
+NO,ET,visa on arrival
 NO,FJ,120
 NO,FI,visa free
 NO,FR,visa free
@@ -26152,7 +26152,7 @@ NO,IE,visa free
 NO,IL,90
 NO,IT,visa free
 NO,JM,90
-NO,JP,90
+NO,JP,visa required
 NO,JO,visa on arrival
 NO,KZ,30
 NO,KE,e-visa
@@ -26204,13 +26204,13 @@ NO,PK,e-visa
 NO,PW,visa on arrival
 NO,PS,visa free
 NO,PA,90
-NO,PG,e-visa
+NO,PG,visa on arrival
 NO,PY,90
 NO,PE,90
 NO,PH,30
 NO,PL,visa free
 NO,PT,visa free
-NO,QA,Hayya Entry Permit
+NO,QA,90
 NO,RO,visa free
 NO,RU,visa required
 NO,RW,visa on arrival
@@ -26409,7 +26409,7 @@ OM,PE,visa required
 OM,PH,30
 OM,PL,visa required
 OM,PT,visa required
-OM,QA,Hayya Entry Permit
+OM,QA,visa free
 OM,RO,visa required
 OM,RU,visa required
 OM,RW,visa on arrival
@@ -26439,7 +26439,7 @@ OM,SR,e-visa
 OM,SE,visa required
 OM,CH,visa required
 OM,SY,visa free
-OM,TW,e-visa
+OM,TW,covid ban
 OM,TJ,visa on arrival
 OM,TZ,visa on arrival
 OM,TH,30
@@ -26608,7 +26608,7 @@ PK,PE,visa required
 PK,PH,visa required
 PK,PL,visa required
 PK,PT,visa required
-PK,QA,Hayya Entry Permit
+PK,QA,visa on arrival
 PK,RO,visa required
 PK,RU,visa required
 PK,RW,visa on arrival
@@ -26638,7 +26638,7 @@ PK,SR,e-visa
 PK,SE,visa required
 PK,CH,visa required
 PK,SY,visa required
-PK,TW,visa required
+PK,TW,covid ban
 PK,TJ,e-visa
 PK,TZ,e-visa
 PK,TH,visa required
@@ -26801,13 +26801,13 @@ PW,PK,e-visa
 PW,PW,-1
 PW,PS,visa free
 PW,PA,90
-PW,PG,e-visa
+PW,PG,visa on arrival
 PW,PY,visa required
 PW,PE,180
 PW,PH,30
 PW,PL,90
 PW,PT,90
-PW,QA,Hayya Entry Permit
+PW,QA,e-visa
 PW,RO,90
 PW,RU,30
 PW,RW,visa on arrival
@@ -27006,7 +27006,7 @@ PS,PE,visa required
 PS,PH,visa required
 PS,PL,visa required
 PS,PT,visa required
-PS,QA,Hayya Entry Permit
+PS,QA,e-visa
 PS,RO,visa required
 PS,RU,visa required
 PS,RW,visa on arrival
@@ -27036,7 +27036,7 @@ PS,SR,e-visa
 PS,SE,visa required
 PS,CH,visa required
 PS,SY,visa required
-PS,TW,visa required
+PS,TW,covid ban
 PS,TJ,e-visa
 PS,TZ,e-visa
 PS,TH,visa required
@@ -27205,7 +27205,7 @@ PA,PE,180
 PA,PH,30
 PA,PL,90
 PA,PT,90
-PA,QA,Hayya Entry Permit
+PA,QA,30
 PA,RO,90
 PA,RU,90
 PA,RW,visa on arrival
@@ -27235,7 +27235,7 @@ PA,SR,e-visa
 PA,SE,90
 PA,CH,90
 PA,SY,visa required
-PA,TW,e-visa
+PA,TW,covid ban
 PA,TJ,e-visa
 PA,TZ,visa on arrival
 PA,TH,visa required
@@ -27404,7 +27404,7 @@ PG,PE,180
 PG,PH,30
 PG,PL,visa required
 PG,PT,visa required
-PG,QA,Hayya Entry Permit
+PG,QA,e-visa
 PG,RO,visa required
 PG,RU,visa required
 PG,RW,visa on arrival
@@ -27434,7 +27434,7 @@ PG,SR,e-visa
 PG,SE,visa required
 PG,CH,visa required
 PG,SY,visa required
-PG,TW,visa required
+PG,TW,covid ban
 PG,TJ,e-visa
 PG,TZ,90
 PG,TH,visa on arrival
@@ -27603,7 +27603,7 @@ PY,PE,180
 PY,PH,30
 PY,PL,90
 PY,PT,90
-PY,QA,Hayya Entry Permit
+PY,QA,30
 PY,RO,90
 PY,RU,90
 PY,RW,visa on arrival
@@ -27796,13 +27796,13 @@ PE,PK,e-visa
 PE,PW,visa on arrival
 PE,PS,visa free
 PE,PA,90
-PE,PG,e-visa
+PE,PG,visa on arrival
 PE,PY,90
 PE,PE,-1
 PE,PH,30
 PE,PL,90
 PE,PT,90
-PE,QA,Hayya Entry Permit
+PE,QA,30
 PE,RO,90
 PE,RU,90
 PE,RW,visa on arrival
@@ -27832,7 +27832,7 @@ PE,SR,e-visa
 PE,SE,90
 PE,CH,90
 PE,SY,visa required
-PE,TW,e-visa
+PE,TW,covid ban
 PE,TJ,e-visa
 PE,TZ,visa on arrival
 PE,TH,90
@@ -27995,13 +27995,13 @@ PH,PK,e-visa
 PH,PW,visa on arrival
 PH,PS,visa free
 PH,PA,visa required
-PH,PG,e-visa
+PH,PG,visa on arrival
 PH,PY,visa required
 PH,PE,180
 PH,PH,-1
 PH,PL,visa required
 PH,PT,visa required
-PH,QA,Hayya Entry Permit
+PH,QA,e-visa
 PH,RO,visa required
 PH,RU,visa required
 PH,RW,90
@@ -28114,7 +28114,7 @@ PL,GQ,visa required
 PL,ER,visa required
 PL,EE,visa free
 PL,SZ,30
-PL,ET,e-visa
+PL,ET,visa on arrival
 PL,FJ,120
 PL,FI,visa free
 PL,FR,visa free
@@ -28142,7 +28142,7 @@ PL,IE,visa free
 PL,IL,90
 PL,IT,visa free
 PL,JM,30
-PL,JP,90
+PL,JP,visa required
 PL,JO,visa on arrival
 PL,KZ,30
 PL,KE,e-visa
@@ -28194,13 +28194,13 @@ PL,PK,e-visa
 PL,PW,90
 PL,PS,visa free
 PL,PA,90
-PL,PG,e-visa
+PL,PG,visa on arrival
 PL,PY,90
 PL,PE,90
 PL,PH,30
 PL,PL,-1
 PL,PT,visa free
-PL,QA,Hayya Entry Permit
+PL,QA,90
 PL,RO,visa free
 PL,RU,visa required
 PL,RW,visa on arrival
@@ -28313,7 +28313,7 @@ PT,GQ,visa required
 PT,ER,visa required
 PT,EE,visa free
 PT,SZ,30
-PT,ET,e-visa
+PT,ET,visa on arrival
 PT,FJ,120
 PT,FI,visa free
 PT,FR,visa free
@@ -28341,7 +28341,7 @@ PT,IE,visa free
 PT,IL,90
 PT,IT,visa free
 PT,JM,30
-PT,JP,90
+PT,JP,visa required
 PT,JO,visa on arrival
 PT,KZ,30
 PT,KE,e-visa
@@ -28372,7 +28372,7 @@ PT,MX,180
 PT,FM,90
 PT,MD,90
 PT,MC,visa free
-PT,MN,visa on arrival
+PT,MN,e-visa
 PT,ME,90
 PT,MA,90
 PT,MZ,visa on arrival
@@ -28393,13 +28393,13 @@ PT,PK,e-visa
 PT,PW,90
 PT,PS,visa free
 PT,PA,90
-PT,PG,e-visa
+PT,PG,visa on arrival
 PT,PY,90
 PT,PE,90
 PT,PH,30
 PT,PL,visa free
 PT,PT,-1
-PT,QA,Hayya Entry Permit
+PT,QA,90
 PT,RO,visa free
 PT,RU,visa required
 PT,RW,visa on arrival
@@ -28571,7 +28571,7 @@ QA,MX,visa required
 QA,FM,30
 QA,MD,e-visa
 QA,MC,visa required
-QA,MN,visa on arrival
+QA,MN,visa required
 QA,ME,90
 QA,MA,90
 QA,MZ,visa on arrival
@@ -28628,7 +28628,7 @@ QA,SR,e-visa
 QA,SE,visa required
 QA,CH,visa required
 QA,SY,visa free
-QA,TW,e-visa
+QA,TW,covid ban
 QA,TJ,30
 QA,TZ,visa on arrival
 QA,TH,30
@@ -28739,7 +28739,7 @@ RO,IE,visa free
 RO,IL,90
 RO,IT,visa free
 RO,JM,visa on arrival
-RO,JP,90
+RO,JP,visa required
 RO,JO,visa on arrival
 RO,KZ,30
 RO,KE,e-visa
@@ -28770,7 +28770,7 @@ RO,MX,180
 RO,FM,90
 RO,MD,90
 RO,MC,visa free
-RO,MN,visa on arrival
+RO,MN,e-visa
 RO,ME,90
 RO,MA,90
 RO,MZ,visa on arrival
@@ -28791,13 +28791,13 @@ RO,PK,e-visa
 RO,PW,90
 RO,PS,visa free
 RO,PA,90
-RO,PG,e-visa
+RO,PG,visa on arrival
 RO,PY,90
 RO,PE,90
 RO,PH,30
 RO,PL,visa free
 RO,PT,visa free
-RO,QA,Hayya Entry Permit
+RO,QA,90
 RO,RO,-1
 RO,RU,visa required
 RO,RW,visa on arrival
@@ -28910,7 +28910,7 @@ RU,GQ,visa required
 RU,ER,visa required
 RU,EE,visa required
 RU,SZ,30
-RU,ET,e-visa
+RU,ET,visa on arrival
 RU,FJ,120
 RU,FI,visa required
 RU,FR,visa required
@@ -28996,7 +28996,7 @@ RU,PE,180
 RU,PH,30
 RU,PL,visa required
 RU,PT,visa required
-RU,QA,Hayya Entry Permit
+RU,QA,30
 RU,RO,visa required
 RU,RU,-1
 RU,RW,visa on arrival
@@ -29026,7 +29026,7 @@ RU,SR,90
 RU,SE,visa required
 RU,CH,visa required
 RU,SY,visa required
-RU,TW,visa required
+RU,TW,covid ban
 RU,TJ,visa free
 RU,TZ,visa on arrival
 RU,TH,30
@@ -29109,7 +29109,7 @@ RW,GQ,visa required
 RW,ER,visa required
 RW,EE,visa required
 RW,SZ,visa required
-RW,ET,e-visa
+RW,ET,visa on arrival
 RW,FJ,visa required
 RW,FI,visa required
 RW,FR,visa required
@@ -29195,7 +29195,7 @@ RW,PE,visa required
 RW,PH,30
 RW,PL,visa required
 RW,PT,visa required
-RW,QA,Hayya Entry Permit
+RW,QA,visa on arrival
 RW,RO,visa required
 RW,RU,visa required
 RW,RW,-1
@@ -29225,7 +29225,7 @@ RW,SR,e-visa
 RW,SE,visa required
 RW,CH,visa required
 RW,SY,visa required
-RW,TW,visa required
+RW,TW,covid ban
 RW,TJ,e-visa
 RW,TZ,90
 RW,TH,visa required
@@ -29394,7 +29394,7 @@ KN,PE,180
 KN,PH,30
 KN,PL,90
 KN,PT,90
-KN,QA,Hayya Entry Permit
+KN,QA,e-visa
 KN,RO,90
 KN,RU,90
 KN,RW,90
@@ -29593,7 +29593,7 @@ LC,PE,180
 LC,PH,30
 LC,PL,90
 LC,PT,90
-LC,QA,Hayya Entry Permit
+LC,QA,e-visa
 LC,RO,90
 LC,RU,visa required
 LC,RW,visa on arrival
@@ -29786,13 +29786,13 @@ WS,PK,30
 WS,PW,visa on arrival
 WS,PS,visa free
 WS,PA,90
-WS,PG,e-visa
+WS,PG,visa on arrival
 WS,PY,visa required
 WS,PE,180
 WS,PH,30
 WS,PL,90
 WS,PT,90
-WS,QA,Hayya Entry Permit
+WS,QA,e-visa
 WS,RO,90
 WS,RU,60
 WS,RW,visa on arrival
@@ -29812,7 +29812,7 @@ WS,SI,90
 WS,SB,visa on arrival
 WS,SO,visa on arrival
 WS,ZA,visa required
-WS,KR,e-visa
+WS,KR,visa required
 WS,SS,e-visa
 WS,ES,90
 WS,LK,e-visa
@@ -29822,7 +29822,7 @@ WS,SR,e-visa
 WS,SE,90
 WS,CH,90
 WS,SY,visa required
-WS,TW,visa required
+WS,TW,covid ban
 WS,TJ,e-visa
 WS,TZ,90
 WS,TH,visa required
@@ -29933,7 +29933,7 @@ SM,IE,90
 SM,IL,90
 SM,IT,90
 SM,JM,90
-SM,JP,90
+SM,JP,visa required
 SM,JO,visa on arrival
 SM,KZ,e-visa
 SM,KE,90
@@ -29985,13 +29985,13 @@ SM,PK,e-visa
 SM,PW,visa on arrival
 SM,PS,visa free
 SM,PA,90
-SM,PG,e-visa
+SM,PG,visa on arrival
 SM,PY,visa required
 SM,PE,180
 SM,PH,30
 SM,PL,90
 SM,PT,90
-SM,QA,Hayya Entry Permit
+SM,QA,30
 SM,RO,90
 SM,RU,visa required
 SM,RW,visa on arrival
@@ -30104,7 +30104,7 @@ ST,GQ,visa required
 ST,ER,visa required
 ST,EE,visa required
 ST,SZ,visa required
-ST,ET,e-visa
+ST,ET,visa on arrival
 ST,FJ,visa required
 ST,FI,visa required
 ST,FR,visa required
@@ -30190,7 +30190,7 @@ ST,PE,visa required
 ST,PH,30
 ST,PL,visa required
 ST,PT,visa required
-ST,QA,Hayya Entry Permit
+ST,QA,e-visa
 ST,RO,visa required
 ST,RU,visa required
 ST,RW,90
@@ -30220,7 +30220,7 @@ ST,SR,e-visa
 ST,SE,visa required
 ST,CH,visa required
 ST,SY,visa required
-ST,TW,visa required
+ST,TW,covid ban
 ST,TJ,e-visa
 ST,TZ,visa on arrival
 ST,TH,visa required
@@ -30389,7 +30389,7 @@ SA,PE,visa required
 SA,PH,30
 SA,PL,visa required
 SA,PT,visa required
-SA,QA,Hayya Entry Permit
+SA,QA,visa free
 SA,RO,visa required
 SA,RU,visa required
 SA,RW,visa on arrival
@@ -30419,10 +30419,10 @@ SA,SR,e-visa
 SA,SE,visa required
 SA,CH,visa required
 SA,SY,visa free
-SA,TW,e-visa
+SA,TW,covid ban
 SA,TJ,30
 SA,TZ,visa on arrival
-SA,TH,45
+SA,TH,30
 SA,TL,visa on arrival
 SA,TG,visa on arrival
 SA,TO,visa required
@@ -30502,7 +30502,7 @@ SN,GQ,visa required
 SN,ER,visa required
 SN,EE,visa required
 SN,SZ,visa required
-SN,ET,e-visa
+SN,ET,visa on arrival
 SN,FJ,120
 SN,FI,visa required
 SN,FR,visa required
@@ -30588,7 +30588,7 @@ SN,PE,visa required
 SN,PH,30
 SN,PL,visa required
 SN,PT,visa required
-SN,QA,Hayya Entry Permit
+SN,QA,e-visa
 SN,RO,visa required
 SN,RU,visa required
 SN,RW,visa on arrival
@@ -30618,7 +30618,7 @@ SN,SR,e-visa
 SN,SE,visa required
 SN,CH,visa required
 SN,SY,visa required
-SN,TW,visa required
+SN,TW,covid ban
 SN,TJ,e-visa
 SN,TZ,e-visa
 SN,TH,visa required
@@ -30729,7 +30729,7 @@ RS,IE,visa required
 RS,IL,90
 RS,IT,90
 RS,JM,visa on arrival
-RS,JP,90
+RS,JP,visa required
 RS,JO,visa on arrival
 RS,KZ,30
 RS,KE,e-visa
@@ -30787,7 +30787,7 @@ RS,PE,90
 RS,PH,visa required
 RS,PL,90
 RS,PT,90
-RS,QA,Hayya Entry Permit
+RS,QA,90
 RS,RO,90
 RS,RU,30
 RS,RW,visa on arrival
@@ -30817,7 +30817,7 @@ RS,SR,30
 RS,SE,90
 RS,CH,90
 RS,SY,visa required
-RS,TW,visa required
+RS,TW,covid ban
 RS,TJ,e-visa
 RS,TZ,visa on arrival
 RS,TH,visa required
@@ -30900,7 +30900,7 @@ SC,GQ,visa required
 SC,ER,visa required
 SC,EE,90
 SC,SZ,30
-SC,ET,e-visa
+SC,ET,visa on arrival
 SC,FJ,120
 SC,FI,90
 SC,FR,90
@@ -30986,7 +30986,7 @@ SC,PE,visa required
 SC,PH,30
 SC,PL,90
 SC,PT,90
-SC,QA,Hayya Entry Permit
+SC,QA,90
 SC,RO,90
 SC,RU,30
 SC,RW,visa on arrival
@@ -31016,7 +31016,7 @@ SC,SR,90
 SC,SE,90
 SC,CH,90
 SC,SY,visa required
-SC,TW,visa required
+SC,TW,covid ban
 SC,TJ,e-visa
 SC,TZ,90
 SC,TH,visa required
@@ -31099,7 +31099,7 @@ SL,GQ,visa required
 SL,ER,visa required
 SL,EE,visa required
 SL,SZ,30
-SL,ET,e-visa
+SL,ET,visa on arrival
 SL,FJ,120
 SL,FI,visa required
 SL,FR,visa required
@@ -31185,7 +31185,7 @@ SL,PE,visa required
 SL,PH,visa required
 SL,PL,visa required
 SL,PT,visa required
-SL,QA,Hayya Entry Permit
+SL,QA,e-visa
 SL,RO,visa required
 SL,RU,visa required
 SL,RW,90
@@ -31215,7 +31215,7 @@ SL,SR,e-visa
 SL,SE,visa required
 SL,CH,visa required
 SL,SY,visa required
-SL,TW,visa required
+SL,TW,covid ban
 SL,TJ,e-visa
 SL,TZ,e-visa
 SL,TH,visa required
@@ -31326,7 +31326,7 @@ SG,IE,90
 SG,IL,90
 SG,IT,90
 SG,JM,visa free
-SG,JP,90
+SG,JP,visa required
 SG,JO,visa on arrival
 SG,KZ,30
 SG,KE,90
@@ -31378,13 +31378,13 @@ SG,PK,e-visa
 SG,PW,visa on arrival
 SG,PS,visa free
 SG,PA,90
-SG,PG,e-visa
+SG,PG,visa on arrival
 SG,PY,30
 SG,PE,180
 SG,PH,30
 SG,PL,90
 SG,PT,90
-SG,QA,Hayya Entry Permit
+SG,QA,30
 SG,RO,90
 SG,RU,visa required
 SG,RW,visa on arrival
@@ -31497,7 +31497,7 @@ SK,GQ,visa required
 SK,ER,visa required
 SK,EE,visa free
 SK,SZ,30
-SK,ET,e-visa
+SK,ET,visa on arrival
 SK,FJ,120
 SK,FI,visa free
 SK,FR,visa free
@@ -31525,7 +31525,7 @@ SK,IE,visa free
 SK,IL,90
 SK,IT,visa free
 SK,JM,30
-SK,JP,90
+SK,JP,visa required
 SK,JO,visa on arrival
 SK,KZ,30
 SK,KE,e-visa
@@ -31556,7 +31556,7 @@ SK,MX,180
 SK,FM,90
 SK,MD,90
 SK,MC,visa free
-SK,MN,visa on arrival
+SK,MN,e-visa
 SK,ME,90
 SK,MA,90
 SK,MZ,visa on arrival
@@ -31577,13 +31577,13 @@ SK,PK,e-visa
 SK,PW,90
 SK,PS,visa free
 SK,PA,90
-SK,PG,e-visa
+SK,PG,visa on arrival
 SK,PY,90
 SK,PE,90
 SK,PH,30
 SK,PL,visa free
 SK,PT,visa free
-SK,QA,Hayya Entry Permit
+SK,QA,90
 SK,RO,visa free
 SK,RU,visa required
 SK,RW,visa on arrival
@@ -31724,7 +31724,7 @@ SI,IE,visa free
 SI,IL,90
 SI,IT,visa free
 SI,JM,30
-SI,JP,90
+SI,JP,visa required
 SI,JO,visa on arrival
 SI,KZ,30
 SI,KE,e-visa
@@ -31755,7 +31755,7 @@ SI,MX,180
 SI,FM,90
 SI,MD,90
 SI,MC,visa free
-SI,MN,visa on arrival
+SI,MN,e-visa
 SI,ME,90
 SI,MA,90
 SI,MZ,visa on arrival
@@ -31776,13 +31776,13 @@ SI,PK,e-visa
 SI,PW,90
 SI,PS,visa free
 SI,PA,90
-SI,PG,e-visa
+SI,PG,visa on arrival
 SI,PY,90
 SI,PE,90
 SI,PH,30
 SI,PL,visa free
 SI,PT,visa free
-SI,QA,Hayya Entry Permit
+SI,QA,90
 SI,RO,visa free
 SI,RU,visa required
 SI,RW,visa on arrival
@@ -31975,13 +31975,13 @@ SB,PK,e-visa
 SB,PW,visa on arrival
 SB,PS,visa free
 SB,PA,90
-SB,PG,e-visa
+SB,PG,visa on arrival
 SB,PY,visa required
 SB,PE,180
 SB,PH,30
 SB,PL,90
 SB,PT,90
-SB,QA,Hayya Entry Permit
+SB,QA,e-visa
 SB,RO,90
 SB,RU,visa required
 SB,RW,visa on arrival
@@ -32001,7 +32001,7 @@ SB,SI,90
 SB,SB,-1
 SB,SO,visa on arrival
 SB,ZA,visa required
-SB,KR,e-visa
+SB,KR,visa required
 SB,SS,e-visa
 SB,ES,90
 SB,LK,e-visa
@@ -32011,7 +32011,7 @@ SB,SR,e-visa
 SB,SE,90
 SB,CH,90
 SB,SY,visa required
-SB,TW,e-visa
+SB,TW,covid ban
 SB,TJ,e-visa
 SB,TZ,90
 SB,TH,visa required
@@ -32067,7 +32067,7 @@ SO,BF,visa on arrival
 SO,BI,visa on arrival
 SO,KH,e-visa
 SO,CM,visa required
-SO,CA,no admission
+SO,CA,visa required
 SO,CV,visa on arrival
 SO,CF,visa required
 SO,TD,visa required
@@ -32094,7 +32094,7 @@ SO,GQ,visa required
 SO,ER,visa required
 SO,EE,visa required
 SO,SZ,visa required
-SO,ET,e-visa
+SO,ET,visa on arrival
 SO,FJ,visa required
 SO,FI,visa required
 SO,FR,visa required
@@ -32180,7 +32180,7 @@ SO,PE,visa required
 SO,PH,visa required
 SO,PL,visa required
 SO,PT,visa required
-SO,QA,Hayya Entry Permit
+SO,QA,e-visa
 SO,RO,visa required
 SO,RU,visa required
 SO,RW,visa on arrival
@@ -32210,7 +32210,7 @@ SO,SR,e-visa
 SO,SE,visa required
 SO,CH,visa required
 SO,SY,visa required
-SO,TW,visa required
+SO,TW,covid ban
 SO,TJ,e-visa
 SO,TZ,e-visa
 SO,TH,visa required
@@ -32293,11 +32293,11 @@ ZA,GQ,visa required
 ZA,ER,visa required
 ZA,EE,visa required
 ZA,SZ,30
-ZA,ET,e-visa
+ZA,ET,visa on arrival
 ZA,FJ,120
 ZA,FI,visa required
 ZA,FR,visa required
-ZA,GA,30
+ZA,GA,visa on arrival
 ZA,GM,90
 ZA,GE,360
 ZA,DE,visa required
@@ -32379,7 +32379,7 @@ ZA,PE,180
 ZA,PH,30
 ZA,PL,visa required
 ZA,PT,visa required
-ZA,QA,Hayya Entry Permit
+ZA,QA,30
 ZA,RO,visa required
 ZA,RU,90
 ZA,RW,visa on arrival
@@ -32409,7 +32409,7 @@ ZA,SR,e-visa
 ZA,SE,visa required
 ZA,CH,visa required
 ZA,SY,visa required
-ZA,TW,visa required
+ZA,TW,covid ban
 ZA,TJ,visa on arrival
 ZA,TZ,90
 ZA,TH,30
@@ -32492,7 +32492,7 @@ KR,GQ,visa required
 KR,ER,visa required
 KR,EE,90
 KR,SZ,30
-KR,ET,e-visa
+KR,ET,visa on arrival
 KR,FJ,120
 KR,FI,90
 KR,FR,90
@@ -32520,7 +32520,7 @@ KR,IE,90
 KR,IL,90
 KR,IT,90
 KR,JM,90
-KR,JP,90
+KR,JP,visa required
 KR,JO,visa on arrival
 KR,KZ,30
 KR,KE,e-visa
@@ -32572,13 +32572,13 @@ KR,PK,e-visa
 KR,PW,visa on arrival
 KR,PS,visa free
 KR,PA,90
-KR,PG,e-visa
+KR,PG,visa on arrival
 KR,PY,30
 KR,PE,180
 KR,PH,30
 KR,PL,90
 KR,PT,90
-KR,QA,Hayya Entry Permit
+KR,QA,visa free
 KR,RO,90
 KR,RU,60
 KR,RW,visa on arrival
@@ -32691,7 +32691,7 @@ SS,GQ,visa required
 SS,ER,visa required
 SS,EE,visa required
 SS,SZ,visa required
-SS,ET,e-visa
+SS,ET,visa on arrival
 SS,FJ,visa required
 SS,FI,visa required
 SS,FR,visa required
@@ -32777,7 +32777,7 @@ SS,PE,visa required
 SS,PH,visa required
 SS,PL,visa required
 SS,PT,visa required
-SS,QA,Hayya Entry Permit
+SS,QA,e-visa
 SS,RO,visa required
 SS,RU,visa required
 SS,RW,180
@@ -32807,7 +32807,7 @@ SS,SR,e-visa
 SS,SE,visa required
 SS,CH,visa required
 SS,SY,visa required
-SS,TW,visa required
+SS,TW,covid ban
 SS,TJ,e-visa
 SS,TZ,visa on arrival
 SS,TH,visa required
@@ -32890,7 +32890,7 @@ ES,GQ,visa required
 ES,ER,visa required
 ES,EE,visa free
 ES,SZ,30
-ES,ET,e-visa
+ES,ET,visa on arrival
 ES,FJ,120
 ES,FI,visa free
 ES,FR,visa free
@@ -32918,7 +32918,7 @@ ES,IE,visa free
 ES,IL,90
 ES,IT,visa free
 ES,JM,90
-ES,JP,90
+ES,JP,visa required
 ES,JO,visa on arrival
 ES,KZ,30
 ES,KE,e-visa
@@ -32949,7 +32949,7 @@ ES,MX,180
 ES,FM,90
 ES,MD,90
 ES,MC,visa free
-ES,MN,visa on arrival
+ES,MN,e-visa
 ES,ME,90
 ES,MA,90
 ES,MZ,visa on arrival
@@ -32970,13 +32970,13 @@ ES,PK,e-visa
 ES,PW,90
 ES,PS,visa free
 ES,PA,90
-ES,PG,e-visa
+ES,PG,visa on arrival
 ES,PY,90
 ES,PE,90
 ES,PH,30
 ES,PL,visa free
 ES,PT,visa free
-ES,QA,Hayya Entry Permit
+ES,QA,visa free
 ES,RO,visa free
 ES,RU,visa required
 ES,RW,visa on arrival
@@ -33175,7 +33175,7 @@ LK,PE,visa required
 LK,PH,visa required
 LK,PL,visa required
 LK,PT,visa required
-LK,QA,Hayya Entry Permit
+LK,QA,e-visa
 LK,RO,visa required
 LK,RU,visa required
 LK,RW,visa on arrival
@@ -33205,7 +33205,7 @@ LK,SR,e-visa
 LK,SE,visa required
 LK,CH,visa required
 LK,SY,visa required
-LK,TW,visa required
+LK,TW,covid ban
 LK,TJ,30
 LK,TZ,e-visa
 LK,TH,visa required
@@ -33374,7 +33374,7 @@ VC,PE,180
 VC,PH,30
 VC,PL,90
 VC,PT,90
-VC,QA,Hayya Entry Permit
+VC,QA,e-visa
 VC,RO,90
 VC,RU,90
 VC,RW,visa on arrival
@@ -33487,7 +33487,7 @@ SD,GQ,visa required
 SD,ER,visa on arrival
 SD,EE,visa required
 SD,SZ,visa required
-SD,ET,e-visa
+SD,ET,visa on arrival
 SD,FJ,visa required
 SD,FI,visa required
 SD,FR,visa required
@@ -33573,7 +33573,7 @@ SD,PE,visa required
 SD,PH,visa required
 SD,PL,visa required
 SD,PT,visa required
-SD,QA,Hayya Entry Permit
+SD,QA,e-visa
 SD,RO,visa required
 SD,RU,visa required
 SD,RW,visa on arrival
@@ -33603,7 +33603,7 @@ SD,SR,e-visa
 SD,SE,visa required
 SD,CH,visa required
 SD,SY,visa free
-SD,TW,visa required
+SD,TW,covid ban
 SD,TJ,e-visa
 SD,TZ,visa on arrival
 SD,TH,visa required
@@ -33714,7 +33714,7 @@ SR,IE,visa required
 SR,IL,90
 SR,IT,visa required
 SR,JM,90
-SR,JP,90
+SR,JP,visa required
 SR,JO,visa on arrival
 SR,KZ,e-visa
 SR,KE,e-visa
@@ -33772,7 +33772,7 @@ SR,PE,180
 SR,PH,30
 SR,PL,visa required
 SR,PT,visa required
-SR,QA,Hayya Entry Permit
+SR,QA,30
 SR,RO,visa required
 SR,RU,90
 SR,RW,visa on arrival
@@ -33802,7 +33802,7 @@ SR,SR,-1
 SR,SE,visa required
 SR,CH,visa required
 SR,SY,visa required
-SR,TW,visa required
+SR,TW,covid ban
 SR,TJ,e-visa
 SR,TZ,visa on arrival
 SR,TH,visa required
@@ -33885,7 +33885,7 @@ SE,GQ,visa required
 SE,ER,visa required
 SE,EE,visa free
 SE,SZ,30
-SE,ET,e-visa
+SE,ET,visa on arrival
 SE,FJ,120
 SE,FI,visa free
 SE,FR,visa free
@@ -33913,7 +33913,7 @@ SE,IE,visa free
 SE,IL,90
 SE,IT,visa free
 SE,JM,90
-SE,JP,90
+SE,JP,visa required
 SE,JO,visa on arrival
 SE,KZ,30
 SE,KE,e-visa
@@ -33965,13 +33965,13 @@ SE,PK,e-visa
 SE,PW,90
 SE,PS,visa free
 SE,PA,90
-SE,PG,e-visa
+SE,PG,visa on arrival
 SE,PY,90
 SE,PE,90
 SE,PH,30
 SE,PL,visa free
 SE,PT,visa free
-SE,QA,Hayya Entry Permit
+SE,QA,90
 SE,RO,visa free
 SE,RU,visa required
 SE,RW,visa on arrival
@@ -34084,7 +34084,7 @@ CH,GQ,visa required
 CH,ER,visa required
 CH,EE,visa free
 CH,SZ,30
-CH,ET,e-visa
+CH,ET,visa on arrival
 CH,FJ,120
 CH,FI,visa free
 CH,FR,visa free
@@ -34112,7 +34112,7 @@ CH,IE,visa free
 CH,IL,90
 CH,IT,visa free
 CH,JM,90
-CH,JP,90
+CH,JP,visa required
 CH,JO,visa on arrival
 CH,KZ,30
 CH,KE,e-visa
@@ -34143,7 +34143,7 @@ CH,MX,180
 CH,FM,90
 CH,MD,90
 CH,MC,visa free
-CH,MN,visa on arrival
+CH,MN,e-visa
 CH,ME,90
 CH,MA,90
 CH,MZ,visa on arrival
@@ -34164,13 +34164,13 @@ CH,PK,e-visa
 CH,PW,visa on arrival
 CH,PS,visa free
 CH,PA,90
-CH,PG,e-visa
+CH,PG,visa on arrival
 CH,PY,90
 CH,PE,90
 CH,PH,30
 CH,PL,visa free
 CH,PT,visa free
-CH,QA,Hayya Entry Permit
+CH,QA,90
 CH,RO,visa free
 CH,RU,visa required
 CH,RW,visa on arrival
@@ -34369,7 +34369,7 @@ SY,PE,visa required
 SY,PH,visa required
 SY,PL,visa required
 SY,PT,visa required
-SY,QA,Hayya Entry Permit
+SY,QA,e-visa
 SY,RO,visa required
 SY,RU,visa required
 SY,RW,visa on arrival
@@ -34399,7 +34399,7 @@ SY,SR,e-visa
 SY,SE,visa required
 SY,CH,visa required
 SY,SY,-1
-SY,TW,visa required
+SY,TW,covid ban
 SY,TJ,e-visa
 SY,TZ,e-visa
 SY,TH,visa required
@@ -34482,7 +34482,7 @@ TW,GQ,visa required
 TW,ER,visa required
 TW,EE,90
 TW,SZ,30
-TW,ET,e-visa
+TW,ET,visa on arrival
 TW,FJ,120
 TW,FI,90
 TW,FR,90
@@ -34510,7 +34510,7 @@ TW,IE,90
 TW,IL,90
 TW,IT,90
 TW,JM,visa required
-TW,JP,90
+TW,JP,e-visa
 TW,JO,visa on arrival
 TW,KZ,visa required
 TW,KE,e-visa
@@ -34562,13 +34562,13 @@ TW,PK,visa required
 TW,PW,visa on arrival
 TW,PS,visa free
 TW,PA,90
-TW,PG,e-visa
+TW,PG,visa on arrival
 TW,PY,90
 TW,PE,180
 TW,PH,visa required
 TW,PL,90
 TW,PT,90
-TW,QA,Hayya Entry Permit
+TW,QA,visa on arrival
 TW,RO,90
 TW,RU,visa required
 TW,RW,visa on arrival
@@ -34711,7 +34711,7 @@ TJ,IT,visa required
 TJ,JM,visa on arrival
 TJ,JP,visa required
 TJ,JO,visa on arrival
-TJ,KZ,90
+TJ,KZ,30
 TJ,KE,e-visa
 TJ,KI,visa required
 TJ,XK,visa required
@@ -34767,7 +34767,7 @@ TJ,PE,visa required
 TJ,PH,30
 TJ,PL,visa required
 TJ,PT,visa required
-TJ,QA,Hayya Entry Permit
+TJ,QA,e-visa
 TJ,RO,visa required
 TJ,RU,90
 TJ,RW,visa on arrival
@@ -34797,7 +34797,7 @@ TJ,SR,e-visa
 TJ,SE,visa required
 TJ,CH,visa required
 TJ,SY,visa required
-TJ,TW,visa required
+TJ,TW,covid ban
 TJ,TJ,-1
 TJ,TZ,e-visa
 TJ,TH,visa required
@@ -34806,7 +34806,7 @@ TJ,TG,visa on arrival
 TJ,TO,visa required
 TJ,TT,visa required
 TJ,TN,visa required
-TJ,TR,90
+TJ,TR,60
 TJ,TM,visa required
 TJ,TV,visa on arrival
 TJ,UG,e-visa
@@ -34880,7 +34880,7 @@ TZ,GQ,visa required
 TZ,ER,visa required
 TZ,EE,visa required
 TZ,SZ,30
-TZ,ET,e-visa
+TZ,ET,visa on arrival
 TZ,FJ,120
 TZ,FI,visa required
 TZ,FR,visa required
@@ -34966,7 +34966,7 @@ TZ,PE,visa required
 TZ,PH,30
 TZ,PL,visa required
 TZ,PT,visa required
-TZ,QA,Hayya Entry Permit
+TZ,QA,e-visa
 TZ,RO,visa required
 TZ,RU,visa required
 TZ,RW,180
@@ -34996,7 +34996,7 @@ TZ,SR,e-visa
 TZ,SE,visa required
 TZ,CH,visa required
 TZ,SY,visa required
-TZ,TW,visa required
+TZ,TW,covid ban
 TZ,TJ,e-visa
 TZ,TZ,-1
 TZ,TH,visa required
@@ -35079,7 +35079,7 @@ TH,GQ,visa required
 TH,ER,visa required
 TH,EE,visa required
 TH,SZ,visa required
-TH,ET,e-visa
+TH,ET,visa on arrival
 TH,FJ,120
 TH,FI,visa required
 TH,FR,visa required
@@ -35107,7 +35107,7 @@ TH,IE,visa required
 TH,IL,visa required
 TH,IT,visa required
 TH,JM,visa required
-TH,JP,15
+TH,JP,visa required
 TH,JO,visa on arrival
 TH,KZ,30
 TH,KE,e-visa
@@ -35159,13 +35159,13 @@ TH,PK,e-visa
 TH,PW,visa on arrival
 TH,PS,visa free
 TH,PA,90
-TH,PG,e-visa
+TH,PG,visa on arrival
 TH,PY,visa required
 TH,PE,180
 TH,PH,30
 TH,PL,visa required
 TH,PT,visa required
-TH,QA,Hayya Entry Permit
+TH,QA,visa free
 TH,RO,visa required
 TH,RU,30
 TH,RW,visa on arrival
@@ -35364,7 +35364,7 @@ TL,PE,visa required
 TL,PH,visa required
 TL,PL,90
 TL,PT,90
-TL,QA,Hayya Entry Permit
+TL,QA,e-visa
 TL,RO,90
 TL,RU,visa required
 TL,RW,visa on arrival
@@ -35394,7 +35394,7 @@ TL,SR,e-visa
 TL,SE,90
 TL,CH,90
 TL,SY,visa required
-TL,TW,visa required
+TL,TW,covid ban
 TL,TJ,e-visa
 TL,TZ,visa on arrival
 TL,TH,visa required
@@ -35477,7 +35477,7 @@ TG,GQ,visa required
 TG,ER,visa required
 TG,EE,visa required
 TG,SZ,visa required
-TG,ET,e-visa
+TG,ET,visa on arrival
 TG,FJ,visa required
 TG,FI,visa required
 TG,FR,visa required
@@ -35563,7 +35563,7 @@ TG,PE,visa required
 TG,PH,30
 TG,PL,visa required
 TG,PT,visa required
-TG,QA,Hayya Entry Permit
+TG,QA,e-visa
 TG,RO,visa required
 TG,RU,visa required
 TG,RW,visa on arrival
@@ -35593,7 +35593,7 @@ TG,SR,e-visa
 TG,SE,visa required
 TG,CH,visa required
 TG,SY,visa required
-TG,TW,visa required
+TG,TW,covid ban
 TG,TJ,e-visa
 TG,TZ,visa on arrival
 TG,TH,visa required
@@ -35756,13 +35756,13 @@ TO,PK,e-visa
 TO,PW,visa on arrival
 TO,PS,visa free
 TO,PA,90
-TO,PG,e-visa
+TO,PG,visa on arrival
 TO,PY,visa required
 TO,PE,180
 TO,PH,visa required
 TO,PL,90
 TO,PT,90
-TO,QA,Hayya Entry Permit
+TO,QA,e-visa
 TO,RO,90
 TO,RU,visa required
 TO,RW,visa on arrival
@@ -35782,7 +35782,7 @@ TO,SI,90
 TO,SB,visa on arrival
 TO,SO,visa on arrival
 TO,ZA,visa required
-TO,KR,e-visa
+TO,KR,visa required
 TO,SS,e-visa
 TO,ES,90
 TO,LK,e-visa
@@ -35792,7 +35792,7 @@ TO,SR,e-visa
 TO,SE,90
 TO,CH,90
 TO,SY,visa required
-TO,TW,visa required
+TO,TW,covid ban
 TO,TJ,e-visa
 TO,TZ,90
 TO,TH,visa required
@@ -35961,7 +35961,7 @@ TT,PE,180
 TT,PH,30
 TT,PL,90
 TT,PT,90
-TT,QA,Hayya Entry Permit
+TT,QA,e-visa
 TT,RO,90
 TT,RU,visa required
 TT,RW,visa on arrival
@@ -35991,7 +35991,7 @@ TT,SR,180
 TT,SE,90
 TT,CH,90
 TT,SY,visa required
-TT,TW,visa required
+TT,TW,covid ban
 TT,TJ,e-visa
 TT,TZ,90
 TT,TH,visa required
@@ -36074,7 +36074,7 @@ TN,GQ,30
 TN,ER,visa required
 TN,EE,visa required
 TN,SZ,visa required
-TN,ET,e-visa
+TN,ET,visa on arrival
 TN,FJ,120
 TN,FI,visa required
 TN,FR,visa required
@@ -36102,7 +36102,7 @@ TN,IE,visa required
 TN,IL,visa required
 TN,IT,visa required
 TN,JM,visa required
-TN,JP,90
+TN,JP,visa required
 TN,JO,visa on arrival
 TN,KZ,e-visa
 TN,KE,e-visa
@@ -36160,7 +36160,7 @@ TN,PE,visa required
 TN,PH,30
 TN,PL,visa required
 TN,PT,visa required
-TN,QA,Hayya Entry Permit
+TN,QA,e-visa
 TN,RO,visa required
 TN,RU,visa required
 TN,RW,visa on arrival
@@ -36190,7 +36190,7 @@ TN,SR,e-visa
 TN,SE,visa required
 TN,CH,visa required
 TN,SY,visa free
-TN,TW,visa required
+TN,TW,covid ban
 TN,TJ,visa on arrival
 TN,TZ,visa on arrival
 TN,TH,visa required
@@ -36301,7 +36301,7 @@ TR,IE,visa required
 TR,IL,visa required
 TR,IT,visa required
 TR,JM,90
-TR,JP,90
+TR,JP,visa required
 TR,JO,90
 TR,KZ,30
 TR,KE,e-visa
@@ -36359,7 +36359,7 @@ TR,PE,180
 TR,PH,30
 TR,PL,visa required
 TR,PT,visa required
-TR,QA,Hayya Entry Permit
+TR,QA,90
 TR,RO,visa required
 TR,RU,visa required
 TR,RW,visa on arrival
@@ -36389,7 +36389,7 @@ TR,SR,e-visa
 TR,SE,visa required
 TR,CH,visa required
 TR,SY,visa required
-TR,TW,visa on arrival
+TR,TW,covid ban
 TR,TJ,30
 TR,TZ,visa on arrival
 TR,TH,30
@@ -36558,7 +36558,7 @@ TM,PE,visa required
 TM,PH,30
 TM,PL,visa required
 TM,PT,visa required
-TM,QA,Hayya Entry Permit
+TM,QA,e-visa
 TM,RO,visa required
 TM,RU,visa required
 TM,RW,visa on arrival
@@ -36588,7 +36588,7 @@ TM,SR,e-visa
 TM,SE,visa required
 TM,CH,visa required
 TM,SY,visa required
-TM,TW,visa required
+TM,TW,covid ban
 TM,TJ,visa on arrival
 TM,TZ,e-visa
 TM,TH,visa required
@@ -36751,13 +36751,13 @@ TV,PK,e-visa
 TV,PW,visa on arrival
 TV,PS,visa free
 TV,PA,90
-TV,PG,e-visa
+TV,PG,visa on arrival
 TV,PY,visa required
 TV,PE,180
 TV,PH,30
 TV,PL,90
 TV,PT,90
-TV,QA,Hayya Entry Permit
+TV,QA,e-visa
 TV,RO,90
 TV,RU,visa required
 TV,RW,visa on arrival
@@ -36870,7 +36870,7 @@ UG,GQ,visa required
 UG,ER,visa free
 UG,EE,visa required
 UG,SZ,30
-UG,ET,e-visa
+UG,ET,visa on arrival
 UG,FJ,120
 UG,FI,visa required
 UG,FR,visa required
@@ -36956,7 +36956,7 @@ UG,PE,visa required
 UG,PH,30
 UG,PL,visa required
 UG,PT,visa required
-UG,QA,Hayya Entry Permit
+UG,QA,e-visa
 UG,RO,visa required
 UG,RU,visa required
 UG,RW,180
@@ -36986,7 +36986,7 @@ UG,SR,e-visa
 UG,SE,visa required
 UG,CH,visa required
 UG,SY,visa required
-UG,TW,visa required
+UG,TW,covid ban
 UG,TJ,e-visa
 UG,TZ,90
 UG,TH,visa required
@@ -37155,7 +37155,7 @@ UA,PE,180
 UA,PH,visa required
 UA,PL,90
 UA,PT,90
-UA,QA,Hayya Entry Permit
+UA,QA,90
 UA,RO,90
 UA,RU,90
 UA,RW,visa on arrival
@@ -37185,7 +37185,7 @@ UA,SR,e-visa
 UA,SE,90
 UA,CH,90
 UA,SY,visa required
-UA,TW,visa required
+UA,TW,covid ban
 UA,TJ,90
 UA,TZ,visa on arrival
 UA,TH,30
@@ -37268,7 +37268,7 @@ AE,GQ,visa on arrival
 AE,ER,visa required
 AE,EE,90
 AE,SZ,visa required
-AE,ET,e-visa
+AE,ET,visa on arrival
 AE,FJ,120
 AE,FI,90
 AE,FR,90
@@ -37296,7 +37296,7 @@ AE,IE,90
 AE,IL,90
 AE,IT,90
 AE,JM,visa on arrival
-AE,JP,30
+AE,JP,visa required
 AE,JO,90
 AE,KZ,30
 AE,KE,e-visa
@@ -37327,7 +37327,7 @@ AE,MX,180
 AE,FM,30
 AE,MD,90
 AE,MC,90
-AE,MN,visa on arrival
+AE,MN,visa required
 AE,ME,90
 AE,MA,90
 AE,MZ,visa on arrival
@@ -37354,7 +37354,7 @@ AE,PE,90
 AE,PH,30
 AE,PL,90
 AE,PT,90
-AE,QA,Hayya Entry Permit
+AE,QA,visa free
 AE,RO,90
 AE,RU,90
 AE,RW,visa on arrival
@@ -37384,7 +37384,7 @@ AE,SR,e-visa
 AE,SE,90
 AE,CH,90
 AE,SY,visa free
-AE,TW,e-visa
+AE,TW,covid ban
 AE,TJ,30
 AE,TZ,visa on arrival
 AE,TH,30
@@ -37467,7 +37467,7 @@ GB,GQ,visa required
 GB,ER,visa required
 GB,EE,90
 GB,SZ,30
-GB,ET,e-visa
+GB,ET,visa on arrival
 GB,FJ,120
 GB,FI,90
 GB,FR,90
@@ -37495,7 +37495,7 @@ GB,IE,visa free
 GB,IL,90
 GB,IT,90
 GB,JM,visa free
-GB,JP,90
+GB,JP,visa required
 GB,JO,visa on arrival
 GB,KZ,30
 GB,KE,e-visa
@@ -37547,13 +37547,13 @@ GB,PK,e-visa
 GB,PW,visa on arrival
 GB,PS,visa free
 GB,PA,90
-GB,PG,e-visa
+GB,PG,visa on arrival
 GB,PY,90
 GB,PE,180
 GB,PH,30
 GB,PL,90
 GB,PT,90
-GB,QA,Hayya Entry Permit
+GB,QA,30
 GB,RO,90
 GB,RU,visa required
 GB,RW,visa on arrival
@@ -37583,7 +37583,7 @@ GB,SR,e-visa
 GB,SE,90
 GB,CH,90
 GB,SY,visa required
-GB,TW,90
+GB,TW,covid ban
 GB,TJ,visa on arrival
 GB,TZ,visa on arrival
 GB,TH,30
@@ -37666,7 +37666,7 @@ US,GQ,visa free
 US,ER,visa required
 US,EE,90
 US,SZ,30
-US,ET,e-visa
+US,ET,visa on arrival
 US,FJ,120
 US,FI,90
 US,FR,90
@@ -37694,7 +37694,7 @@ US,IE,90
 US,IL,90
 US,IT,90
 US,JM,180
-US,JP,90
+US,JP,e-visa
 US,JO,visa on arrival
 US,KZ,30
 US,KE,e-visa
@@ -37746,13 +37746,13 @@ US,PK,e-visa
 US,PW,360
 US,PS,visa free
 US,PA,180
-US,PG,e-visa
+US,PG,visa on arrival
 US,PY,90
 US,PE,180
 US,PH,30
 US,PL,90
 US,PT,90
-US,QA,Hayya Entry Permit
+US,QA,30
 US,RO,90
 US,RU,visa required
 US,RW,visa on arrival
@@ -37893,7 +37893,7 @@ UY,IE,90
 UY,IL,90
 UY,IT,90
 UY,JM,30
-UY,JP,90
+UY,JP,visa required
 UY,JO,visa on arrival
 UY,KZ,e-visa
 UY,KE,e-visa
@@ -37924,7 +37924,7 @@ UY,MX,180
 UY,FM,30
 UY,MD,90
 UY,MC,90
-UY,MN,30
+UY,MN,visa required
 UY,ME,90
 UY,MA,visa required
 UY,MZ,visa on arrival
@@ -37945,13 +37945,13 @@ UY,PK,e-visa
 UY,PW,visa on arrival
 UY,PS,visa free
 UY,PA,90
-UY,PG,e-visa
+UY,PG,visa on arrival
 UY,PY,90
 UY,PE,180
 UY,PH,30
 UY,PL,90
 UY,PT,90
-UY,QA,Hayya Entry Permit
+UY,QA,30
 UY,RO,90
 UY,RU,90
 UY,RW,visa on arrival
@@ -37981,7 +37981,7 @@ UY,SR,e-visa
 UY,SE,90
 UY,CH,90
 UY,SY,visa required
-UY,TW,visa required
+UY,TW,covid ban
 UY,TJ,e-visa
 UY,TZ,visa on arrival
 UY,TH,visa required
@@ -38150,7 +38150,7 @@ UZ,PE,visa required
 UZ,PH,30
 UZ,PL,visa required
 UZ,PT,visa required
-UZ,QA,Hayya Entry Permit
+UZ,QA,e-visa
 UZ,RO,visa required
 UZ,RU,90
 UZ,RW,visa on arrival
@@ -38180,7 +38180,7 @@ UZ,SR,e-visa
 UZ,SE,visa required
 UZ,CH,visa required
 UZ,SY,visa required
-UZ,TW,visa required
+UZ,TW,covid ban
 UZ,TJ,30
 UZ,TZ,e-visa
 UZ,TH,visa on arrival
@@ -38343,13 +38343,13 @@ VU,PK,e-visa
 VU,PW,visa on arrival
 VU,PS,visa free
 VU,PA,90
-VU,PG,e-visa
+VU,PG,visa on arrival
 VU,PY,visa required
 VU,PE,180
 VU,PH,30
 VU,PL,visa required
 VU,PT,visa required
-VU,QA,Hayya Entry Permit
+VU,QA,e-visa
 VU,RO,visa required
 VU,RU,90
 VU,RW,visa on arrival
@@ -38379,7 +38379,7 @@ VU,SR,e-visa
 VU,SE,visa required
 VU,CH,visa required
 VU,SY,visa required
-VU,TW,visa required
+VU,TW,covid ban
 VU,TJ,e-visa
 VU,TZ,90
 VU,TH,visa on arrival
@@ -38542,13 +38542,13 @@ VA,PK,e-visa
 VA,PW,visa on arrival
 VA,PS,visa free
 VA,PA,90
-VA,PG,e-visa
+VA,PG,visa on arrival
 VA,PY,visa required
 VA,PE,180
 VA,PH,30
 VA,PL,90
 VA,PT,90
-VA,QA,Hayya Entry Permit
+VA,QA,30
 VA,RO,90
 VA,RU,visa required
 VA,RW,visa on arrival
@@ -38747,7 +38747,7 @@ VE,PE,visa required
 VE,PH,30
 VE,PL,90
 VE,PT,90
-VE,QA,Hayya Entry Permit
+VE,QA,30
 VE,RO,90
 VE,RU,90
 VE,RW,visa on arrival
@@ -38777,7 +38777,7 @@ VE,SR,e-visa
 VE,SE,90
 VE,CH,90
 VE,SY,visa required
-VE,TW,visa required
+VE,TW,covid ban
 VE,TJ,visa on arrival
 VE,TZ,visa on arrival
 VE,TH,visa required
@@ -38946,7 +38946,7 @@ VN,PE,visa required
 VN,PH,30
 VN,PL,visa required
 VN,PT,visa required
-VN,QA,Hayya Entry Permit
+VN,QA,e-visa
 VN,RO,visa required
 VN,RU,visa required
 VN,RW,visa on arrival
@@ -38976,7 +38976,7 @@ VN,SR,e-visa
 VN,SE,visa required
 VN,CH,visa required
 VN,SY,visa required
-VN,TW,e-visa
+VN,TW,covid ban
 VN,TJ,visa on arrival
 VN,TZ,visa on arrival
 VN,TH,30
@@ -39145,7 +39145,7 @@ YE,PE,visa required
 YE,PH,visa required
 YE,PL,visa required
 YE,PT,visa required
-YE,QA,Hayya Entry Permit
+YE,QA,e-visa
 YE,RO,visa required
 YE,RU,visa required
 YE,RW,visa on arrival
@@ -39175,7 +39175,7 @@ YE,SR,e-visa
 YE,SE,visa required
 YE,CH,visa required
 YE,SY,visa free
-YE,TW,visa required
+YE,TW,covid ban
 YE,TJ,visa on arrival
 YE,TZ,e-visa
 YE,TH,visa required
@@ -39258,7 +39258,7 @@ ZM,GQ,visa required
 ZM,ER,visa required
 ZM,EE,visa required
 ZM,SZ,30
-ZM,ET,e-visa
+ZM,ET,visa on arrival
 ZM,FJ,120
 ZM,FI,visa required
 ZM,FR,visa required
@@ -39344,7 +39344,7 @@ ZM,PE,visa required
 ZM,PH,30
 ZM,PL,visa required
 ZM,PT,visa required
-ZM,QA,Hayya Entry Permit
+ZM,QA,e-visa
 ZM,RO,visa required
 ZM,RU,visa required
 ZM,RW,visa on arrival
@@ -39374,7 +39374,7 @@ ZM,SR,e-visa
 ZM,SE,visa required
 ZM,CH,visa required
 ZM,SY,visa required
-ZM,TW,visa required
+ZM,TW,covid ban
 ZM,TJ,e-visa
 ZM,TZ,90
 ZM,TH,visa required
@@ -39457,7 +39457,7 @@ ZW,GQ,visa required
 ZW,ER,visa required
 ZW,EE,visa required
 ZW,SZ,30
-ZW,ET,e-visa
+ZW,ET,visa on arrival
 ZW,FJ,120
 ZW,FI,visa required
 ZW,FR,visa required
@@ -39543,7 +39543,7 @@ ZW,PE,visa required
 ZW,PH,30
 ZW,PL,visa required
 ZW,PT,visa required
-ZW,QA,Hayya Entry Permit
+ZW,QA,e-visa
 ZW,RO,visa required
 ZW,RU,visa required
 ZW,RW,visa on arrival
@@ -39573,7 +39573,7 @@ ZW,SR,e-visa
 ZW,SE,visa required
 ZW,CH,visa required
 ZW,SY,visa required
-ZW,TW,visa required
+ZW,TW,covid ban
 ZW,TJ,e-visa
 ZW,TZ,90
 ZW,TH,visa required
