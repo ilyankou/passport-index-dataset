@@ -17,14 +17,14 @@ AFG,BLR,visa required
 AFG,BEL,visa required
 AFG,BLZ,visa required
 AFG,BEN,e-visa
-AFG,BTN,e-visa
+AFG,BTN,visa required
 AFG,BOL,visa on arrival
 AFG,BIH,visa required
 AFG,BWA,e-visa
 AFG,BRA,visa required
 AFG,BRN,visa required
 AFG,BGR,visa required
-AFG,BFA,e-visa
+AFG,BFA,visa required
 AFG,BDI,visa on arrival
 AFG,KHM,e-visa
 AFG,CMR,visa required
@@ -167,7 +167,7 @@ AFG,ESP,visa required
 AFG,LKA,visa required
 AFG,VCT,visa required
 AFG,SDN,visa required
-AFG,SUR,90
+AFG,SUR,e-visa
 AFG,SWE,visa required
 AFG,CHE,visa required
 AFG,SYR,visa required
@@ -216,14 +216,14 @@ ALB,BLR,30
 ALB,BEL,90
 ALB,BLZ,visa required
 ALB,BEN,e-visa
-ALB,BTN,e-visa
+ALB,BTN,visa required
 ALB,BOL,visa on arrival
 ALB,BIH,90
 ALB,BWA,e-visa
 ALB,BRA,90
 ALB,BRN,visa required
 ALB,BGR,90
-ALB,BFA,e-visa
+ALB,BFA,visa required
 ALB,BDI,visa on arrival
 ALB,KHM,e-visa
 ALB,CMR,visa required
@@ -415,14 +415,14 @@ DZA,BLR,visa required
 DZA,BEL,visa required
 DZA,BLZ,visa required
 DZA,BEN,90
-DZA,BTN,e-visa
+DZA,BTN,visa required
 DZA,BOL,visa on arrival
 DZA,BIH,visa required
 DZA,BWA,e-visa
 DZA,BRA,visa required
 DZA,BRN,visa required
 DZA,BGR,visa required
-DZA,BFA,e-visa
+DZA,BFA,visa required
 DZA,BDI,visa on arrival
 DZA,KHM,e-visa
 DZA,CMR,visa required
@@ -565,7 +565,7 @@ DZA,ESP,visa required
 DZA,LKA,e-visa
 DZA,VCT,30
 DZA,SDN,visa required
-DZA,SUR,90
+DZA,SUR,e-visa
 DZA,SWE,visa required
 DZA,CHE,visa required
 DZA,SYR,visa free
@@ -614,14 +614,14 @@ AND,BLR,30
 AND,BEL,90
 AND,BLZ,visa free
 AND,BEN,e-visa
-AND,BTN,e-visa
+AND,BTN,visa required
 AND,BOL,90
 AND,BIH,90
 AND,BWA,e-visa
 AND,BRA,90
 AND,BRN,visa required
 AND,BGR,90
-AND,BFA,e-visa
+AND,BFA,visa required
 AND,BDI,visa on arrival
 AND,KHM,e-visa
 AND,CMR,visa required
@@ -764,7 +764,7 @@ AND,ESP,90
 AND,LKA,e-visa
 AND,VCT,30
 AND,SDN,visa required
-AND,SUR,90
+AND,SUR,e-visa
 AND,SWE,90
 AND,CHE,90
 AND,SYR,visa required
@@ -782,7 +782,7 @@ AND,TUV,visa on arrival
 AND,TUR,90
 AND,UGA,e-visa
 AND,UKR,90
-AND,ARE,30
+AND,ARE,visa on arrival
 AND,GBR,180
 AND,USA,e-visa
 AND,URY,90
@@ -813,14 +813,14 @@ AGO,BLR,visa required
 AGO,BEL,visa required
 AGO,BLZ,visa required
 AGO,BEN,90
-AGO,BTN,e-visa
+AGO,BTN,visa required
 AGO,BOL,visa on arrival
 AGO,BIH,visa required
 AGO,BWA,90
 AGO,BRA,visa required
 AGO,BRN,visa required
 AGO,BGR,visa required
-AGO,BFA,e-visa
+AGO,BFA,visa required
 AGO,BDI,visa on arrival
 AGO,KHM,e-visa
 AGO,CMR,visa required
@@ -963,7 +963,7 @@ AGO,ESP,visa required
 AGO,LKA,e-visa
 AGO,VCT,30
 AGO,SDN,visa required
-AGO,SUR,90
+AGO,SUR,e-visa
 AGO,SWE,visa required
 AGO,CHE,visa required
 AGO,SYR,visa required
@@ -1012,14 +1012,14 @@ ATG,BLR,30
 ATG,BEL,90
 ATG,BLZ,visa free
 ATG,BEN,e-visa
-ATG,BTN,e-visa
+ATG,BTN,visa required
 ATG,BOL,visa on arrival
 ATG,BIH,90
 ATG,BWA,90
 ATG,BRA,90
 ATG,BRN,visa required
 ATG,BGR,90
-ATG,BFA,e-visa
+ATG,BFA,visa required
 ATG,BDI,visa on arrival
 ATG,KHM,e-visa
 ATG,CMR,visa required
@@ -1211,7 +1211,7 @@ ARG,BLR,90
 ARG,BEL,90
 ARG,BLZ,90
 ARG,BEN,e-visa
-ARG,BTN,e-visa
+ARG,BTN,visa required
 ARG,BOL,90
 ARG,BIH,90
 ARG,BWA,90
@@ -1410,14 +1410,14 @@ ARM,BLR,visa free
 ARM,BEL,visa required
 ARM,BLZ,visa required
 ARM,BEN,e-visa
-ARM,BTN,e-visa
+ARM,BTN,visa required
 ARM,BOL,visa on arrival
 ARM,BIH,visa required
 ARM,BWA,e-visa
 ARM,BRA,90
 ARM,BRN,visa required
 ARM,BGR,visa required
-ARM,BFA,e-visa
+ARM,BFA,visa required
 ARM,BDI,visa on arrival
 ARM,KHM,e-visa
 ARM,CMR,visa required
@@ -1560,7 +1560,7 @@ ARM,ESP,visa required
 ARM,LKA,e-visa
 ARM,VCT,30
 ARM,SDN,visa required
-ARM,SUR,90
+ARM,SUR,e-visa
 ARM,SWE,visa required
 ARM,CHE,visa required
 ARM,SYR,visa required
@@ -1609,7 +1609,7 @@ AUS,BLR,30
 AUS,BEL,90
 AUS,BLZ,visa free
 AUS,BEN,e-visa
-AUS,BTN,e-visa
+AUS,BTN,visa required
 AUS,BOL,90
 AUS,BIH,90
 AUS,BWA,90
@@ -1759,7 +1759,7 @@ AUS,ESP,90
 AUS,LKA,e-visa
 AUS,VCT,30
 AUS,SDN,visa required
-AUS,SUR,90
+AUS,SUR,e-visa
 AUS,SWE,90
 AUS,CHE,90
 AUS,SYR,visa required
@@ -1777,7 +1777,7 @@ AUS,TUV,visa on arrival
 AUS,TUR,e-visa
 AUS,UGA,e-visa
 AUS,UKR,90
-AUS,ARE,30
+AUS,ARE,visa on arrival
 AUS,GBR,180
 AUS,USA,e-visa
 AUS,URY,90
@@ -1808,7 +1808,7 @@ AUT,BLR,30
 AUT,BEL,visa free
 AUT,BLZ,visa free
 AUT,BEN,e-visa
-AUT,BTN,e-visa
+AUT,BTN,visa required
 AUT,BOL,90
 AUT,BIH,90
 AUT,BWA,90
@@ -1958,7 +1958,7 @@ AUT,ESP,visa free
 AUT,LKA,e-visa
 AUT,VCT,90
 AUT,SDN,visa required
-AUT,SUR,90
+AUT,SUR,e-visa
 AUT,SWE,visa free
 AUT,CHE,visa free
 AUT,SYR,visa required
@@ -2007,14 +2007,14 @@ AZE,BLR,visa free
 AZE,BEL,visa required
 AZE,BLZ,visa required
 AZE,BEN,e-visa
-AZE,BTN,e-visa
+AZE,BTN,visa required
 AZE,BOL,visa on arrival
 AZE,BIH,90
 AZE,BWA,e-visa
 AZE,BRA,visa required
 AZE,BRN,visa required
 AZE,BGR,visa required
-AZE,BFA,e-visa
+AZE,BFA,visa required
 AZE,BDI,visa on arrival
 AZE,KHM,e-visa
 AZE,CMR,visa required
@@ -2142,7 +2142,7 @@ AZE,SMR,visa required
 AZE,STP,e-visa
 AZE,SAU,visa required
 AZE,SEN,visa on arrival
-AZE,SRB,90
+AZE,SRB,360
 AZE,SYC,90
 AZE,SLE,visa on arrival
 AZE,SGP,e-visa
@@ -2157,7 +2157,7 @@ AZE,ESP,visa required
 AZE,LKA,e-visa
 AZE,VCT,30
 AZE,SDN,visa required
-AZE,SUR,90
+AZE,SUR,e-visa
 AZE,SWE,visa required
 AZE,CHE,visa required
 AZE,SYR,visa required
@@ -2206,14 +2206,14 @@ BHS,BLR,visa required
 BHS,BEL,90
 BHS,BLZ,visa free
 BHS,BEN,e-visa
-BHS,BTN,e-visa
+BHS,BTN,visa required
 BHS,BOL,visa on arrival
 BHS,BIH,90
 BHS,BWA,90
 BHS,BRA,90
 BHS,BRN,visa required
 BHS,BGR,90
-BHS,BFA,e-visa
+BHS,BFA,visa required
 BHS,BDI,visa on arrival
 BHS,KHM,e-visa
 BHS,CMR,visa required
@@ -2341,7 +2341,7 @@ BHS,SMR,90
 BHS,STP,e-visa
 BHS,SAU,visa required
 BHS,SEN,90
-BHS,SRB,30
+BHS,SRB,90
 BHS,SYC,90
 BHS,SLE,visa on arrival
 BHS,SGP,30
@@ -2405,14 +2405,14 @@ BHR,BLR,30
 BHR,BEL,visa required
 BHR,BLZ,visa required
 BHR,BEN,e-visa
-BHR,BTN,e-visa
+BHR,BTN,visa required
 BHR,BOL,visa on arrival
 BHR,BIH,90
 BHR,BWA,90
 BHR,BRA,visa required
 BHR,BRN,visa on arrival
 BHR,BGR,visa required
-BHR,BFA,e-visa
+BHR,BFA,visa required
 BHR,BDI,visa on arrival
 BHR,KHM,e-visa
 BHR,CMR,visa required
@@ -2555,7 +2555,7 @@ BHR,ESP,visa required
 BHR,LKA,e-visa
 BHR,VCT,30
 BHR,SDN,visa required
-BHR,SUR,90
+BHR,SUR,e-visa
 BHR,SWE,visa required
 BHR,CHE,visa required
 BHR,SYR,visa free
@@ -2611,7 +2611,7 @@ BGD,BWA,e-visa
 BGD,BRA,visa required
 BGD,BRN,visa required
 BGD,BGR,visa required
-BGD,BFA,e-visa
+BGD,BFA,visa required
 BGD,BDI,visa on arrival
 BGD,KHM,e-visa
 BGD,CMR,visa required
@@ -2754,7 +2754,7 @@ BGD,ESP,visa required
 BGD,LKA,e-visa
 BGD,VCT,30
 BGD,SDN,visa required
-BGD,SUR,90
+BGD,SUR,e-visa
 BGD,SWE,visa required
 BGD,CHE,visa required
 BGD,SYR,visa required
@@ -2803,14 +2803,14 @@ BRB,BLR,30
 BRB,BEL,90
 BRB,BLZ,visa free
 BRB,BEN,e-visa
-BRB,BTN,e-visa
+BRB,BTN,visa required
 BRB,BOL,visa on arrival
 BRB,BIH,90
 BRB,BWA,90
 BRB,BRA,90
 BRB,BRN,visa required
 BRB,BGR,90
-BRB,BFA,e-visa
+BRB,BFA,visa required
 BRB,BDI,visa on arrival
 BRB,KHM,e-visa
 BRB,CMR,visa required
@@ -2938,7 +2938,7 @@ BRB,SMR,90
 BRB,STP,e-visa
 BRB,SAU,visa required
 BRB,SEN,90
-BRB,SRB,30
+BRB,SRB,90
 BRB,SYC,90
 BRB,SLE,visa on arrival
 BRB,SGP,30
@@ -3002,14 +3002,14 @@ BLR,BLR,-1
 BLR,BEL,visa required
 BLR,BLZ,visa required
 BLR,BEN,e-visa
-BLR,BTN,e-visa
+BLR,BTN,visa required
 BLR,BOL,visa on arrival
 BLR,BIH,visa required
 BLR,BWA,e-visa
 BLR,BRA,90
 BLR,BRN,visa required
 BLR,BGR,visa required
-BLR,BFA,e-visa
+BLR,BFA,visa required
 BLR,BDI,visa on arrival
 BLR,KHM,e-visa
 BLR,CMR,visa required
@@ -3137,7 +3137,7 @@ BLR,SMR,visa required
 BLR,STP,e-visa
 BLR,SAU,visa required
 BLR,SEN,visa on arrival
-BLR,SRB,30
+BLR,SRB,90
 BLR,SYC,90
 BLR,SLE,visa on arrival
 BLR,SGP,e-visa
@@ -3152,7 +3152,7 @@ BLR,ESP,visa required
 BLR,LKA,e-visa
 BLR,VCT,30
 BLR,SDN,visa required
-BLR,SUR,90
+BLR,SUR,e-visa
 BLR,SWE,visa required
 BLR,CHE,visa required
 BLR,SYR,visa required
@@ -3201,7 +3201,7 @@ BEL,BLR,30
 BEL,BEL,-1
 BEL,BLZ,visa free
 BEL,BEN,e-visa
-BEL,BTN,e-visa
+BEL,BTN,visa required
 BEL,BOL,90
 BEL,BIH,90
 BEL,BWA,90
@@ -3351,7 +3351,7 @@ BEL,ESP,visa free
 BEL,LKA,e-visa
 BEL,VCT,90
 BEL,SDN,visa required
-BEL,SUR,90
+BEL,SUR,e-visa
 BEL,SWE,visa free
 BEL,CHE,visa free
 BEL,SYR,visa required
@@ -3400,14 +3400,14 @@ BLZ,BLR,visa required
 BLZ,BEL,visa required
 BLZ,BLZ,-1
 BLZ,BEN,e-visa
-BLZ,BTN,e-visa
+BLZ,BTN,visa required
 BLZ,BOL,visa on arrival
 BLZ,BIH,visa required
 BLZ,BWA,90
 BLZ,BRA,90
 BLZ,BRN,visa required
 BLZ,BGR,visa required
-BLZ,BFA,e-visa
+BLZ,BFA,visa required
 BLZ,BDI,visa on arrival
 BLZ,KHM,e-visa
 BLZ,CMR,visa required
@@ -3599,7 +3599,7 @@ BEN,BLR,visa required
 BEN,BEL,visa required
 BEN,BLZ,visa required
 BEN,BEN,-1
-BEN,BTN,e-visa
+BEN,BTN,visa required
 BEN,BOL,visa on arrival
 BEN,BIH,visa required
 BEN,BWA,e-visa
@@ -3749,7 +3749,7 @@ BEN,ESP,visa required
 BEN,LKA,e-visa
 BEN,VCT,30
 BEN,SDN,visa required
-BEN,SUR,90
+BEN,SUR,e-visa
 BEN,SWE,visa required
 BEN,CHE,visa required
 BEN,SYR,visa required
@@ -3805,7 +3805,7 @@ BTN,BWA,e-visa
 BTN,BRA,visa required
 BTN,BRN,visa required
 BTN,BGR,visa required
-BTN,BFA,e-visa
+BTN,BFA,visa required
 BTN,BDI,visa on arrival
 BTN,KHM,e-visa
 BTN,CMR,visa required
@@ -3948,7 +3948,7 @@ BTN,ESP,visa required
 BTN,LKA,e-visa
 BTN,VCT,30
 BTN,SDN,visa required
-BTN,SUR,90
+BTN,SUR,e-visa
 BTN,SWE,visa required
 BTN,CHE,visa required
 BTN,SYR,visa required
@@ -3997,14 +3997,14 @@ BOL,BLR,visa required
 BOL,BEL,visa required
 BOL,BLZ,30
 BOL,BEN,e-visa
-BOL,BTN,e-visa
+BOL,BTN,visa required
 BOL,BOL,-1
 BOL,BIH,visa required
 BOL,BWA,e-visa
 BOL,BRA,90
 BOL,BRN,visa required
 BOL,BGR,visa required
-BOL,BFA,e-visa
+BOL,BFA,visa required
 BOL,BDI,visa on arrival
 BOL,KHM,e-visa
 BOL,CMR,visa required
@@ -4147,7 +4147,7 @@ BOL,ESP,visa required
 BOL,LKA,e-visa
 BOL,VCT,30
 BOL,SDN,visa required
-BOL,SUR,90
+BOL,SUR,e-visa
 BOL,SWE,visa required
 BOL,CHE,visa required
 BOL,SYR,visa required
@@ -4196,14 +4196,14 @@ BIH,BLR,30
 BIH,BEL,90
 BIH,BLZ,visa required
 BIH,BEN,e-visa
-BIH,BTN,e-visa
+BIH,BTN,visa required
 BIH,BOL,visa on arrival
 BIH,BIH,-1
 BIH,BWA,e-visa
 BIH,BRA,90
 BIH,BRN,visa required
 BIH,BGR,90
-BIH,BFA,e-visa
+BIH,BFA,visa required
 BIH,BDI,visa on arrival
 BIH,KHM,e-visa
 BIH,CMR,visa required
@@ -4346,7 +4346,7 @@ BIH,ESP,90
 BIH,LKA,e-visa
 BIH,VCT,30
 BIH,SDN,visa required
-BIH,SUR,90
+BIH,SUR,e-visa
 BIH,SWE,90
 BIH,CHE,90
 BIH,SYR,visa required
@@ -4395,14 +4395,14 @@ BWA,BLR,visa required
 BWA,BEL,visa required
 BWA,BLZ,visa free
 BWA,BEN,90
-BWA,BTN,e-visa
+BWA,BTN,visa required
 BWA,BOL,visa on arrival
 BWA,BIH,visa required
 BWA,BWA,-1
 BWA,BRA,90
 BWA,BRN,visa required
 BWA,BGR,visa required
-BWA,BFA,e-visa
+BWA,BFA,visa required
 BWA,BDI,visa on arrival
 BWA,KHM,e-visa
 BWA,CMR,visa required
@@ -4540,12 +4540,12 @@ BWA,SLB,visa required
 BWA,SOM,visa on arrival
 BWA,ZAF,90
 BWA,KOR,e-visa
-BWA,SSD,e-visa
+BWA,SSD,visa on arrival
 BWA,ESP,visa required
 BWA,LKA,e-visa
 BWA,VCT,30
 BWA,SDN,visa required
-BWA,SUR,90
+BWA,SUR,e-visa
 BWA,SWE,visa required
 BWA,CHE,visa required
 BWA,SYR,visa required
@@ -4594,7 +4594,7 @@ BRA,BLR,90
 BRA,BEL,90
 BRA,BLZ,90
 BRA,BEN,e-visa
-BRA,BTN,e-visa
+BRA,BTN,visa required
 BRA,BOL,90
 BRA,BIH,90
 BRA,BWA,90
@@ -4793,14 +4793,14 @@ BRN,BLR,visa required
 BRN,BEL,visa free
 BRN,BLZ,visa free
 BRN,BEN,e-visa
-BRN,BTN,e-visa
+BRN,BTN,visa required
 BRN,BOL,visa on arrival
 BRN,BIH,90
 BRN,BWA,90
 BRN,BRA,visa required
 BRN,BRN,-1
 BRN,BGR,90
-BRN,BFA,e-visa
+BRN,BFA,visa required
 BRN,BDI,visa on arrival
 BRN,KHM,14
 BRN,CMR,visa required
@@ -4943,7 +4943,7 @@ BRN,ESP,90
 BRN,LKA,e-visa
 BRN,VCT,30
 BRN,SDN,visa required
-BRN,SUR,90
+BRN,SUR,e-visa
 BRN,SWE,90
 BRN,CHE,90
 BRN,SYR,visa required
@@ -4961,7 +4961,7 @@ BRN,TUV,visa on arrival
 BRN,TUR,90
 BRN,UGA,e-visa
 BRN,UKR,30
-BRN,ARE,30
+BRN,ARE,visa on arrival
 BRN,GBR,180
 BRN,USA,e-visa
 BRN,URY,visa required
@@ -4992,14 +4992,14 @@ BGR,BLR,30
 BGR,BEL,visa free
 BGR,BLZ,visa free
 BGR,BEN,e-visa
-BGR,BTN,e-visa
+BGR,BTN,visa required
 BGR,BOL,visa on arrival
 BGR,BIH,90
 BGR,BWA,90
 BGR,BRA,90
 BGR,BRN,90
 BGR,BGR,-1
-BGR,BFA,e-visa
+BGR,BFA,visa required
 BGR,BDI,visa on arrival
 BGR,KHM,e-visa
 BGR,CMR,visa required
@@ -5142,7 +5142,7 @@ BGR,ESP,visa free
 BGR,LKA,e-visa
 BGR,VCT,90
 BGR,SDN,visa required
-BGR,SUR,90
+BGR,SUR,e-visa
 BGR,SWE,visa free
 BGR,CHE,visa free
 BGR,SYR,visa required
@@ -5191,7 +5191,7 @@ BFA,BLR,visa required
 BFA,BEL,visa required
 BFA,BLZ,visa required
 BFA,BEN,90
-BFA,BTN,e-visa
+BFA,BTN,visa required
 BFA,BOL,visa on arrival
 BFA,BIH,visa required
 BFA,BWA,e-visa
@@ -5341,7 +5341,7 @@ BFA,ESP,visa required
 BFA,LKA,e-visa
 BFA,VCT,30
 BFA,SDN,visa required
-BFA,SUR,90
+BFA,SUR,e-visa
 BFA,SWE,visa required
 BFA,CHE,visa required
 BFA,SYR,visa required
@@ -5390,14 +5390,14 @@ BDI,BLR,visa required
 BDI,BEL,visa required
 BDI,BLZ,visa required
 BDI,BEN,90
-BDI,BTN,e-visa
+BDI,BTN,visa required
 BDI,BOL,visa on arrival
 BDI,BIH,visa required
 BDI,BWA,e-visa
 BDI,BRA,visa required
 BDI,BRN,visa required
 BDI,BGR,visa required
-BDI,BFA,e-visa
+BDI,BFA,visa required
 BDI,BDI,-1
 BDI,KHM,e-visa
 BDI,CMR,visa required
@@ -5535,12 +5535,12 @@ BDI,SLB,visa required
 BDI,SOM,visa on arrival
 BDI,ZAF,visa required
 BDI,KOR,visa required
-BDI,SSD,e-visa
+BDI,SSD,visa on arrival
 BDI,ESP,visa required
 BDI,LKA,e-visa
 BDI,VCT,30
 BDI,SDN,visa required
-BDI,SUR,90
+BDI,SUR,e-visa
 BDI,SWE,visa required
 BDI,CHE,visa required
 BDI,SYR,visa required
@@ -5589,14 +5589,14 @@ KHM,BLR,visa required
 KHM,BEL,visa required
 KHM,BLZ,visa required
 KHM,BEN,e-visa
-KHM,BTN,e-visa
+KHM,BTN,visa required
 KHM,BOL,visa on arrival
 KHM,BIH,visa required
 KHM,BWA,e-visa
 KHM,BRA,visa required
 KHM,BRN,14
 KHM,BGR,visa required
-KHM,BFA,e-visa
+KHM,BFA,visa required
 KHM,BDI,visa on arrival
 KHM,KHM,-1
 KHM,CMR,visa required
@@ -5739,7 +5739,7 @@ KHM,ESP,visa required
 KHM,LKA,e-visa
 KHM,VCT,30
 KHM,SDN,visa required
-KHM,SUR,90
+KHM,SUR,e-visa
 KHM,SWE,visa required
 KHM,CHE,visa required
 KHM,SYR,visa required
@@ -5788,14 +5788,14 @@ CMR,BLR,visa required
 CMR,BEL,visa required
 CMR,BLZ,visa required
 CMR,BEN,90
-CMR,BTN,e-visa
+CMR,BTN,visa required
 CMR,BOL,visa on arrival
 CMR,BIH,visa required
 CMR,BWA,e-visa
 CMR,BRA,visa required
 CMR,BRN,visa required
 CMR,BGR,visa required
-CMR,BFA,e-visa
+CMR,BFA,visa required
 CMR,BDI,visa on arrival
 CMR,KHM,e-visa
 CMR,CMR,-1
@@ -5938,7 +5938,7 @@ CMR,ESP,visa required
 CMR,LKA,visa required
 CMR,VCT,30
 CMR,SDN,visa required
-CMR,SUR,90
+CMR,SUR,e-visa
 CMR,SWE,visa required
 CMR,CHE,visa required
 CMR,SYR,visa required
@@ -5987,7 +5987,7 @@ CAN,BLR,30
 CAN,BEL,90
 CAN,BLZ,visa free
 CAN,BEN,e-visa
-CAN,BTN,e-visa
+CAN,BTN,visa required
 CAN,BOL,90
 CAN,BIH,90
 CAN,BWA,90
@@ -6137,7 +6137,7 @@ CAN,ESP,90
 CAN,LKA,e-visa
 CAN,VCT,30
 CAN,SDN,visa required
-CAN,SUR,90
+CAN,SUR,e-visa
 CAN,SWE,90
 CAN,CHE,90
 CAN,SYR,visa required
@@ -6155,7 +6155,7 @@ CAN,TUV,visa on arrival
 CAN,TUR,e-visa
 CAN,UGA,e-visa
 CAN,UKR,90
-CAN,ARE,30
+CAN,ARE,visa on arrival
 CAN,GBR,180
 CAN,USA,visa free
 CAN,URY,90
@@ -6186,7 +6186,7 @@ CPV,BLR,visa required
 CPV,BEL,visa required
 CPV,BLZ,visa required
 CPV,BEN,90
-CPV,BTN,e-visa
+CPV,BTN,visa required
 CPV,BOL,visa on arrival
 CPV,BIH,visa required
 CPV,BWA,e-visa
@@ -6336,7 +6336,7 @@ CPV,ESP,visa required
 CPV,LKA,e-visa
 CPV,VCT,30
 CPV,SDN,visa required
-CPV,SUR,90
+CPV,SUR,e-visa
 CPV,SWE,visa required
 CPV,CHE,visa required
 CPV,SYR,visa required
@@ -6385,7 +6385,7 @@ CAF,BLR,visa required
 CAF,BEL,visa required
 CAF,BLZ,visa required
 CAF,BEN,90
-CAF,BTN,e-visa
+CAF,BTN,visa required
 CAF,BOL,visa on arrival
 CAF,BIH,visa required
 CAF,BWA,e-visa
@@ -6535,7 +6535,7 @@ CAF,ESP,visa required
 CAF,LKA,e-visa
 CAF,VCT,30
 CAF,SDN,visa required
-CAF,SUR,90
+CAF,SUR,e-visa
 CAF,SWE,visa required
 CAF,CHE,visa required
 CAF,SYR,visa required
@@ -6584,7 +6584,7 @@ TCD,BLR,visa required
 TCD,BEL,visa required
 TCD,BLZ,visa required
 TCD,BEN,90
-TCD,BTN,e-visa
+TCD,BTN,visa required
 TCD,BOL,visa on arrival
 TCD,BIH,visa required
 TCD,BWA,e-visa
@@ -6734,7 +6734,7 @@ TCD,ESP,visa required
 TCD,LKA,e-visa
 TCD,VCT,30
 TCD,SDN,visa required
-TCD,SUR,90
+TCD,SUR,e-visa
 TCD,SWE,visa required
 TCD,CHE,visa required
 TCD,SYR,visa required
@@ -6783,14 +6783,14 @@ CHL,BLR,30
 CHL,BEL,90
 CHL,BLZ,90
 CHL,BEN,e-visa
-CHL,BTN,e-visa
+CHL,BTN,visa required
 CHL,BOL,90
 CHL,BIH,90
 CHL,BWA,90
 CHL,BRA,90
 CHL,BRN,visa required
 CHL,BGR,90
-CHL,BFA,e-visa
+CHL,BFA,visa required
 CHL,BDI,visa on arrival
 CHL,KHM,e-visa
 CHL,CMR,visa required
@@ -6933,7 +6933,7 @@ CHL,ESP,90
 CHL,LKA,e-visa
 CHL,VCT,30
 CHL,SDN,visa required
-CHL,SUR,90
+CHL,SUR,e-visa
 CHL,SWE,90
 CHL,CHE,90
 CHL,SYR,visa required
@@ -6982,14 +6982,14 @@ CHN,BLR,30
 CHN,BEL,visa required
 CHN,BLZ,visa required
 CHN,BEN,e-visa
-CHN,BTN,e-visa
+CHN,BTN,visa required
 CHN,BOL,visa on arrival
 CHN,BIH,90
 CHN,BWA,e-visa
 CHN,BRA,visa required
 CHN,BRN,visa on arrival
 CHN,BGR,visa required
-CHN,BFA,e-visa
+CHN,BFA,visa required
 CHN,BDI,visa on arrival
 CHN,KHM,e-visa
 CHN,CMR,visa required
@@ -7117,7 +7117,7 @@ CHN,SMR,visa required
 CHN,STP,visa on arrival
 CHN,SAU,visa on arrival
 CHN,SEN,visa on arrival
-CHN,SRB,30
+CHN,SRB,90
 CHN,SYC,90
 CHN,SLE,visa on arrival
 CHN,SGP,e-visa
@@ -7150,7 +7150,7 @@ CHN,TUV,visa on arrival
 CHN,TUR,e-visa
 CHN,UGA,e-visa
 CHN,UKR,e-visa
-CHN,ARE,30
+CHN,ARE,visa on arrival
 CHN,GBR,visa required
 CHN,USA,visa required
 CHN,URY,visa required
@@ -7181,7 +7181,7 @@ COL,BLR,visa required
 COL,BEL,90
 COL,BLZ,30
 COL,BEN,e-visa
-COL,BTN,e-visa
+COL,BTN,visa required
 COL,BOL,90
 COL,BIH,90
 COL,BWA,e-visa
@@ -7316,7 +7316,7 @@ COL,SMR,90
 COL,STP,e-visa
 COL,SAU,visa required
 COL,SEN,visa on arrival
-COL,SRB,30
+COL,SRB,90
 COL,SYC,90
 COL,SLE,visa on arrival
 COL,SGP,30
@@ -7331,7 +7331,7 @@ COL,ESP,90
 COL,LKA,e-visa
 COL,VCT,30
 COL,SDN,visa required
-COL,SUR,90
+COL,SUR,e-visa
 COL,SWE,90
 COL,CHE,90
 COL,SYR,visa required
@@ -7380,7 +7380,7 @@ COM,BLR,visa required
 COM,BEL,visa required
 COM,BLZ,visa required
 COM,BEN,90
-COM,BTN,e-visa
+COM,BTN,visa required
 COM,BOL,visa on arrival
 COM,BIH,visa required
 COM,BWA,e-visa
@@ -7530,7 +7530,7 @@ COM,ESP,visa required
 COM,LKA,e-visa
 COM,VCT,30
 COM,SDN,visa required
-COM,SUR,90
+COM,SUR,e-visa
 COM,SWE,visa required
 COM,CHE,visa required
 COM,SYR,visa required
@@ -7579,14 +7579,14 @@ COG,BLR,visa required
 COG,BEL,visa required
 COG,BLZ,visa required
 COG,BEN,90
-COG,BTN,e-visa
+COG,BTN,visa required
 COG,BOL,visa on arrival
 COG,BIH,visa required
 COG,BWA,e-visa
 COG,BRA,visa required
 COG,BRN,visa required
 COG,BGR,visa required
-COG,BFA,e-visa
+COG,BFA,visa required
 COG,BDI,visa on arrival
 COG,KHM,e-visa
 COG,CMR,90
@@ -7729,7 +7729,7 @@ COG,ESP,visa required
 COG,LKA,e-visa
 COG,VCT,30
 COG,SDN,visa required
-COG,SUR,90
+COG,SUR,e-visa
 COG,SWE,visa required
 COG,CHE,visa required
 COG,SYR,visa required
@@ -7778,7 +7778,7 @@ COD,BLR,visa required
 COD,BEL,visa required
 COD,BLZ,visa required
 COD,BEN,90
-COD,BTN,e-visa
+COD,BTN,visa required
 COD,BOL,visa on arrival
 COD,BIH,visa required
 COD,BWA,e-visa
@@ -7928,7 +7928,7 @@ COD,ESP,visa required
 COD,LKA,e-visa
 COD,VCT,30
 COD,SDN,visa required
-COD,SUR,90
+COD,SUR,e-visa
 COD,SWE,visa required
 COD,CHE,visa required
 COD,SYR,visa required
@@ -7977,14 +7977,14 @@ CRI,BLR,visa required
 CRI,BEL,90
 CRI,BLZ,30
 CRI,BEN,e-visa
-CRI,BTN,e-visa
+CRI,BTN,visa required
 CRI,BOL,90
 CRI,BIH,90
 CRI,BWA,90
 CRI,BRA,90
 CRI,BRN,14
 CRI,BGR,90
-CRI,BFA,e-visa
+CRI,BFA,visa required
 CRI,BDI,visa on arrival
 CRI,KHM,e-visa
 CRI,CMR,visa required
@@ -8127,7 +8127,7 @@ CRI,ESP,90
 CRI,LKA,e-visa
 CRI,VCT,30
 CRI,SDN,visa required
-CRI,SUR,90
+CRI,SUR,e-visa
 CRI,SWE,90
 CRI,CHE,90
 CRI,SYR,visa required
@@ -8176,7 +8176,7 @@ CIV,BLR,visa required
 CIV,BEL,visa required
 CIV,BLZ,visa required
 CIV,BEN,90
-CIV,BTN,e-visa
+CIV,BTN,visa required
 CIV,BOL,visa on arrival
 CIV,BIH,visa required
 CIV,BWA,e-visa
@@ -8326,7 +8326,7 @@ CIV,ESP,visa required
 CIV,LKA,visa on arrival
 CIV,VCT,30
 CIV,SDN,visa required
-CIV,SUR,90
+CIV,SUR,e-visa
 CIV,SWE,visa required
 CIV,CHE,visa required
 CIV,SYR,visa required
@@ -8375,14 +8375,14 @@ HRV,BLR,30
 HRV,BEL,visa free
 HRV,BLZ,visa free
 HRV,BEN,e-visa
-HRV,BTN,e-visa
+HRV,BTN,visa required
 HRV,BOL,90
 HRV,BIH,90
 HRV,BWA,90
 HRV,BRA,90
 HRV,BRN,90
 HRV,BGR,visa free
-HRV,BFA,e-visa
+HRV,BFA,visa required
 HRV,BDI,visa on arrival
 HRV,KHM,e-visa
 HRV,CMR,visa required
@@ -8525,7 +8525,7 @@ HRV,ESP,visa free
 HRV,LKA,e-visa
 HRV,VCT,90
 HRV,SDN,visa required
-HRV,SUR,90
+HRV,SUR,e-visa
 HRV,SWE,visa free
 HRV,CHE,visa free
 HRV,SYR,visa required
@@ -8574,7 +8574,7 @@ CUB,BLR,30
 CUB,BEL,visa required
 CUB,BLZ,visa required
 CUB,BEN,e-visa
-CUB,BTN,e-visa
+CUB,BTN,visa required
 CUB,BOL,visa on arrival
 CUB,BIH,visa required
 CUB,BWA,90
@@ -8724,7 +8724,7 @@ CUB,ESP,visa required
 CUB,LKA,e-visa
 CUB,VCT,30
 CUB,SDN,visa required
-CUB,SUR,90
+CUB,SUR,e-visa
 CUB,SWE,visa required
 CUB,CHE,visa required
 CUB,SYR,visa required
@@ -8773,14 +8773,14 @@ CYP,BLR,30
 CYP,BEL,visa free
 CYP,BLZ,visa free
 CYP,BEN,e-visa
-CYP,BTN,e-visa
+CYP,BTN,visa required
 CYP,BOL,visa on arrival
 CYP,BIH,90
 CYP,BWA,90
 CYP,BRA,90
 CYP,BRN,90
 CYP,BGR,visa free
-CYP,BFA,e-visa
+CYP,BFA,visa required
 CYP,BDI,visa on arrival
 CYP,KHM,e-visa
 CYP,CMR,visa required
@@ -8923,7 +8923,7 @@ CYP,ESP,visa free
 CYP,LKA,e-visa
 CYP,VCT,90
 CYP,SDN,visa required
-CYP,SUR,90
+CYP,SUR,e-visa
 CYP,SWE,visa free
 CYP,CHE,visa free
 CYP,SYR,visa required
@@ -8972,7 +8972,7 @@ CZE,BLR,30
 CZE,BEL,visa free
 CZE,BLZ,visa free
 CZE,BEN,e-visa
-CZE,BTN,e-visa
+CZE,BTN,visa required
 CZE,BOL,90
 CZE,BIH,90
 CZE,BWA,90
@@ -9122,7 +9122,7 @@ CZE,ESP,visa free
 CZE,LKA,e-visa
 CZE,VCT,90
 CZE,SDN,visa required
-CZE,SUR,90
+CZE,SUR,e-visa
 CZE,SWE,visa free
 CZE,CHE,visa free
 CZE,SYR,visa required
@@ -9171,7 +9171,7 @@ DNK,BLR,30
 DNK,BEL,visa free
 DNK,BLZ,visa free
 DNK,BEN,e-visa
-DNK,BTN,e-visa
+DNK,BTN,visa required
 DNK,BOL,90
 DNK,BIH,90
 DNK,BWA,90
@@ -9321,7 +9321,7 @@ DNK,ESP,visa free
 DNK,LKA,e-visa
 DNK,VCT,90
 DNK,SDN,visa required
-DNK,SUR,90
+DNK,SUR,e-visa
 DNK,SWE,visa free
 DNK,CHE,visa free
 DNK,SYR,visa required
@@ -9370,7 +9370,7 @@ DJI,BLR,visa required
 DJI,BEL,visa required
 DJI,BLZ,visa required
 DJI,BEN,90
-DJI,BTN,e-visa
+DJI,BTN,visa required
 DJI,BOL,visa on arrival
 DJI,BIH,visa required
 DJI,BWA,e-visa
@@ -9520,7 +9520,7 @@ DJI,ESP,visa required
 DJI,LKA,e-visa
 DJI,VCT,30
 DJI,SDN,visa required
-DJI,SUR,90
+DJI,SUR,e-visa
 DJI,SWE,visa required
 DJI,CHE,visa required
 DJI,SYR,visa required
@@ -9569,14 +9569,14 @@ DMA,BLR,30
 DMA,BEL,90
 DMA,BLZ,visa free
 DMA,BEN,e-visa
-DMA,BTN,e-visa
+DMA,BTN,visa required
 DMA,BOL,visa on arrival
 DMA,BIH,90
 DMA,BWA,90
 DMA,BRA,90
 DMA,BRN,visa required
 DMA,BGR,90
-DMA,BFA,e-visa
+DMA,BFA,visa required
 DMA,BDI,visa on arrival
 DMA,KHM,e-visa
 DMA,CMR,visa required
@@ -9768,14 +9768,14 @@ DOM,BLR,visa required
 DOM,BEL,visa required
 DOM,BLZ,30
 DOM,BEN,e-visa
-DOM,BTN,e-visa
+DOM,BTN,visa required
 DOM,BOL,visa on arrival
 DOM,BIH,visa required
 DOM,BWA,90
 DOM,BRA,60
 DOM,BRN,visa required
 DOM,BGR,visa required
-DOM,BFA,e-visa
+DOM,BFA,visa required
 DOM,BDI,visa on arrival
 DOM,KHM,e-visa
 DOM,CMR,visa required
@@ -9918,7 +9918,7 @@ DOM,ESP,visa required
 DOM,LKA,e-visa
 DOM,VCT,visa required
 DOM,SDN,visa required
-DOM,SUR,90
+DOM,SUR,e-visa
 DOM,SWE,visa required
 DOM,CHE,visa required
 DOM,SYR,visa required
@@ -9967,14 +9967,14 @@ ECU,BLR,30
 ECU,BEL,visa required
 ECU,BLZ,30
 ECU,BEN,e-visa
-ECU,BTN,e-visa
+ECU,BTN,visa required
 ECU,BOL,90
 ECU,BIH,visa required
 ECU,BWA,e-visa
 ECU,BRA,90
 ECU,BRN,visa required
 ECU,BGR,visa required
-ECU,BFA,e-visa
+ECU,BFA,visa required
 ECU,BDI,visa on arrival
 ECU,KHM,e-visa
 ECU,CMR,visa required
@@ -10117,7 +10117,7 @@ ECU,ESP,visa required
 ECU,LKA,e-visa
 ECU,VCT,30
 ECU,SDN,visa required
-ECU,SUR,90
+ECU,SUR,e-visa
 ECU,SWE,visa required
 ECU,CHE,visa required
 ECU,SYR,visa required
@@ -10166,7 +10166,7 @@ EGY,BLR,visa required
 EGY,BEL,visa required
 EGY,BLZ,visa required
 EGY,BEN,90
-EGY,BTN,e-visa
+EGY,BTN,visa required
 EGY,BOL,visa on arrival
 EGY,BIH,visa required
 EGY,BWA,e-visa
@@ -10316,7 +10316,7 @@ EGY,ESP,visa required
 EGY,LKA,visa on arrival
 EGY,VCT,30
 EGY,SDN,visa required
-EGY,SUR,90
+EGY,SUR,e-visa
 EGY,SWE,visa required
 EGY,CHE,visa required
 EGY,SYR,visa required
@@ -10365,14 +10365,14 @@ SLV,BLR,30
 SLV,BEL,90
 SLV,BLZ,30
 SLV,BEN,e-visa
-SLV,BTN,e-visa
+SLV,BTN,visa required
 SLV,BOL,visa on arrival
 SLV,BIH,90
 SLV,BWA,e-visa
 SLV,BRA,90
 SLV,BRN,visa required
 SLV,BGR,90
-SLV,BFA,e-visa
+SLV,BFA,visa required
 SLV,BDI,visa on arrival
 SLV,KHM,e-visa
 SLV,CMR,visa required
@@ -10515,7 +10515,7 @@ SLV,ESP,90
 SLV,LKA,e-visa
 SLV,VCT,30
 SLV,SDN,visa required
-SLV,SUR,90
+SLV,SUR,e-visa
 SLV,SWE,90
 SLV,CHE,90
 SLV,SYR,visa required
@@ -10564,14 +10564,14 @@ GNQ,BLR,visa required
 GNQ,BEL,visa required
 GNQ,BLZ,visa required
 GNQ,BEN,90
-GNQ,BTN,e-visa
+GNQ,BTN,visa required
 GNQ,BOL,visa on arrival
 GNQ,BIH,visa required
 GNQ,BWA,e-visa
 GNQ,BRA,visa required
 GNQ,BRN,visa required
 GNQ,BGR,visa required
-GNQ,BFA,e-visa
+GNQ,BFA,visa required
 GNQ,BDI,visa on arrival
 GNQ,KHM,e-visa
 GNQ,CMR,90
@@ -10714,7 +10714,7 @@ GNQ,ESP,visa required
 GNQ,LKA,e-visa
 GNQ,VCT,30
 GNQ,SDN,visa required
-GNQ,SUR,90
+GNQ,SUR,e-visa
 GNQ,SWE,visa required
 GNQ,CHE,visa required
 GNQ,SYR,visa required
@@ -10763,7 +10763,7 @@ ERI,BLR,visa required
 ERI,BEL,visa required
 ERI,BLZ,visa required
 ERI,BEN,90
-ERI,BTN,e-visa
+ERI,BTN,visa required
 ERI,BOL,visa on arrival
 ERI,BIH,visa required
 ERI,BWA,e-visa
@@ -10913,7 +10913,7 @@ ERI,ESP,visa required
 ERI,LKA,e-visa
 ERI,VCT,30
 ERI,SDN,visa required
-ERI,SUR,90
+ERI,SUR,e-visa
 ERI,SWE,visa required
 ERI,CHE,visa required
 ERI,SYR,visa required
@@ -10962,7 +10962,7 @@ EST,BLR,30
 EST,BEL,visa free
 EST,BLZ,visa free
 EST,BEN,e-visa
-EST,BTN,e-visa
+EST,BTN,visa required
 EST,BOL,90
 EST,BIH,90
 EST,BWA,90
@@ -11112,7 +11112,7 @@ EST,ESP,visa free
 EST,LKA,e-visa
 EST,VCT,90
 EST,SDN,visa required
-EST,SUR,90
+EST,SUR,e-visa
 EST,SWE,visa free
 EST,CHE,visa free
 EST,SYR,visa required
@@ -11161,14 +11161,14 @@ SWZ,BLR,visa required
 SWZ,BEL,visa required
 SWZ,BLZ,visa free
 SWZ,BEN,90
-SWZ,BTN,e-visa
+SWZ,BTN,visa required
 SWZ,BOL,visa on arrival
 SWZ,BIH,visa required
 SWZ,BWA,90
 SWZ,BRA,visa required
 SWZ,BRN,visa required
 SWZ,BGR,visa required
-SWZ,BFA,e-visa
+SWZ,BFA,visa required
 SWZ,BDI,visa on arrival
 SWZ,KHM,e-visa
 SWZ,CMR,visa required
@@ -11311,7 +11311,7 @@ SWZ,ESP,visa required
 SWZ,LKA,e-visa
 SWZ,VCT,30
 SWZ,SDN,visa required
-SWZ,SUR,90
+SWZ,SUR,e-visa
 SWZ,SWE,visa required
 SWZ,CHE,visa required
 SWZ,SYR,visa required
@@ -11360,14 +11360,14 @@ ETH,BLR,visa required
 ETH,BEL,visa required
 ETH,BLZ,visa required
 ETH,BEN,90
-ETH,BTN,e-visa
+ETH,BTN,visa required
 ETH,BOL,visa on arrival
 ETH,BIH,visa required
 ETH,BWA,e-visa
 ETH,BRA,visa required
 ETH,BRN,visa required
 ETH,BGR,visa required
-ETH,BFA,e-visa
+ETH,BFA,visa required
 ETH,BDI,visa on arrival
 ETH,KHM,e-visa
 ETH,CMR,visa required
@@ -11510,7 +11510,7 @@ ETH,ESP,visa required
 ETH,LKA,e-visa
 ETH,VCT,30
 ETH,SDN,visa required
-ETH,SUR,90
+ETH,SUR,e-visa
 ETH,SWE,visa required
 ETH,CHE,visa required
 ETH,SYR,visa required
@@ -11559,14 +11559,14 @@ FJI,BLR,visa required
 FJI,BEL,visa required
 FJI,BLZ,visa free
 FJI,BEN,e-visa
-FJI,BTN,e-visa
+FJI,BTN,visa required
 FJI,BOL,visa on arrival
 FJI,BIH,visa required
 FJI,BWA,e-visa
 FJI,BRA,90
 FJI,BRN,visa required
 FJI,BGR,visa required
-FJI,BFA,e-visa
+FJI,BFA,visa required
 FJI,BDI,visa on arrival
 FJI,KHM,e-visa
 FJI,CMR,visa required
@@ -11709,7 +11709,7 @@ FJI,ESP,visa required
 FJI,LKA,e-visa
 FJI,VCT,30
 FJI,SDN,visa required
-FJI,SUR,90
+FJI,SUR,e-visa
 FJI,SWE,visa required
 FJI,CHE,visa required
 FJI,SYR,visa required
@@ -11758,7 +11758,7 @@ FIN,BLR,30
 FIN,BEL,visa free
 FIN,BLZ,visa free
 FIN,BEN,e-visa
-FIN,BTN,e-visa
+FIN,BTN,visa required
 FIN,BOL,90
 FIN,BIH,90
 FIN,BWA,90
@@ -11908,7 +11908,7 @@ FIN,ESP,visa free
 FIN,LKA,e-visa
 FIN,VCT,90
 FIN,SDN,visa required
-FIN,SUR,90
+FIN,SUR,e-visa
 FIN,SWE,visa free
 FIN,CHE,visa free
 FIN,SYR,visa required
@@ -11957,7 +11957,7 @@ FRA,BLR,30
 FRA,BEL,visa free
 FRA,BLZ,visa free
 FRA,BEN,e-visa
-FRA,BTN,e-visa
+FRA,BTN,visa required
 FRA,BOL,90
 FRA,BIH,90
 FRA,BWA,90
@@ -12107,7 +12107,7 @@ FRA,ESP,visa free
 FRA,LKA,e-visa
 FRA,VCT,90
 FRA,SDN,visa required
-FRA,SUR,90
+FRA,SUR,e-visa
 FRA,SWE,visa free
 FRA,CHE,visa free
 FRA,SYR,visa required
@@ -12156,14 +12156,14 @@ GAB,BLR,visa required
 GAB,BEL,visa required
 GAB,BLZ,visa required
 GAB,BEN,90
-GAB,BTN,e-visa
+GAB,BTN,visa required
 GAB,BOL,visa on arrival
 GAB,BIH,visa required
 GAB,BWA,e-visa
 GAB,BRA,visa required
 GAB,BRN,visa required
 GAB,BGR,visa required
-GAB,BFA,e-visa
+GAB,BFA,visa required
 GAB,BDI,visa on arrival
 GAB,KHM,e-visa
 GAB,CMR,90
@@ -12306,7 +12306,7 @@ GAB,ESP,visa required
 GAB,LKA,e-visa
 GAB,VCT,30
 GAB,SDN,visa required
-GAB,SUR,90
+GAB,SUR,e-visa
 GAB,SWE,visa required
 GAB,CHE,visa required
 GAB,SYR,visa required
@@ -12355,7 +12355,7 @@ GMB,BLR,visa required
 GMB,BEL,visa required
 GMB,BLZ,visa free
 GMB,BEN,90
-GMB,BTN,e-visa
+GMB,BTN,visa required
 GMB,BOL,visa on arrival
 GMB,BIH,visa required
 GMB,BWA,90
@@ -12505,7 +12505,7 @@ GMB,ESP,visa required
 GMB,LKA,e-visa
 GMB,VCT,30
 GMB,SDN,visa required
-GMB,SUR,90
+GMB,SUR,e-visa
 GMB,SWE,visa required
 GMB,CHE,visa required
 GMB,SYR,visa required
@@ -12554,14 +12554,14 @@ GEO,BLR,visa free
 GEO,BEL,90
 GEO,BLZ,visa required
 GEO,BEN,e-visa
-GEO,BTN,e-visa
+GEO,BTN,visa required
 GEO,BOL,visa on arrival
 GEO,BIH,90
 GEO,BWA,e-visa
 GEO,BRA,90
 GEO,BRN,visa required
 GEO,BGR,90
-GEO,BFA,e-visa
+GEO,BFA,visa required
 GEO,BDI,visa on arrival
 GEO,KHM,e-visa
 GEO,CMR,visa required
@@ -12704,7 +12704,7 @@ GEO,ESP,90
 GEO,LKA,e-visa
 GEO,VCT,30
 GEO,SDN,visa required
-GEO,SUR,90
+GEO,SUR,e-visa
 GEO,SWE,90
 GEO,CHE,90
 GEO,SYR,visa required
@@ -12722,7 +12722,7 @@ GEO,TUV,visa on arrival
 GEO,TUR,90
 GEO,UGA,e-visa
 GEO,UKR,90
-GEO,ARE,90
+GEO,ARE,visa on arrival
 GEO,GBR,visa required
 GEO,USA,visa required
 GEO,URY,90
@@ -12753,7 +12753,7 @@ DEU,BLR,30
 DEU,BEL,visa free
 DEU,BLZ,visa free
 DEU,BEN,e-visa
-DEU,BTN,e-visa
+DEU,BTN,visa required
 DEU,BOL,90
 DEU,BIH,90
 DEU,BWA,90
@@ -12903,7 +12903,7 @@ DEU,ESP,visa free
 DEU,LKA,e-visa
 DEU,VCT,90
 DEU,SDN,visa required
-DEU,SUR,90
+DEU,SUR,e-visa
 DEU,SWE,visa free
 DEU,CHE,visa free
 DEU,SYR,visa required
@@ -12952,7 +12952,7 @@ GHA,BLR,visa required
 GHA,BEL,visa required
 GHA,BLZ,visa free
 GHA,BEN,90
-GHA,BTN,e-visa
+GHA,BTN,visa required
 GHA,BOL,visa on arrival
 GHA,BIH,visa required
 GHA,BWA,e-visa
@@ -13102,7 +13102,7 @@ GHA,ESP,visa required
 GHA,LKA,visa on arrival
 GHA,VCT,30
 GHA,SDN,visa required
-GHA,SUR,90
+GHA,SUR,e-visa
 GHA,SWE,visa required
 GHA,CHE,visa required
 GHA,SYR,visa required
@@ -13151,7 +13151,7 @@ GRC,BLR,30
 GRC,BEL,visa free
 GRC,BLZ,visa free
 GRC,BEN,e-visa
-GRC,BTN,e-visa
+GRC,BTN,visa required
 GRC,BOL,90
 GRC,BIH,90
 GRC,BWA,90
@@ -13301,7 +13301,7 @@ GRC,ESP,visa free
 GRC,LKA,e-visa
 GRC,VCT,90
 GRC,SDN,visa required
-GRC,SUR,90
+GRC,SUR,e-visa
 GRC,SWE,visa free
 GRC,CHE,visa free
 GRC,SYR,visa required
@@ -13350,14 +13350,14 @@ GRD,BLR,visa required
 GRD,BEL,90
 GRD,BLZ,visa free
 GRD,BEN,e-visa
-GRD,BTN,e-visa
+GRD,BTN,visa required
 GRD,BOL,visa on arrival
 GRD,BIH,90
 GRD,BWA,90
 GRD,BRA,90
 GRD,BRN,visa required
 GRD,BGR,90
-GRD,BFA,e-visa
+GRD,BFA,visa required
 GRD,BDI,visa on arrival
 GRD,KHM,e-visa
 GRD,CMR,visa required
@@ -13549,14 +13549,14 @@ GTM,BLR,visa required
 GTM,BEL,90
 GTM,BLZ,30
 GTM,BEN,e-visa
-GTM,BTN,e-visa
+GTM,BTN,visa required
 GTM,BOL,visa on arrival
 GTM,BIH,90
 GTM,BWA,e-visa
 GTM,BRA,90
 GTM,BRN,visa required
 GTM,BGR,90
-GTM,BFA,e-visa
+GTM,BFA,visa required
 GTM,BDI,visa on arrival
 GTM,KHM,e-visa
 GTM,CMR,visa required
@@ -13699,7 +13699,7 @@ GTM,ESP,90
 GTM,LKA,e-visa
 GTM,VCT,30
 GTM,SDN,visa required
-GTM,SUR,90
+GTM,SUR,e-visa
 GTM,SWE,90
 GTM,CHE,90
 GTM,SYR,visa required
@@ -13748,7 +13748,7 @@ GIN,BLR,visa required
 GIN,BEL,visa required
 GIN,BLZ,visa required
 GIN,BEN,90
-GIN,BTN,e-visa
+GIN,BTN,visa required
 GIN,BOL,visa on arrival
 GIN,BIH,visa required
 GIN,BWA,e-visa
@@ -13898,7 +13898,7 @@ GIN,ESP,visa required
 GIN,LKA,e-visa
 GIN,VCT,30
 GIN,SDN,visa required
-GIN,SUR,90
+GIN,SUR,e-visa
 GIN,SWE,visa required
 GIN,CHE,visa required
 GIN,SYR,visa required
@@ -13947,7 +13947,7 @@ GNB,BLR,visa required
 GNB,BEL,visa required
 GNB,BLZ,visa required
 GNB,BEN,90
-GNB,BTN,e-visa
+GNB,BTN,visa required
 GNB,BOL,visa on arrival
 GNB,BIH,visa required
 GNB,BWA,e-visa
@@ -14082,7 +14082,7 @@ GNB,SMR,visa required
 GNB,STP,visa free
 GNB,SAU,visa required
 GNB,SEN,90
-GNB,SRB,visa required
+GNB,SRB,30
 GNB,SYC,90
 GNB,SLE,visa free
 GNB,SGP,30
@@ -14097,7 +14097,7 @@ GNB,ESP,visa required
 GNB,LKA,e-visa
 GNB,VCT,30
 GNB,SDN,visa required
-GNB,SUR,90
+GNB,SUR,e-visa
 GNB,SWE,visa required
 GNB,CHE,visa required
 GNB,SYR,visa required
@@ -14146,14 +14146,14 @@ GUY,BLR,visa required
 GUY,BEL,visa required
 GUY,BLZ,visa free
 GUY,BEN,e-visa
-GUY,BTN,e-visa
+GUY,BTN,visa required
 GUY,BOL,visa on arrival
 GUY,BIH,visa required
 GUY,BWA,90
 GUY,BRA,90
 GUY,BRN,visa required
 GUY,BGR,visa required
-GUY,BFA,e-visa
+GUY,BFA,visa required
 GUY,BDI,visa on arrival
 GUY,KHM,e-visa
 GUY,CMR,visa required
@@ -14345,14 +14345,14 @@ HTI,BLR,visa required
 HTI,BEL,visa required
 HTI,BLZ,visa free
 HTI,BEN,90
-HTI,BTN,e-visa
+HTI,BTN,visa required
 HTI,BOL,visa on arrival
 HTI,BIH,visa required
 HTI,BWA,e-visa
 HTI,BRA,visa required
 HTI,BRN,visa required
 HTI,BGR,visa required
-HTI,BFA,e-visa
+HTI,BFA,visa required
 HTI,BDI,visa on arrival
 HTI,KHM,e-visa
 HTI,CMR,visa required
@@ -14495,7 +14495,7 @@ HTI,ESP,visa required
 HTI,LKA,e-visa
 HTI,VCT,180
 HTI,SDN,visa required
-HTI,SUR,covid ban
+HTI,SUR,visa required
 HTI,SWE,visa required
 HTI,CHE,visa required
 HTI,SYR,visa required
@@ -14544,14 +14544,14 @@ HND,BLR,visa required
 HND,BEL,90
 HND,BLZ,30
 HND,BEN,e-visa
-HND,BTN,e-visa
+HND,BTN,visa required
 HND,BOL,visa on arrival
 HND,BIH,90
 HND,BWA,e-visa
 HND,BRA,90
 HND,BRN,visa required
 HND,BGR,90
-HND,BFA,e-visa
+HND,BFA,visa required
 HND,BDI,visa on arrival
 HND,KHM,e-visa
 HND,CMR,visa required
@@ -14694,7 +14694,7 @@ HND,ESP,90
 HND,LKA,e-visa
 HND,VCT,30
 HND,SDN,visa required
-HND,SUR,90
+HND,SUR,e-visa
 HND,SWE,90
 HND,CHE,90
 HND,SYR,visa required
@@ -14743,7 +14743,7 @@ HKG,BLR,30
 HKG,BEL,90
 HKG,BLZ,visa free
 HKG,BEN,14
-HKG,BTN,e-visa
+HKG,BTN,visa required
 HKG,BOL,visa on arrival
 HKG,BIH,90
 HKG,BWA,90
@@ -14911,7 +14911,7 @@ HKG,TUV,visa on arrival
 HKG,TUR,90
 HKG,UGA,visa required
 HKG,UKR,14
-HKG,ARE,30
+HKG,ARE,visa on arrival
 HKG,GBR,180
 HKG,USA,visa required
 HKG,URY,90
@@ -14942,7 +14942,7 @@ HUN,BLR,30
 HUN,BEL,visa free
 HUN,BLZ,visa free
 HUN,BEN,e-visa
-HUN,BTN,e-visa
+HUN,BTN,visa required
 HUN,BOL,90
 HUN,BIH,90
 HUN,BWA,90
@@ -15092,7 +15092,7 @@ HUN,ESP,visa free
 HUN,LKA,e-visa
 HUN,VCT,90
 HUN,SDN,visa required
-HUN,SUR,90
+HUN,SUR,e-visa
 HUN,SWE,visa free
 HUN,CHE,visa free
 HUN,SYR,visa required
@@ -15141,7 +15141,7 @@ ISL,BLR,30
 ISL,BEL,visa free
 ISL,BLZ,visa free
 ISL,BEN,e-visa
-ISL,BTN,e-visa
+ISL,BTN,visa required
 ISL,BOL,90
 ISL,BIH,90
 ISL,BWA,90
@@ -15291,7 +15291,7 @@ ISL,ESP,visa free
 ISL,LKA,e-visa
 ISL,VCT,30
 ISL,SDN,visa required
-ISL,SUR,90
+ISL,SUR,e-visa
 ISL,SWE,visa free
 ISL,CHE,visa free
 ISL,SYR,visa required
@@ -15347,7 +15347,7 @@ IND,BWA,e-visa
 IND,BRA,visa required
 IND,BRN,visa required
 IND,BGR,visa required
-IND,BFA,e-visa
+IND,BFA,visa required
 IND,BDI,visa on arrival
 IND,KHM,e-visa
 IND,CMR,visa required
@@ -15384,7 +15384,7 @@ IND,FIN,visa required
 IND,FRA,visa required
 IND,GAB,e-visa
 IND,GMB,90
-IND,GEO,visa required
+IND,GEO,e-visa
 IND,DEU,visa required
 IND,GHA,visa required
 IND,GRC,visa required
@@ -15490,7 +15490,7 @@ IND,ESP,visa required
 IND,LKA,e-visa
 IND,VCT,30
 IND,SDN,visa required
-IND,SUR,90
+IND,SUR,e-visa
 IND,SWE,visa required
 IND,CHE,visa required
 IND,SYR,visa required
@@ -15539,14 +15539,14 @@ IDN,BLR,30
 IDN,BEL,visa required
 IDN,BLZ,visa required
 IDN,BEN,e-visa
-IDN,BTN,e-visa
+IDN,BTN,visa required
 IDN,BOL,visa on arrival
 IDN,BIH,visa required
 IDN,BWA,e-visa
 IDN,BRA,30
 IDN,BRN,14
 IDN,BGR,visa required
-IDN,BFA,e-visa
+IDN,BFA,visa required
 IDN,BDI,visa on arrival
 IDN,KHM,30
 IDN,CMR,visa required
@@ -15738,14 +15738,14 @@ IRN,BLR,visa required
 IRN,BEL,visa required
 IRN,BLZ,visa required
 IRN,BEN,e-visa
-IRN,BTN,e-visa
+IRN,BTN,visa required
 IRN,BOL,visa on arrival
 IRN,BIH,visa required
 IRN,BWA,e-visa
 IRN,BRA,visa required
 IRN,BRN,visa required
 IRN,BGR,visa required
-IRN,BFA,e-visa
+IRN,BFA,visa required
 IRN,BDI,visa on arrival
 IRN,KHM,e-visa
 IRN,CMR,visa required
@@ -15888,7 +15888,7 @@ IRN,ESP,visa required
 IRN,LKA,e-visa
 IRN,VCT,visa required
 IRN,SDN,visa required
-IRN,SUR,90
+IRN,SUR,e-visa
 IRN,SWE,visa required
 IRN,CHE,visa required
 IRN,SYR,visa required
@@ -15937,14 +15937,14 @@ IRQ,BLR,visa required
 IRQ,BEL,visa required
 IRQ,BLZ,visa required
 IRQ,BEN,e-visa
-IRQ,BTN,e-visa
+IRQ,BTN,visa required
 IRQ,BOL,visa on arrival
 IRQ,BIH,visa required
 IRQ,BWA,e-visa
 IRQ,BRA,visa required
 IRQ,BRN,visa required
 IRQ,BGR,visa required
-IRQ,BFA,e-visa
+IRQ,BFA,visa required
 IRQ,BDI,visa on arrival
 IRQ,KHM,e-visa
 IRQ,CMR,visa required
@@ -16087,7 +16087,7 @@ IRQ,ESP,visa required
 IRQ,LKA,e-visa
 IRQ,VCT,visa required
 IRQ,SDN,visa required
-IRQ,SUR,90
+IRQ,SUR,e-visa
 IRQ,SWE,visa required
 IRQ,CHE,visa required
 IRQ,SYR,visa required
@@ -16136,7 +16136,7 @@ IRL,BLR,30
 IRL,BEL,visa free
 IRL,BLZ,visa free
 IRL,BEN,e-visa
-IRL,BTN,e-visa
+IRL,BTN,visa required
 IRL,BOL,90
 IRL,BIH,90
 IRL,BWA,90
@@ -16286,7 +16286,7 @@ IRL,ESP,visa free
 IRL,LKA,e-visa
 IRL,VCT,30
 IRL,SDN,visa required
-IRL,SUR,90
+IRL,SUR,e-visa
 IRL,SWE,visa free
 IRL,CHE,visa free
 IRL,SYR,visa required
@@ -16302,9 +16302,9 @@ IRL,TUN,90
 IRL,TKM,visa required
 IRL,TUV,visa on arrival
 IRL,TUR,90
-IRL,UGA,90
+IRL,UGA,e-visa
 IRL,UKR,90
-IRL,ARE,30
+IRL,ARE,visa on arrival
 IRL,GBR,visa free
 IRL,USA,e-visa
 IRL,URY,90
@@ -16335,14 +16335,14 @@ ISR,BLR,90
 ISR,BEL,90
 ISR,BLZ,90
 ISR,BEN,e-visa
-ISR,BTN,e-visa
+ISR,BTN,visa required
 ISR,BOL,visa on arrival
 ISR,BIH,90
 ISR,BWA,90
 ISR,BRA,90
 ISR,BRN,no admission
 ISR,BGR,90
-ISR,BFA,e-visa
+ISR,BFA,visa required
 ISR,BDI,visa on arrival
 ISR,KHM,e-visa
 ISR,CMR,visa required
@@ -16534,7 +16534,7 @@ ITA,BLR,30
 ITA,BEL,visa free
 ITA,BLZ,visa free
 ITA,BEN,e-visa
-ITA,BTN,e-visa
+ITA,BTN,visa required
 ITA,BOL,90
 ITA,BIH,90
 ITA,BWA,90
@@ -16684,7 +16684,7 @@ ITA,ESP,visa free
 ITA,LKA,e-visa
 ITA,VCT,90
 ITA,SDN,visa required
-ITA,SUR,90
+ITA,SUR,e-visa
 ITA,SWE,visa free
 ITA,CHE,visa free
 ITA,SYR,visa required
@@ -16733,14 +16733,14 @@ JAM,BLR,visa required
 JAM,BEL,visa required
 JAM,BLZ,visa free
 JAM,BEN,e-visa
-JAM,BTN,e-visa
+JAM,BTN,visa required
 JAM,BOL,visa on arrival
 JAM,BIH,visa required
 JAM,BWA,90
 JAM,BRA,90
 JAM,BRN,visa required
 JAM,BGR,visa required
-JAM,BFA,e-visa
+JAM,BFA,visa required
 JAM,BDI,visa on arrival
 JAM,KHM,e-visa
 JAM,CMR,visa required
@@ -16932,14 +16932,14 @@ JPN,BLR,30
 JPN,BEL,90
 JPN,BLZ,90
 JPN,BEN,e-visa
-JPN,BTN,e-visa
+JPN,BTN,visa required
 JPN,BOL,90
 JPN,BIH,90
 JPN,BWA,90
 JPN,BRA,90
 JPN,BRN,90
 JPN,BGR,90
-JPN,BFA,e-visa
+JPN,BFA,visa required
 JPN,BDI,visa on arrival
 JPN,KHM,e-visa
 JPN,CMR,visa required
@@ -17100,7 +17100,7 @@ JPN,TUV,visa on arrival
 JPN,TUR,90
 JPN,UGA,e-visa
 JPN,UKR,90
-JPN,ARE,30
+JPN,ARE,visa on arrival
 JPN,GBR,180
 JPN,USA,e-visa
 JPN,URY,90
@@ -17131,14 +17131,14 @@ JOR,BLR,visa required
 JOR,BEL,visa required
 JOR,BLZ,visa required
 JOR,BEN,e-visa
-JOR,BTN,e-visa
+JOR,BTN,visa required
 JOR,BOL,visa on arrival
 JOR,BIH,visa required
 JOR,BWA,e-visa
 JOR,BRA,visa required
 JOR,BRN,visa required
 JOR,BGR,visa required
-JOR,BFA,e-visa
+JOR,BFA,visa required
 JOR,BDI,visa on arrival
 JOR,KHM,e-visa
 JOR,CMR,visa required
@@ -17281,7 +17281,7 @@ JOR,ESP,visa required
 JOR,LKA,e-visa
 JOR,VCT,visa required
 JOR,SDN,visa required
-JOR,SUR,90
+JOR,SUR,e-visa
 JOR,SWE,visa required
 JOR,CHE,visa required
 JOR,SYR,visa free
@@ -17330,14 +17330,14 @@ KAZ,BLR,visa free
 KAZ,BEL,visa required
 KAZ,BLZ,visa required
 KAZ,BEN,e-visa
-KAZ,BTN,e-visa
+KAZ,BTN,visa required
 KAZ,BOL,visa on arrival
 KAZ,BIH,visa required
 KAZ,BWA,e-visa
 KAZ,BRA,30
 KAZ,BRN,visa required
 KAZ,BGR,visa required
-KAZ,BFA,e-visa
+KAZ,BFA,visa required
 KAZ,BDI,visa on arrival
 KAZ,KHM,e-visa
 KAZ,CMR,visa required
@@ -17389,7 +17389,7 @@ KAZ,HKG,14
 KAZ,HUN,visa required
 KAZ,ISL,visa required
 KAZ,IND,e-visa
-KAZ,IDN,visa on arrival
+KAZ,IDN,visa required
 KAZ,IRN,14
 KAZ,IRQ,visa required
 KAZ,IRL,visa required
@@ -17480,7 +17480,7 @@ KAZ,ESP,visa required
 KAZ,LKA,e-visa
 KAZ,VCT,30
 KAZ,SDN,visa required
-KAZ,SUR,90
+KAZ,SUR,e-visa
 KAZ,SWE,visa required
 KAZ,CHE,visa required
 KAZ,SYR,visa required
@@ -17498,7 +17498,7 @@ KAZ,TUV,visa on arrival
 KAZ,TUR,90
 KAZ,UGA,e-visa
 KAZ,UKR,90
-KAZ,ARE,30
+KAZ,ARE,visa on arrival
 KAZ,GBR,visa required
 KAZ,USA,visa required
 KAZ,URY,visa required
@@ -17529,7 +17529,7 @@ KEN,BLR,visa required
 KEN,BEL,visa required
 KEN,BLZ,visa required
 KEN,BEN,90
-KEN,BTN,e-visa
+KEN,BTN,visa required
 KEN,BOL,visa on arrival
 KEN,BIH,visa required
 KEN,BWA,90
@@ -17674,12 +17674,12 @@ KEN,SLB,visa required
 KEN,SOM,visa on arrival
 KEN,ZAF,90
 KEN,KOR,visa required
-KEN,SSD,90
+KEN,SSD,visa on arrival
 KEN,ESP,visa required
 KEN,LKA,e-visa
 KEN,VCT,30
 KEN,SDN,visa on arrival
-KEN,SUR,90
+KEN,SUR,e-visa
 KEN,SWE,visa required
 KEN,CHE,visa required
 KEN,SYR,visa required
@@ -17728,14 +17728,14 @@ KIR,BLR,visa required
 KIR,BEL,90
 KIR,BLZ,visa free
 KIR,BEN,e-visa
-KIR,BTN,e-visa
+KIR,BTN,visa required
 KIR,BOL,visa on arrival
 KIR,BIH,90
 KIR,BWA,90
 KIR,BRA,visa required
 KIR,BRN,visa required
 KIR,BGR,90
-KIR,BFA,e-visa
+KIR,BFA,visa required
 KIR,BDI,visa on arrival
 KIR,KHM,e-visa
 KIR,CMR,visa required
@@ -17878,7 +17878,7 @@ KIR,ESP,90
 KIR,LKA,e-visa
 KIR,VCT,30
 KIR,SDN,visa required
-KIR,SUR,90
+KIR,SUR,e-visa
 KIR,SWE,90
 KIR,CHE,90
 KIR,SYR,visa required
@@ -17927,14 +17927,14 @@ XKX,BLR,visa required
 XKX,BEL,visa required
 XKX,BLZ,visa required
 XKX,BEN,e-visa
-XKX,BTN,e-visa
+XKX,BTN,visa required
 XKX,BOL,visa on arrival
 XKX,BIH,visa required
 XKX,BWA,visa required
 XKX,BRA,visa required
 XKX,BRN,visa required
 XKX,BGR,visa required
-XKX,BFA,e-visa
+XKX,BFA,visa required
 XKX,BDI,visa on arrival
 XKX,KHM,e-visa
 XKX,CMR,visa required
@@ -18077,7 +18077,7 @@ XKX,ESP,visa required
 XKX,LKA,e-visa
 XKX,VCT,30
 XKX,SDN,visa required
-XKX,SUR,90
+XKX,SUR,e-visa
 XKX,SWE,visa required
 XKX,CHE,visa required
 XKX,SYR,visa required
@@ -18126,14 +18126,14 @@ KWT,BLR,30
 KWT,BEL,visa required
 KWT,BLZ,visa required
 KWT,BEN,e-visa
-KWT,BTN,e-visa
+KWT,BTN,visa required
 KWT,BOL,visa on arrival
 KWT,BIH,90
 KWT,BWA,90
 KWT,BRA,visa required
 KWT,BRN,visa on arrival
 KWT,BGR,visa required
-KWT,BFA,e-visa
+KWT,BFA,visa required
 KWT,BDI,visa on arrival
 KWT,KHM,e-visa
 KWT,CMR,visa required
@@ -18276,7 +18276,7 @@ KWT,ESP,visa required
 KWT,LKA,e-visa
 KWT,VCT,30
 KWT,SDN,visa free
-KWT,SUR,90
+KWT,SUR,e-visa
 KWT,SWE,visa required
 KWT,CHE,visa required
 KWT,SYR,visa free
@@ -18325,14 +18325,14 @@ KGZ,BLR,visa free
 KGZ,BEL,visa required
 KGZ,BLZ,visa required
 KGZ,BEN,e-visa
-KGZ,BTN,e-visa
+KGZ,BTN,visa required
 KGZ,BOL,visa on arrival
 KGZ,BIH,visa required
 KGZ,BWA,e-visa
 KGZ,BRA,visa required
 KGZ,BRN,visa required
 KGZ,BGR,visa required
-KGZ,BFA,e-visa
+KGZ,BFA,visa required
 KGZ,BDI,visa on arrival
 KGZ,KHM,e-visa
 KGZ,CMR,visa required
@@ -18475,7 +18475,7 @@ KGZ,ESP,visa required
 KGZ,LKA,e-visa
 KGZ,VCT,30
 KGZ,SDN,visa required
-KGZ,SUR,90
+KGZ,SUR,e-visa
 KGZ,SWE,visa required
 KGZ,CHE,visa required
 KGZ,SYR,visa required
@@ -18524,14 +18524,14 @@ LAO,BLR,visa required
 LAO,BEL,visa required
 LAO,BLZ,visa required
 LAO,BEN,e-visa
-LAO,BTN,e-visa
+LAO,BTN,visa required
 LAO,BOL,visa on arrival
 LAO,BIH,visa required
 LAO,BWA,e-visa
 LAO,BRA,visa required
 LAO,BRN,30
 LAO,BGR,visa required
-LAO,BFA,e-visa
+LAO,BFA,visa required
 LAO,BDI,visa on arrival
 LAO,KHM,30
 LAO,CMR,visa required
@@ -18674,7 +18674,7 @@ LAO,ESP,visa required
 LAO,LKA,e-visa
 LAO,VCT,30
 LAO,SDN,visa required
-LAO,SUR,90
+LAO,SUR,e-visa
 LAO,SWE,visa required
 LAO,CHE,visa required
 LAO,SYR,visa required
@@ -18723,7 +18723,7 @@ LVA,BLR,30
 LVA,BEL,visa free
 LVA,BLZ,visa free
 LVA,BEN,e-visa
-LVA,BTN,e-visa
+LVA,BTN,visa required
 LVA,BOL,90
 LVA,BIH,90
 LVA,BWA,90
@@ -18873,7 +18873,7 @@ LVA,ESP,visa free
 LVA,LKA,e-visa
 LVA,VCT,90
 LVA,SDN,visa required
-LVA,SUR,90
+LVA,SUR,e-visa
 LVA,SWE,visa free
 LVA,CHE,visa free
 LVA,SYR,visa required
@@ -18922,14 +18922,14 @@ LBN,BLR,visa required
 LBN,BEL,visa required
 LBN,BLZ,visa required
 LBN,BEN,e-visa
-LBN,BTN,e-visa
+LBN,BTN,visa required
 LBN,BOL,visa on arrival
 LBN,BIH,visa required
 LBN,BWA,e-visa
 LBN,BRA,visa required
 LBN,BRN,visa required
 LBN,BGR,visa required
-LBN,BFA,e-visa
+LBN,BFA,visa required
 LBN,BDI,visa on arrival
 LBN,KHM,e-visa
 LBN,CMR,visa required
@@ -19072,7 +19072,7 @@ LBN,ESP,visa required
 LBN,LKA,e-visa
 LBN,VCT,visa required
 LBN,SDN,visa required
-LBN,SUR,90
+LBN,SUR,e-visa
 LBN,SWE,visa required
 LBN,CHE,visa required
 LBN,SYR,visa free
@@ -19121,14 +19121,14 @@ LSO,BLR,visa required
 LSO,BEL,visa required
 LSO,BLZ,visa free
 LSO,BEN,90
-LSO,BTN,e-visa
+LSO,BTN,visa required
 LSO,BOL,visa on arrival
 LSO,BIH,visa required
 LSO,BWA,90
 LSO,BRA,visa required
 LSO,BRN,visa required
 LSO,BGR,visa required
-LSO,BFA,e-visa
+LSO,BFA,visa required
 LSO,BDI,visa on arrival
 LSO,KHM,e-visa
 LSO,CMR,visa required
@@ -19271,7 +19271,7 @@ LSO,ESP,visa required
 LSO,LKA,e-visa
 LSO,VCT,30
 LSO,SDN,visa required
-LSO,SUR,90
+LSO,SUR,e-visa
 LSO,SWE,visa required
 LSO,CHE,visa required
 LSO,SYR,visa required
@@ -19320,7 +19320,7 @@ LBR,BLR,visa required
 LBR,BEL,visa required
 LBR,BLZ,visa required
 LBR,BEN,90
-LBR,BTN,e-visa
+LBR,BTN,visa required
 LBR,BOL,visa on arrival
 LBR,BIH,visa required
 LBR,BWA,e-visa
@@ -19470,7 +19470,7 @@ LBR,ESP,visa required
 LBR,LKA,e-visa
 LBR,VCT,30
 LBR,SDN,visa required
-LBR,SUR,90
+LBR,SUR,e-visa
 LBR,SWE,visa required
 LBR,CHE,visa required
 LBR,SYR,visa required
@@ -19519,7 +19519,7 @@ LBY,BLR,visa required
 LBY,BEL,visa required
 LBY,BLZ,visa required
 LBY,BEN,90
-LBY,BTN,e-visa
+LBY,BTN,visa required
 LBY,BOL,visa on arrival
 LBY,BIH,visa required
 LBY,BWA,e-visa
@@ -19669,7 +19669,7 @@ LBY,ESP,visa required
 LBY,LKA,e-visa
 LBY,VCT,30
 LBY,SDN,visa required
-LBY,SUR,90
+LBY,SUR,e-visa
 LBY,SWE,visa required
 LBY,CHE,visa required
 LBY,SYR,visa required
@@ -19718,7 +19718,7 @@ LIE,BLR,30
 LIE,BEL,visa free
 LIE,BLZ,visa free
 LIE,BEN,e-visa
-LIE,BTN,e-visa
+LIE,BTN,visa required
 LIE,BOL,90
 LIE,BIH,90
 LIE,BWA,90
@@ -19868,7 +19868,7 @@ LIE,ESP,visa free
 LIE,LKA,e-visa
 LIE,VCT,30
 LIE,SDN,visa required
-LIE,SUR,90
+LIE,SUR,e-visa
 LIE,SWE,visa free
 LIE,CHE,visa free
 LIE,SYR,visa required
@@ -19917,7 +19917,7 @@ LTU,BLR,30
 LTU,BEL,visa free
 LTU,BLZ,visa free
 LTU,BEN,e-visa
-LTU,BTN,e-visa
+LTU,BTN,visa required
 LTU,BOL,90
 LTU,BIH,90
 LTU,BWA,90
@@ -20067,7 +20067,7 @@ LTU,ESP,visa free
 LTU,LKA,e-visa
 LTU,VCT,90
 LTU,SDN,visa required
-LTU,SUR,90
+LTU,SUR,e-visa
 LTU,SWE,visa free
 LTU,CHE,visa free
 LTU,SYR,visa required
@@ -20116,7 +20116,7 @@ LUX,BLR,30
 LUX,BEL,visa free
 LUX,BLZ,visa free
 LUX,BEN,e-visa
-LUX,BTN,e-visa
+LUX,BTN,visa required
 LUX,BOL,90
 LUX,BIH,90
 LUX,BWA,90
@@ -20266,7 +20266,7 @@ LUX,ESP,visa free
 LUX,LKA,e-visa
 LUX,VCT,90
 LUX,SDN,visa required
-LUX,SUR,90
+LUX,SUR,e-visa
 LUX,SWE,visa free
 LUX,CHE,visa free
 LUX,SYR,visa required
@@ -20315,14 +20315,14 @@ MAC,BLR,30
 MAC,BEL,90
 MAC,BLZ,visa required
 MAC,BEN,e-visa
-MAC,BTN,e-visa
+MAC,BTN,visa required
 MAC,BOL,visa on arrival
 MAC,BIH,90
 MAC,BWA,e-visa
 MAC,BRA,90
 MAC,BRN,14
 MAC,BGR,90
-MAC,BFA,e-visa
+MAC,BFA,visa required
 MAC,BDI,visa on arrival
 MAC,KHM,e-visa
 MAC,CMR,visa required
@@ -20465,7 +20465,7 @@ MAC,ESP,90
 MAC,LKA,e-visa
 MAC,VCT,30
 MAC,SDN,visa required
-MAC,SUR,90
+MAC,SUR,e-visa
 MAC,SWE,90
 MAC,CHE,90
 MAC,SYR,visa required
@@ -20483,7 +20483,7 @@ MAC,TUV,visa on arrival
 MAC,TUR,30
 MAC,UGA,e-visa
 MAC,UKR,30
-MAC,ARE,30
+MAC,ARE,visa on arrival
 MAC,GBR,180
 MAC,USA,visa required
 MAC,URY,90
@@ -20514,14 +20514,14 @@ MDG,BLR,visa required
 MDG,BEL,visa required
 MDG,BLZ,visa required
 MDG,BEN,90
-MDG,BTN,e-visa
+MDG,BTN,visa required
 MDG,BOL,visa on arrival
 MDG,BIH,visa required
 MDG,BWA,e-visa
 MDG,BRA,visa required
 MDG,BRN,visa required
 MDG,BGR,visa required
-MDG,BFA,e-visa
+MDG,BFA,visa required
 MDG,BDI,visa on arrival
 MDG,KHM,e-visa
 MDG,CMR,visa required
@@ -20664,7 +20664,7 @@ MDG,ESP,visa required
 MDG,LKA,e-visa
 MDG,VCT,30
 MDG,SDN,visa required
-MDG,SUR,90
+MDG,SUR,e-visa
 MDG,SWE,visa required
 MDG,CHE,visa required
 MDG,SYR,visa required
@@ -20713,14 +20713,14 @@ MWI,BLR,visa required
 MWI,BEL,visa required
 MWI,BLZ,visa free
 MWI,BEN,90
-MWI,BTN,e-visa
+MWI,BTN,visa required
 MWI,BOL,visa on arrival
 MWI,BIH,visa required
 MWI,BWA,90
 MWI,BRA,visa required
 MWI,BRN,visa required
 MWI,BGR,visa required
-MWI,BFA,e-visa
+MWI,BFA,visa required
 MWI,BDI,visa on arrival
 MWI,KHM,e-visa
 MWI,CMR,visa required
@@ -20863,7 +20863,7 @@ MWI,ESP,visa required
 MWI,LKA,e-visa
 MWI,VCT,30
 MWI,SDN,visa required
-MWI,SUR,90
+MWI,SUR,e-visa
 MWI,SWE,visa required
 MWI,CHE,visa required
 MWI,SYR,visa required
@@ -20912,14 +20912,14 @@ MYS,BLR,30
 MYS,BEL,90
 MYS,BLZ,visa free
 MYS,BEN,e-visa
-MYS,BTN,e-visa
+MYS,BTN,visa required
 MYS,BOL,visa on arrival
 MYS,BIH,90
 MYS,BWA,90
 MYS,BRA,90
 MYS,BRN,30
 MYS,BGR,90
-MYS,BFA,e-visa
+MYS,BFA,visa required
 MYS,BDI,visa on arrival
 MYS,KHM,30
 MYS,CMR,visa required
@@ -21080,7 +21080,7 @@ MYS,TUV,visa on arrival
 MYS,TUR,90
 MYS,UGA,180
 MYS,UKR,e-visa
-MYS,ARE,30
+MYS,ARE,visa on arrival
 MYS,GBR,180
 MYS,USA,visa required
 MYS,URY,30
@@ -21118,7 +21118,7 @@ MDV,BWA,90
 MDV,BRA,visa required
 MDV,BRN,14
 MDV,BGR,visa required
-MDV,BFA,e-visa
+MDV,BFA,visa required
 MDV,BDI,visa on arrival
 MDV,KHM,e-visa
 MDV,CMR,visa required
@@ -21261,7 +21261,7 @@ MDV,ESP,visa required
 MDV,LKA,e-visa
 MDV,VCT,30
 MDV,SDN,visa required
-MDV,SUR,90
+MDV,SUR,e-visa
 MDV,SWE,visa required
 MDV,CHE,visa required
 MDV,SYR,visa required
@@ -21310,7 +21310,7 @@ MLI,BLR,visa required
 MLI,BEL,visa required
 MLI,BLZ,visa required
 MLI,BEN,90
-MLI,BTN,e-visa
+MLI,BTN,visa required
 MLI,BOL,visa on arrival
 MLI,BIH,visa required
 MLI,BWA,e-visa
@@ -21460,7 +21460,7 @@ MLI,ESP,visa required
 MLI,LKA,e-visa
 MLI,VCT,30
 MLI,SDN,visa required
-MLI,SUR,90
+MLI,SUR,e-visa
 MLI,SWE,visa required
 MLI,CHE,visa required
 MLI,SYR,visa required
@@ -21509,7 +21509,7 @@ MLT,BLR,30
 MLT,BEL,visa free
 MLT,BLZ,visa free
 MLT,BEN,e-visa
-MLT,BTN,e-visa
+MLT,BTN,visa required
 MLT,BOL,visa on arrival
 MLT,BIH,90
 MLT,BWA,90
@@ -21659,7 +21659,7 @@ MLT,ESP,visa free
 MLT,LKA,e-visa
 MLT,VCT,90
 MLT,SDN,visa required
-MLT,SUR,90
+MLT,SUR,e-visa
 MLT,SWE,visa free
 MLT,CHE,visa free
 MLT,SYR,visa required
@@ -21708,14 +21708,14 @@ MHL,BLR,visa required
 MHL,BEL,90
 MHL,BLZ,visa free
 MHL,BEN,e-visa
-MHL,BTN,e-visa
+MHL,BTN,visa required
 MHL,BOL,visa on arrival
 MHL,BIH,90
 MHL,BWA,e-visa
 MHL,BRA,visa required
 MHL,BRN,visa required
 MHL,BGR,90
-MHL,BFA,e-visa
+MHL,BFA,visa required
 MHL,BDI,visa on arrival
 MHL,KHM,e-visa
 MHL,CMR,visa required
@@ -21858,7 +21858,7 @@ MHL,ESP,90
 MHL,LKA,e-visa
 MHL,VCT,30
 MHL,SDN,visa required
-MHL,SUR,90
+MHL,SUR,e-visa
 MHL,SWE,90
 MHL,CHE,90
 MHL,SYR,visa required
@@ -21907,7 +21907,7 @@ MRT,BLR,visa required
 MRT,BEL,visa required
 MRT,BLZ,visa required
 MRT,BEN,90
-MRT,BTN,e-visa
+MRT,BTN,visa required
 MRT,BOL,visa on arrival
 MRT,BIH,visa required
 MRT,BWA,e-visa
@@ -22057,7 +22057,7 @@ MRT,ESP,visa required
 MRT,LKA,e-visa
 MRT,VCT,30
 MRT,SDN,visa required
-MRT,SUR,90
+MRT,SUR,e-visa
 MRT,SWE,visa required
 MRT,CHE,visa required
 MRT,SYR,visa free
@@ -22106,14 +22106,14 @@ MUS,BLR,visa required
 MUS,BEL,90
 MUS,BLZ,visa free
 MUS,BEN,90
-MUS,BTN,e-visa
+MUS,BTN,visa required
 MUS,BOL,visa on arrival
 MUS,BIH,90
 MUS,BWA,90
 MUS,BRA,visa required
 MUS,BRN,visa required
 MUS,BGR,90
-MUS,BFA,e-visa
+MUS,BFA,visa required
 MUS,BDI,visa on arrival
 MUS,KHM,e-visa
 MUS,CMR,visa required
@@ -22256,7 +22256,7 @@ MUS,ESP,90
 MUS,LKA,e-visa
 MUS,VCT,30
 MUS,SDN,visa required
-MUS,SUR,90
+MUS,SUR,e-visa
 MUS,SWE,90
 MUS,CHE,90
 MUS,SYR,visa required
@@ -22274,7 +22274,7 @@ MUS,TUV,visa on arrival
 MUS,TUR,e-visa
 MUS,UGA,90
 MUS,UKR,e-visa
-MUS,ARE,30
+MUS,ARE,visa on arrival
 MUS,GBR,180
 MUS,USA,visa required
 MUS,URY,visa required
@@ -22305,14 +22305,14 @@ MEX,BLR,30
 MEX,BEL,90
 MEX,BLZ,30
 MEX,BEN,e-visa
-MEX,BTN,e-visa
+MEX,BTN,visa required
 MEX,BOL,90
 MEX,BIH,90
 MEX,BWA,90
 MEX,BRA,90
 MEX,BRN,visa required
 MEX,BGR,90
-MEX,BFA,e-visa
+MEX,BFA,visa required
 MEX,BDI,visa on arrival
 MEX,KHM,e-visa
 MEX,CMR,visa required
@@ -22455,7 +22455,7 @@ MEX,ESP,90
 MEX,LKA,e-visa
 MEX,VCT,30
 MEX,SDN,visa required
-MEX,SUR,90
+MEX,SUR,e-visa
 MEX,SWE,90
 MEX,CHE,90
 MEX,SYR,visa required
@@ -22504,14 +22504,14 @@ FSM,BLR,30
 FSM,BEL,90
 FSM,BLZ,visa free
 FSM,BEN,e-visa
-FSM,BTN,e-visa
+FSM,BTN,visa required
 FSM,BOL,visa on arrival
 FSM,BIH,90
 FSM,BWA,e-visa
 FSM,BRA,visa required
 FSM,BRN,visa required
 FSM,BGR,90
-FSM,BFA,e-visa
+FSM,BFA,visa required
 FSM,BDI,visa on arrival
 FSM,KHM,e-visa
 FSM,CMR,visa required
@@ -22654,7 +22654,7 @@ FSM,ESP,90
 FSM,LKA,e-visa
 FSM,VCT,30
 FSM,SDN,visa required
-FSM,SUR,90
+FSM,SUR,e-visa
 FSM,SWE,90
 FSM,CHE,90
 FSM,SYR,visa required
@@ -22703,14 +22703,14 @@ MDA,BLR,visa free
 MDA,BEL,90
 MDA,BLZ,visa required
 MDA,BEN,e-visa
-MDA,BTN,e-visa
+MDA,BTN,visa required
 MDA,BOL,visa on arrival
 MDA,BIH,90
 MDA,BWA,e-visa
 MDA,BRA,90
 MDA,BRN,visa required
 MDA,BGR,90
-MDA,BFA,e-visa
+MDA,BFA,visa required
 MDA,BDI,visa on arrival
 MDA,KHM,e-visa
 MDA,CMR,visa required
@@ -22853,7 +22853,7 @@ MDA,ESP,90
 MDA,LKA,e-visa
 MDA,VCT,30
 MDA,SDN,visa required
-MDA,SUR,90
+MDA,SUR,e-visa
 MDA,SWE,90
 MDA,CHE,90
 MDA,SYR,visa required
@@ -22902,14 +22902,14 @@ MCO,BLR,30
 MCO,BEL,90
 MCO,BLZ,visa free
 MCO,BEN,e-visa
-MCO,BTN,e-visa
+MCO,BTN,visa required
 MCO,BOL,90
 MCO,BIH,90
 MCO,BWA,90
 MCO,BRA,90
 MCO,BRN,visa required
 MCO,BGR,90
-MCO,BFA,e-visa
+MCO,BFA,visa required
 MCO,BDI,visa on arrival
 MCO,KHM,e-visa
 MCO,CMR,visa required
@@ -23052,7 +23052,7 @@ MCO,ESP,90
 MCO,LKA,e-visa
 MCO,VCT,30
 MCO,SDN,visa required
-MCO,SUR,90
+MCO,SUR,e-visa
 MCO,SWE,90
 MCO,CHE,90
 MCO,SYR,visa required
@@ -23070,7 +23070,7 @@ MCO,TUV,visa on arrival
 MCO,TUR,90
 MCO,UGA,e-visa
 MCO,UKR,90
-MCO,ARE,30
+MCO,ARE,visa on arrival
 MCO,GBR,180
 MCO,USA,e-visa
 MCO,URY,90
@@ -23101,14 +23101,14 @@ MNG,BLR,90
 MNG,BEL,visa required
 MNG,BLZ,visa required
 MNG,BEN,e-visa
-MNG,BTN,e-visa
+MNG,BTN,visa required
 MNG,BOL,visa on arrival
 MNG,BIH,visa required
 MNG,BWA,e-visa
 MNG,BRA,90
 MNG,BRN,visa required
 MNG,BGR,visa required
-MNG,BFA,e-visa
+MNG,BFA,visa required
 MNG,BDI,visa on arrival
 MNG,KHM,e-visa
 MNG,CMR,visa required
@@ -23251,7 +23251,7 @@ MNG,ESP,visa required
 MNG,LKA,e-visa
 MNG,VCT,30
 MNG,SDN,visa required
-MNG,SUR,90
+MNG,SUR,e-visa
 MNG,SWE,visa required
 MNG,CHE,visa required
 MNG,SYR,visa required
@@ -23300,14 +23300,14 @@ MNE,BLR,30
 MNE,BEL,90
 MNE,BLZ,visa required
 MNE,BEN,e-visa
-MNE,BTN,e-visa
+MNE,BTN,visa required
 MNE,BOL,visa on arrival
 MNE,BIH,90
 MNE,BWA,e-visa
 MNE,BRA,90
 MNE,BRN,visa required
 MNE,BGR,90
-MNE,BFA,e-visa
+MNE,BFA,visa required
 MNE,BDI,visa on arrival
 MNE,KHM,e-visa
 MNE,CMR,visa required
@@ -23450,7 +23450,7 @@ MNE,ESP,90
 MNE,LKA,e-visa
 MNE,VCT,30
 MNE,SDN,visa required
-MNE,SUR,90
+MNE,SUR,e-visa
 MNE,SWE,90
 MNE,CHE,90
 MNE,SYR,visa required
@@ -23499,7 +23499,7 @@ MAR,BLR,visa required
 MAR,BEL,visa required
 MAR,BLZ,30
 MAR,BEN,90
-MAR,BTN,e-visa
+MAR,BTN,visa required
 MAR,BOL,visa on arrival
 MAR,BIH,visa required
 MAR,BWA,e-visa
@@ -23649,7 +23649,7 @@ MAR,ESP,visa required
 MAR,LKA,e-visa
 MAR,VCT,30
 MAR,SDN,visa required
-MAR,SUR,90
+MAR,SUR,e-visa
 MAR,SWE,visa required
 MAR,CHE,visa required
 MAR,SYR,visa free
@@ -23658,7 +23658,7 @@ MAR,TJK,visa on arrival
 MAR,TZA,visa on arrival
 MAR,THA,visa required
 MAR,TLS,visa on arrival
-MAR,TGO,90
+MAR,TGO,visa on arrival
 MAR,TON,visa required
 MAR,TTO,visa required
 MAR,TUN,visa free
@@ -23698,14 +23698,14 @@ MOZ,BLR,visa required
 MOZ,BEL,visa required
 MOZ,BLZ,visa required
 MOZ,BEN,90
-MOZ,BTN,e-visa
+MOZ,BTN,visa required
 MOZ,BOL,visa on arrival
 MOZ,BIH,visa required
 MOZ,BWA,90
 MOZ,BRA,visa required
 MOZ,BRN,visa required
 MOZ,BGR,visa required
-MOZ,BFA,e-visa
+MOZ,BFA,visa required
 MOZ,BDI,visa on arrival
 MOZ,KHM,e-visa
 MOZ,CMR,visa required
@@ -23848,7 +23848,7 @@ MOZ,ESP,visa required
 MOZ,LKA,e-visa
 MOZ,VCT,30
 MOZ,SDN,visa required
-MOZ,SUR,90
+MOZ,SUR,e-visa
 MOZ,SWE,visa required
 MOZ,CHE,visa required
 MOZ,SYR,visa required
@@ -23897,14 +23897,14 @@ MMR,BLR,visa required
 MMR,BEL,visa required
 MMR,BLZ,visa required
 MMR,BEN,e-visa
-MMR,BTN,e-visa
+MMR,BTN,visa required
 MMR,BOL,visa on arrival
 MMR,BIH,visa required
 MMR,BWA,e-visa
 MMR,BRA,visa required
 MMR,BRN,14
 MMR,BGR,visa required
-MMR,BFA,e-visa
+MMR,BFA,visa required
 MMR,BDI,visa on arrival
 MMR,KHM,e-visa
 MMR,CMR,visa required
@@ -24047,7 +24047,7 @@ MMR,ESP,visa required
 MMR,LKA,e-visa
 MMR,VCT,30
 MMR,SDN,visa required
-MMR,SUR,90
+MMR,SUR,e-visa
 MMR,SWE,visa required
 MMR,CHE,visa required
 MMR,SYR,visa required
@@ -24096,14 +24096,14 @@ NAM,BLR,visa required
 NAM,BEL,visa required
 NAM,BLZ,visa free
 NAM,BEN,90
-NAM,BTN,e-visa
+NAM,BTN,visa required
 NAM,BOL,visa on arrival
 NAM,BIH,visa required
 NAM,BWA,90
 NAM,BRA,90
 NAM,BRN,visa required
 NAM,BGR,visa required
-NAM,BFA,e-visa
+NAM,BFA,visa required
 NAM,BDI,visa on arrival
 NAM,KHM,e-visa
 NAM,CMR,visa required
@@ -24246,7 +24246,7 @@ NAM,ESP,visa required
 NAM,LKA,e-visa
 NAM,VCT,30
 NAM,SDN,visa required
-NAM,SUR,90
+NAM,SUR,e-visa
 NAM,SWE,visa required
 NAM,CHE,visa required
 NAM,SYR,visa required
@@ -24295,14 +24295,14 @@ NRU,BLR,visa required
 NRU,BEL,visa required
 NRU,BLZ,visa required
 NRU,BEN,e-visa
-NRU,BTN,e-visa
+NRU,BTN,visa required
 NRU,BOL,visa on arrival
 NRU,BIH,visa required
 NRU,BWA,90
 NRU,BRA,visa required
 NRU,BRN,visa required
 NRU,BGR,visa required
-NRU,BFA,e-visa
+NRU,BFA,visa required
 NRU,BDI,visa on arrival
 NRU,KHM,e-visa
 NRU,CMR,visa required
@@ -24445,7 +24445,7 @@ NRU,ESP,visa required
 NRU,LKA,e-visa
 NRU,VCT,30
 NRU,SDN,visa required
-NRU,SUR,90
+NRU,SUR,e-visa
 NRU,SWE,visa required
 NRU,CHE,visa required
 NRU,SYR,visa required
@@ -24494,14 +24494,14 @@ NPL,BLR,visa required
 NPL,BEL,visa required
 NPL,BLZ,visa required
 NPL,BEN,e-visa
-NPL,BTN,e-visa
+NPL,BTN,visa required
 NPL,BOL,visa on arrival
 NPL,BIH,visa required
 NPL,BWA,e-visa
 NPL,BRA,visa required
 NPL,BRN,visa required
 NPL,BGR,visa required
-NPL,BFA,e-visa
+NPL,BFA,visa required
 NPL,BDI,visa on arrival
 NPL,KHM,e-visa
 NPL,CMR,visa required
@@ -24644,7 +24644,7 @@ NPL,ESP,visa required
 NPL,LKA,e-visa
 NPL,VCT,30
 NPL,SDN,visa required
-NPL,SUR,90
+NPL,SUR,e-visa
 NPL,SWE,visa required
 NPL,CHE,visa required
 NPL,SYR,visa required
@@ -24693,7 +24693,7 @@ NLD,BLR,30
 NLD,BEL,visa free
 NLD,BLZ,visa free
 NLD,BEN,e-visa
-NLD,BTN,e-visa
+NLD,BTN,visa required
 NLD,BOL,90
 NLD,BIH,90
 NLD,BWA,90
@@ -24843,7 +24843,7 @@ NLD,ESP,visa free
 NLD,LKA,e-visa
 NLD,VCT,90
 NLD,SDN,visa required
-NLD,SUR,90
+NLD,SUR,e-visa
 NLD,SWE,visa free
 NLD,CHE,visa free
 NLD,SYR,visa required
@@ -24892,7 +24892,7 @@ NZL,BLR,30
 NZL,BEL,90
 NZL,BLZ,visa free
 NZL,BEN,e-visa
-NZL,BTN,e-visa
+NZL,BTN,visa required
 NZL,BOL,90
 NZL,BIH,90
 NZL,BWA,90
@@ -25042,7 +25042,7 @@ NZL,ESP,90
 NZL,LKA,e-visa
 NZL,VCT,30
 NZL,SDN,visa required
-NZL,SUR,90
+NZL,SUR,e-visa
 NZL,SWE,90
 NZL,CHE,90
 NZL,SYR,visa required
@@ -25060,7 +25060,7 @@ NZL,TUV,visa on arrival
 NZL,TUR,90
 NZL,UGA,e-visa
 NZL,UKR,90
-NZL,ARE,30
+NZL,ARE,visa on arrival
 NZL,GBR,180
 NZL,USA,e-visa
 NZL,URY,90
@@ -25091,14 +25091,14 @@ NIC,BLR,30
 NIC,BEL,90
 NIC,BLZ,30
 NIC,BEN,e-visa
-NIC,BTN,e-visa
+NIC,BTN,visa required
 NIC,BOL,visa on arrival
 NIC,BIH,90
 NIC,BWA,e-visa
 NIC,BRA,90
 NIC,BRN,visa required
 NIC,BGR,90
-NIC,BFA,e-visa
+NIC,BFA,visa required
 NIC,BDI,visa on arrival
 NIC,KHM,e-visa
 NIC,CMR,visa required
@@ -25241,7 +25241,7 @@ NIC,ESP,90
 NIC,LKA,e-visa
 NIC,VCT,30
 NIC,SDN,visa required
-NIC,SUR,90
+NIC,SUR,e-visa
 NIC,SWE,90
 NIC,CHE,90
 NIC,SYR,visa required
@@ -25290,7 +25290,7 @@ NER,BLR,visa required
 NER,BEL,visa required
 NER,BLZ,visa required
 NER,BEN,90
-NER,BTN,e-visa
+NER,BTN,visa required
 NER,BOL,visa on arrival
 NER,BIH,visa required
 NER,BWA,e-visa
@@ -25440,7 +25440,7 @@ NER,ESP,visa required
 NER,LKA,e-visa
 NER,VCT,30
 NER,SDN,visa required
-NER,SUR,90
+NER,SUR,e-visa
 NER,SWE,visa required
 NER,CHE,visa required
 NER,SYR,visa required
@@ -25489,7 +25489,7 @@ NGA,BLR,visa required
 NGA,BEL,visa required
 NGA,BLZ,visa required
 NGA,BEN,90
-NGA,BTN,e-visa
+NGA,BTN,visa required
 NGA,BOL,visa on arrival
 NGA,BIH,visa required
 NGA,BWA,e-visa
@@ -25639,7 +25639,7 @@ NGA,ESP,visa required
 NGA,LKA,visa required
 NGA,VCT,visa required
 NGA,SDN,visa required
-NGA,SUR,90
+NGA,SUR,e-visa
 NGA,SWE,visa required
 NGA,CHE,visa required
 NGA,SYR,visa required
@@ -25688,14 +25688,14 @@ PRK,BLR,visa required
 PRK,BEL,visa required
 PRK,BLZ,visa required
 PRK,BEN,e-visa
-PRK,BTN,e-visa
+PRK,BTN,visa required
 PRK,BOL,visa on arrival
 PRK,BIH,visa required
 PRK,BWA,e-visa
 PRK,BRA,visa required
 PRK,BRN,visa required
 PRK,BGR,visa required
-PRK,BFA,e-visa
+PRK,BFA,visa required
 PRK,BDI,visa on arrival
 PRK,KHM,e-visa
 PRK,CMR,visa required
@@ -25838,7 +25838,7 @@ PRK,ESP,visa required
 PRK,LKA,no admission
 PRK,VCT,30
 PRK,SDN,visa required
-PRK,SUR,90
+PRK,SUR,e-visa
 PRK,SWE,visa required
 PRK,CHE,visa required
 PRK,SYR,visa required
@@ -25887,14 +25887,14 @@ MKD,BLR,30
 MKD,BEL,90
 MKD,BLZ,visa required
 MKD,BEN,e-visa
-MKD,BTN,e-visa
+MKD,BTN,visa required
 MKD,BOL,visa on arrival
 MKD,BIH,90
 MKD,BWA,e-visa
 MKD,BRA,90
 MKD,BRN,visa required
 MKD,BGR,90
-MKD,BFA,e-visa
+MKD,BFA,visa required
 MKD,BDI,visa on arrival
 MKD,KHM,e-visa
 MKD,CMR,visa required
@@ -26037,7 +26037,7 @@ MKD,ESP,90
 MKD,LKA,e-visa
 MKD,VCT,30
 MKD,SDN,visa required
-MKD,SUR,90
+MKD,SUR,e-visa
 MKD,SWE,90
 MKD,CHE,90
 MKD,SYR,visa required
@@ -26086,7 +26086,7 @@ NOR,BLR,30
 NOR,BEL,visa free
 NOR,BLZ,visa free
 NOR,BEN,e-visa
-NOR,BTN,e-visa
+NOR,BTN,visa required
 NOR,BOL,90
 NOR,BIH,90
 NOR,BWA,90
@@ -26236,7 +26236,7 @@ NOR,ESP,visa free
 NOR,LKA,e-visa
 NOR,VCT,30
 NOR,SDN,visa required
-NOR,SUR,90
+NOR,SUR,e-visa
 NOR,SWE,visa free
 NOR,CHE,visa free
 NOR,SYR,visa required
@@ -26285,14 +26285,14 @@ OMN,BLR,30
 OMN,BEL,visa required
 OMN,BLZ,visa required
 OMN,BEN,e-visa
-OMN,BTN,e-visa
+OMN,BTN,visa required
 OMN,BOL,visa on arrival
 OMN,BIH,90
 OMN,BWA,90
 OMN,BRA,visa required
 OMN,BRN,30
 OMN,BGR,visa required
-OMN,BFA,e-visa
+OMN,BFA,visa required
 OMN,BDI,visa on arrival
 OMN,KHM,e-visa
 OMN,CMR,visa required
@@ -26435,7 +26435,7 @@ OMN,ESP,visa required
 OMN,LKA,e-visa
 OMN,VCT,30
 OMN,SDN,visa required
-OMN,SUR,90
+OMN,SUR,e-visa
 OMN,SWE,visa required
 OMN,CHE,visa required
 OMN,SYR,visa free
@@ -26484,14 +26484,14 @@ PAK,BLR,visa required
 PAK,BEL,visa required
 PAK,BLZ,visa required
 PAK,BEN,e-visa
-PAK,BTN,e-visa
+PAK,BTN,visa required
 PAK,BOL,visa on arrival
 PAK,BIH,visa required
 PAK,BWA,e-visa
 PAK,BRA,visa required
 PAK,BRN,visa required
 PAK,BGR,visa required
-PAK,BFA,e-visa
+PAK,BFA,visa required
 PAK,BDI,visa on arrival
 PAK,KHM,e-visa
 PAK,CMR,visa required
@@ -26634,7 +26634,7 @@ PAK,ESP,visa required
 PAK,LKA,visa required
 PAK,VCT,30
 PAK,SDN,visa required
-PAK,SUR,90
+PAK,SUR,e-visa
 PAK,SWE,visa required
 PAK,CHE,visa required
 PAK,SYR,visa required
@@ -26683,14 +26683,14 @@ PLW,BLR,visa required
 PLW,BEL,90
 PLW,BLZ,visa free
 PLW,BEN,e-visa
-PLW,BTN,e-visa
+PLW,BTN,visa required
 PLW,BOL,visa on arrival
 PLW,BIH,90
 PLW,BWA,e-visa
 PLW,BRA,visa required
 PLW,BRN,visa required
 PLW,BGR,90
-PLW,BFA,e-visa
+PLW,BFA,visa required
 PLW,BDI,visa on arrival
 PLW,KHM,e-visa
 PLW,CMR,visa required
@@ -26833,7 +26833,7 @@ PLW,ESP,90
 PLW,LKA,e-visa
 PLW,VCT,30
 PLW,SDN,visa required
-PLW,SUR,90
+PLW,SUR,e-visa
 PLW,SWE,90
 PLW,CHE,90
 PLW,SYR,visa required
@@ -26882,14 +26882,14 @@ PSE,BLR,visa required
 PSE,BEL,visa required
 PSE,BLZ,visa required
 PSE,BEN,e-visa
-PSE,BTN,e-visa
+PSE,BTN,visa required
 PSE,BOL,90
 PSE,BIH,visa required
 PSE,BWA,e-visa
 PSE,BRA,visa required
 PSE,BRN,visa required
 PSE,BGR,visa required
-PSE,BFA,e-visa
+PSE,BFA,visa required
 PSE,BDI,visa on arrival
 PSE,KHM,e-visa
 PSE,CMR,visa required
@@ -27032,7 +27032,7 @@ PSE,ESP,visa required
 PSE,LKA,e-visa
 PSE,VCT,visa required
 PSE,SDN,visa required
-PSE,SUR,90
+PSE,SUR,e-visa
 PSE,SWE,visa required
 PSE,CHE,visa required
 PSE,SYR,visa required
@@ -27081,14 +27081,14 @@ PAN,BLR,30
 PAN,BEL,90
 PAN,BLZ,30
 PAN,BEN,e-visa
-PAN,BTN,e-visa
+PAN,BTN,visa required
 PAN,BOL,90
 PAN,BIH,90
 PAN,BWA,e-visa
 PAN,BRA,90
 PAN,BRN,visa required
 PAN,BGR,90
-PAN,BFA,e-visa
+PAN,BFA,visa required
 PAN,BDI,visa on arrival
 PAN,KHM,e-visa
 PAN,CMR,visa required
@@ -27231,7 +27231,7 @@ PAN,ESP,90
 PAN,LKA,e-visa
 PAN,VCT,30
 PAN,SDN,visa required
-PAN,SUR,90
+PAN,SUR,e-visa
 PAN,SWE,90
 PAN,CHE,90
 PAN,SYR,visa required
@@ -27280,14 +27280,14 @@ PNG,BLR,visa required
 PNG,BEL,visa required
 PNG,BLZ,visa free
 PNG,BEN,e-visa
-PNG,BTN,e-visa
+PNG,BTN,visa required
 PNG,BOL,visa on arrival
 PNG,BIH,visa required
 PNG,BWA,90
 PNG,BRA,visa required
 PNG,BRN,visa required
 PNG,BGR,visa required
-PNG,BFA,e-visa
+PNG,BFA,visa required
 PNG,BDI,visa on arrival
 PNG,KHM,e-visa
 PNG,CMR,visa required
@@ -27430,7 +27430,7 @@ PNG,ESP,visa required
 PNG,LKA,e-visa
 PNG,VCT,30
 PNG,SDN,visa required
-PNG,SUR,90
+PNG,SUR,e-visa
 PNG,SWE,visa required
 PNG,CHE,visa required
 PNG,SYR,visa required
@@ -27479,7 +27479,7 @@ PRY,BLR,visa required
 PRY,BEL,90
 PRY,BLZ,30
 PRY,BEN,e-visa
-PRY,BTN,e-visa
+PRY,BTN,visa required
 PRY,BOL,90
 PRY,BIH,90
 PRY,BWA,90
@@ -27614,7 +27614,7 @@ PRY,SMR,90
 PRY,STP,e-visa
 PRY,SAU,visa required
 PRY,SEN,visa on arrival
-PRY,SRB,30
+PRY,SRB,90
 PRY,SYC,90
 PRY,SLE,visa on arrival
 PRY,SGP,30
@@ -27629,7 +27629,7 @@ PRY,ESP,90
 PRY,LKA,e-visa
 PRY,VCT,30
 PRY,SDN,visa required
-PRY,SUR,90
+PRY,SUR,e-visa
 PRY,SWE,90
 PRY,CHE,90
 PRY,SYR,visa required
@@ -27678,14 +27678,14 @@ PER,BLR,30
 PER,BEL,90
 PER,BLZ,30
 PER,BEN,e-visa
-PER,BTN,e-visa
+PER,BTN,visa required
 PER,BOL,90
 PER,BIH,90
 PER,BWA,90
 PER,BRA,90
 PER,BRN,14
 PER,BGR,90
-PER,BFA,e-visa
+PER,BFA,visa required
 PER,BDI,visa on arrival
 PER,KHM,e-visa
 PER,CMR,visa required
@@ -27828,7 +27828,7 @@ PER,ESP,90
 PER,LKA,e-visa
 PER,VCT,30
 PER,SDN,visa required
-PER,SUR,90
+PER,SUR,e-visa
 PER,SWE,90
 PER,CHE,90
 PER,SYR,visa required
@@ -27877,14 +27877,14 @@ PHL,BLR,visa required
 PHL,BEL,visa required
 PHL,BLZ,visa required
 PHL,BEN,e-visa
-PHL,BTN,e-visa
+PHL,BTN,visa required
 PHL,BOL,90
 PHL,BIH,visa required
 PHL,BWA,e-visa
 PHL,BRA,90
 PHL,BRN,14
 PHL,BGR,visa required
-PHL,BFA,e-visa
+PHL,BFA,visa required
 PHL,BDI,visa on arrival
 PHL,KHM,visa free
 PHL,CMR,visa required
@@ -28076,7 +28076,7 @@ POL,BLR,30
 POL,BEL,visa free
 POL,BLZ,visa free
 POL,BEN,e-visa
-POL,BTN,e-visa
+POL,BTN,visa required
 POL,BOL,90
 POL,BIH,90
 POL,BWA,90
@@ -28226,7 +28226,7 @@ POL,ESP,visa free
 POL,LKA,e-visa
 POL,VCT,30
 POL,SDN,visa required
-POL,SUR,90
+POL,SUR,e-visa
 POL,SWE,visa free
 POL,CHE,visa free
 POL,SYR,visa required
@@ -28275,7 +28275,7 @@ PRT,BLR,30
 PRT,BEL,visa free
 PRT,BLZ,visa free
 PRT,BEN,e-visa
-PRT,BTN,e-visa
+PRT,BTN,visa required
 PRT,BOL,90
 PRT,BIH,90
 PRT,BWA,90
@@ -28425,7 +28425,7 @@ PRT,ESP,visa free
 PRT,LKA,e-visa
 PRT,VCT,30
 PRT,SDN,visa required
-PRT,SUR,90
+PRT,SUR,e-visa
 PRT,SWE,visa free
 PRT,CHE,visa free
 PRT,SYR,visa required
@@ -28474,14 +28474,14 @@ QAT,BLR,30
 QAT,BEL,visa required
 QAT,BLZ,visa required
 QAT,BEN,e-visa
-QAT,BTN,e-visa
+QAT,BTN,visa required
 QAT,BOL,visa on arrival
 QAT,BIH,90
 QAT,BWA,90
 QAT,BRA,90
 QAT,BRN,visa on arrival
 QAT,BGR,visa required
-QAT,BFA,e-visa
+QAT,BFA,visa required
 QAT,BDI,visa on arrival
 QAT,KHM,e-visa
 QAT,CMR,visa required
@@ -28624,7 +28624,7 @@ QAT,ESP,visa required
 QAT,LKA,e-visa
 QAT,VCT,30
 QAT,SDN,30
-QAT,SUR,90
+QAT,SUR,e-visa
 QAT,SWE,visa required
 QAT,CHE,visa required
 QAT,SYR,visa free
@@ -28673,14 +28673,14 @@ ROU,BLR,30
 ROU,BEL,visa free
 ROU,BLZ,visa free
 ROU,BEN,e-visa
-ROU,BTN,e-visa
+ROU,BTN,visa required
 ROU,BOL,visa on arrival
 ROU,BIH,90
 ROU,BWA,90
 ROU,BRA,90
 ROU,BRN,90
 ROU,BGR,visa free
-ROU,BFA,e-visa
+ROU,BFA,visa required
 ROU,BDI,visa on arrival
 ROU,KHM,e-visa
 ROU,CMR,visa required
@@ -28823,7 +28823,7 @@ ROU,ESP,visa free
 ROU,LKA,e-visa
 ROU,VCT,30
 ROU,SDN,visa required
-ROU,SUR,90
+ROU,SUR,e-visa
 ROU,SWE,visa free
 ROU,CHE,visa free
 ROU,SYR,visa required
@@ -28872,14 +28872,14 @@ RUS,BLR,visa free
 RUS,BEL,visa required
 RUS,BLZ,visa required
 RUS,BEN,e-visa
-RUS,BTN,e-visa
+RUS,BTN,visa required
 RUS,BOL,90
 RUS,BIH,30
 RUS,BWA,90
 RUS,BRA,90
 RUS,BRN,14
 RUS,BGR,visa required
-RUS,BFA,e-visa
+RUS,BFA,visa required
 RUS,BDI,visa on arrival
 RUS,KHM,e-visa
 RUS,CMR,visa required
@@ -29007,7 +29007,7 @@ RUS,SMR,visa required
 RUS,STP,15
 RUS,SAU,visa on arrival
 RUS,SEN,90
-RUS,SRB,30
+RUS,SRB,90
 RUS,SYC,90
 RUS,SLE,visa on arrival
 RUS,SGP,e-visa
@@ -29071,14 +29071,14 @@ RWA,BLR,visa required
 RWA,BEL,visa required
 RWA,BLZ,visa required
 RWA,BEN,90
-RWA,BTN,e-visa
+RWA,BTN,visa required
 RWA,BOL,visa on arrival
 RWA,BIH,visa required
 RWA,BWA,e-visa
 RWA,BRA,visa required
 RWA,BRN,visa required
 RWA,BGR,visa required
-RWA,BFA,e-visa
+RWA,BFA,visa required
 RWA,BDI,90
 RWA,KHM,e-visa
 RWA,CMR,visa required
@@ -29216,12 +29216,12 @@ RWA,SLB,visa required
 RWA,SOM,visa on arrival
 RWA,ZAF,visa required
 RWA,KOR,visa required
-RWA,SSD,e-visa
+RWA,SSD,visa on arrival
 RWA,ESP,visa required
 RWA,LKA,e-visa
 RWA,VCT,30
 RWA,SDN,visa required
-RWA,SUR,90
+RWA,SUR,e-visa
 RWA,SWE,visa required
 RWA,CHE,visa required
 RWA,SYR,visa required
@@ -29270,14 +29270,14 @@ KNA,BLR,30
 KNA,BEL,90
 KNA,BLZ,visa free
 KNA,BEN,e-visa
-KNA,BTN,e-visa
+KNA,BTN,visa required
 KNA,BOL,visa on arrival
 KNA,BIH,90
 KNA,BWA,90
 KNA,BRA,90
 KNA,BRN,visa required
 KNA,BGR,90
-KNA,BFA,e-visa
+KNA,BFA,visa required
 KNA,BDI,visa on arrival
 KNA,KHM,e-visa
 KNA,CMR,visa required
@@ -29469,14 +29469,14 @@ LCA,BLR,visa required
 LCA,BEL,90
 LCA,BLZ,visa free
 LCA,BEN,e-visa
-LCA,BTN,e-visa
+LCA,BTN,visa required
 LCA,BOL,visa on arrival
 LCA,BIH,90
 LCA,BWA,90
 LCA,BRA,visa required
 LCA,BRN,visa required
 LCA,BGR,90
-LCA,BFA,e-visa
+LCA,BFA,visa required
 LCA,BDI,visa on arrival
 LCA,KHM,e-visa
 LCA,CMR,visa required
@@ -29668,14 +29668,14 @@ WSM,BLR,visa required
 WSM,BEL,90
 WSM,BLZ,visa free
 WSM,BEN,e-visa
-WSM,BTN,e-visa
+WSM,BTN,visa required
 WSM,BOL,visa on arrival
 WSM,BIH,90
 WSM,BWA,90
 WSM,BRA,visa required
 WSM,BRN,visa required
 WSM,BGR,90
-WSM,BFA,e-visa
+WSM,BFA,visa required
 WSM,BDI,visa on arrival
 WSM,KHM,e-visa
 WSM,CMR,visa required
@@ -29818,7 +29818,7 @@ WSM,ESP,90
 WSM,LKA,e-visa
 WSM,VCT,30
 WSM,SDN,visa required
-WSM,SUR,90
+WSM,SUR,e-visa
 WSM,SWE,90
 WSM,CHE,90
 WSM,SYR,visa required
@@ -29867,14 +29867,14 @@ SMR,BLR,30
 SMR,BEL,90
 SMR,BLZ,visa required
 SMR,BEN,e-visa
-SMR,BTN,e-visa
+SMR,BTN,visa required
 SMR,BOL,visa on arrival
 SMR,BIH,90
 SMR,BWA,90
 SMR,BRA,90
 SMR,BRN,visa required
 SMR,BGR,90
-SMR,BFA,e-visa
+SMR,BFA,visa required
 SMR,BDI,visa on arrival
 SMR,KHM,e-visa
 SMR,CMR,visa required
@@ -30017,7 +30017,7 @@ SMR,ESP,90
 SMR,LKA,e-visa
 SMR,VCT,30
 SMR,SDN,visa required
-SMR,SUR,90
+SMR,SUR,e-visa
 SMR,SWE,90
 SMR,CHE,90
 SMR,SYR,visa required
@@ -30066,7 +30066,7 @@ STP,BLR,visa required
 STP,BEL,visa required
 STP,BLZ,visa required
 STP,BEN,90
-STP,BTN,e-visa
+STP,BTN,visa required
 STP,BOL,visa on arrival
 STP,BIH,visa required
 STP,BWA,e-visa
@@ -30216,7 +30216,7 @@ STP,ESP,visa required
 STP,LKA,e-visa
 STP,VCT,30
 STP,SDN,visa required
-STP,SUR,90
+STP,SUR,e-visa
 STP,SWE,visa required
 STP,CHE,visa required
 STP,SYR,visa required
@@ -30265,14 +30265,14 @@ SAU,BLR,30
 SAU,BEL,visa required
 SAU,BLZ,visa required
 SAU,BEN,e-visa
-SAU,BTN,e-visa
+SAU,BTN,visa required
 SAU,BOL,visa on arrival
 SAU,BIH,visa required
 SAU,BWA,90
 SAU,BRA,visa required
 SAU,BRN,visa on arrival
 SAU,BGR,visa required
-SAU,BFA,e-visa
+SAU,BFA,visa required
 SAU,BDI,visa on arrival
 SAU,KHM,e-visa
 SAU,CMR,visa required
@@ -30415,7 +30415,7 @@ SAU,ESP,visa required
 SAU,LKA,e-visa
 SAU,VCT,30
 SAU,SDN,visa required
-SAU,SUR,90
+SAU,SUR,e-visa
 SAU,SWE,visa required
 SAU,CHE,visa required
 SAU,SYR,visa free
@@ -30464,7 +30464,7 @@ SEN,BLR,visa required
 SEN,BEL,visa required
 SEN,BLZ,visa required
 SEN,BEN,90
-SEN,BTN,e-visa
+SEN,BTN,visa required
 SEN,BOL,visa on arrival
 SEN,BIH,visa required
 SEN,BWA,e-visa
@@ -30614,7 +30614,7 @@ SEN,ESP,visa required
 SEN,LKA,e-visa
 SEN,VCT,30
 SEN,SDN,visa required
-SEN,SUR,90
+SEN,SUR,e-visa
 SEN,SWE,visa required
 SEN,CHE,visa required
 SEN,SYR,visa required
@@ -30663,14 +30663,14 @@ SRB,BLR,30
 SRB,BEL,90
 SRB,BLZ,visa required
 SRB,BEN,e-visa
-SRB,BTN,e-visa
+SRB,BTN,visa required
 SRB,BOL,visa on arrival
 SRB,BIH,90
 SRB,BWA,e-visa
 SRB,BRA,90
 SRB,BRN,visa required
 SRB,BGR,90
-SRB,BFA,e-visa
+SRB,BFA,visa required
 SRB,BDI,visa on arrival
 SRB,KHM,e-visa
 SRB,CMR,visa required
@@ -30862,14 +30862,14 @@ SYC,BLR,30
 SYC,BEL,90
 SYC,BLZ,visa free
 SYC,BEN,90
-SYC,BTN,e-visa
+SYC,BTN,visa required
 SYC,BOL,visa on arrival
 SYC,BIH,90
 SYC,BWA,90
 SYC,BRA,90
 SYC,BRN,visa required
 SYC,BGR,90
-SYC,BFA,e-visa
+SYC,BFA,visa required
 SYC,BDI,visa on arrival
 SYC,KHM,e-visa
 SYC,CMR,visa required
@@ -31061,7 +31061,7 @@ SLE,BLR,visa required
 SLE,BEL,visa required
 SLE,BLZ,visa free
 SLE,BEN,90
-SLE,BTN,e-visa
+SLE,BTN,visa required
 SLE,BOL,visa on arrival
 SLE,BIH,visa required
 SLE,BWA,90
@@ -31211,7 +31211,7 @@ SLE,ESP,visa required
 SLE,LKA,e-visa
 SLE,VCT,30
 SLE,SDN,visa required
-SLE,SUR,90
+SLE,SUR,e-visa
 SLE,SWE,visa required
 SLE,CHE,visa required
 SLE,SYR,visa required
@@ -31260,7 +31260,7 @@ SGP,BLR,30
 SGP,BEL,90
 SGP,BLZ,visa free
 SGP,BEN,e-visa
-SGP,BTN,e-visa
+SGP,BTN,visa required
 SGP,BOL,visa on arrival
 SGP,BIH,90
 SGP,BWA,90
@@ -31410,7 +31410,7 @@ SGP,ESP,90
 SGP,LKA,e-visa
 SGP,VCT,30
 SGP,SDN,visa required
-SGP,SUR,90
+SGP,SUR,e-visa
 SGP,SWE,90
 SGP,CHE,90
 SGP,SYR,visa required
@@ -31428,7 +31428,7 @@ SGP,TUV,visa on arrival
 SGP,TUR,90
 SGP,UGA,90
 SGP,UKR,e-visa
-SGP,ARE,30
+SGP,ARE,visa on arrival
 SGP,GBR,180
 SGP,USA,e-visa
 SGP,URY,90
@@ -31459,7 +31459,7 @@ SVK,BLR,30
 SVK,BEL,visa free
 SVK,BLZ,visa free
 SVK,BEN,e-visa
-SVK,BTN,e-visa
+SVK,BTN,visa required
 SVK,BOL,90
 SVK,BIH,90
 SVK,BWA,90
@@ -31609,7 +31609,7 @@ SVK,ESP,visa free
 SVK,LKA,e-visa
 SVK,VCT,90
 SVK,SDN,visa required
-SVK,SUR,90
+SVK,SUR,e-visa
 SVK,SWE,visa free
 SVK,CHE,visa free
 SVK,SYR,visa required
@@ -31658,7 +31658,7 @@ SVN,BLR,30
 SVN,BEL,visa free
 SVN,BLZ,visa free
 SVN,BEN,e-visa
-SVN,BTN,e-visa
+SVN,BTN,visa required
 SVN,BOL,90
 SVN,BIH,90
 SVN,BWA,90
@@ -31808,7 +31808,7 @@ SVN,ESP,visa free
 SVN,LKA,e-visa
 SVN,VCT,90
 SVN,SDN,visa required
-SVN,SUR,90
+SVN,SUR,e-visa
 SVN,SWE,visa free
 SVN,CHE,visa free
 SVN,SYR,visa required
@@ -31857,14 +31857,14 @@ SLB,BLR,visa required
 SLB,BEL,90
 SLB,BLZ,visa free
 SLB,BEN,e-visa
-SLB,BTN,e-visa
+SLB,BTN,visa required
 SLB,BOL,visa on arrival
 SLB,BIH,90
 SLB,BWA,90
 SLB,BRA,visa required
 SLB,BRN,visa required
 SLB,BGR,90
-SLB,BFA,e-visa
+SLB,BFA,visa required
 SLB,BDI,visa on arrival
 SLB,KHM,e-visa
 SLB,CMR,visa required
@@ -32007,7 +32007,7 @@ SLB,ESP,90
 SLB,LKA,e-visa
 SLB,VCT,30
 SLB,SDN,visa required
-SLB,SUR,90
+SLB,SUR,e-visa
 SLB,SWE,90
 SLB,CHE,90
 SLB,SYR,visa required
@@ -32056,7 +32056,7 @@ SOM,BLR,visa required
 SOM,BEL,visa required
 SOM,BLZ,visa required
 SOM,BEN,90
-SOM,BTN,e-visa
+SOM,BTN,visa required
 SOM,BOL,visa on arrival
 SOM,BIH,visa required
 SOM,BWA,e-visa
@@ -32206,7 +32206,7 @@ SOM,ESP,visa required
 SOM,LKA,e-visa
 SOM,VCT,30
 SOM,SDN,visa required
-SOM,SUR,90
+SOM,SUR,e-visa
 SOM,SWE,visa required
 SOM,CHE,visa required
 SOM,SYR,visa required
@@ -32255,14 +32255,14 @@ ZAF,BLR,visa required
 ZAF,BEL,visa required
 ZAF,BLZ,visa free
 ZAF,BEN,90
-ZAF,BTN,e-visa
+ZAF,BTN,visa required
 ZAF,BOL,visa on arrival
 ZAF,BIH,visa required
 ZAF,BWA,90
 ZAF,BRA,90
 ZAF,BRN,visa required
 ZAF,BGR,visa required
-ZAF,BFA,e-visa
+ZAF,BFA,visa required
 ZAF,BDI,visa on arrival
 ZAF,KHM,e-visa
 ZAF,CMR,visa required
@@ -32405,7 +32405,7 @@ ZAF,ESP,visa required
 ZAF,LKA,e-visa
 ZAF,VCT,30
 ZAF,SDN,visa required
-ZAF,SUR,90
+ZAF,SUR,e-visa
 ZAF,SWE,visa required
 ZAF,CHE,visa required
 ZAF,SYR,visa required
@@ -32454,14 +32454,14 @@ KOR,BLR,30
 KOR,BEL,90
 KOR,BLZ,90
 KOR,BEN,e-visa
-KOR,BTN,e-visa
+KOR,BTN,visa required
 KOR,BOL,visa on arrival
 KOR,BIH,90
 KOR,BWA,90
 KOR,BRA,90
 KOR,BRN,30
 KOR,BGR,90
-KOR,BFA,e-visa
+KOR,BFA,visa required
 KOR,BDI,visa on arrival
 KOR,KHM,e-visa
 KOR,CMR,visa required
@@ -32653,14 +32653,14 @@ SSD,BLR,visa required
 SSD,BEL,visa required
 SSD,BLZ,visa required
 SSD,BEN,90
-SSD,BTN,e-visa
+SSD,BTN,visa required
 SSD,BOL,visa on arrival
 SSD,BIH,visa required
 SSD,BWA,90
 SSD,BRA,visa required
 SSD,BRN,visa required
 SSD,BGR,visa required
-SSD,BFA,e-visa
+SSD,BFA,visa required
 SSD,BDI,90
 SSD,KHM,e-visa
 SSD,CMR,visa required
@@ -32803,7 +32803,7 @@ SSD,ESP,visa required
 SSD,LKA,e-visa
 SSD,VCT,30
 SSD,SDN,visa required
-SSD,SUR,90
+SSD,SUR,e-visa
 SSD,SWE,visa required
 SSD,CHE,visa required
 SSD,SYR,visa required
@@ -32852,7 +32852,7 @@ ESP,BLR,30
 ESP,BEL,visa free
 ESP,BLZ,visa free
 ESP,BEN,e-visa
-ESP,BTN,e-visa
+ESP,BTN,visa required
 ESP,BOL,90
 ESP,BIH,90
 ESP,BWA,90
@@ -33002,7 +33002,7 @@ ESP,ESP,-1
 ESP,LKA,e-visa
 ESP,VCT,90
 ESP,SDN,visa required
-ESP,SUR,90
+ESP,SUR,e-visa
 ESP,SWE,visa free
 ESP,CHE,visa free
 ESP,SYR,visa required
@@ -33051,14 +33051,14 @@ LKA,BLR,visa required
 LKA,BEL,visa required
 LKA,BLZ,visa required
 LKA,BEN,e-visa
-LKA,BTN,e-visa
+LKA,BTN,visa required
 LKA,BOL,visa on arrival
 LKA,BIH,visa required
 LKA,BWA,e-visa
 LKA,BRA,visa required
 LKA,BRN,visa required
 LKA,BGR,visa required
-LKA,BFA,e-visa
+LKA,BFA,visa required
 LKA,BDI,visa on arrival
 LKA,KHM,e-visa
 LKA,CMR,visa required
@@ -33201,7 +33201,7 @@ LKA,ESP,visa required
 LKA,LKA,-1
 LKA,VCT,30
 LKA,SDN,visa required
-LKA,SUR,90
+LKA,SUR,e-visa
 LKA,SWE,visa required
 LKA,CHE,visa required
 LKA,SYR,visa required
@@ -33250,14 +33250,14 @@ VCT,BLR,30
 VCT,BEL,90
 VCT,BLZ,visa free
 VCT,BEN,e-visa
-VCT,BTN,e-visa
+VCT,BTN,visa required
 VCT,BOL,visa on arrival
 VCT,BIH,90
 VCT,BWA,90
 VCT,BRA,90
 VCT,BRN,visa required
 VCT,BGR,90
-VCT,BFA,e-visa
+VCT,BFA,visa required
 VCT,BDI,visa on arrival
 VCT,KHM,e-visa
 VCT,CMR,visa required
@@ -33449,14 +33449,14 @@ SDN,BLR,visa required
 SDN,BEL,visa required
 SDN,BLZ,visa required
 SDN,BEN,90
-SDN,BTN,e-visa
+SDN,BTN,visa required
 SDN,BOL,visa on arrival
 SDN,BIH,visa required
 SDN,BWA,e-visa
 SDN,BRA,visa required
 SDN,BRN,visa required
 SDN,BGR,visa required
-SDN,BFA,e-visa
+SDN,BFA,visa required
 SDN,BDI,visa on arrival
 SDN,KHM,e-visa
 SDN,CMR,visa required
@@ -33599,7 +33599,7 @@ SDN,ESP,visa required
 SDN,LKA,e-visa
 SDN,VCT,30
 SDN,SDN,-1
-SDN,SUR,90
+SDN,SUR,e-visa
 SDN,SWE,visa required
 SDN,CHE,visa required
 SDN,SYR,visa free
@@ -33648,14 +33648,14 @@ SUR,BLR,visa required
 SUR,BEL,visa required
 SUR,BLZ,visa free
 SUR,BEN,e-visa
-SUR,BTN,e-visa
+SUR,BTN,visa required
 SUR,BOL,visa on arrival
 SUR,BIH,visa required
 SUR,BWA,e-visa
 SUR,BRA,90
 SUR,BRN,visa required
 SUR,BGR,visa required
-SUR,BFA,e-visa
+SUR,BFA,visa required
 SUR,BDI,visa on arrival
 SUR,KHM,e-visa
 SUR,CMR,visa required
@@ -33847,7 +33847,7 @@ SWE,BLR,30
 SWE,BEL,visa free
 SWE,BLZ,visa free
 SWE,BEN,e-visa
-SWE,BTN,e-visa
+SWE,BTN,visa required
 SWE,BOL,90
 SWE,BIH,90
 SWE,BWA,90
@@ -33997,7 +33997,7 @@ SWE,ESP,visa free
 SWE,LKA,e-visa
 SWE,VCT,90
 SWE,SDN,visa required
-SWE,SUR,90
+SWE,SUR,e-visa
 SWE,SWE,-1
 SWE,CHE,visa free
 SWE,SYR,visa required
@@ -34046,7 +34046,7 @@ CHE,BLR,30
 CHE,BEL,visa free
 CHE,BLZ,30
 CHE,BEN,e-visa
-CHE,BTN,e-visa
+CHE,BTN,visa required
 CHE,BOL,90
 CHE,BIH,90
 CHE,BWA,90
@@ -34196,7 +34196,7 @@ CHE,ESP,visa free
 CHE,LKA,e-visa
 CHE,VCT,30
 CHE,SDN,visa required
-CHE,SUR,90
+CHE,SUR,e-visa
 CHE,SWE,visa free
 CHE,CHE,-1
 CHE,SYR,visa required
@@ -34245,14 +34245,14 @@ SYR,BLR,visa required
 SYR,BEL,visa required
 SYR,BLZ,visa required
 SYR,BEN,e-visa
-SYR,BTN,e-visa
+SYR,BTN,visa required
 SYR,BOL,visa on arrival
 SYR,BIH,visa required
 SYR,BWA,e-visa
 SYR,BRA,visa required
 SYR,BRN,visa required
 SYR,BGR,visa required
-SYR,BFA,e-visa
+SYR,BFA,visa required
 SYR,BDI,visa on arrival
 SYR,KHM,e-visa
 SYR,CMR,visa required
@@ -34395,7 +34395,7 @@ SYR,ESP,visa required
 SYR,LKA,visa required
 SYR,VCT,visa required
 SYR,SDN,visa required
-SYR,SUR,90
+SYR,SUR,e-visa
 SYR,SWE,visa required
 SYR,CHE,visa required
 SYR,SYR,-1
@@ -34444,7 +34444,7 @@ TWN,BLR,visa required
 TWN,BEL,90
 TWN,BLZ,90
 TWN,BEN,e-visa
-TWN,BTN,e-visa
+TWN,BTN,visa required
 TWN,BOL,visa on arrival
 TWN,BIH,90
 TWN,BWA,e-visa
@@ -34594,7 +34594,7 @@ TWN,ESP,90
 TWN,LKA,e-visa
 TWN,VCT,30
 TWN,SDN,visa required
-TWN,SUR,90
+TWN,SUR,e-visa
 TWN,SWE,90
 TWN,CHE,90
 TWN,SYR,visa required
@@ -34611,7 +34611,7 @@ TWN,TKM,visa required
 TWN,TUV,90
 TWN,TUR,e-visa
 TWN,UGA,e-visa
-TWN,UKR,e-visa
+TWN,UKR,30
 TWN,ARE,e-visa
 TWN,GBR,180
 TWN,USA,e-visa
@@ -34643,14 +34643,14 @@ TJK,BLR,visa free
 TJK,BEL,visa required
 TJK,BLZ,visa required
 TJK,BEN,e-visa
-TJK,BTN,e-visa
+TJK,BTN,visa required
 TJK,BOL,visa on arrival
 TJK,BIH,visa required
 TJK,BWA,e-visa
 TJK,BRA,visa required
 TJK,BRN,visa required
 TJK,BGR,visa required
-TJK,BFA,e-visa
+TJK,BFA,visa required
 TJK,BDI,visa on arrival
 TJK,KHM,e-visa
 TJK,CMR,visa required
@@ -34793,7 +34793,7 @@ TJK,ESP,visa required
 TJK,LKA,e-visa
 TJK,VCT,30
 TJK,SDN,visa required
-TJK,SUR,90
+TJK,SUR,e-visa
 TJK,SWE,visa required
 TJK,CHE,visa required
 TJK,SYR,visa required
@@ -34842,14 +34842,14 @@ TZA,BLR,visa required
 TZA,BEL,visa required
 TZA,BLZ,visa free
 TZA,BEN,90
-TZA,BTN,e-visa
+TZA,BTN,visa required
 TZA,BOL,visa on arrival
 TZA,BIH,visa required
 TZA,BWA,90
 TZA,BRA,visa required
 TZA,BRN,visa required
 TZA,BGR,visa required
-TZA,BFA,e-visa
+TZA,BFA,visa required
 TZA,BDI,90
 TZA,KHM,e-visa
 TZA,CMR,visa required
@@ -34987,12 +34987,12 @@ TZA,SLB,visa required
 TZA,SOM,visa on arrival
 TZA,ZAF,90
 TZA,KOR,visa required
-TZA,SSD,90
+TZA,SSD,visa free
 TZA,ESP,visa required
 TZA,LKA,e-visa
 TZA,VCT,30
 TZA,SDN,visa required
-TZA,SUR,90
+TZA,SUR,e-visa
 TZA,SWE,visa required
 TZA,CHE,visa required
 TZA,SYR,visa required
@@ -35041,14 +35041,14 @@ THA,BLR,visa required
 THA,BEL,visa required
 THA,BLZ,visa required
 THA,BEN,e-visa
-THA,BTN,e-visa
+THA,BTN,visa required
 THA,BOL,visa on arrival
 THA,BIH,visa required
 THA,BWA,e-visa
 THA,BRA,90
 THA,BRN,14
 THA,BGR,visa required
-THA,BFA,e-visa
+THA,BFA,visa required
 THA,BDI,visa on arrival
 THA,KHM,14
 THA,CMR,visa required
@@ -35191,7 +35191,7 @@ THA,ESP,visa required
 THA,LKA,e-visa
 THA,VCT,30
 THA,SDN,visa required
-THA,SUR,90
+THA,SUR,e-visa
 THA,SWE,visa required
 THA,CHE,visa required
 THA,SYR,visa required
@@ -35240,14 +35240,14 @@ TLS,BLR,visa required
 TLS,BEL,90
 TLS,BLZ,visa required
 TLS,BEN,e-visa
-TLS,BTN,e-visa
+TLS,BTN,visa required
 TLS,BOL,visa on arrival
 TLS,BIH,90
 TLS,BWA,visa required
 TLS,BRA,visa required
 TLS,BRN,visa required
 TLS,BGR,90
-TLS,BFA,e-visa
+TLS,BFA,visa required
 TLS,BDI,visa on arrival
 TLS,KHM,e-visa
 TLS,CMR,visa required
@@ -35390,7 +35390,7 @@ TLS,ESP,90
 TLS,LKA,e-visa
 TLS,VCT,30
 TLS,SDN,visa required
-TLS,SUR,90
+TLS,SUR,e-visa
 TLS,SWE,90
 TLS,CHE,90
 TLS,SYR,visa required
@@ -35439,7 +35439,7 @@ TGO,BLR,visa required
 TGO,BEL,visa required
 TGO,BLZ,visa required
 TGO,BEN,90
-TGO,BTN,e-visa
+TGO,BTN,visa required
 TGO,BOL,visa on arrival
 TGO,BIH,visa required
 TGO,BWA,e-visa
@@ -35538,7 +35538,7 @@ TGO,MDA,e-visa
 TGO,MCO,visa required
 TGO,MNG,visa required
 TGO,MNE,visa required
-TGO,MAR,90
+TGO,MAR,visa required
 TGO,MOZ,visa on arrival
 TGO,MMR,visa required
 TGO,NAM,visa on arrival
@@ -35589,7 +35589,7 @@ TGO,ESP,visa required
 TGO,LKA,e-visa
 TGO,VCT,30
 TGO,SDN,visa required
-TGO,SUR,90
+TGO,SUR,e-visa
 TGO,SWE,visa required
 TGO,CHE,visa required
 TGO,SYR,visa required
@@ -35638,14 +35638,14 @@ TON,BLR,visa required
 TON,BEL,90
 TON,BLZ,visa free
 TON,BEN,e-visa
-TON,BTN,e-visa
+TON,BTN,visa required
 TON,BOL,visa on arrival
 TON,BIH,90
 TON,BWA,90
 TON,BRA,visa required
 TON,BRN,visa required
 TON,BGR,90
-TON,BFA,e-visa
+TON,BFA,visa required
 TON,BDI,visa on arrival
 TON,KHM,e-visa
 TON,CMR,visa required
@@ -35788,7 +35788,7 @@ TON,ESP,90
 TON,LKA,e-visa
 TON,VCT,30
 TON,SDN,visa required
-TON,SUR,90
+TON,SUR,e-visa
 TON,SWE,90
 TON,CHE,90
 TON,SYR,visa required
@@ -35837,14 +35837,14 @@ TTO,BLR,visa required
 TTO,BEL,90
 TTO,BLZ,visa free
 TTO,BEN,e-visa
-TTO,BTN,e-visa
+TTO,BTN,visa required
 TTO,BOL,visa on arrival
 TTO,BIH,90
 TTO,BWA,90
 TTO,BRA,90
 TTO,BRN,visa required
 TTO,BGR,90
-TTO,BFA,e-visa
+TTO,BFA,visa required
 TTO,BDI,visa on arrival
 TTO,KHM,e-visa
 TTO,CMR,visa required
@@ -36036,7 +36036,7 @@ TUN,BLR,visa required
 TUN,BEL,visa required
 TUN,BLZ,visa free
 TUN,BEN,90
-TUN,BTN,e-visa
+TUN,BTN,visa required
 TUN,BOL,visa on arrival
 TUN,BIH,visa required
 TUN,BWA,e-visa
@@ -36186,7 +36186,7 @@ TUN,ESP,visa required
 TUN,LKA,e-visa
 TUN,VCT,30
 TUN,SDN,visa required
-TUN,SUR,90
+TUN,SUR,e-visa
 TUN,SWE,visa required
 TUN,CHE,visa required
 TUN,SYR,visa free
@@ -36235,7 +36235,7 @@ TUR,BLR,30
 TUR,BEL,visa required
 TUR,BLZ,90
 TUR,BEN,e-visa
-TUR,BTN,e-visa
+TUR,BTN,visa required
 TUR,BOL,90
 TUR,BIH,90
 TUR,BWA,90
@@ -36385,7 +36385,7 @@ TUR,ESP,visa required
 TUR,LKA,e-visa
 TUR,VCT,30
 TUR,SDN,visa on arrival
-TUR,SUR,90
+TUR,SUR,e-visa
 TUR,SWE,visa required
 TUR,CHE,visa required
 TUR,SYR,visa required
@@ -36434,14 +36434,14 @@ TKM,BLR,visa required
 TKM,BEL,visa required
 TKM,BLZ,visa required
 TKM,BEN,e-visa
-TKM,BTN,e-visa
+TKM,BTN,visa required
 TKM,BOL,visa on arrival
 TKM,BIH,visa required
 TKM,BWA,e-visa
 TKM,BRA,visa required
 TKM,BRN,visa required
 TKM,BGR,visa required
-TKM,BFA,e-visa
+TKM,BFA,visa required
 TKM,BDI,visa on arrival
 TKM,KHM,e-visa
 TKM,CMR,visa required
@@ -36584,7 +36584,7 @@ TKM,ESP,visa required
 TKM,LKA,e-visa
 TKM,VCT,30
 TKM,SDN,visa required
-TKM,SUR,90
+TKM,SUR,e-visa
 TKM,SWE,visa required
 TKM,CHE,visa required
 TKM,SYR,visa required
@@ -36633,14 +36633,14 @@ TUV,BLR,visa required
 TUV,BEL,90
 TUV,BLZ,visa free
 TUV,BEN,e-visa
-TUV,BTN,e-visa
+TUV,BTN,visa required
 TUV,BOL,visa on arrival
 TUV,BIH,90
 TUV,BWA,90
 TUV,BRA,visa required
 TUV,BRN,visa required
 TUV,BGR,90
-TUV,BFA,e-visa
+TUV,BFA,visa required
 TUV,BDI,visa on arrival
 TUV,KHM,e-visa
 TUV,CMR,visa required
@@ -36783,7 +36783,7 @@ TUV,ESP,90
 TUV,LKA,e-visa
 TUV,VCT,30
 TUV,SDN,visa required
-TUV,SUR,90
+TUV,SUR,e-visa
 TUV,SWE,90
 TUV,CHE,90
 TUV,SYR,visa required
@@ -36832,14 +36832,14 @@ UGA,BLR,visa required
 UGA,BEL,visa required
 UGA,BLZ,visa free
 UGA,BEN,90
-UGA,BTN,e-visa
+UGA,BTN,visa required
 UGA,BOL,visa on arrival
 UGA,BIH,visa required
 UGA,BWA,90
 UGA,BRA,visa required
 UGA,BRN,visa required
 UGA,BGR,visa required
-UGA,BFA,e-visa
+UGA,BFA,visa required
 UGA,BDI,90
 UGA,KHM,e-visa
 UGA,CMR,visa required
@@ -36977,12 +36977,12 @@ UGA,SLB,visa required
 UGA,SOM,visa on arrival
 UGA,ZAF,e-visa
 UGA,KOR,visa required
-UGA,SSD,e-visa
+UGA,SSD,visa on arrival
 UGA,ESP,visa required
 UGA,LKA,e-visa
 UGA,VCT,30
 UGA,SDN,visa required
-UGA,SUR,90
+UGA,SUR,e-visa
 UGA,SWE,visa required
 UGA,CHE,visa required
 UGA,SYR,visa required
@@ -37031,14 +37031,14 @@ UKR,BLR,visa free
 UKR,BEL,90
 UKR,BLZ,visa required
 UKR,BEN,e-visa
-UKR,BTN,e-visa
+UKR,BTN,visa required
 UKR,BOL,visa on arrival
 UKR,BIH,30
 UKR,BWA,e-visa
 UKR,BRA,90
 UKR,BRN,30
 UKR,BGR,90
-UKR,BFA,e-visa
+UKR,BFA,visa required
 UKR,BDI,visa on arrival
 UKR,KHM,e-visa
 UKR,CMR,visa required
@@ -37181,7 +37181,7 @@ UKR,ESP,90
 UKR,LKA,e-visa
 UKR,VCT,30
 UKR,SDN,visa required
-UKR,SUR,90
+UKR,SUR,e-visa
 UKR,SWE,90
 UKR,CHE,90
 UKR,SYR,visa required
@@ -37199,7 +37199,7 @@ UKR,TUV,visa on arrival
 UKR,TUR,90
 UKR,UGA,e-visa
 UKR,UKR,-1
-UKR,ARE,30
+UKR,ARE,visa on arrival
 UKR,GBR,visa required
 UKR,USA,visa required
 UKR,URY,90
@@ -37230,7 +37230,7 @@ ARE,BLR,90
 ARE,BEL,90
 ARE,BLZ,visa required
 ARE,BEN,e-visa
-ARE,BTN,e-visa
+ARE,BTN,visa required
 ARE,BOL,visa on arrival
 ARE,BIH,90
 ARE,BWA,90
@@ -37380,7 +37380,7 @@ ARE,ESP,90
 ARE,LKA,e-visa
 ARE,VCT,90
 ARE,SDN,visa free
-ARE,SUR,90
+ARE,SUR,e-visa
 ARE,SWE,90
 ARE,CHE,90
 ARE,SYR,visa free
@@ -37429,7 +37429,7 @@ GBR,BLR,30
 GBR,BEL,90
 GBR,BLZ,visa free
 GBR,BEN,e-visa
-GBR,BTN,e-visa
+GBR,BTN,visa required
 GBR,BOL,90
 GBR,BIH,90
 GBR,BWA,90
@@ -37579,7 +37579,7 @@ GBR,ESP,90
 GBR,LKA,e-visa
 GBR,VCT,30
 GBR,SDN,visa required
-GBR,SUR,90
+GBR,SUR,e-visa
 GBR,SWE,90
 GBR,CHE,90
 GBR,SYR,visa required
@@ -37597,7 +37597,7 @@ GBR,TUV,visa on arrival
 GBR,TUR,90
 GBR,UGA,e-visa
 GBR,UKR,90
-GBR,ARE,30
+GBR,ARE,visa on arrival
 GBR,GBR,-1
 GBR,USA,e-visa
 GBR,URY,90
@@ -37628,7 +37628,7 @@ USA,BLR,visa required
 USA,BEL,90
 USA,BLZ,180
 USA,BEN,e-visa
-USA,BTN,e-visa
+USA,BTN,visa required
 USA,BOL,visa on arrival
 USA,BIH,90
 USA,BWA,90
@@ -37778,7 +37778,7 @@ USA,ESP,90
 USA,LKA,e-visa
 USA,VCT,30
 USA,SDN,visa required
-USA,SUR,90
+USA,SUR,e-visa
 USA,SWE,90
 USA,CHE,90
 USA,SYR,visa required
@@ -37796,7 +37796,7 @@ USA,TUV,visa on arrival
 USA,TUR,e-visa
 USA,UGA,e-visa
 USA,UKR,90
-USA,ARE,30
+USA,ARE,visa on arrival
 USA,GBR,180
 USA,USA,-1
 USA,URY,90
@@ -37827,14 +37827,14 @@ URY,BLR,30
 URY,BEL,90
 URY,BLZ,visa free
 URY,BEN,e-visa
-URY,BTN,e-visa
+URY,BTN,visa required
 URY,BOL,90
 URY,BIH,90
 URY,BWA,90
 URY,BRA,90
 URY,BRN,visa required
 URY,BGR,90
-URY,BFA,e-visa
+URY,BFA,visa required
 URY,BDI,visa on arrival
 URY,KHM,e-visa
 URY,CMR,visa required
@@ -37977,7 +37977,7 @@ URY,ESP,90
 URY,LKA,e-visa
 URY,VCT,30
 URY,SDN,visa required
-URY,SUR,90
+URY,SUR,e-visa
 URY,SWE,90
 URY,CHE,90
 URY,SYR,visa required
@@ -38026,14 +38026,14 @@ UZB,BLR,visa free
 UZB,BEL,visa required
 UZB,BLZ,visa required
 UZB,BEN,e-visa
-UZB,BTN,e-visa
+UZB,BTN,visa required
 UZB,BOL,visa on arrival
 UZB,BIH,visa required
 UZB,BWA,e-visa
 UZB,BRA,visa required
 UZB,BRN,visa required
 UZB,BGR,visa required
-UZB,BFA,e-visa
+UZB,BFA,visa required
 UZB,BDI,visa on arrival
 UZB,KHM,e-visa
 UZB,CMR,visa required
@@ -38176,7 +38176,7 @@ UZB,ESP,visa required
 UZB,LKA,e-visa
 UZB,VCT,30
 UZB,SDN,visa required
-UZB,SUR,90
+UZB,SUR,e-visa
 UZB,SWE,visa required
 UZB,CHE,visa required
 UZB,SYR,visa required
@@ -38225,14 +38225,14 @@ VUT,BLR,30
 VUT,BEL,visa required
 VUT,BLZ,visa free
 VUT,BEN,e-visa
-VUT,BTN,e-visa
+VUT,BTN,visa required
 VUT,BOL,visa on arrival
 VUT,BIH,90
 VUT,BWA,90
 VUT,BRA,visa required
 VUT,BRN,visa required
 VUT,BGR,visa required
-VUT,BFA,e-visa
+VUT,BFA,visa required
 VUT,BDI,visa on arrival
 VUT,KHM,e-visa
 VUT,CMR,visa required
@@ -38375,7 +38375,7 @@ VUT,ESP,visa required
 VUT,LKA,e-visa
 VUT,VCT,30
 VUT,SDN,visa required
-VUT,SUR,90
+VUT,SUR,e-visa
 VUT,SWE,visa required
 VUT,CHE,visa required
 VUT,SYR,visa required
@@ -38424,14 +38424,14 @@ VAT,BLR,30
 VAT,BEL,90
 VAT,BLZ,visa free
 VAT,BEN,e-visa
-VAT,BTN,e-visa
+VAT,BTN,visa required
 VAT,BOL,90
 VAT,BIH,90
 VAT,BWA,90
 VAT,BRA,90
 VAT,BRN,visa required
 VAT,BGR,90
-VAT,BFA,e-visa
+VAT,BFA,visa required
 VAT,BDI,visa on arrival
 VAT,KHM,e-visa
 VAT,CMR,visa required
@@ -38516,7 +38516,7 @@ VAT,MLI,visa required
 VAT,MLT,90
 VAT,MHL,visa on arrival
 VAT,MRT,visa on arrival
-VAT,MUS,90
+VAT,MUS,visa required
 VAT,MEX,visa required
 VAT,FSM,30
 VAT,MDA,90
@@ -38574,7 +38574,7 @@ VAT,ESP,90
 VAT,LKA,e-visa
 VAT,VCT,30
 VAT,SDN,visa required
-VAT,SUR,90
+VAT,SUR,e-visa
 VAT,SWE,90
 VAT,CHE,90
 VAT,SYR,visa required
@@ -38592,7 +38592,7 @@ VAT,TUV,visa on arrival
 VAT,TUR,90
 VAT,UGA,e-visa
 VAT,UKR,90
-VAT,ARE,30
+VAT,ARE,visa on arrival
 VAT,GBR,180
 VAT,USA,visa required
 VAT,URY,90
@@ -38623,7 +38623,7 @@ VEN,BLR,90
 VEN,BEL,90
 VEN,BLZ,visa required
 VEN,BEN,e-visa
-VEN,BTN,e-visa
+VEN,BTN,visa required
 VEN,BOL,90
 VEN,BIH,90
 VEN,BWA,90
@@ -38773,7 +38773,7 @@ VEN,ESP,90
 VEN,LKA,e-visa
 VEN,VCT,30
 VEN,SDN,visa required
-VEN,SUR,90
+VEN,SUR,e-visa
 VEN,SWE,90
 VEN,CHE,90
 VEN,SYR,visa required
@@ -38822,14 +38822,14 @@ VNM,BLR,visa required
 VNM,BEL,visa required
 VNM,BLZ,visa required
 VNM,BEN,e-visa
-VNM,BTN,e-visa
+VNM,BTN,visa required
 VNM,BOL,visa on arrival
 VNM,BIH,visa required
 VNM,BWA,e-visa
 VNM,BRA,visa required
 VNM,BRN,14
 VNM,BGR,visa required
-VNM,BFA,e-visa
+VNM,BFA,visa required
 VNM,BDI,visa on arrival
 VNM,KHM,30
 VNM,CMR,visa required
@@ -38972,7 +38972,7 @@ VNM,ESP,visa required
 VNM,LKA,e-visa
 VNM,VCT,30
 VNM,SDN,visa required
-VNM,SUR,90
+VNM,SUR,e-visa
 VNM,SWE,visa required
 VNM,CHE,visa required
 VNM,SYR,visa required
@@ -39021,14 +39021,14 @@ YEM,BLR,visa required
 YEM,BEL,visa required
 YEM,BLZ,visa required
 YEM,BEN,e-visa
-YEM,BTN,e-visa
+YEM,BTN,visa required
 YEM,BOL,visa on arrival
 YEM,BIH,visa required
 YEM,BWA,e-visa
 YEM,BRA,visa required
 YEM,BRN,visa required
 YEM,BGR,visa required
-YEM,BFA,e-visa
+YEM,BFA,visa required
 YEM,BDI,visa on arrival
 YEM,KHM,e-visa
 YEM,CMR,visa required
@@ -39171,7 +39171,7 @@ YEM,ESP,visa required
 YEM,LKA,e-visa
 YEM,VCT,30
 YEM,SDN,30
-YEM,SUR,90
+YEM,SUR,e-visa
 YEM,SWE,visa required
 YEM,CHE,visa required
 YEM,SYR,visa free
@@ -39220,14 +39220,14 @@ ZMB,BLR,visa required
 ZMB,BEL,visa required
 ZMB,BLZ,visa free
 ZMB,BEN,90
-ZMB,BTN,e-visa
+ZMB,BTN,visa required
 ZMB,BOL,visa on arrival
 ZMB,BIH,visa required
 ZMB,BWA,90
 ZMB,BRA,visa required
 ZMB,BRN,visa required
 ZMB,BGR,visa required
-ZMB,BFA,e-visa
+ZMB,BFA,visa required
 ZMB,BDI,visa on arrival
 ZMB,KHM,e-visa
 ZMB,CMR,visa required
@@ -39312,7 +39312,7 @@ ZMB,MLI,visa required
 ZMB,MLT,visa required
 ZMB,MHL,visa required
 ZMB,MRT,visa on arrival
-ZMB,MUS,90
+ZMB,MUS,visa required
 ZMB,MEX,visa required
 ZMB,FSM,30
 ZMB,MDA,visa required
@@ -39370,7 +39370,7 @@ ZMB,ESP,visa required
 ZMB,LKA,e-visa
 ZMB,VCT,30
 ZMB,SDN,visa required
-ZMB,SUR,90
+ZMB,SUR,e-visa
 ZMB,SWE,visa required
 ZMB,CHE,visa required
 ZMB,SYR,visa required
@@ -39419,14 +39419,14 @@ ZWE,BLR,visa required
 ZWE,BEL,visa required
 ZWE,BLZ,visa free
 ZWE,BEN,90
-ZWE,BTN,e-visa
+ZWE,BTN,visa required
 ZWE,BOL,visa on arrival
 ZWE,BIH,visa required
 ZWE,BWA,90
 ZWE,BRA,visa required
 ZWE,BRN,visa required
 ZWE,BGR,visa required
-ZWE,BFA,e-visa
+ZWE,BFA,visa required
 ZWE,BDI,visa on arrival
 ZWE,KHM,e-visa
 ZWE,CMR,visa required
@@ -39511,7 +39511,7 @@ ZWE,MLI,visa required
 ZWE,MLT,visa required
 ZWE,MHL,visa required
 ZWE,MRT,visa on arrival
-ZWE,MUS,90
+ZWE,MUS,visa required
 ZWE,MEX,visa required
 ZWE,FSM,30
 ZWE,MDA,visa required
@@ -39569,7 +39569,7 @@ ZWE,ESP,visa required
 ZWE,LKA,e-visa
 ZWE,VCT,30
 ZWE,SDN,visa required
-ZWE,SUR,90
+ZWE,SUR,e-visa
 ZWE,SWE,visa required
 ZWE,CHE,visa required
 ZWE,SYR,visa required
