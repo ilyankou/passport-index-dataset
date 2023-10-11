@@ -2,7 +2,7 @@ Passport,Destination,Requirement
 Afghanistan,Albania,e-visa
 Afghanistan,Algeria,visa required
 Afghanistan,Andorra,visa required
-Afghanistan,Angola,visa required
+Afghanistan,Angola,visa on arrival
 Afghanistan,Antigua and Barbuda,e-visa
 Afghanistan,Argentina,visa required
 Afghanistan,Armenia,visa required
@@ -201,7 +201,7 @@ Afghanistan,Afghanistan,-1
 Albania,Albania,-1
 Albania,Algeria,visa required
 Albania,Andorra,90
-Albania,Angola,visa required
+Albania,Angola,visa on arrival
 Albania,Antigua and Barbuda,180
 Albania,Argentina,visa required
 Albania,Armenia,180
@@ -400,7 +400,7 @@ Albania,Afghanistan,visa required
 Algeria,Albania,e-visa
 Algeria,Algeria,-1
 Algeria,Andorra,visa required
-Algeria,Angola,30
+Algeria,Angola,visa on arrival
 Algeria,Antigua and Barbuda,e-visa
 Algeria,Argentina,visa required
 Algeria,Armenia,e-visa
@@ -599,7 +599,7 @@ Algeria,Afghanistan,visa required
 Andorra,Albania,90
 Andorra,Algeria,visa required
 Andorra,Andorra,-1
-Andorra,Angola,visa required
+Andorra,Angola,visa on arrival
 Andorra,Antigua and Barbuda,180
 Andorra,Argentina,90
 Andorra,Armenia,180
@@ -997,7 +997,7 @@ Angola,Afghanistan,visa required
 Antigua and Barbuda,Albania,90
 Antigua and Barbuda,Algeria,visa required
 Antigua and Barbuda,Andorra,90
-Antigua and Barbuda,Angola,30
+Antigua and Barbuda,Angola,visa on arrival
 Antigua and Barbuda,Antigua and Barbuda,-1
 Antigua and Barbuda,Argentina,visa required
 Antigua and Barbuda,Armenia,visa on arrival
@@ -1196,7 +1196,7 @@ Antigua and Barbuda,Afghanistan,visa required
 Argentina,Albania,90
 Argentina,Algeria,visa required
 Argentina,Andorra,90
-Argentina,Angola,30
+Argentina,Angola,visa on arrival
 Argentina,Antigua and Barbuda,180
 Argentina,Argentina,-1
 Argentina,Armenia,visa free
@@ -1395,7 +1395,7 @@ Argentina,Afghanistan,visa required
 Armenia,Albania,90
 Armenia,Algeria,visa required
 Armenia,Andorra,visa required
-Armenia,Angola,visa required
+Armenia,Angola,visa on arrival
 Armenia,Antigua and Barbuda,180
 Armenia,Argentina,90
 Armenia,Armenia,-1
@@ -1594,7 +1594,7 @@ Armenia,Afghanistan,visa required
 Australia,Albania,90
 Australia,Algeria,visa required
 Australia,Andorra,90
-Australia,Angola,30
+Australia,Angola,visa on arrival
 Australia,Antigua and Barbuda,180
 Australia,Argentina,90
 Australia,Armenia,180
@@ -1793,7 +1793,7 @@ Australia,Afghanistan,visa required
 Austria,Albania,90
 Austria,Algeria,visa required
 Austria,Andorra,visa free
-Austria,Angola,30
+Austria,Angola,visa on arrival
 Austria,Antigua and Barbuda,180
 Austria,Argentina,90
 Austria,Armenia,180
@@ -1992,7 +1992,7 @@ Austria,Afghanistan,visa required
 Azerbaijan,Albania,90
 Azerbaijan,Algeria,visa required
 Azerbaijan,Andorra,visa required
-Azerbaijan,Angola,visa required
+Azerbaijan,Angola,visa on arrival
 Azerbaijan,Antigua and Barbuda,180
 Azerbaijan,Argentina,visa required
 Azerbaijan,Armenia,no admission
@@ -2191,7 +2191,7 @@ Azerbaijan,Afghanistan,visa required
 Bahamas,Albania,90
 Bahamas,Algeria,visa required
 Bahamas,Andorra,90
-Bahamas,Angola,30
+Bahamas,Angola,visa on arrival
 Bahamas,Antigua and Barbuda,180
 Bahamas,Argentina,visa required
 Bahamas,Armenia,visa on arrival
@@ -2390,7 +2390,7 @@ Bahamas,Afghanistan,visa required
 Bahrain,Albania,90
 Bahrain,Algeria,visa required
 Bahrain,Andorra,visa required
-Bahrain,Angola,visa required
+Bahrain,Angola,visa on arrival
 Bahrain,Antigua and Barbuda,e-visa
 Bahrain,Argentina,visa required
 Bahrain,Armenia,e-visa
@@ -2407,7 +2407,7 @@ Bahrain,Belize,visa required
 Bahrain,Benin,e-visa
 Bahrain,Bhutan,e-visa
 Bahrain,Bolivia,visa on arrival
-Bahrain,Bosnia and Herzegovina,visa required
+Bahrain,Bosnia and Herzegovina,90
 Bahrain,Botswana,90
 Bahrain,Brazil,visa required
 Bahrain,Brunei,visa on arrival
@@ -2589,7 +2589,7 @@ Bahrain,Afghanistan,visa required
 Bangladesh,Albania,e-visa
 Bangladesh,Algeria,visa required
 Bangladesh,Andorra,visa required
-Bangladesh,Angola,visa required
+Bangladesh,Angola,visa on arrival
 Bangladesh,Antigua and Barbuda,e-visa
 Bangladesh,Argentina,visa required
 Bangladesh,Armenia,visa required
@@ -2788,7 +2788,7 @@ Bangladesh,Afghanistan,visa required
 Barbados,Albania,90
 Barbados,Algeria,visa required
 Barbados,Andorra,90
-Barbados,Angola,30
+Barbados,Angola,visa on arrival
 Barbados,Antigua and Barbuda,180
 Barbados,Argentina,90
 Barbados,Armenia,visa on arrival
@@ -2987,7 +2987,7 @@ Barbados,Afghanistan,visa required
 Belarus,Albania,30
 Belarus,Algeria,visa required
 Belarus,Andorra,visa required
-Belarus,Angola,visa required
+Belarus,Angola,visa on arrival
 Belarus,Antigua and Barbuda,180
 Belarus,Argentina,90
 Belarus,Armenia,visa free
@@ -3186,7 +3186,7 @@ Belarus,Afghanistan,visa required
 Belgium,Albania,90
 Belgium,Algeria,visa required
 Belgium,Andorra,visa free
-Belgium,Angola,30
+Belgium,Angola,visa on arrival
 Belgium,Antigua and Barbuda,180
 Belgium,Argentina,90
 Belgium,Armenia,180
@@ -3385,7 +3385,7 @@ Belgium,Afghanistan,visa required
 Belize,Albania,e-visa
 Belize,Algeria,visa required
 Belize,Andorra,visa required
-Belize,Angola,30
+Belize,Angola,visa on arrival
 Belize,Antigua and Barbuda,180
 Belize,Argentina,visa required
 Belize,Armenia,e-visa
@@ -3584,7 +3584,7 @@ Belize,Afghanistan,visa required
 Benin,Albania,e-visa
 Benin,Algeria,visa required
 Benin,Andorra,visa required
-Benin,Angola,visa required
+Benin,Angola,visa on arrival
 Benin,Antigua and Barbuda,e-visa
 Benin,Argentina,visa required
 Benin,Armenia,visa required
@@ -3783,7 +3783,7 @@ Benin,Afghanistan,visa required
 Bhutan,Albania,e-visa
 Bhutan,Algeria,visa required
 Bhutan,Andorra,visa required
-Bhutan,Angola,visa required
+Bhutan,Angola,visa on arrival
 Bhutan,Antigua and Barbuda,e-visa
 Bhutan,Argentina,visa required
 Bhutan,Armenia,e-visa
@@ -3982,7 +3982,7 @@ Bhutan,Afghanistan,visa required
 Bolivia,Albania,e-visa
 Bolivia,Algeria,visa required
 Bolivia,Andorra,visa required
-Bolivia,Angola,visa required
+Bolivia,Angola,visa on arrival
 Bolivia,Antigua and Barbuda,90
 Bolivia,Argentina,90
 Bolivia,Armenia,e-visa
@@ -4059,7 +4059,7 @@ Bolivia,India,e-visa
 Bolivia,Indonesia,visa required
 Bolivia,Iran,30
 Bolivia,Iraq,visa required
-Bolivia,Ireland,visa required
+Bolivia,Ireland,90
 Bolivia,Israel,visa required
 Bolivia,Italy,visa required
 Bolivia,Jamaica,30
@@ -4181,9 +4181,9 @@ Bolivia,Afghanistan,visa required
 Bosnia and Herzegovina,Albania,90
 Bosnia and Herzegovina,Algeria,visa required
 Bosnia and Herzegovina,Andorra,90
-Bosnia and Herzegovina,Angola,visa required
+Bosnia and Herzegovina,Angola,visa on arrival
 Bosnia and Herzegovina,Antigua and Barbuda,e-visa
-Bosnia and Herzegovina,Argentina,90
+Bosnia and Herzegovina,Argentina,visa required
 Bosnia and Herzegovina,Armenia,visa on arrival
 Bosnia and Herzegovina,Australia,e-visa
 Bosnia and Herzegovina,Austria,90
@@ -4223,7 +4223,7 @@ Bosnia and Herzegovina,Croatia,90
 Bosnia and Herzegovina,Cuba,90
 Bosnia and Herzegovina,Cyprus,90
 Bosnia and Herzegovina,Czech Republic,90
-Bosnia and Herzegovina,Denmark,90
+Bosnia and Herzegovina,Denmark,visa free
 Bosnia and Herzegovina,Djibouti,e-visa
 Bosnia and Herzegovina,Dominica,21
 Bosnia and Herzegovina,Dominican Republic,visa free
@@ -4579,7 +4579,7 @@ Botswana,Afghanistan,visa required
 Brazil,Albania,90
 Brazil,Algeria,visa required
 Brazil,Andorra,90
-Brazil,Angola,30
+Brazil,Angola,visa on arrival
 Brazil,Antigua and Barbuda,180
 Brazil,Argentina,90
 Brazil,Armenia,180
@@ -4660,7 +4660,7 @@ Brazil,Ireland,90
 Brazil,Israel,90
 Brazil,Italy,90
 Brazil,Jamaica,90
-Brazil,Japan,90
+Brazil,Japan,e-visa
 Brazil,Jordan,visa on arrival
 Brazil,Kazakhstan,30
 Brazil,Kenya,e-visa
@@ -4778,7 +4778,7 @@ Brazil,Afghanistan,visa required
 Brunei,Albania,90
 Brunei,Algeria,visa required
 Brunei,Andorra,90
-Brunei,Angola,visa required
+Brunei,Angola,visa on arrival
 Brunei,Antigua and Barbuda,180
 Brunei,Argentina,visa required
 Brunei,Armenia,e-visa
@@ -4977,7 +4977,7 @@ Brunei,Afghanistan,visa required
 Bulgaria,Albania,90
 Bulgaria,Algeria,visa required
 Bulgaria,Andorra,visa free
-Bulgaria,Angola,30
+Bulgaria,Angola,visa on arrival
 Bulgaria,Antigua and Barbuda,180
 Bulgaria,Argentina,90
 Bulgaria,Armenia,180
@@ -5176,7 +5176,7 @@ Bulgaria,Afghanistan,visa required
 Burkina Faso,Albania,e-visa
 Burkina Faso,Algeria,visa required
 Burkina Faso,Andorra,visa required
-Burkina Faso,Angola,visa required
+Burkina Faso,Angola,visa on arrival
 Burkina Faso,Antigua and Barbuda,e-visa
 Burkina Faso,Argentina,visa required
 Burkina Faso,Armenia,visa required
@@ -5375,7 +5375,7 @@ Burkina Faso,Afghanistan,visa required
 Burundi,Albania,e-visa
 Burundi,Algeria,visa required
 Burundi,Andorra,visa required
-Burundi,Angola,visa required
+Burundi,Angola,visa on arrival
 Burundi,Antigua and Barbuda,e-visa
 Burundi,Argentina,visa required
 Burundi,Armenia,visa required
@@ -5574,7 +5574,7 @@ Burundi,Afghanistan,visa required
 Cambodia,Albania,e-visa
 Cambodia,Algeria,visa required
 Cambodia,Andorra,visa required
-Cambodia,Angola,visa required
+Cambodia,Angola,visa on arrival
 Cambodia,Antigua and Barbuda,e-visa
 Cambodia,Argentina,visa required
 Cambodia,Armenia,e-visa
@@ -5773,7 +5773,7 @@ Cambodia,Afghanistan,visa required
 Cameroon,Albania,e-visa
 Cameroon,Algeria,visa required
 Cameroon,Andorra,visa required
-Cameroon,Angola,visa required
+Cameroon,Angola,visa on arrival
 Cameroon,Antigua and Barbuda,e-visa
 Cameroon,Argentina,visa required
 Cameroon,Armenia,visa required
@@ -5972,7 +5972,7 @@ Cameroon,Afghanistan,visa required
 Canada,Albania,90
 Canada,Algeria,visa required
 Canada,Andorra,90
-Canada,Angola,30
+Canada,Angola,visa on arrival
 Canada,Antigua and Barbuda,180
 Canada,Argentina,90
 Canada,Armenia,visa on arrival
@@ -6019,7 +6019,7 @@ Canada,Djibouti,e-visa
 Canada,Dominica,180
 Canada,Dominican Republic,visa free
 Canada,Ecuador,90
-Canada,Egypt,visa required
+Canada,Egypt,visa on arrival
 Canada,El Salvador,90
 Canada,Equatorial Guinea,e-visa
 Canada,Eritrea,visa required
@@ -6045,7 +6045,7 @@ Canada,Honduras,90
 Canada,Hong Kong,90
 Canada,Hungary,90
 Canada,Iceland,90
-Canada,India,visa required
+Canada,India,e-visa
 Canada,Indonesia,visa on arrival
 Canada,Iran,visa required
 Canada,Iraq,visa on arrival
@@ -6157,7 +6157,7 @@ Canada,Uganda,e-visa
 Canada,Ukraine,90
 Canada,United Arab Emirates,30
 Canada,United Kingdom,180
-Canada,United States,180
+Canada,United States,visa free
 Canada,Uruguay,90
 Canada,Uzbekistan,30
 Canada,Vanuatu,30
@@ -6370,7 +6370,7 @@ Cape Verde,Afghanistan,visa required
 Central African Republic,Albania,e-visa
 Central African Republic,Algeria,visa required
 Central African Republic,Andorra,visa required
-Central African Republic,Angola,visa required
+Central African Republic,Angola,visa on arrival
 Central African Republic,Antigua and Barbuda,e-visa
 Central African Republic,Argentina,visa required
 Central African Republic,Armenia,visa required
@@ -6569,7 +6569,7 @@ Central African Republic,Afghanistan,visa required
 Chad,Albania,e-visa
 Chad,Algeria,visa required
 Chad,Andorra,visa required
-Chad,Angola,visa required
+Chad,Angola,visa on arrival
 Chad,Antigua and Barbuda,e-visa
 Chad,Argentina,visa required
 Chad,Armenia,visa required
@@ -6615,7 +6615,7 @@ Chad,Denmark,visa required
 Chad,Djibouti,e-visa
 Chad,Dominica,21
 Chad,Dominican Republic,visa required
-Chad,Ecuador,e-visa
+Chad,Ecuador,90
 Chad,Egypt,visa required
 Chad,El Salvador,visa required
 Chad,Equatorial Guinea,e-visa
@@ -6768,7 +6768,7 @@ Chad,Afghanistan,visa required
 Chile,Albania,90
 Chile,Algeria,visa required
 Chile,Andorra,90
-Chile,Angola,30
+Chile,Angola,visa on arrival
 Chile,Antigua and Barbuda,180
 Chile,Argentina,90
 Chile,Armenia,visa on arrival
@@ -6967,7 +6967,7 @@ Chile,Afghanistan,visa required
 China,Albania,90
 China,Algeria,visa required
 China,Andorra,visa required
-China,Angola,30
+China,Angola,visa on arrival
 China,Antigua and Barbuda,30
 China,Argentina,visa required
 China,Armenia,180
@@ -7026,7 +7026,7 @@ China,Finland,visa required
 China,France,visa required
 China,Gabon,30
 China,Gambia,visa required
-China,Georgia,30
+China,Georgia,e-visa
 China,Germany,visa required
 China,Ghana,visa required
 China,Greece,visa required
@@ -7069,7 +7069,7 @@ China,Macao,visa on arrival
 China,Madagascar,visa on arrival
 China,Malawi,visa on arrival
 China,Malaysia,e-visa
-China,Maldives,30
+China,Maldives,visa on arrival
 China,Mali,visa required
 China,Malta,visa required
 China,Marshall Islands,visa required
@@ -7083,7 +7083,7 @@ China,Mongolia,e-visa
 China,Montenegro,visa required
 China,Morocco,90
 China,Mozambique,30
-China,Myanmar,visa on arrival
+China,Myanmar,e-visa
 China,Namibia,visa required
 China,Nauru,visa required
 China,Nepal,visa on arrival
@@ -7103,7 +7103,7 @@ China,Panama,visa required
 China,Papua New Guinea,visa required
 China,Paraguay,visa required
 China,Peru,visa required
-China,Philippines,visa required
+China,Philippines,e-visa
 China,Poland,visa required
 China,Portugal,visa required
 China,Qatar,visa on arrival
@@ -7139,12 +7139,12 @@ China,Syria,visa required
 China,Taiwan,visa required
 China,Tajikistan,e-visa
 China,Tanzania,visa on arrival
-China,Thailand,30
+China,Thailand,visa on arrival
 China,Timor-Leste,visa on arrival
 China,Togo,visa on arrival
 China,Tonga,visa on arrival
 China,Trinidad and Tobago,visa required
-China,Tunisia,90
+China,Tunisia,visa required
 China,Turkmenistan,visa required
 China,Tuvalu,visa on arrival
 China,Turkey,e-visa
@@ -7166,7 +7166,7 @@ China,Afghanistan,visa required
 Colombia,Albania,90
 Colombia,Algeria,visa required
 Colombia,Andorra,90
-Colombia,Angola,visa required
+Colombia,Angola,visa on arrival
 Colombia,Antigua and Barbuda,visa free
 Colombia,Argentina,90
 Colombia,Armenia,e-visa
@@ -7365,7 +7365,7 @@ Colombia,Afghanistan,visa required
 Comoros,Albania,e-visa
 Comoros,Algeria,visa required
 Comoros,Andorra,visa required
-Comoros,Angola,visa required
+Comoros,Angola,visa on arrival
 Comoros,Antigua and Barbuda,e-visa
 Comoros,Argentina,visa required
 Comoros,Armenia,visa required
@@ -7564,7 +7564,7 @@ Comoros,Afghanistan,visa required
 Congo,Albania,e-visa
 Congo,Algeria,visa required
 Congo,Andorra,visa required
-Congo,Angola,visa required
+Congo,Angola,visa on arrival
 Congo,Antigua and Barbuda,e-visa
 Congo,Argentina,visa required
 Congo,Armenia,visa required
@@ -7763,7 +7763,7 @@ Congo,Afghanistan,visa required
 DR Congo,Albania,e-visa
 DR Congo,Algeria,visa required
 DR Congo,Andorra,visa required
-DR Congo,Angola,visa required
+DR Congo,Angola,visa on arrival
 DR Congo,Antigua and Barbuda,e-visa
 DR Congo,Argentina,visa required
 DR Congo,Armenia,visa required
@@ -7962,7 +7962,7 @@ DR Congo,Afghanistan,visa required
 Costa Rica,Albania,90
 Costa Rica,Algeria,visa required
 Costa Rica,Andorra,90
-Costa Rica,Angola,visa required
+Costa Rica,Angola,visa on arrival
 Costa Rica,Antigua and Barbuda,e-visa
 Costa Rica,Argentina,90
 Costa Rica,Armenia,e-visa
@@ -8161,7 +8161,7 @@ Costa Rica,Afghanistan,visa required
 Ivory Coast,Albania,e-visa
 Ivory Coast,Algeria,visa required
 Ivory Coast,Andorra,visa required
-Ivory Coast,Angola,visa required
+Ivory Coast,Angola,visa on arrival
 Ivory Coast,Antigua and Barbuda,e-visa
 Ivory Coast,Argentina,visa required
 Ivory Coast,Armenia,visa required
@@ -8360,7 +8360,7 @@ Ivory Coast,Afghanistan,visa required
 Croatia,Albania,90
 Croatia,Algeria,visa required
 Croatia,Andorra,visa free
-Croatia,Angola,30
+Croatia,Angola,visa on arrival
 Croatia,Antigua and Barbuda,180
 Croatia,Argentina,90
 Croatia,Armenia,180
@@ -8559,7 +8559,7 @@ Croatia,Afghanistan,visa required
 Cuba,Albania,e-visa
 Cuba,Algeria,visa required
 Cuba,Andorra,visa required
-Cuba,Angola,e-visa
+Cuba,Angola,visa on arrival
 Cuba,Antigua and Barbuda,30
 Cuba,Argentina,visa required
 Cuba,Armenia,e-visa
@@ -8758,7 +8758,7 @@ Cuba,Afghanistan,visa required
 Cyprus,Albania,90
 Cyprus,Algeria,visa required
 Cyprus,Andorra,visa free
-Cyprus,Angola,30
+Cyprus,Angola,visa on arrival
 Cyprus,Antigua and Barbuda,180
 Cyprus,Argentina,90
 Cyprus,Armenia,180
@@ -8957,7 +8957,7 @@ Cyprus,Afghanistan,visa required
 Czech Republic,Albania,90
 Czech Republic,Algeria,visa required
 Czech Republic,Andorra,visa free
-Czech Republic,Angola,30
+Czech Republic,Angola,visa on arrival
 Czech Republic,Antigua and Barbuda,180
 Czech Republic,Argentina,90
 Czech Republic,Armenia,180
@@ -9156,7 +9156,7 @@ Czech Republic,Afghanistan,visa required
 Denmark,Albania,90
 Denmark,Algeria,visa required
 Denmark,Andorra,visa free
-Denmark,Angola,30
+Denmark,Angola,visa on arrival
 Denmark,Antigua and Barbuda,180
 Denmark,Argentina,90
 Denmark,Armenia,180
@@ -9355,7 +9355,7 @@ Denmark,Afghanistan,visa required
 Djibouti,Albania,e-visa
 Djibouti,Algeria,visa required
 Djibouti,Andorra,visa required
-Djibouti,Angola,visa required
+Djibouti,Angola,visa on arrival
 Djibouti,Antigua and Barbuda,e-visa
 Djibouti,Argentina,visa required
 Djibouti,Armenia,visa required
@@ -9554,9 +9554,9 @@ Djibouti,Afghanistan,visa required
 Dominica,Albania,e-visa
 Dominica,Algeria,visa required
 Dominica,Andorra,90
-Dominica,Angola,visa required
+Dominica,Angola,visa on arrival
 Dominica,Antigua and Barbuda,visa free
-Dominica,Argentina,90
+Dominica,Argentina,visa required
 Dominica,Armenia,visa on arrival
 Dominica,Australia,e-visa
 Dominica,Austria,90
@@ -9753,7 +9753,7 @@ Dominica,Afghanistan,visa required
 Dominican Republic,Albania,e-visa
 Dominican Republic,Algeria,visa required
 Dominican Republic,Andorra,visa required
-Dominican Republic,Angola,30
+Dominican Republic,Angola,visa on arrival
 Dominican Republic,Antigua and Barbuda,e-visa
 Dominican Republic,Argentina,visa required
 Dominican Republic,Armenia,visa on arrival
@@ -9952,7 +9952,7 @@ Dominican Republic,Afghanistan,visa required
 Ecuador,Albania,e-visa
 Ecuador,Algeria,visa required
 Ecuador,Andorra,visa required
-Ecuador,Angola,visa required
+Ecuador,Angola,visa on arrival
 Ecuador,Antigua and Barbuda,90
 Ecuador,Argentina,90
 Ecuador,Armenia,180
@@ -10151,7 +10151,7 @@ Ecuador,Afghanistan,visa required
 Egypt,Albania,e-visa
 Egypt,Algeria,visa required
 Egypt,Andorra,visa required
-Egypt,Angola,visa required
+Egypt,Angola,visa on arrival
 Egypt,Antigua and Barbuda,e-visa
 Egypt,Argentina,visa required
 Egypt,Armenia,e-visa
@@ -10350,7 +10350,7 @@ Egypt,Afghanistan,visa required
 El Salvador,Albania,90
 El Salvador,Algeria,visa required
 El Salvador,Andorra,90
-El Salvador,Angola,visa required
+El Salvador,Angola,visa on arrival
 El Salvador,Antigua and Barbuda,e-visa
 El Salvador,Argentina,90
 El Salvador,Armenia,e-visa
@@ -10549,7 +10549,7 @@ El Salvador,Afghanistan,visa required
 Equatorial Guinea,Albania,e-visa
 Equatorial Guinea,Algeria,visa required
 Equatorial Guinea,Andorra,visa required
-Equatorial Guinea,Angola,30
+Equatorial Guinea,Angola,visa on arrival
 Equatorial Guinea,Antigua and Barbuda,e-visa
 Equatorial Guinea,Argentina,visa required
 Equatorial Guinea,Armenia,visa required
@@ -10748,7 +10748,7 @@ Equatorial Guinea,Afghanistan,visa required
 Eritrea,Albania,e-visa
 Eritrea,Algeria,visa required
 Eritrea,Andorra,visa required
-Eritrea,Angola,visa required
+Eritrea,Angola,visa on arrival
 Eritrea,Antigua and Barbuda,e-visa
 Eritrea,Argentina,visa required
 Eritrea,Armenia,visa required
@@ -10947,7 +10947,7 @@ Eritrea,Afghanistan,visa required
 Estonia,Albania,90
 Estonia,Algeria,visa required
 Estonia,Andorra,visa free
-Estonia,Angola,30
+Estonia,Angola,visa on arrival
 Estonia,Antigua and Barbuda,180
 Estonia,Argentina,90
 Estonia,Armenia,180
@@ -11146,7 +11146,7 @@ Estonia,Afghanistan,visa required
 Swaziland,Albania,e-visa
 Swaziland,Algeria,visa required
 Swaziland,Andorra,visa required
-Swaziland,Angola,30
+Swaziland,Angola,visa on arrival
 Swaziland,Antigua and Barbuda,180
 Swaziland,Argentina,visa required
 Swaziland,Armenia,visa required
@@ -11345,7 +11345,7 @@ Swaziland,Afghanistan,visa required
 Ethiopia,Albania,e-visa
 Ethiopia,Algeria,visa required
 Ethiopia,Andorra,visa required
-Ethiopia,Angola,visa required
+Ethiopia,Angola,visa on arrival
 Ethiopia,Antigua and Barbuda,e-visa
 Ethiopia,Argentina,visa required
 Ethiopia,Armenia,visa required
@@ -11544,7 +11544,7 @@ Ethiopia,Afghanistan,visa required
 Fiji,Albania,e-visa
 Fiji,Algeria,visa required
 Fiji,Andorra,visa required
-Fiji,Angola,30
+Fiji,Angola,visa on arrival
 Fiji,Antigua and Barbuda,180
 Fiji,Argentina,90
 Fiji,Armenia,e-visa
@@ -11743,7 +11743,7 @@ Fiji,Afghanistan,visa required
 Finland,Albania,90
 Finland,Algeria,visa required
 Finland,Andorra,visa free
-Finland,Angola,30
+Finland,Angola,visa on arrival
 Finland,Antigua and Barbuda,180
 Finland,Argentina,90
 Finland,Armenia,180
@@ -11942,7 +11942,7 @@ Finland,Afghanistan,visa required
 France,Albania,90
 France,Algeria,visa required
 France,Andorra,visa free
-France,Angola,30
+France,Angola,visa on arrival
 France,Antigua and Barbuda,180
 France,Argentina,90
 France,Armenia,180
@@ -12141,7 +12141,7 @@ France,Afghanistan,visa required
 Gabon,Albania,e-visa
 Gabon,Algeria,visa required
 Gabon,Andorra,visa required
-Gabon,Angola,visa required
+Gabon,Angola,visa on arrival
 Gabon,Antigua and Barbuda,e-visa
 Gabon,Argentina,visa required
 Gabon,Armenia,visa required
@@ -12340,7 +12340,7 @@ Gabon,Afghanistan,visa required
 Gambia,Albania,e-visa
 Gambia,Algeria,visa required
 Gambia,Andorra,visa required
-Gambia,Angola,visa required
+Gambia,Angola,visa on arrival
 Gambia,Antigua and Barbuda,e-visa
 Gambia,Argentina,visa required
 Gambia,Armenia,visa required
@@ -12539,7 +12539,7 @@ Gambia,Afghanistan,visa required
 Georgia,Albania,90
 Georgia,Algeria,visa required
 Georgia,Andorra,90
-Georgia,Angola,visa required
+Georgia,Angola,visa on arrival
 Georgia,Antigua and Barbuda,180
 Georgia,Argentina,90
 Georgia,Armenia,visa free
@@ -12738,7 +12738,7 @@ Georgia,Afghanistan,visa required
 Germany,Albania,90
 Germany,Algeria,visa required
 Germany,Andorra,visa free
-Germany,Angola,30
+Germany,Angola,visa on arrival
 Germany,Antigua and Barbuda,180
 Germany,Argentina,90
 Germany,Armenia,180
@@ -12937,7 +12937,7 @@ Germany,Afghanistan,visa required
 Ghana,Albania,e-visa
 Ghana,Algeria,visa required
 Ghana,Andorra,visa required
-Ghana,Angola,visa required
+Ghana,Angola,visa on arrival
 Ghana,Antigua and Barbuda,e-visa
 Ghana,Argentina,visa required
 Ghana,Armenia,visa required
@@ -13136,7 +13136,7 @@ Ghana,Afghanistan,visa required
 Greece,Albania,90
 Greece,Algeria,visa required
 Greece,Andorra,visa free
-Greece,Angola,30
+Greece,Angola,visa on arrival
 Greece,Antigua and Barbuda,180
 Greece,Argentina,90
 Greece,Armenia,180
@@ -13335,7 +13335,7 @@ Greece,Afghanistan,visa required
 Grenada,Albania,e-visa
 Grenada,Algeria,visa required
 Grenada,Andorra,90
-Grenada,Angola,30
+Grenada,Angola,visa on arrival
 Grenada,Antigua and Barbuda,visa free
 Grenada,Argentina,90
 Grenada,Armenia,e-visa
@@ -13534,7 +13534,7 @@ Grenada,Afghanistan,visa required
 Guatemala,Albania,90
 Guatemala,Algeria,visa required
 Guatemala,Andorra,90
-Guatemala,Angola,visa required
+Guatemala,Angola,visa on arrival
 Guatemala,Antigua and Barbuda,e-visa
 Guatemala,Argentina,90
 Guatemala,Armenia,e-visa
@@ -13733,7 +13733,7 @@ Guatemala,Afghanistan,visa required
 Guinea,Albania,e-visa
 Guinea,Algeria,visa required
 Guinea,Andorra,visa required
-Guinea,Angola,visa required
+Guinea,Angola,visa on arrival
 Guinea,Antigua and Barbuda,e-visa
 Guinea,Argentina,visa required
 Guinea,Armenia,visa required
@@ -13932,7 +13932,7 @@ Guinea,Afghanistan,visa required
 Guinea-Bissau,Albania,e-visa
 Guinea-Bissau,Algeria,visa required
 Guinea-Bissau,Andorra,visa required
-Guinea-Bissau,Angola,visa required
+Guinea-Bissau,Angola,visa on arrival
 Guinea-Bissau,Antigua and Barbuda,e-visa
 Guinea-Bissau,Argentina,visa required
 Guinea-Bissau,Armenia,visa required
@@ -14131,7 +14131,7 @@ Guinea-Bissau,Afghanistan,visa required
 Guyana,Albania,e-visa
 Guyana,Algeria,visa required
 Guyana,Andorra,visa required
-Guyana,Angola,30
+Guyana,Angola,visa on arrival
 Guyana,Antigua and Barbuda,180
 Guyana,Argentina,90
 Guyana,Armenia,e-visa
@@ -14330,7 +14330,7 @@ Guyana,Afghanistan,visa required
 Haiti,Albania,e-visa
 Haiti,Algeria,visa required
 Haiti,Andorra,visa required
-Haiti,Angola,30
+Haiti,Angola,visa on arrival
 Haiti,Antigua and Barbuda,e-visa
 Haiti,Argentina,visa required
 Haiti,Armenia,e-visa
@@ -14529,7 +14529,7 @@ Haiti,Afghanistan,visa required
 Honduras,Albania,90
 Honduras,Algeria,visa required
 Honduras,Andorra,90
-Honduras,Angola,visa required
+Honduras,Angola,visa on arrival
 Honduras,Antigua and Barbuda,e-visa
 Honduras,Argentina,90
 Honduras,Armenia,e-visa
@@ -14728,7 +14728,7 @@ Honduras,Afghanistan,visa required
 Hong Kong,Albania,90
 Hong Kong,Algeria,visa required
 Hong Kong,Andorra,90
-Hong Kong,Angola,visa required
+Hong Kong,Angola,visa on arrival
 Hong Kong,Antigua and Barbuda,30
 Hong Kong,Argentina,90
 Hong Kong,Armenia,180
@@ -14787,7 +14787,7 @@ Hong Kong,Finland,90
 Hong Kong,France,90
 Hong Kong,Gabon,e-visa
 Hong Kong,Gambia,visa required
-Hong Kong,Georgia,30
+Hong Kong,Georgia,e-visa
 Hong Kong,Germany,90
 Hong Kong,Ghana,visa required
 Hong Kong,Greece,90
@@ -14927,7 +14927,7 @@ Hong Kong,Afghanistan,visa required
 Hungary,Albania,90
 Hungary,Algeria,visa required
 Hungary,Andorra,visa free
-Hungary,Angola,30
+Hungary,Angola,visa on arrival
 Hungary,Antigua and Barbuda,180
 Hungary,Argentina,90
 Hungary,Armenia,180
@@ -15126,7 +15126,7 @@ Hungary,Afghanistan,visa required
 Iceland,Albania,90
 Iceland,Algeria,visa required
 Iceland,Andorra,visa free
-Iceland,Angola,30
+Iceland,Angola,visa on arrival
 Iceland,Antigua and Barbuda,180
 Iceland,Argentina,90
 Iceland,Armenia,180
@@ -15325,7 +15325,7 @@ Iceland,Afghanistan,visa required
 India,Albania,e-visa
 India,Algeria,visa required
 India,Andorra,visa required
-India,Angola,30
+India,Angola,visa on arrival
 India,Antigua and Barbuda,e-visa
 India,Argentina,visa required
 India,Armenia,e-visa
@@ -15441,7 +15441,7 @@ India,Mongolia,visa on arrival
 India,Montenegro,visa required
 India,Morocco,e-visa
 India,Mozambique,e-visa
-India,Myanmar,visa on arrival
+India,Myanmar,e-visa
 India,Namibia,visa required
 India,Nauru,visa required
 India,Nepal,visa free
@@ -15524,7 +15524,7 @@ India,Afghanistan,visa required
 Indonesia,Albania,e-visa
 Indonesia,Algeria,visa required
 Indonesia,Andorra,visa required
-Indonesia,Angola,30
+Indonesia,Angola,visa on arrival
 Indonesia,Antigua and Barbuda,e-visa
 Indonesia,Argentina,visa required
 Indonesia,Armenia,e-visa
@@ -15723,7 +15723,7 @@ Indonesia,Afghanistan,visa required
 Iran,Albania,e-visa
 Iran,Algeria,visa required
 Iran,Andorra,visa required
-Iran,Angola,visa required
+Iran,Angola,visa on arrival
 Iran,Antigua and Barbuda,e-visa
 Iran,Argentina,visa required
 Iran,Armenia,90
@@ -15922,7 +15922,7 @@ Iran,Afghanistan,visa required
 Iraq,Albania,e-visa
 Iraq,Algeria,visa required
 Iraq,Andorra,visa required
-Iraq,Angola,visa required
+Iraq,Angola,visa on arrival
 Iraq,Antigua and Barbuda,e-visa
 Iraq,Argentina,visa required
 Iraq,Armenia,e-visa
@@ -16121,7 +16121,7 @@ Iraq,Afghanistan,visa required
 Ireland,Albania,90
 Ireland,Algeria,visa required
 Ireland,Andorra,visa free
-Ireland,Angola,30
+Ireland,Angola,visa on arrival
 Ireland,Antigua and Barbuda,180
 Ireland,Argentina,90
 Ireland,Armenia,180
@@ -16320,7 +16320,7 @@ Ireland,Afghanistan,visa required
 Israel,Albania,90
 Israel,Algeria,no admission
 Israel,Andorra,90
-Israel,Angola,30
+Israel,Angola,visa on arrival
 Israel,Antigua and Barbuda,e-visa
 Israel,Argentina,90
 Israel,Armenia,visa on arrival
@@ -16519,7 +16519,7 @@ Israel,Afghanistan,visa required
 Italy,Albania,90
 Italy,Algeria,visa required
 Italy,Andorra,visa free
-Italy,Angola,30
+Italy,Angola,visa on arrival
 Italy,Antigua and Barbuda,180
 Italy,Argentina,90
 Italy,Armenia,180
@@ -16718,7 +16718,7 @@ Italy,Afghanistan,visa required
 Jamaica,Albania,e-visa
 Jamaica,Algeria,visa required
 Jamaica,Andorra,visa required
-Jamaica,Angola,30
+Jamaica,Angola,visa on arrival
 Jamaica,Antigua and Barbuda,180
 Jamaica,Argentina,90
 Jamaica,Armenia,e-visa
@@ -16917,7 +16917,7 @@ Jamaica,Afghanistan,visa required
 Japan,Albania,90
 Japan,Algeria,visa required
 Japan,Andorra,90
-Japan,Angola,30
+Japan,Angola,visa on arrival
 Japan,Antigua and Barbuda,180
 Japan,Argentina,90
 Japan,Armenia,180
@@ -17116,7 +17116,7 @@ Japan,Afghanistan,visa required
 Jordan,Albania,e-visa
 Jordan,Algeria,visa required
 Jordan,Andorra,visa required
-Jordan,Angola,visa required
+Jordan,Angola,visa on arrival
 Jordan,Antigua and Barbuda,e-visa
 Jordan,Argentina,visa required
 Jordan,Armenia,visa on arrival
@@ -17315,7 +17315,7 @@ Jordan,Afghanistan,visa required
 Kazakhstan,Albania,90
 Kazakhstan,Algeria,visa required
 Kazakhstan,Andorra,visa required
-Kazakhstan,Angola,visa required
+Kazakhstan,Angola,visa on arrival
 Kazakhstan,Antigua and Barbuda,180
 Kazakhstan,Argentina,90
 Kazakhstan,Armenia,180
@@ -17487,7 +17487,7 @@ Kazakhstan,Syria,visa required
 Kazakhstan,Taiwan,visa required
 Kazakhstan,Tajikistan,visa free
 Kazakhstan,Tanzania,e-visa
-Kazakhstan,Thailand,30
+Kazakhstan,Thailand,visa on arrival
 Kazakhstan,Timor-Leste,visa on arrival
 Kazakhstan,Togo,visa on arrival
 Kazakhstan,Tonga,visa required
@@ -17514,7 +17514,7 @@ Kazakhstan,Afghanistan,visa required
 Kenya,Albania,e-visa
 Kenya,Algeria,visa required
 Kenya,Andorra,visa required
-Kenya,Angola,visa required
+Kenya,Angola,visa on arrival
 Kenya,Antigua and Barbuda,180
 Kenya,Argentina,visa required
 Kenya,Armenia,visa required
@@ -17713,7 +17713,7 @@ Kenya,Afghanistan,visa required
 Kiribati,Albania,e-visa
 Kiribati,Algeria,visa required
 Kiribati,Andorra,90
-Kiribati,Angola,30
+Kiribati,Angola,visa on arrival
 Kiribati,Antigua and Barbuda,180
 Kiribati,Argentina,visa required
 Kiribati,Armenia,e-visa
@@ -17912,7 +17912,7 @@ Kiribati,Afghanistan,visa required
 Kosovo,Albania,90
 Kosovo,Algeria,visa required
 Kosovo,Andorra,visa required
-Kosovo,Angola,visa required
+Kosovo,Angola,visa on arrival
 Kosovo,Antigua and Barbuda,90
 Kosovo,Argentina,visa required
 Kosovo,Armenia,no admission
@@ -18111,7 +18111,7 @@ Kosovo,Afghanistan,visa required
 Kuwait,Albania,90
 Kuwait,Algeria,visa required
 Kuwait,Andorra,visa required
-Kuwait,Angola,visa required
+Kuwait,Angola,visa on arrival
 Kuwait,Antigua and Barbuda,e-visa
 Kuwait,Argentina,visa required
 Kuwait,Armenia,180
@@ -18310,7 +18310,7 @@ Kuwait,Afghanistan,visa required
 Kyrgyzstan,Albania,e-visa
 Kyrgyzstan,Algeria,visa required
 Kyrgyzstan,Andorra,visa required
-Kyrgyzstan,Angola,visa required
+Kyrgyzstan,Angola,visa on arrival
 Kyrgyzstan,Antigua and Barbuda,180
 Kyrgyzstan,Argentina,visa required
 Kyrgyzstan,Armenia,180
@@ -18356,7 +18356,7 @@ Kyrgyzstan,Denmark,visa required
 Kyrgyzstan,Djibouti,e-visa
 Kyrgyzstan,Dominica,21
 Kyrgyzstan,Dominican Republic,visa required
-Kyrgyzstan,Ecuador,e-visa
+Kyrgyzstan,Ecuador,90
 Kyrgyzstan,Egypt,visa required
 Kyrgyzstan,El Salvador,visa required
 Kyrgyzstan,Equatorial Guinea,e-visa
@@ -18509,7 +18509,7 @@ Kyrgyzstan,Afghanistan,visa required
 Laos,Albania,e-visa
 Laos,Algeria,visa required
 Laos,Andorra,visa required
-Laos,Angola,visa required
+Laos,Angola,visa on arrival
 Laos,Antigua and Barbuda,e-visa
 Laos,Argentina,visa required
 Laos,Armenia,e-visa
@@ -18708,7 +18708,7 @@ Laos,Afghanistan,visa required
 Latvia,Albania,90
 Latvia,Algeria,visa required
 Latvia,Andorra,visa free
-Latvia,Angola,30
+Latvia,Angola,visa on arrival
 Latvia,Antigua and Barbuda,180
 Latvia,Argentina,90
 Latvia,Armenia,180
@@ -18907,7 +18907,7 @@ Latvia,Afghanistan,visa required
 Lebanon,Albania,e-visa
 Lebanon,Algeria,visa required
 Lebanon,Andorra,visa required
-Lebanon,Angola,visa required
+Lebanon,Angola,visa on arrival
 Lebanon,Antigua and Barbuda,e-visa
 Lebanon,Argentina,visa required
 Lebanon,Armenia,visa on arrival
@@ -19106,7 +19106,7 @@ Lebanon,Afghanistan,visa required
 Lesotho,Albania,e-visa
 Lesotho,Algeria,visa required
 Lesotho,Andorra,visa required
-Lesotho,Angola,30
+Lesotho,Angola,visa on arrival
 Lesotho,Antigua and Barbuda,180
 Lesotho,Argentina,visa required
 Lesotho,Armenia,visa required
@@ -19305,7 +19305,7 @@ Lesotho,Afghanistan,visa required
 Liberia,Albania,e-visa
 Liberia,Algeria,visa required
 Liberia,Andorra,visa required
-Liberia,Angola,visa required
+Liberia,Angola,visa on arrival
 Liberia,Antigua and Barbuda,e-visa
 Liberia,Argentina,visa required
 Liberia,Armenia,visa required
@@ -19504,7 +19504,7 @@ Liberia,Afghanistan,visa required
 Libya,Albania,e-visa
 Libya,Algeria,90
 Libya,Andorra,visa required
-Libya,Angola,visa required
+Libya,Angola,visa on arrival
 Libya,Antigua and Barbuda,e-visa
 Libya,Argentina,visa required
 Libya,Armenia,visa required
@@ -19703,7 +19703,7 @@ Libya,Afghanistan,visa required
 Liechtenstein,Albania,90
 Liechtenstein,Algeria,visa required
 Liechtenstein,Andorra,visa free
-Liechtenstein,Angola,visa required
+Liechtenstein,Angola,visa on arrival
 Liechtenstein,Antigua and Barbuda,180
 Liechtenstein,Argentina,90
 Liechtenstein,Armenia,180
@@ -19902,7 +19902,7 @@ Liechtenstein,Afghanistan,visa required
 Lithuania,Albania,90
 Lithuania,Algeria,visa required
 Lithuania,Andorra,visa free
-Lithuania,Angola,30
+Lithuania,Angola,visa on arrival
 Lithuania,Antigua and Barbuda,180
 Lithuania,Argentina,90
 Lithuania,Armenia,180
@@ -20101,7 +20101,7 @@ Lithuania,Afghanistan,visa required
 Luxembourg,Albania,90
 Luxembourg,Algeria,visa required
 Luxembourg,Andorra,visa free
-Luxembourg,Angola,30
+Luxembourg,Angola,visa on arrival
 Luxembourg,Antigua and Barbuda,180
 Luxembourg,Argentina,90
 Luxembourg,Armenia,180
@@ -20300,7 +20300,7 @@ Luxembourg,Afghanistan,visa required
 Macao,Albania,90
 Macao,Algeria,visa required
 Macao,Andorra,90
-Macao,Angola,visa required
+Macao,Angola,visa on arrival
 Macao,Antigua and Barbuda,30
 Macao,Argentina,90
 Macao,Armenia,90
@@ -20499,7 +20499,7 @@ Macao,Afghanistan,visa required
 Madagascar,Albania,e-visa
 Madagascar,Algeria,visa required
 Madagascar,Andorra,visa required
-Madagascar,Angola,30
+Madagascar,Angola,visa on arrival
 Madagascar,Antigua and Barbuda,180
 Madagascar,Argentina,visa required
 Madagascar,Armenia,visa required
@@ -20698,7 +20698,7 @@ Madagascar,Afghanistan,visa required
 Malawi,Albania,e-visa
 Malawi,Algeria,visa required
 Malawi,Andorra,visa required
-Malawi,Angola,30
+Malawi,Angola,visa on arrival
 Malawi,Antigua and Barbuda,180
 Malawi,Argentina,visa required
 Malawi,Armenia,visa required
@@ -20897,7 +20897,7 @@ Malawi,Afghanistan,visa required
 Malaysia,Albania,90
 Malaysia,Algeria,90
 Malaysia,Andorra,90
-Malaysia,Angola,visa required
+Malaysia,Angola,visa on arrival
 Malaysia,Antigua and Barbuda,180
 Malaysia,Argentina,30
 Malaysia,Armenia,e-visa
@@ -21096,7 +21096,7 @@ Malaysia,Afghanistan,visa required
 Maldives,Albania,e-visa
 Maldives,Algeria,visa required
 Maldives,Andorra,visa required
-Maldives,Angola,visa required
+Maldives,Angola,visa on arrival
 Maldives,Antigua and Barbuda,180
 Maldives,Argentina,visa required
 Maldives,Armenia,visa required
@@ -21295,7 +21295,7 @@ Maldives,Afghanistan,visa required
 Mali,Albania,e-visa
 Mali,Algeria,90
 Mali,Andorra,visa required
-Mali,Angola,visa required
+Mali,Angola,visa on arrival
 Mali,Antigua and Barbuda,e-visa
 Mali,Argentina,visa required
 Mali,Armenia,visa required
@@ -21494,7 +21494,7 @@ Mali,Afghanistan,visa required
 Malta,Albania,90
 Malta,Algeria,visa required
 Malta,Andorra,visa free
-Malta,Angola,30
+Malta,Angola,visa on arrival
 Malta,Antigua and Barbuda,180
 Malta,Argentina,90
 Malta,Armenia,180
@@ -21693,7 +21693,7 @@ Malta,Afghanistan,visa required
 Marshall Islands,Albania,e-visa
 Marshall Islands,Algeria,visa required
 Marshall Islands,Andorra,90
-Marshall Islands,Angola,30
+Marshall Islands,Angola,visa on arrival
 Marshall Islands,Antigua and Barbuda,180
 Marshall Islands,Argentina,visa required
 Marshall Islands,Armenia,e-visa
@@ -21892,7 +21892,7 @@ Marshall Islands,Afghanistan,visa required
 Mauritania,Albania,e-visa
 Mauritania,Algeria,90
 Mauritania,Andorra,visa required
-Mauritania,Angola,visa required
+Mauritania,Angola,visa on arrival
 Mauritania,Antigua and Barbuda,e-visa
 Mauritania,Argentina,visa required
 Mauritania,Armenia,visa required
@@ -21938,7 +21938,7 @@ Mauritania,Denmark,visa required
 Mauritania,Djibouti,e-visa
 Mauritania,Dominica,21
 Mauritania,Dominican Republic,visa required
-Mauritania,Ecuador,e-visa
+Mauritania,Ecuador,90
 Mauritania,Egypt,visa required
 Mauritania,El Salvador,visa required
 Mauritania,Equatorial Guinea,e-visa
@@ -22290,7 +22290,7 @@ Mauritius,Afghanistan,visa required
 Mexico,Albania,90
 Mexico,Algeria,visa required
 Mexico,Andorra,90
-Mexico,Angola,30
+Mexico,Angola,visa on arrival
 Mexico,Antigua and Barbuda,180
 Mexico,Argentina,90
 Mexico,Armenia,visa on arrival
@@ -22489,7 +22489,7 @@ Mexico,Afghanistan,visa required
 Micronesia,Albania,e-visa
 Micronesia,Algeria,visa required
 Micronesia,Andorra,90
-Micronesia,Angola,30
+Micronesia,Angola,visa on arrival
 Micronesia,Antigua and Barbuda,e-visa
 Micronesia,Argentina,visa required
 Micronesia,Armenia,e-visa
@@ -22688,7 +22688,7 @@ Micronesia,Afghanistan,visa required
 Moldova,Albania,90
 Moldova,Algeria,visa required
 Moldova,Andorra,90
-Moldova,Angola,visa required
+Moldova,Angola,visa on arrival
 Moldova,Antigua and Barbuda,180
 Moldova,Argentina,visa required
 Moldova,Armenia,visa free
@@ -22887,7 +22887,7 @@ Moldova,Afghanistan,visa required
 Monaco,Albania,90
 Monaco,Algeria,visa required
 Monaco,Andorra,visa free
-Monaco,Angola,30
+Monaco,Angola,visa on arrival
 Monaco,Antigua and Barbuda,180
 Monaco,Argentina,90
 Monaco,Armenia,180
@@ -23086,7 +23086,7 @@ Monaco,Afghanistan,visa required
 Mongolia,Albania,e-visa
 Mongolia,Algeria,visa required
 Mongolia,Andorra,visa required
-Mongolia,Angola,visa required
+Mongolia,Angola,visa on arrival
 Mongolia,Antigua and Barbuda,e-visa
 Mongolia,Argentina,90
 Mongolia,Armenia,e-visa
@@ -23285,7 +23285,7 @@ Mongolia,Afghanistan,visa required
 Montenegro,Albania,90
 Montenegro,Algeria,visa required
 Montenegro,Andorra,90
-Montenegro,Angola,visa required
+Montenegro,Angola,visa on arrival
 Montenegro,Antigua and Barbuda,e-visa
 Montenegro,Argentina,90
 Montenegro,Armenia,180
@@ -23484,7 +23484,7 @@ Montenegro,Afghanistan,visa required
 Morocco,Albania,e-visa
 Morocco,Algeria,90
 Morocco,Andorra,visa required
-Morocco,Angola,30
+Morocco,Angola,visa on arrival
 Morocco,Antigua and Barbuda,e-visa
 Morocco,Argentina,visa required
 Morocco,Armenia,e-visa
@@ -23683,7 +23683,7 @@ Morocco,Afghanistan,visa required
 Mozambique,Albania,e-visa
 Mozambique,Algeria,visa required
 Mozambique,Andorra,visa required
-Mozambique,Angola,visa required
+Mozambique,Angola,30
 Mozambique,Antigua and Barbuda,e-visa
 Mozambique,Argentina,visa required
 Mozambique,Armenia,visa required
@@ -23757,7 +23757,7 @@ Mozambique,Hong Kong,14
 Mozambique,Hungary,visa required
 Mozambique,Iceland,visa required
 Mozambique,India,e-visa
-Mozambique,Indonesia,visa on arrival
+Mozambique,Indonesia,visa required
 Mozambique,Iran,e-visa
 Mozambique,Iraq,visa required
 Mozambique,Ireland,visa required
@@ -23882,7 +23882,7 @@ Mozambique,Afghanistan,visa required
 Myanmar,Albania,e-visa
 Myanmar,Algeria,visa required
 Myanmar,Andorra,visa required
-Myanmar,Angola,visa required
+Myanmar,Angola,visa on arrival
 Myanmar,Antigua and Barbuda,e-visa
 Myanmar,Argentina,visa required
 Myanmar,Armenia,e-visa
@@ -24280,7 +24280,7 @@ Namibia,Afghanistan,visa required
 Nauru,Albania,e-visa
 Nauru,Algeria,visa required
 Nauru,Andorra,visa required
-Nauru,Angola,30
+Nauru,Angola,visa on arrival
 Nauru,Antigua and Barbuda,180
 Nauru,Argentina,visa required
 Nauru,Armenia,e-visa
@@ -24479,7 +24479,7 @@ Nauru,Afghanistan,visa required
 Nepal,Albania,e-visa
 Nepal,Algeria,visa required
 Nepal,Andorra,visa required
-Nepal,Angola,visa required
+Nepal,Angola,visa on arrival
 Nepal,Antigua and Barbuda,e-visa
 Nepal,Argentina,visa required
 Nepal,Armenia,visa required
@@ -24678,7 +24678,7 @@ Nepal,Afghanistan,visa required
 Netherlands,Albania,90
 Netherlands,Algeria,visa required
 Netherlands,Andorra,visa free
-Netherlands,Angola,30
+Netherlands,Angola,visa on arrival
 Netherlands,Antigua and Barbuda,180
 Netherlands,Argentina,90
 Netherlands,Armenia,180
@@ -24877,7 +24877,7 @@ Netherlands,Afghanistan,visa required
 New Zealand,Albania,90
 New Zealand,Algeria,visa required
 New Zealand,Andorra,90
-New Zealand,Angola,30
+New Zealand,Angola,visa on arrival
 New Zealand,Antigua and Barbuda,180
 New Zealand,Argentina,90
 New Zealand,Armenia,180
@@ -25076,7 +25076,7 @@ New Zealand,Afghanistan,visa required
 Nicaragua,Albania,90
 Nicaragua,Algeria,visa required
 Nicaragua,Andorra,90
-Nicaragua,Angola,visa required
+Nicaragua,Angola,visa on arrival
 Nicaragua,Antigua and Barbuda,e-visa
 Nicaragua,Argentina,90
 Nicaragua,Armenia,e-visa
@@ -25275,7 +25275,7 @@ Nicaragua,Afghanistan,visa required
 Niger,Albania,e-visa
 Niger,Algeria,visa required
 Niger,Andorra,visa required
-Niger,Angola,visa required
+Niger,Angola,visa on arrival
 Niger,Antigua and Barbuda,e-visa
 Niger,Argentina,visa required
 Niger,Armenia,visa required
@@ -25474,7 +25474,7 @@ Niger,Afghanistan,visa required
 Nigeria,Albania,e-visa
 Nigeria,Algeria,visa required
 Nigeria,Andorra,visa required
-Nigeria,Angola,visa required
+Nigeria,Angola,visa on arrival
 Nigeria,Antigua and Barbuda,e-visa
 Nigeria,Argentina,visa required
 Nigeria,Armenia,visa required
@@ -25673,7 +25673,7 @@ Nigeria,Afghanistan,visa required
 North Korea,Albania,e-visa
 North Korea,Algeria,visa required
 North Korea,Andorra,visa required
-North Korea,Angola,visa required
+North Korea,Angola,visa on arrival
 North Korea,Antigua and Barbuda,e-visa
 North Korea,Argentina,visa required
 North Korea,Armenia,visa on arrival
@@ -25872,7 +25872,7 @@ North Korea,Afghanistan,visa required
 North Macedonia,Albania,90
 North Macedonia,Algeria,visa required
 North Macedonia,Andorra,90
-North Macedonia,Angola,visa required
+North Macedonia,Angola,visa on arrival
 North Macedonia,Antigua and Barbuda,180
 North Macedonia,Argentina,90
 North Macedonia,Armenia,visa on arrival
@@ -26071,7 +26071,7 @@ North Macedonia,Afghanistan,visa required
 Norway,Albania,90
 Norway,Algeria,visa required
 Norway,Andorra,visa free
-Norway,Angola,e-visa
+Norway,Angola,visa on arrival
 Norway,Antigua and Barbuda,180
 Norway,Argentina,90
 Norway,Armenia,180
@@ -26270,7 +26270,7 @@ Norway,Afghanistan,visa required
 Oman,Albania,90
 Oman,Algeria,visa required
 Oman,Andorra,visa required
-Oman,Angola,visa required
+Oman,Angola,visa on arrival
 Oman,Antigua and Barbuda,e-visa
 Oman,Argentina,visa required
 Oman,Armenia,visa on arrival
@@ -26469,7 +26469,7 @@ Oman,Afghanistan,visa required
 Pakistan,Albania,e-visa
 Pakistan,Algeria,visa required
 Pakistan,Andorra,visa required
-Pakistan,Angola,visa required
+Pakistan,Angola,visa on arrival
 Pakistan,Antigua and Barbuda,e-visa
 Pakistan,Argentina,visa required
 Pakistan,Armenia,visa required
@@ -26668,7 +26668,7 @@ Pakistan,Afghanistan,visa required
 Palau,Albania,e-visa
 Palau,Algeria,visa required
 Palau,Andorra,90
-Palau,Angola,30
+Palau,Angola,visa on arrival
 Palau,Antigua and Barbuda,e-visa
 Palau,Argentina,visa required
 Palau,Armenia,e-visa
@@ -26867,7 +26867,7 @@ Palau,Afghanistan,visa required
 Palestine,Albania,e-visa
 Palestine,Algeria,visa required
 Palestine,Andorra,visa required
-Palestine,Angola,visa required
+Palestine,Angola,visa on arrival
 Palestine,Antigua and Barbuda,e-visa
 Palestine,Argentina,visa required
 Palestine,Armenia,visa required
@@ -27025,7 +27025,7 @@ Palestine,Slovakia,visa required
 Palestine,Slovenia,visa required
 Palestine,Solomon Islands,visa required
 Palestine,Somalia,visa on arrival
-Palestine,South Africa,90
+Palestine,South Africa,visa required
 Palestine,South Korea,visa required
 Palestine,South Sudan,e-visa
 Palestine,Spain,visa required
@@ -27066,7 +27066,7 @@ Palestine,Afghanistan,visa required
 Panama,Albania,90
 Panama,Algeria,visa required
 Panama,Andorra,90
-Panama,Angola,30
+Panama,Angola,visa on arrival
 Panama,Antigua and Barbuda,180
 Panama,Argentina,90
 Panama,Armenia,visa on arrival
@@ -27265,7 +27265,7 @@ Panama,Afghanistan,visa required
 Papua New Guinea,Albania,e-visa
 Papua New Guinea,Algeria,visa required
 Papua New Guinea,Andorra,visa required
-Papua New Guinea,Angola,30
+Papua New Guinea,Angola,visa on arrival
 Papua New Guinea,Antigua and Barbuda,180
 Papua New Guinea,Argentina,visa required
 Papua New Guinea,Armenia,e-visa
@@ -27464,7 +27464,7 @@ Papua New Guinea,Afghanistan,visa required
 Paraguay,Albania,90
 Paraguay,Algeria,visa required
 Paraguay,Andorra,90
-Paraguay,Angola,visa required
+Paraguay,Angola,visa on arrival
 Paraguay,Antigua and Barbuda,e-visa
 Paraguay,Argentina,90
 Paraguay,Armenia,e-visa
@@ -27663,7 +27663,7 @@ Paraguay,Afghanistan,visa required
 Peru,Albania,90
 Peru,Algeria,visa required
 Peru,Andorra,90
-Peru,Angola,visa required
+Peru,Angola,visa on arrival
 Peru,Antigua and Barbuda,180
 Peru,Argentina,90
 Peru,Armenia,visa on arrival
@@ -27862,7 +27862,7 @@ Peru,Afghanistan,visa required
 Philippines,Albania,e-visa
 Philippines,Algeria,visa required
 Philippines,Andorra,visa required
-Philippines,Angola,visa required
+Philippines,Angola,visa on arrival
 Philippines,Antigua and Barbuda,e-visa
 Philippines,Argentina,visa required
 Philippines,Armenia,e-visa
@@ -28061,7 +28061,7 @@ Philippines,Afghanistan,visa required
 Poland,Albania,90
 Poland,Algeria,visa required
 Poland,Andorra,visa free
-Poland,Angola,30
+Poland,Angola,visa on arrival
 Poland,Antigua and Barbuda,180
 Poland,Argentina,90
 Poland,Armenia,180
@@ -28260,7 +28260,7 @@ Poland,Afghanistan,visa required
 Portugal,Albania,90
 Portugal,Algeria,visa required
 Portugal,Andorra,visa free
-Portugal,Angola,30
+Portugal,Angola,visa on arrival
 Portugal,Antigua and Barbuda,180
 Portugal,Argentina,90
 Portugal,Armenia,180
@@ -28459,7 +28459,7 @@ Portugal,Afghanistan,visa required
 Qatar,Albania,90
 Qatar,Algeria,visa required
 Qatar,Andorra,visa required
-Qatar,Angola,30
+Qatar,Angola,visa on arrival
 Qatar,Antigua and Barbuda,e-visa
 Qatar,Argentina,90
 Qatar,Armenia,180
@@ -28658,7 +28658,7 @@ Qatar,Afghanistan,visa required
 Romania,Albania,90
 Romania,Algeria,visa required
 Romania,Andorra,visa free
-Romania,Angola,30
+Romania,Angola,visa on arrival
 Romania,Antigua and Barbuda,180
 Romania,Argentina,90
 Romania,Armenia,180
@@ -28857,7 +28857,7 @@ Romania,Afghanistan,visa required
 Russia,Albania,e-visa
 Russia,Algeria,visa required
 Russia,Andorra,visa required
-Russia,Angola,30
+Russia,Angola,visa on arrival
 Russia,Antigua and Barbuda,90
 Russia,Argentina,90
 Russia,Armenia,180
@@ -29255,7 +29255,7 @@ Rwanda,Afghanistan,visa required
 Saint Kitts and Nevis,Albania,90
 Saint Kitts and Nevis,Algeria,visa required
 Saint Kitts and Nevis,Andorra,90
-Saint Kitts and Nevis,Angola,30
+Saint Kitts and Nevis,Angola,visa on arrival
 Saint Kitts and Nevis,Antigua and Barbuda,visa free
 Saint Kitts and Nevis,Argentina,90
 Saint Kitts and Nevis,Armenia,e-visa
@@ -29454,7 +29454,7 @@ Saint Kitts and Nevis,Afghanistan,visa required
 Saint Lucia,Albania,e-visa
 Saint Lucia,Algeria,visa required
 Saint Lucia,Andorra,90
-Saint Lucia,Angola,30
+Saint Lucia,Angola,visa on arrival
 Saint Lucia,Antigua and Barbuda,visa free
 Saint Lucia,Argentina,90
 Saint Lucia,Armenia,e-visa
@@ -29653,7 +29653,7 @@ Saint Lucia,Afghanistan,visa required
 Samoa,Albania,e-visa
 Samoa,Algeria,visa required
 Samoa,Andorra,90
-Samoa,Angola,30
+Samoa,Angola,visa on arrival
 Samoa,Antigua and Barbuda,180
 Samoa,Argentina,visa required
 Samoa,Armenia,visa required
@@ -29852,7 +29852,7 @@ Samoa,Afghanistan,visa required
 San Marino,Albania,90
 San Marino,Algeria,visa required
 San Marino,Andorra,90
-San Marino,Angola,visa required
+San Marino,Angola,visa on arrival
 San Marino,Antigua and Barbuda,180
 San Marino,Argentina,90
 San Marino,Armenia,180
@@ -30051,7 +30051,7 @@ San Marino,Afghanistan,visa required
 Sao Tome and Principe,Albania,e-visa
 Sao Tome and Principe,Algeria,visa required
 Sao Tome and Principe,Andorra,visa required
-Sao Tome and Principe,Angola,e-visa
+Sao Tome and Principe,Angola,visa on arrival
 Sao Tome and Principe,Antigua and Barbuda,e-visa
 Sao Tome and Principe,Argentina,visa required
 Sao Tome and Principe,Armenia,visa required
@@ -30250,7 +30250,7 @@ Sao Tome and Principe,Afghanistan,visa required
 Saudi Arabia,Albania,90
 Saudi Arabia,Algeria,visa required
 Saudi Arabia,Andorra,visa required
-Saudi Arabia,Angola,30
+Saudi Arabia,Angola,visa on arrival
 Saudi Arabia,Antigua and Barbuda,e-visa
 Saudi Arabia,Argentina,visa required
 Saudi Arabia,Armenia,e-visa
@@ -30363,7 +30363,7 @@ Saudi Arabia,Micronesia,30
 Saudi Arabia,Moldova,e-visa
 Saudi Arabia,Monaco,visa required
 Saudi Arabia,Mongolia,e-visa
-Saudi Arabia,Montenegro,30
+Saudi Arabia,Montenegro,90
 Saudi Arabia,Morocco,90
 Saudi Arabia,Mozambique,30
 Saudi Arabia,Myanmar,e-visa
@@ -30449,7 +30449,7 @@ Saudi Arabia,Afghanistan,visa required
 Senegal,Albania,e-visa
 Senegal,Algeria,visa required
 Senegal,Andorra,visa required
-Senegal,Angola,visa required
+Senegal,Angola,visa on arrival
 Senegal,Antigua and Barbuda,e-visa
 Senegal,Argentina,visa required
 Senegal,Armenia,visa required
@@ -30648,7 +30648,7 @@ Senegal,Afghanistan,visa required
 Serbia,Albania,90
 Serbia,Algeria,visa required
 Serbia,Andorra,90
-Serbia,Angola,visa required
+Serbia,Angola,visa on arrival
 Serbia,Antigua and Barbuda,180
 Serbia,Argentina,90
 Serbia,Armenia,180
@@ -31046,7 +31046,7 @@ Seychelles,Afghanistan,visa required
 Sierra Leone,Albania,e-visa
 Sierra Leone,Algeria,visa required
 Sierra Leone,Andorra,visa required
-Sierra Leone,Angola,visa required
+Sierra Leone,Angola,visa on arrival
 Sierra Leone,Antigua and Barbuda,e-visa
 Sierra Leone,Argentina,visa required
 Sierra Leone,Armenia,visa required
@@ -31312,7 +31312,7 @@ Singapore,Grenada,90
 Singapore,Guatemala,90
 Singapore,Guinea,30
 Singapore,Guinea-Bissau,visa on arrival
-Singapore,Guyana,30
+Singapore,Guyana,visa required
 Singapore,Haiti,90
 Singapore,Honduras,90
 Singapore,Hong Kong,90
@@ -31444,7 +31444,7 @@ Singapore,Afghanistan,visa required
 Slovakia,Albania,90
 Slovakia,Algeria,visa required
 Slovakia,Andorra,visa free
-Slovakia,Angola,30
+Slovakia,Angola,visa on arrival
 Slovakia,Antigua and Barbuda,180
 Slovakia,Argentina,90
 Slovakia,Armenia,180
@@ -31643,7 +31643,7 @@ Slovakia,Afghanistan,visa required
 Slovenia,Albania,90
 Slovenia,Algeria,visa required
 Slovenia,Andorra,visa free
-Slovenia,Angola,30
+Slovenia,Angola,visa on arrival
 Slovenia,Antigua and Barbuda,180
 Slovenia,Argentina,90
 Slovenia,Armenia,180
@@ -31842,7 +31842,7 @@ Slovenia,Afghanistan,visa required
 Solomon Islands,Albania,e-visa
 Solomon Islands,Algeria,visa required
 Solomon Islands,Andorra,90
-Solomon Islands,Angola,30
+Solomon Islands,Angola,visa on arrival
 Solomon Islands,Antigua and Barbuda,180
 Solomon Islands,Argentina,visa required
 Solomon Islands,Armenia,e-visa
@@ -32041,7 +32041,7 @@ Solomon Islands,Afghanistan,visa required
 Somalia,Albania,e-visa
 Somalia,Algeria,visa required
 Somalia,Andorra,visa required
-Somalia,Angola,visa required
+Somalia,Angola,visa on arrival
 Somalia,Antigua and Barbuda,e-visa
 Somalia,Argentina,visa required
 Somalia,Armenia,visa required
@@ -32439,7 +32439,7 @@ South Africa,Afghanistan,visa required
 South Korea,Albania,90
 South Korea,Algeria,visa required
 South Korea,Andorra,90
-South Korea,Angola,30
+South Korea,Angola,visa on arrival
 South Korea,Antigua and Barbuda,180
 South Korea,Argentina,90
 South Korea,Armenia,180
@@ -32638,7 +32638,7 @@ South Korea,Afghanistan,visa required
 South Sudan,Albania,e-visa
 South Sudan,Algeria,visa required
 South Sudan,Andorra,visa required
-South Sudan,Angola,visa required
+South Sudan,Angola,visa on arrival
 South Sudan,Antigua and Barbuda,e-visa
 South Sudan,Argentina,visa required
 South Sudan,Armenia,visa required
@@ -32837,7 +32837,7 @@ South Sudan,Afghanistan,visa required
 Spain,Albania,90
 Spain,Algeria,visa required
 Spain,Andorra,visa free
-Spain,Angola,30
+Spain,Angola,visa on arrival
 Spain,Antigua and Barbuda,180
 Spain,Argentina,90
 Spain,Armenia,180
@@ -33036,7 +33036,7 @@ Spain,Afghanistan,visa required
 Sri Lanka,Albania,e-visa
 Sri Lanka,Algeria,visa required
 Sri Lanka,Andorra,visa required
-Sri Lanka,Angola,visa required
+Sri Lanka,Angola,visa on arrival
 Sri Lanka,Antigua and Barbuda,e-visa
 Sri Lanka,Argentina,visa required
 Sri Lanka,Armenia,visa required
@@ -33235,7 +33235,7 @@ Sri Lanka,Afghanistan,visa required
 Saint Vincent and the Grenadines,Albania,e-visa
 Saint Vincent and the Grenadines,Algeria,visa required
 Saint Vincent and the Grenadines,Andorra,90
-Saint Vincent and the Grenadines,Angola,30
+Saint Vincent and the Grenadines,Angola,visa on arrival
 Saint Vincent and the Grenadines,Antigua and Barbuda,visa free
 Saint Vincent and the Grenadines,Argentina,90
 Saint Vincent and the Grenadines,Armenia,visa on arrival
@@ -33434,7 +33434,7 @@ Saint Vincent and the Grenadines,Afghanistan,visa required
 Sudan,Albania,e-visa
 Sudan,Algeria,visa required
 Sudan,Andorra,visa required
-Sudan,Angola,visa required
+Sudan,Angola,visa on arrival
 Sudan,Antigua and Barbuda,e-visa
 Sudan,Argentina,visa required
 Sudan,Armenia,visa required
@@ -33480,7 +33480,7 @@ Sudan,Denmark,visa required
 Sudan,Djibouti,e-visa
 Sudan,Dominica,21
 Sudan,Dominican Republic,visa required
-Sudan,Ecuador,e-visa
+Sudan,Ecuador,90
 Sudan,Egypt,visa required
 Sudan,El Salvador,visa required
 Sudan,Equatorial Guinea,e-visa
@@ -33633,7 +33633,7 @@ Sudan,Afghanistan,visa required
 Suriname,Albania,e-visa
 Suriname,Algeria,visa required
 Suriname,Andorra,visa required
-Suriname,Angola,30
+Suriname,Angola,visa on arrival
 Suriname,Antigua and Barbuda,180
 Suriname,Argentina,90
 Suriname,Armenia,e-visa
@@ -33832,7 +33832,7 @@ Suriname,Afghanistan,visa required
 Sweden,Albania,90
 Sweden,Algeria,visa required
 Sweden,Andorra,visa free
-Sweden,Angola,30
+Sweden,Angola,visa on arrival
 Sweden,Antigua and Barbuda,180
 Sweden,Argentina,90
 Sweden,Armenia,180
@@ -34031,7 +34031,7 @@ Sweden,Afghanistan,visa required
 Switzerland,Albania,90
 Switzerland,Algeria,visa required
 Switzerland,Andorra,visa free
-Switzerland,Angola,30
+Switzerland,Angola,visa on arrival
 Switzerland,Antigua and Barbuda,180
 Switzerland,Argentina,90
 Switzerland,Armenia,180
@@ -34230,7 +34230,7 @@ Switzerland,Afghanistan,visa required
 Syria,Albania,visa required
 Syria,Algeria,visa required
 Syria,Andorra,visa required
-Syria,Angola,visa required
+Syria,Angola,visa on arrival
 Syria,Antigua and Barbuda,e-visa
 Syria,Argentina,visa required
 Syria,Armenia,visa required
@@ -34429,7 +34429,7 @@ Syria,Afghanistan,visa required
 Taiwan,Albania,90
 Taiwan,Algeria,visa required
 Taiwan,Andorra,90
-Taiwan,Angola,visa required
+Taiwan,Angola,visa on arrival
 Taiwan,Antigua and Barbuda,30
 Taiwan,Argentina,visa required
 Taiwan,Armenia,e-visa
@@ -34541,7 +34541,7 @@ Taiwan,Mexico,visa required
 Taiwan,Micronesia,30
 Taiwan,Moldova,e-visa
 Taiwan,Monaco,90
-Taiwan,Mongolia,e-visa
+Taiwan,Mongolia,visa required
 Taiwan,Montenegro,90
 Taiwan,Morocco,visa required
 Taiwan,Mozambique,visa on arrival
@@ -34628,7 +34628,7 @@ Taiwan,Afghanistan,visa required
 Tajikistan,Albania,e-visa
 Tajikistan,Algeria,visa required
 Tajikistan,Andorra,visa required
-Tajikistan,Angola,visa required
+Tajikistan,Angola,visa on arrival
 Tajikistan,Antigua and Barbuda,180
 Tajikistan,Argentina,visa required
 Tajikistan,Armenia,180
@@ -34827,7 +34827,7 @@ Tajikistan,Afghanistan,visa required
 Tanzania,Albania,e-visa
 Tanzania,Algeria,visa required
 Tanzania,Andorra,visa required
-Tanzania,Angola,30
+Tanzania,Angola,visa on arrival
 Tanzania,Antigua and Barbuda,180
 Tanzania,Argentina,visa required
 Tanzania,Armenia,visa required
@@ -35026,7 +35026,7 @@ Tanzania,Afghanistan,visa required
 Thailand,Albania,90
 Thailand,Algeria,visa required
 Thailand,Andorra,visa required
-Thailand,Angola,visa required
+Thailand,Angola,visa on arrival
 Thailand,Antigua and Barbuda,e-visa
 Thailand,Argentina,90
 Thailand,Armenia,visa on arrival
@@ -35225,7 +35225,7 @@ Thailand,Afghanistan,visa required
 Timor-Leste,Albania,e-visa
 Timor-Leste,Algeria,visa required
 Timor-Leste,Andorra,90
-Timor-Leste,Angola,30
+Timor-Leste,Angola,visa on arrival
 Timor-Leste,Antigua and Barbuda,e-visa
 Timor-Leste,Argentina,visa required
 Timor-Leste,Armenia,e-visa
@@ -35424,7 +35424,7 @@ Timor-Leste,Afghanistan,visa required
 Togo,Albania,e-visa
 Togo,Algeria,visa required
 Togo,Andorra,visa required
-Togo,Angola,visa required
+Togo,Angola,visa on arrival
 Togo,Antigua and Barbuda,e-visa
 Togo,Argentina,visa required
 Togo,Armenia,visa required
@@ -35623,7 +35623,7 @@ Togo,Afghanistan,visa required
 Tonga,Albania,e-visa
 Tonga,Algeria,visa required
 Tonga,Andorra,90
-Tonga,Angola,30
+Tonga,Angola,visa on arrival
 Tonga,Antigua and Barbuda,e-visa
 Tonga,Argentina,visa required
 Tonga,Armenia,e-visa
@@ -35822,7 +35822,7 @@ Tonga,Afghanistan,visa required
 Trinidad and Tobago,Albania,90
 Trinidad and Tobago,Algeria,visa required
 Trinidad and Tobago,Andorra,90
-Trinidad and Tobago,Angola,30
+Trinidad and Tobago,Angola,visa on arrival
 Trinidad and Tobago,Antigua and Barbuda,180
 Trinidad and Tobago,Argentina,90
 Trinidad and Tobago,Armenia,e-visa
@@ -36021,7 +36021,7 @@ Trinidad and Tobago,Afghanistan,visa required
 Tunisia,Albania,e-visa
 Tunisia,Algeria,90
 Tunisia,Andorra,visa required
-Tunisia,Angola,visa required
+Tunisia,Angola,visa on arrival
 Tunisia,Antigua and Barbuda,e-visa
 Tunisia,Argentina,visa required
 Tunisia,Armenia,e-visa
@@ -36220,7 +36220,7 @@ Tunisia,Afghanistan,visa required
 Turkey,Albania,visa free
 Turkey,Algeria,visa required
 Turkey,Andorra,visa required
-Turkey,Angola,30
+Turkey,Angola,visa on arrival
 Turkey,Antigua and Barbuda,180
 Turkey,Argentina,90
 Turkey,Armenia,visa on arrival
@@ -36419,7 +36419,7 @@ Turkey,Afghanistan,visa required
 Turkmenistan,Albania,e-visa
 Turkmenistan,Algeria,visa required
 Turkmenistan,Andorra,visa required
-Turkmenistan,Angola,visa required
+Turkmenistan,Angola,visa on arrival
 Turkmenistan,Antigua and Barbuda,180
 Turkmenistan,Argentina,visa required
 Turkmenistan,Armenia,visa required
@@ -36618,7 +36618,7 @@ Turkmenistan,Afghanistan,visa required
 Tuvalu,Albania,e-visa
 Tuvalu,Algeria,visa required
 Tuvalu,Andorra,90
-Tuvalu,Angola,30
+Tuvalu,Angola,visa on arrival
 Tuvalu,Antigua and Barbuda,180
 Tuvalu,Argentina,visa required
 Tuvalu,Armenia,e-visa
@@ -36817,7 +36817,7 @@ Tuvalu,Afghanistan,visa required
 Uganda,Albania,e-visa
 Uganda,Algeria,visa required
 Uganda,Andorra,visa required
-Uganda,Angola,visa required
+Uganda,Angola,visa on arrival
 Uganda,Antigua and Barbuda,180
 Uganda,Argentina,visa required
 Uganda,Armenia,visa required
@@ -37016,7 +37016,7 @@ Uganda,Afghanistan,visa required
 Ukraine,Albania,90
 Ukraine,Algeria,visa required
 Ukraine,Andorra,90
-Ukraine,Angola,visa required
+Ukraine,Angola,visa on arrival
 Ukraine,Antigua and Barbuda,180
 Ukraine,Argentina,90
 Ukraine,Armenia,visa free
@@ -37215,7 +37215,7 @@ Ukraine,Afghanistan,visa required
 United Arab Emirates,Albania,90
 United Arab Emirates,Algeria,visa required
 United Arab Emirates,Andorra,90
-United Arab Emirates,Angola,30
+United Arab Emirates,Angola,visa on arrival
 United Arab Emirates,Antigua and Barbuda,90
 United Arab Emirates,Argentina,90
 United Arab Emirates,Armenia,180
@@ -37414,7 +37414,7 @@ United Arab Emirates,Afghanistan,visa required
 United Kingdom,Albania,90
 United Kingdom,Algeria,visa required
 United Kingdom,Andorra,90
-United Kingdom,Angola,30
+United Kingdom,Angola,visa on arrival
 United Kingdom,Antigua and Barbuda,180
 United Kingdom,Argentina,90
 United Kingdom,Armenia,180
@@ -37613,7 +37613,7 @@ United Kingdom,Afghanistan,visa required
 United States,Albania,360
 United States,Algeria,visa required
 United States,Andorra,90
-United States,Angola,30
+United States,Angola,visa on arrival
 United States,Antigua and Barbuda,180
 United States,Argentina,90
 United States,Armenia,180
@@ -37812,7 +37812,7 @@ United States,Afghanistan,visa required
 Uruguay,Albania,90
 Uruguay,Algeria,visa required
 Uruguay,Andorra,90
-Uruguay,Angola,30
+Uruguay,Angola,visa on arrival
 Uruguay,Antigua and Barbuda,e-visa
 Uruguay,Argentina,90
 Uruguay,Armenia,180
@@ -38011,7 +38011,7 @@ Uruguay,Afghanistan,visa required
 Uzbekistan,Albania,e-visa
 Uzbekistan,Algeria,visa required
 Uzbekistan,Andorra,visa required
-Uzbekistan,Angola,visa required
+Uzbekistan,Angola,visa on arrival
 Uzbekistan,Antigua and Barbuda,180
 Uzbekistan,Argentina,visa required
 Uzbekistan,Armenia,180
@@ -38150,7 +38150,7 @@ Uzbekistan,Peru,visa required
 Uzbekistan,Philippines,30
 Uzbekistan,Poland,visa required
 Uzbekistan,Portugal,visa required
-Uzbekistan,Qatar,visa on arrival
+Uzbekistan,Qatar,visa required
 Uzbekistan,Romania,visa required
 Uzbekistan,Russia,90
 Uzbekistan,Rwanda,visa on arrival
@@ -38210,7 +38210,7 @@ Uzbekistan,Afghanistan,visa required
 Vanuatu,Albania,e-visa
 Vanuatu,Algeria,visa required
 Vanuatu,Andorra,visa required
-Vanuatu,Angola,30
+Vanuatu,Angola,visa on arrival
 Vanuatu,Antigua and Barbuda,180
 Vanuatu,Argentina,visa required
 Vanuatu,Armenia,e-visa
@@ -38409,7 +38409,7 @@ Vanuatu,Afghanistan,visa required
 Vatican,Albania,90
 Vatican,Algeria,visa required
 Vatican,Andorra,90
-Vatican,Angola,30
+Vatican,Angola,visa on arrival
 Vatican,Antigua and Barbuda,180
 Vatican,Argentina,90
 Vatican,Armenia,180
@@ -38608,7 +38608,7 @@ Vatican,Afghanistan,visa required
 Venezuela,Albania,90
 Venezuela,Algeria,visa required
 Venezuela,Andorra,90
-Venezuela,Angola,e-visa
+Venezuela,Angola,visa on arrival
 Venezuela,Antigua and Barbuda,180
 Venezuela,Argentina,90
 Venezuela,Armenia,e-visa
@@ -38807,7 +38807,7 @@ Venezuela,Afghanistan,visa required
 Vietnam,Albania,e-visa
 Vietnam,Algeria,visa required
 Vietnam,Andorra,visa required
-Vietnam,Angola,visa required
+Vietnam,Angola,visa on arrival
 Vietnam,Antigua and Barbuda,e-visa
 Vietnam,Argentina,visa required
 Vietnam,Armenia,e-visa
@@ -39006,7 +39006,7 @@ Vietnam,Afghanistan,visa required
 Yemen,Albania,e-visa
 Yemen,Algeria,visa required
 Yemen,Andorra,visa required
-Yemen,Angola,visa required
+Yemen,Angola,visa on arrival
 Yemen,Antigua and Barbuda,e-visa
 Yemen,Argentina,visa required
 Yemen,Armenia,visa required
