@@ -135,7 +135,7 @@ AFG,PAK,e-visa
 AFG,PLW,visa on arrival
 AFG,PSE,visa required
 AFG,PAN,visa required
-AFG,PNG,e-visa
+AFG,PNG,visa required
 AFG,PRY,visa required
 AFG,PER,visa required
 AFG,PHL,visa required
@@ -334,7 +334,7 @@ ALB,PAK,e-visa
 ALB,PLW,visa on arrival
 ALB,PSE,visa free
 ALB,PAN,visa required
-ALB,PNG,e-visa
+ALB,PNG,visa required
 ALB,PRY,visa required
 ALB,PER,visa required
 ALB,PHL,visa required
@@ -533,7 +533,7 @@ DZA,PAK,e-visa
 DZA,PLW,visa on arrival
 DZA,PSE,visa free
 DZA,PAN,visa required
-DZA,PNG,e-visa
+DZA,PNG,visa required
 DZA,PRY,visa required
 DZA,PER,visa required
 DZA,PHL,visa required
@@ -931,7 +931,7 @@ AGO,PAK,e-visa
 AGO,PLW,visa on arrival
 AGO,PSE,visa required
 AGO,PAN,visa required
-AGO,PNG,e-visa
+AGO,PNG,visa required
 AGO,PRY,visa required
 AGO,PER,visa required
 AGO,PHL,30
@@ -1199,7 +1199,7 @@ ARG,AND,90
 ARG,AGO,30
 ARG,ATG,180
 ARG,ARG,-1
-ARG,ARM,180
+ARG,ARM,visa free
 ARG,AUS,e-visa
 ARG,AUT,90
 ARG,AZE,e-visa
@@ -1528,7 +1528,7 @@ ARM,PAK,visa required
 ARM,PLW,visa on arrival
 ARM,PSE,visa free
 ARM,PAN,90
-ARM,PNG,e-visa
+ARM,PNG,visa required
 ARM,PRY,visa required
 ARM,PER,visa required
 ARM,PHL,visa required
@@ -1694,7 +1694,7 @@ AUS,LTU,90
 AUS,LUX,90
 AUS,MAC,30
 AUS,MDG,visa on arrival
-AUS,MWI,30
+AUS,MWI,visa on arrival
 AUS,MYS,90
 AUS,MDV,visa on arrival
 AUS,MLI,visa required
@@ -2125,7 +2125,7 @@ AZE,PAK,e-visa
 AZE,PLW,visa on arrival
 AZE,PSE,visa free
 AZE,PAN,visa required
-AZE,PNG,e-visa
+AZE,PNG,visa required
 AZE,PRY,visa required
 AZE,PER,visa required
 AZE,PHL,visa required
@@ -2523,7 +2523,7 @@ BHR,PAK,e-visa
 BHR,PLW,visa on arrival
 BHR,PSE,visa free
 BHR,PAN,visa required
-BHR,PNG,e-visa
+BHR,PNG,visa required
 BHR,PRY,visa required
 BHR,PER,visa required
 BHR,PHL,30
@@ -2722,7 +2722,7 @@ BGD,PAK,e-visa
 BGD,PLW,visa required
 BGD,PSE,visa required
 BGD,PAN,visa required
-BGD,PNG,e-visa
+BGD,PNG,visa required
 BGD,PRY,visa required
 BGD,PER,visa required
 BGD,PHL,visa required
@@ -3050,7 +3050,7 @@ BLR,GEO,360
 BLR,DEU,visa required
 BLR,GHA,visa required
 BLR,GRC,visa required
-BLR,GRD,visa free
+BLR,GRD,visa required
 BLR,GTM,visa required
 BLR,GIN,e-visa
 BLR,GNB,visa on arrival
@@ -3120,7 +3120,7 @@ BLR,PAK,e-visa
 BLR,PLW,visa on arrival
 BLR,PSE,visa free
 BLR,PAN,90
-BLR,PNG,e-visa
+BLR,PNG,visa required
 BLR,PRY,visa required
 BLR,PER,180
 BLR,PHL,visa required
@@ -3286,7 +3286,7 @@ BEL,LTU,visa free
 BEL,LUX,visa free
 BEL,MAC,90
 BEL,MDG,visa on arrival
-BEL,MWI,30
+BEL,MWI,visa on arrival
 BEL,MYS,90
 BEL,MDV,visa on arrival
 BEL,MLI,visa required
@@ -3717,7 +3717,7 @@ BEN,PAK,e-visa
 BEN,PLW,visa on arrival
 BEN,PSE,visa required
 BEN,PAN,visa required
-BEN,PNG,e-visa
+BEN,PNG,visa required
 BEN,PRY,visa required
 BEN,PER,visa required
 BEN,PHL,30
@@ -3916,7 +3916,7 @@ BTN,PAK,e-visa
 BTN,PLW,visa on arrival
 BTN,PSE,visa free
 BTN,PAN,90
-BTN,PNG,e-visa
+BTN,PNG,visa required
 BTN,PRY,visa required
 BTN,PER,visa required
 BTN,PHL,30
@@ -4115,7 +4115,7 @@ BOL,PAK,e-visa
 BOL,PLW,visa on arrival
 BOL,PSE,visa free
 BOL,PAN,90
-BOL,PNG,e-visa
+BOL,PNG,visa required
 BOL,PRY,90
 BOL,PER,180
 BOL,PHL,30
@@ -4314,7 +4314,7 @@ BIH,PAK,e-visa
 BIH,PLW,visa on arrival
 BIH,PSE,visa free
 BIH,PAN,90
-BIH,PNG,e-visa
+BIH,PNG,visa required
 BIH,PRY,visa required
 BIH,PER,visa required
 BIH,PHL,visa required
@@ -4878,7 +4878,7 @@ BRN,LTU,90
 BRN,LUX,90
 BRN,MAC,14
 BRN,MDG,visa on arrival
-BRN,MWI,90
+BRN,MWI,visa on arrival
 BRN,MYS,30
 BRN,MDV,visa on arrival
 BRN,MLI,visa required
@@ -5309,7 +5309,7 @@ BFA,PAK,e-visa
 BFA,PLW,visa on arrival
 BFA,PSE,visa required
 BFA,PAN,visa required
-BFA,PNG,e-visa
+BFA,PNG,visa required
 BFA,PRY,visa required
 BFA,PER,visa required
 BFA,PHL,30
@@ -5508,7 +5508,7 @@ BDI,PAK,e-visa
 BDI,PLW,visa on arrival
 BDI,PSE,visa required
 BDI,PAN,visa required
-BDI,PNG,e-visa
+BDI,PNG,visa required
 BDI,PRY,visa required
 BDI,PER,visa required
 BDI,PHL,30
@@ -5707,7 +5707,7 @@ KHM,PAK,e-visa
 KHM,PLW,visa on arrival
 KHM,PSE,visa free
 KHM,PAN,90
-KHM,PNG,e-visa
+KHM,PNG,visa required
 KHM,PRY,visa required
 KHM,PER,visa required
 KHM,PHL,30
@@ -5906,7 +5906,7 @@ CMR,PAK,e-visa
 CMR,PLW,visa on arrival
 CMR,PSE,visa required
 CMR,PAN,visa required
-CMR,PNG,e-visa
+CMR,PNG,visa required
 CMR,PRY,visa required
 CMR,PER,visa required
 CMR,PHL,30
@@ -6072,7 +6072,7 @@ CAN,LTU,90
 CAN,LUX,90
 CAN,MAC,30
 CAN,MDG,visa on arrival
-CAN,MWI,30
+CAN,MWI,visa on arrival
 CAN,MYS,90
 CAN,MDV,visa on arrival
 CAN,MLI,visa required
@@ -6304,7 +6304,7 @@ CPV,PAK,e-visa
 CPV,PLW,visa on arrival
 CPV,PSE,visa free
 CPV,PAN,visa required
-CPV,PNG,e-visa
+CPV,PNG,visa required
 CPV,PRY,visa required
 CPV,PER,visa required
 CPV,PHL,30
@@ -6503,7 +6503,7 @@ CAF,PAK,e-visa
 CAF,PLW,visa on arrival
 CAF,PSE,visa free
 CAF,PAN,visa required
-CAF,PNG,e-visa
+CAF,PNG,visa required
 CAF,PRY,visa required
 CAF,PER,visa required
 CAF,PHL,30
@@ -6702,7 +6702,7 @@ TCD,PAK,e-visa
 TCD,PLW,visa on arrival
 TCD,PSE,visa required
 TCD,PAN,visa required
-TCD,PNG,e-visa
+TCD,PNG,visa required
 TCD,PRY,visa required
 TCD,PER,visa required
 TCD,PHL,30
@@ -7067,7 +7067,7 @@ CHN,LTU,visa required
 CHN,LUX,visa required
 CHN,MAC,visa on arrival
 CHN,MDG,visa on arrival
-CHN,MWI,30
+CHN,MWI,visa on arrival
 CHN,MYS,30
 CHN,MDV,30
 CHN,MLI,visa required
@@ -7120,7 +7120,7 @@ CHN,SEN,visa on arrival
 CHN,SRB,30
 CHN,SYC,90
 CHN,SLE,visa on arrival
-CHN,SGP,30
+CHN,SGP,e-visa
 CHN,SVK,visa required
 CHN,SVN,visa required
 CHN,SLB,visa required
@@ -7299,7 +7299,7 @@ COL,PAK,e-visa
 COL,PLW,visa on arrival
 COL,PSE,visa free
 COL,PAN,90
-COL,PNG,e-visa
+COL,PNG,visa required
 COL,PRY,90
 COL,PER,180
 COL,PHL,30
@@ -7465,7 +7465,7 @@ COM,LTU,visa required
 COM,LUX,visa required
 COM,MAC,visa on arrival
 COM,MDG,visa on arrival
-COM,MWI,visa on arrival
+COM,MWI,90
 COM,MYS,30
 COM,MDV,visa on arrival
 COM,MLI,visa required
@@ -7498,7 +7498,7 @@ COM,PAK,e-visa
 COM,PLW,visa on arrival
 COM,PSE,visa required
 COM,PAN,90
-COM,PNG,e-visa
+COM,PNG,visa required
 COM,PRY,visa required
 COM,PER,visa required
 COM,PHL,30
@@ -7697,7 +7697,7 @@ COG,PAK,e-visa
 COG,PLW,visa on arrival
 COG,PSE,visa required
 COG,PAN,visa required
-COG,PNG,e-visa
+COG,PNG,visa required
 COG,PRY,visa required
 COG,PER,visa required
 COG,PHL,30
@@ -7896,7 +7896,7 @@ COD,PAK,e-visa
 COD,PLW,visa on arrival
 COD,PSE,visa required
 COD,PAN,visa required
-COD,PNG,e-visa
+COD,PNG,visa required
 COD,PRY,visa required
 COD,PER,visa required
 COD,PHL,30
@@ -8095,7 +8095,7 @@ CRI,PAK,e-visa
 CRI,PLW,visa on arrival
 CRI,PSE,visa free
 CRI,PAN,90
-CRI,PNG,e-visa
+CRI,PNG,visa required
 CRI,PRY,90
 CRI,PER,90
 CRI,PHL,30
@@ -8294,7 +8294,7 @@ CIV,PAK,e-visa
 CIV,PLW,visa on arrival
 CIV,PSE,visa required
 CIV,PAN,visa required
-CIV,PNG,e-visa
+CIV,PNG,visa required
 CIV,PRY,visa required
 CIV,PER,visa required
 CIV,PHL,30
@@ -8692,7 +8692,7 @@ CUB,PAK,e-visa
 CUB,PLW,visa on arrival
 CUB,PSE,visa free
 CUB,PAN,visa required
-CUB,PNG,e-visa
+CUB,PNG,visa required
 CUB,PRY,visa required
 CUB,PER,visa required
 CUB,PHL,visa required
@@ -8858,7 +8858,7 @@ CYP,LTU,visa free
 CYP,LUX,visa free
 CYP,MAC,90
 CYP,MDG,visa on arrival
-CYP,MWI,30
+CYP,MWI,visa on arrival
 CYP,MYS,90
 CYP,MDV,visa on arrival
 CYP,MLI,visa required
@@ -9488,7 +9488,7 @@ DJI,PAK,e-visa
 DJI,PLW,visa on arrival
 DJI,PSE,visa required
 DJI,PAN,visa required
-DJI,PNG,e-visa
+DJI,PNG,visa required
 DJI,PRY,visa required
 DJI,PER,visa required
 DJI,PHL,30
@@ -9886,7 +9886,7 @@ DOM,PAK,e-visa
 DOM,PLW,visa on arrival
 DOM,PSE,visa free
 DOM,PAN,visa required
-DOM,PNG,e-visa
+DOM,PNG,visa required
 DOM,PRY,60
 DOM,PER,60
 DOM,PHL,30
@@ -10284,7 +10284,7 @@ EGY,PAK,e-visa
 EGY,PLW,visa on arrival
 EGY,PSE,visa free
 EGY,PAN,visa required
-EGY,PNG,e-visa
+EGY,PNG,visa required
 EGY,PRY,visa required
 EGY,PER,visa required
 EGY,PHL,visa required
@@ -10483,7 +10483,7 @@ SLV,PAK,e-visa
 SLV,PLW,visa on arrival
 SLV,PSE,visa free
 SLV,PAN,90
-SLV,PNG,e-visa
+SLV,PNG,visa required
 SLV,PRY,90
 SLV,PER,180
 SLV,PHL,30
@@ -10682,7 +10682,7 @@ GNQ,PAK,e-visa
 GNQ,PLW,visa on arrival
 GNQ,PSE,visa free
 GNQ,PAN,visa required
-GNQ,PNG,e-visa
+GNQ,PNG,visa required
 GNQ,PRY,visa required
 GNQ,PER,visa required
 GNQ,PHL,30
@@ -10881,7 +10881,7 @@ ERI,PAK,e-visa
 ERI,PLW,visa on arrival
 ERI,PSE,visa required
 ERI,PAN,visa required
-ERI,PNG,e-visa
+ERI,PNG,visa required
 ERI,PRY,visa required
 ERI,PER,visa required
 ERI,PHL,30
@@ -11279,7 +11279,7 @@ SWZ,PAK,e-visa
 SWZ,PLW,visa on arrival
 SWZ,PSE,visa free
 SWZ,PAN,visa required
-SWZ,PNG,e-visa
+SWZ,PNG,visa required
 SWZ,PRY,visa required
 SWZ,PER,visa required
 SWZ,PHL,30
@@ -11478,7 +11478,7 @@ ETH,PAK,e-visa
 ETH,PLW,visa on arrival
 ETH,PSE,visa required
 ETH,PAN,visa required
-ETH,PNG,e-visa
+ETH,PNG,visa required
 ETH,PRY,visa required
 ETH,PER,visa required
 ETH,PHL,30
@@ -11843,7 +11843,7 @@ FIN,LTU,visa free
 FIN,LUX,visa free
 FIN,MAC,90
 FIN,MDG,visa on arrival
-FIN,MWI,30
+FIN,MWI,visa on arrival
 FIN,MYS,90
 FIN,MDV,visa on arrival
 FIN,MLI,visa required
@@ -12042,7 +12042,7 @@ FRA,LTU,visa free
 FRA,LUX,visa free
 FRA,MAC,90
 FRA,MDG,visa on arrival
-FRA,MWI,30
+FRA,MWI,visa on arrival
 FRA,MYS,90
 FRA,MDV,visa on arrival
 FRA,MLI,visa required
@@ -12274,7 +12274,7 @@ GAB,PAK,e-visa
 GAB,PLW,visa on arrival
 GAB,PSE,visa required
 GAB,PAN,90
-GAB,PNG,e-visa
+GAB,PNG,visa required
 GAB,PRY,visa required
 GAB,PER,visa required
 GAB,PHL,30
@@ -12473,7 +12473,7 @@ GMB,PAK,e-visa
 GMB,PLW,visa on arrival
 GMB,PSE,visa required
 GMB,PAN,visa required
-GMB,PNG,e-visa
+GMB,PNG,visa required
 GMB,PRY,visa required
 GMB,PER,visa required
 GMB,PHL,30
@@ -12672,7 +12672,7 @@ GEO,PAK,e-visa
 GEO,PLW,visa on arrival
 GEO,PSE,visa free
 GEO,PAN,90
-GEO,PNG,e-visa
+GEO,PNG,visa required
 GEO,PRY,90
 GEO,PER,visa required
 GEO,PHL,visa required
@@ -12838,7 +12838,7 @@ DEU,LTU,visa free
 DEU,LUX,visa free
 DEU,MAC,90
 DEU,MDG,visa on arrival
-DEU,MWI,30
+DEU,MWI,visa on arrival
 DEU,MYS,90
 DEU,MDV,visa on arrival
 DEU,MLI,visa required
@@ -12944,7 +12944,7 @@ GHA,ARM,visa required
 GHA,AUS,e-visa
 GHA,AUT,visa required
 GHA,AZE,visa required
-GHA,BHS,90
+GHA,BHS,e-visa
 GHA,BHR,e-visa
 GHA,BGD,90
 GHA,BRB,180
@@ -13037,7 +13037,7 @@ GHA,LTU,visa required
 GHA,LUX,visa required
 GHA,MAC,visa on arrival
 GHA,MDG,visa on arrival
-GHA,MWI,90
+GHA,MWI,e-visa
 GHA,MYS,e-visa
 GHA,MDV,visa on arrival
 GHA,MLI,visa free
@@ -13070,7 +13070,7 @@ GHA,PAK,e-visa
 GHA,PLW,visa on arrival
 GHA,PSE,visa required
 GHA,PAN,visa required
-GHA,PNG,e-visa
+GHA,PNG,visa required
 GHA,PRY,visa required
 GHA,PER,visa required
 GHA,PHL,30
@@ -13667,7 +13667,7 @@ GTM,PAK,e-visa
 GTM,PLW,visa on arrival
 GTM,PSE,visa free
 GTM,PAN,90
-GTM,PNG,e-visa
+GTM,PNG,visa required
 GTM,PRY,90
 GTM,PER,90
 GTM,PHL,30
@@ -13866,7 +13866,7 @@ GIN,PAK,e-visa
 GIN,PLW,visa on arrival
 GIN,PSE,visa required
 GIN,PAN,visa required
-GIN,PNG,e-visa
+GIN,PNG,visa required
 GIN,PRY,visa required
 GIN,PER,visa required
 GIN,PHL,30
@@ -14065,7 +14065,7 @@ GNB,PAK,e-visa
 GNB,PLW,visa on arrival
 GNB,PSE,visa required
 GNB,PAN,visa required
-GNB,PNG,e-visa
+GNB,PNG,visa required
 GNB,PRY,visa required
 GNB,PER,visa required
 GNB,PHL,30
@@ -14231,7 +14231,7 @@ GUY,LTU,visa required
 GUY,LUX,visa required
 GUY,MAC,visa on arrival
 GUY,MDG,visa on arrival
-GUY,MWI,30
+GUY,MWI,visa on arrival
 GUY,MYS,30
 GUY,MDV,30
 GUY,MLI,visa required
@@ -14463,7 +14463,7 @@ HTI,PAK,e-visa
 HTI,PLW,visa on arrival
 HTI,PSE,visa free
 HTI,PAN,visa required
-HTI,PNG,e-visa
+HTI,PNG,visa required
 HTI,PRY,visa required
 HTI,PER,visa required
 HTI,PHL,30
@@ -14662,7 +14662,7 @@ HND,PAK,e-visa
 HND,PLW,visa on arrival
 HND,PSE,visa free
 HND,PAN,90
-HND,PNG,e-visa
+HND,PNG,visa required
 HND,PRY,90
 HND,PER,180
 HND,PHL,30
@@ -14831,7 +14831,7 @@ HKG,MDG,visa on arrival
 HKG,MWI,30
 HKG,MYS,30
 HKG,MDV,visa on arrival
-HKG,MLI,visa required
+HKG,MLI,14
 HKG,MLT,90
 HKG,MHL,visa required
 HKG,MRT,visa on arrival
@@ -15527,7 +15527,7 @@ IDN,AND,visa required
 IDN,AGO,30
 IDN,ATG,e-visa
 IDN,ARG,visa required
-IDN,ARM,visa on arrival
+IDN,ARM,e-visa
 IDN,AUS,e-visa
 IDN,AUT,visa required
 IDN,AZE,visa on arrival
@@ -15571,7 +15571,7 @@ IDN,DJI,e-visa
 IDN,DMA,21
 IDN,DOM,visa required
 IDN,ECU,90
-IDN,EGY,visa required
+IDN,EGY,visa on arrival
 IDN,SLV,e-visa
 IDN,GNQ,e-visa
 IDN,ERI,visa required
@@ -15856,7 +15856,7 @@ IRN,PAK,e-visa
 IRN,PLW,visa on arrival
 IRN,PSE,visa required
 IRN,PAN,visa required
-IRN,PNG,e-visa
+IRN,PNG,visa required
 IRN,PRY,visa required
 IRN,PER,visa required
 IRN,PHL,visa required
@@ -15969,7 +15969,7 @@ IRQ,DJI,e-visa
 IRQ,DMA,21
 IRQ,DOM,visa required
 IRQ,ECU,e-visa
-IRQ,EGY,e-visa
+IRQ,EGY,visa required
 IRQ,SLV,e-visa
 IRQ,GNQ,e-visa
 IRQ,ERI,visa required
@@ -16055,7 +16055,7 @@ IRQ,PAK,e-visa
 IRQ,PLW,visa on arrival
 IRQ,PSE,visa required
 IRQ,PAN,visa required
-IRQ,PNG,e-visa
+IRQ,PNG,visa required
 IRQ,PRY,visa required
 IRQ,PER,visa required
 IRQ,PHL,visa required
@@ -16221,7 +16221,7 @@ IRL,LTU,visa free
 IRL,LUX,visa free
 IRL,MAC,90
 IRL,MDG,visa on arrival
-IRL,MWI,30
+IRL,MWI,visa on arrival
 IRL,MYS,90
 IRL,MDV,visa on arrival
 IRL,MLI,visa required
@@ -16619,7 +16619,7 @@ ITA,LTU,visa free
 ITA,LUX,visa free
 ITA,MAC,90
 ITA,MDG,visa on arrival
-ITA,MWI,30
+ITA,MWI,visa on arrival
 ITA,MYS,90
 ITA,MDV,visa on arrival
 ITA,MLI,visa required
@@ -17249,7 +17249,7 @@ JOR,PAK,e-visa
 JOR,PLW,visa on arrival
 JOR,PSE,visa required
 JOR,PAN,visa required
-JOR,PNG,e-visa
+JOR,PNG,visa required
 JOR,PRY,visa required
 JOR,PER,visa required
 JOR,PHL,visa required
@@ -17300,7 +17300,7 @@ JOR,TUR,90
 JOR,UGA,e-visa
 JOR,UKR,visa required
 JOR,ARE,visa required
-JOR,GBR,e-visa
+JOR,GBR,visa required
 JOR,USA,visa required
 JOR,URY,visa required
 JOR,UZB,e-visa
@@ -17448,7 +17448,7 @@ KAZ,PAK,e-visa
 KAZ,PLW,visa on arrival
 KAZ,PSE,visa free
 KAZ,PAN,visa required
-KAZ,PNG,e-visa
+KAZ,PNG,visa required
 KAZ,PRY,visa required
 KAZ,PER,visa required
 KAZ,PHL,30
@@ -17492,7 +17492,7 @@ KAZ,TLS,visa on arrival
 KAZ,TGO,visa on arrival
 KAZ,TON,visa required
 KAZ,TTO,visa required
-KAZ,TUN,90
+KAZ,TUN,visa required
 KAZ,TKM,visa required
 KAZ,TUV,visa on arrival
 KAZ,TUR,90
@@ -18045,7 +18045,7 @@ XKX,PAK,e-visa
 XKX,PLW,visa on arrival
 XKX,PSE,visa free
 XKX,PAN,visa required
-XKX,PNG,e-visa
+XKX,PNG,visa required
 XKX,PRY,visa required
 XKX,PER,visa required
 XKX,PHL,visa required
@@ -18095,7 +18095,7 @@ XKX,TUV,visa on arrival
 XKX,TUR,90
 XKX,UGA,e-visa
 XKX,UKR,visa required
-XKX,ARE,90
+XKX,ARE,visa required
 XKX,GBR,visa required
 XKX,USA,visa required
 XKX,URY,visa required
@@ -18244,7 +18244,7 @@ KWT,PAK,e-visa
 KWT,PLW,visa on arrival
 KWT,PSE,visa free
 KWT,PAN,90
-KWT,PNG,e-visa
+KWT,PNG,visa required
 KWT,PRY,visa required
 KWT,PER,visa required
 KWT,PHL,30
@@ -18443,7 +18443,7 @@ KGZ,PAK,e-visa
 KGZ,PLW,visa on arrival
 KGZ,PSE,visa free
 KGZ,PAN,visa required
-KGZ,PNG,e-visa
+KGZ,PNG,visa required
 KGZ,PRY,visa required
 KGZ,PER,visa required
 KGZ,PHL,30
@@ -18642,7 +18642,7 @@ LAO,PAK,e-visa
 LAO,PLW,visa on arrival
 LAO,PSE,visa free
 LAO,PAN,visa required
-LAO,PNG,e-visa
+LAO,PNG,visa required
 LAO,PRY,visa required
 LAO,PER,visa required
 LAO,PHL,30
@@ -19040,7 +19040,7 @@ LBN,PAK,e-visa
 LBN,PLW,visa on arrival
 LBN,PSE,visa free
 LBN,PAN,visa required
-LBN,PNG,e-visa
+LBN,PNG,visa required
 LBN,PRY,visa required
 LBN,PER,visa required
 LBN,PHL,visa required
@@ -19438,7 +19438,7 @@ LBR,PAK,e-visa
 LBR,PLW,visa on arrival
 LBR,PSE,visa required
 LBR,PAN,visa required
-LBR,PNG,e-visa
+LBR,PNG,visa required
 LBR,PRY,visa required
 LBR,PER,visa required
 LBR,PHL,30
@@ -19637,7 +19637,7 @@ LBY,PAK,e-visa
 LBY,PLW,visa on arrival
 LBY,PSE,visa free
 LBY,PAN,visa required
-LBY,PNG,e-visa
+LBY,PNG,visa required
 LBY,PRY,visa required
 LBY,PER,visa required
 LBY,PHL,visa required
@@ -20632,7 +20632,7 @@ MDG,PAK,e-visa
 MDG,PLW,visa on arrival
 MDG,PSE,visa required
 MDG,PAN,90
-MDG,PNG,e-visa
+MDG,PNG,visa required
 MDG,PRY,visa required
 MDG,PER,visa required
 MDG,PHL,30
@@ -20831,7 +20831,7 @@ MWI,PAK,e-visa
 MWI,PLW,visa on arrival
 MWI,PSE,visa free
 MWI,PAN,visa required
-MWI,PNG,e-visa
+MWI,PNG,visa required
 MWI,PRY,visa required
 MWI,PER,visa required
 MWI,PHL,30
@@ -21099,7 +21099,7 @@ MDV,AND,visa required
 MDV,AGO,visa required
 MDV,ATG,180
 MDV,ARG,visa required
-MDV,ARM,e-visa
+MDV,ARM,visa required
 MDV,AUS,e-visa
 MDV,AUT,visa required
 MDV,AZE,e-visa
@@ -21196,7 +21196,7 @@ MDV,LTU,visa required
 MDV,LUX,visa required
 MDV,MAC,visa on arrival
 MDV,MDG,visa on arrival
-MDV,MWI,30
+MDV,MWI,visa on arrival
 MDV,MYS,90
 MDV,MDV,-1
 MDV,MLI,visa required
@@ -21428,7 +21428,7 @@ MLI,PAK,e-visa
 MLI,PLW,visa on arrival
 MLI,PSE,visa required
 MLI,PAN,visa required
-MLI,PNG,e-visa
+MLI,PNG,visa required
 MLI,PRY,visa required
 MLI,PER,visa required
 MLI,PHL,30
@@ -21594,7 +21594,7 @@ MLT,LTU,visa free
 MLT,LUX,visa free
 MLT,MAC,90
 MLT,MDG,visa on arrival
-MLT,MWI,30
+MLT,MWI,visa on arrival
 MLT,MYS,90
 MLT,MDV,visa on arrival
 MLT,MLI,visa required
@@ -22025,7 +22025,7 @@ MRT,PAK,e-visa
 MRT,PLW,visa on arrival
 MRT,PSE,visa required
 MRT,PAN,visa required
-MRT,PNG,e-visa
+MRT,PNG,visa required
 MRT,PRY,visa required
 MRT,PER,visa required
 MRT,PHL,30
@@ -22316,7 +22316,7 @@ MEX,BFA,e-visa
 MEX,BDI,visa on arrival
 MEX,KHM,visa on arrival
 MEX,CMR,e-visa
-MEX,CAN,visa required
+MEX,CAN,e-visa
 MEX,CPV,visa on arrival
 MEX,CAF,visa required
 MEX,TCD,visa required
@@ -22821,7 +22821,7 @@ MDA,PAK,e-visa
 MDA,PLW,visa on arrival
 MDA,PSE,visa free
 MDA,PAN,90
-MDA,PNG,e-visa
+MDA,PNG,visa required
 MDA,PRY,visa required
 MDA,PER,180
 MDA,PHL,visa required
@@ -23219,7 +23219,7 @@ MNG,PAK,e-visa
 MNG,PLW,visa on arrival
 MNG,PSE,visa free
 MNG,PAN,90
-MNG,PNG,e-visa
+MNG,PNG,visa required
 MNG,PRY,90
 MNG,PER,90
 MNG,PHL,30
@@ -23269,7 +23269,7 @@ MNG,TUV,visa on arrival
 MNG,TUR,30
 MNG,UGA,e-visa
 MNG,UKR,visa required
-MNG,ARE,30
+MNG,ARE,visa on arrival
 MNG,GBR,visa required
 MNG,USA,visa required
 MNG,URY,30
@@ -23418,7 +23418,7 @@ MNE,PAK,e-visa
 MNE,PLW,visa on arrival
 MNE,PSE,visa free
 MNE,PAN,90
-MNE,PNG,e-visa
+MNE,PNG,visa required
 MNE,PRY,visa required
 MNE,PER,90
 MNE,PHL,visa required
@@ -23617,7 +23617,7 @@ MAR,PAK,e-visa
 MAR,PLW,visa on arrival
 MAR,PSE,visa free
 MAR,PAN,visa required
-MAR,PNG,e-visa
+MAR,PNG,visa required
 MAR,PRY,visa required
 MAR,PER,visa required
 MAR,PHL,30
@@ -23816,7 +23816,7 @@ MOZ,PAK,e-visa
 MOZ,PLW,visa on arrival
 MOZ,PSE,visa required
 MOZ,PAN,visa required
-MOZ,PNG,e-visa
+MOZ,PNG,visa required
 MOZ,PRY,visa required
 MOZ,PER,visa required
 MOZ,PHL,30
@@ -24015,7 +24015,7 @@ MMR,PAK,e-visa
 MMR,PLW,visa required
 MMR,PSE,visa required
 MMR,PAN,visa required
-MMR,PNG,e-visa
+MMR,PNG,visa required
 MMR,PRY,visa required
 MMR,PER,visa required
 MMR,PHL,30
@@ -24612,7 +24612,7 @@ NPL,PAK,30
 NPL,PLW,visa on arrival
 NPL,PSE,visa free
 NPL,PAN,visa required
-NPL,PNG,e-visa
+NPL,PNG,visa required
 NPL,PRY,visa required
 NPL,PER,visa required
 NPL,PHL,30
@@ -24778,7 +24778,7 @@ NLD,LTU,visa free
 NLD,LUX,visa free
 NLD,MAC,90
 NLD,MDG,visa on arrival
-NLD,MWI,30
+NLD,MWI,visa on arrival
 NLD,MYS,90
 NLD,MDV,visa on arrival
 NLD,MLI,visa required
@@ -24977,7 +24977,7 @@ NZL,LTU,90
 NZL,LUX,90
 NZL,MAC,90
 NZL,MDG,visa on arrival
-NZL,MWI,30
+NZL,MWI,visa on arrival
 NZL,MYS,90
 NZL,MDV,visa on arrival
 NZL,MLI,visa required
@@ -25209,7 +25209,7 @@ NIC,PAK,e-visa
 NIC,PLW,visa on arrival
 NIC,PSE,visa free
 NIC,PAN,90
-NIC,PNG,e-visa
+NIC,PNG,visa required
 NIC,PRY,90
 NIC,PER,visa required
 NIC,PHL,30
@@ -25408,7 +25408,7 @@ NER,PAK,e-visa
 NER,PLW,visa on arrival
 NER,PSE,visa required
 NER,PAN,visa required
-NER,PNG,e-visa
+NER,PNG,visa required
 NER,PRY,visa required
 NER,PER,visa required
 NER,PHL,30
@@ -25607,7 +25607,7 @@ NGA,PAK,e-visa
 NGA,PLW,visa on arrival
 NGA,PSE,visa required
 NGA,PAN,visa required
-NGA,PNG,e-visa
+NGA,PNG,visa required
 NGA,PRY,visa required
 NGA,PER,visa required
 NGA,PHL,visa required
@@ -25806,7 +25806,7 @@ PRK,PAK,visa required
 PRK,PLW,visa on arrival
 PRK,PSE,visa free
 PRK,PAN,visa required
-PRK,PNG,e-visa
+PRK,PNG,visa required
 PRK,PRY,visa required
 PRK,PER,visa required
 PRK,PHL,visa required
@@ -26005,7 +26005,7 @@ MKD,PAK,e-visa
 MKD,PLW,visa on arrival
 MKD,PSE,visa free
 MKD,PAN,90
-MKD,PNG,e-visa
+MKD,PNG,visa required
 MKD,PRY,visa required
 MKD,PER,180
 MKD,PHL,visa required
@@ -26171,7 +26171,7 @@ NOR,LTU,visa free
 NOR,LUX,visa free
 NOR,MAC,90
 NOR,MDG,visa on arrival
-NOR,MWI,30
+NOR,MWI,visa on arrival
 NOR,MYS,90
 NOR,MDV,visa on arrival
 NOR,MLI,visa required
@@ -26403,7 +26403,7 @@ OMN,PAK,e-visa
 OMN,PLW,visa on arrival
 OMN,PSE,visa free
 OMN,PAN,visa required
-OMN,PNG,e-visa
+OMN,PNG,visa required
 OMN,PRY,visa on arrival
 OMN,PER,visa required
 OMN,PHL,30
@@ -26602,7 +26602,7 @@ PAK,PAK,-1
 PAK,PLW,visa on arrival
 PAK,PSE,visa required
 PAK,PAN,visa required
-PAK,PNG,e-visa
+PAK,PNG,visa required
 PAK,PRY,visa required
 PAK,PER,visa required
 PAK,PHL,visa required
@@ -27000,7 +27000,7 @@ PSE,PAK,e-visa
 PSE,PLW,visa on arrival
 PSE,PSE,-1
 PSE,PAN,visa required
-PSE,PNG,e-visa
+PSE,PNG,visa required
 PSE,PRY,visa required
 PSE,PER,visa required
 PSE,PHL,visa required
@@ -27199,7 +27199,7 @@ PAN,PAK,e-visa
 PAN,PLW,visa on arrival
 PAN,PSE,visa free
 PAN,PAN,-1
-PAN,PNG,e-visa
+PAN,PNG,visa required
 PAN,PRY,90
 PAN,PER,180
 PAN,PHL,30
@@ -27365,7 +27365,7 @@ PNG,LTU,visa required
 PNG,LUX,visa required
 PNG,MAC,visa on arrival
 PNG,MDG,visa on arrival
-PNG,MWI,30
+PNG,MWI,visa on arrival
 PNG,MYS,30
 PNG,MDV,visa on arrival
 PNG,MLI,visa required
@@ -27597,7 +27597,7 @@ PRY,PAK,e-visa
 PRY,PLW,visa on arrival
 PRY,PSE,visa free
 PRY,PAN,90
-PRY,PNG,e-visa
+PRY,PNG,visa required
 PRY,PRY,-1
 PRY,PER,180
 PRY,PHL,30
@@ -28161,7 +28161,7 @@ POL,LTU,visa free
 POL,LUX,visa free
 POL,MAC,90
 POL,MDG,visa on arrival
-POL,MWI,30
+POL,MWI,visa on arrival
 POL,MYS,90
 POL,MDV,visa on arrival
 POL,MLI,visa required
@@ -28360,7 +28360,7 @@ PRT,LTU,visa free
 PRT,LUX,visa free
 PRT,MAC,90
 PRT,MDG,visa on arrival
-PRT,MWI,30
+PRT,MWI,visa on arrival
 PRT,MYS,90
 PRT,MDV,visa on arrival
 PRT,MLI,visa required
@@ -28592,7 +28592,7 @@ QAT,PAK,e-visa
 QAT,PLW,visa on arrival
 QAT,PSE,visa free
 QAT,PAN,90
-QAT,PNG,e-visa
+QAT,PNG,visa required
 QAT,PRY,visa on arrival
 QAT,PER,visa required
 QAT,PHL,30
@@ -28643,7 +28643,7 @@ QAT,TUR,90
 QAT,UGA,e-visa
 QAT,UKR,90
 QAT,ARE,visa free
-QAT,GBR,e-visa
+QAT,GBR,180
 QAT,USA,visa required
 QAT,URY,visa required
 QAT,UZB,10
@@ -28957,7 +28957,7 @@ RUS,LTU,visa required
 RUS,LUX,visa required
 RUS,MAC,30
 RUS,MDG,visa on arrival
-RUS,MWI,90
+RUS,MWI,e-visa
 RUS,MYS,30
 RUS,MDV,90
 RUS,MLI,visa required
@@ -29656,7 +29656,7 @@ WSM,AND,90
 WSM,AGO,30
 WSM,ATG,180
 WSM,ARG,visa required
-WSM,ARM,e-visa
+WSM,ARM,visa required
 WSM,AUS,e-visa
 WSM,AUT,90
 WSM,AZE,visa required
@@ -30184,7 +30184,7 @@ STP,PAK,e-visa
 STP,PLW,visa on arrival
 STP,PSE,visa free
 STP,PAN,90
-STP,PNG,e-visa
+STP,PNG,visa required
 STP,PRY,visa required
 STP,PER,visa required
 STP,PHL,30
@@ -30383,7 +30383,7 @@ SAU,PAK,e-visa
 SAU,PLW,visa on arrival
 SAU,PSE,visa free
 SAU,PAN,90
-SAU,PNG,e-visa
+SAU,PNG,visa required
 SAU,PRY,visa required
 SAU,PER,visa required
 SAU,PHL,30
@@ -30582,7 +30582,7 @@ SEN,PAK,e-visa
 SEN,PLW,visa on arrival
 SEN,PSE,visa free
 SEN,PAN,visa required
-SEN,PNG,e-visa
+SEN,PNG,visa required
 SEN,PRY,visa required
 SEN,PER,visa required
 SEN,PHL,30
@@ -30781,7 +30781,7 @@ SRB,PAK,e-visa
 SRB,PLW,visa on arrival
 SRB,PSE,visa free
 SRB,PAN,90
-SRB,PNG,e-visa
+SRB,PNG,visa required
 SRB,PRY,visa required
 SRB,PER,90
 SRB,PHL,visa required
@@ -31146,7 +31146,7 @@ SLE,LTU,visa required
 SLE,LUX,visa required
 SLE,MAC,visa on arrival
 SLE,MDG,visa on arrival
-SLE,MWI,30
+SLE,MWI,visa on arrival
 SLE,MYS,30
 SLE,MDV,visa on arrival
 SLE,MLI,visa free
@@ -31179,7 +31179,7 @@ SLE,PAK,e-visa
 SLE,PLW,visa on arrival
 SLE,PSE,visa required
 SLE,PAN,visa required
-SLE,PNG,e-visa
+SLE,PNG,visa required
 SLE,PRY,visa required
 SLE,PER,visa required
 SLE,PHL,visa required
@@ -31345,7 +31345,7 @@ SGP,LTU,visa free
 SGP,LUX,90
 SGP,MAC,30
 SGP,MDG,visa on arrival
-SGP,MWI,30
+SGP,MWI,visa on arrival
 SGP,MYS,30
 SGP,MDV,visa on arrival
 SGP,MLI,visa required
@@ -31942,7 +31942,7 @@ SLB,LTU,90
 SLB,LUX,90
 SLB,MAC,visa on arrival
 SLB,MDG,visa on arrival
-SLB,MWI,30
+SLB,MWI,visa on arrival
 SLB,MYS,30
 SLB,MDV,visa on arrival
 SLB,MLI,visa required
@@ -32174,7 +32174,7 @@ SOM,PAK,visa required
 SOM,PLW,visa on arrival
 SOM,PSE,visa free
 SOM,PAN,visa required
-SOM,PNG,e-visa
+SOM,PNG,visa required
 SOM,PRY,visa required
 SOM,PER,visa required
 SOM,PHL,visa required
@@ -32771,7 +32771,7 @@ SSD,PAK,e-visa
 SSD,PLW,visa on arrival
 SSD,PSE,visa free
 SSD,PAN,visa required
-SSD,PNG,e-visa
+SSD,PNG,visa required
 SSD,PRY,visa required
 SSD,PER,visa required
 SSD,PHL,visa required
@@ -33136,7 +33136,7 @@ LKA,LTU,visa required
 LKA,LUX,visa required
 LKA,MAC,visa required
 LKA,MDG,visa on arrival
-LKA,MWI,90
+LKA,MWI,e-visa
 LKA,MYS,e-visa
 LKA,MDV,visa on arrival
 LKA,MLI,visa required
@@ -33169,7 +33169,7 @@ LKA,PAK,e-visa
 LKA,PLW,visa on arrival
 LKA,PSE,visa required
 LKA,PAN,visa required
-LKA,PNG,e-visa
+LKA,PNG,visa required
 LKA,PRY,visa required
 LKA,PER,visa required
 LKA,PHL,visa required
@@ -33567,7 +33567,7 @@ SDN,PAK,e-visa
 SDN,PLW,visa on arrival
 SDN,PSE,visa required
 SDN,PAN,visa required
-SDN,PNG,e-visa
+SDN,PNG,visa required
 SDN,PRY,visa required
 SDN,PER,visa required
 SDN,PHL,visa required
@@ -33766,7 +33766,7 @@ SUR,PAK,e-visa
 SUR,PLW,visa on arrival
 SUR,PSE,visa free
 SUR,PAN,visa required
-SUR,PNG,e-visa
+SUR,PNG,visa required
 SUR,PRY,visa required
 SUR,PER,180
 SUR,PHL,30
@@ -33932,7 +33932,7 @@ SWE,LTU,visa free
 SWE,LUX,visa free
 SWE,MAC,90
 SWE,MDG,visa on arrival
-SWE,MWI,30
+SWE,MWI,visa on arrival
 SWE,MYS,90
 SWE,MDV,visa on arrival
 SWE,MLI,visa required
@@ -34363,7 +34363,7 @@ SYR,PAK,e-visa
 SYR,PLW,visa on arrival
 SYR,PSE,visa free
 SYR,PAN,visa required
-SYR,PNG,e-visa
+SYR,PNG,visa required
 SYR,PRY,visa required
 SYR,PER,visa required
 SYR,PHL,visa required
@@ -34761,7 +34761,7 @@ TJK,PAK,e-visa
 TJK,PLW,visa on arrival
 TJK,PSE,visa free
 TJK,PAN,visa required
-TJK,PNG,e-visa
+TJK,PNG,visa required
 TJK,PRY,visa required
 TJK,PER,visa required
 TJK,PHL,30
@@ -34960,7 +34960,7 @@ TZA,PAK,e-visa
 TZA,PLW,visa on arrival
 TZA,PSE,visa required
 TZA,PAN,visa required
-TZA,PNG,e-visa
+TZA,PNG,visa required
 TZA,PRY,visa required
 TZA,PER,visa required
 TZA,PHL,30
@@ -35073,7 +35073,7 @@ THA,DJI,e-visa
 THA,DMA,21
 THA,DOM,visa free
 THA,ECU,90
-THA,EGY,visa required
+THA,EGY,visa on arrival
 THA,SLV,e-visa
 THA,GNQ,e-visa
 THA,ERI,visa required
@@ -35358,7 +35358,7 @@ TLS,PAK,e-visa
 TLS,PLW,visa on arrival
 TLS,PSE,visa free
 TLS,PAN,visa required
-TLS,PNG,e-visa
+TLS,PNG,visa required
 TLS,PRY,visa required
 TLS,PER,visa required
 TLS,PHL,visa required
@@ -35557,7 +35557,7 @@ TGO,PAK,e-visa
 TGO,PLW,visa on arrival
 TGO,PSE,visa required
 TGO,PAN,visa required
-TGO,PNG,e-visa
+TGO,PNG,visa required
 TGO,PRY,visa required
 TGO,PER,visa required
 TGO,PHL,30
@@ -35723,7 +35723,7 @@ TON,LTU,visa free
 TON,LUX,90
 TON,MAC,visa on arrival
 TON,MDG,visa on arrival
-TON,MWI,30
+TON,MWI,visa on arrival
 TON,MYS,30
 TON,MDV,visa on arrival
 TON,MLI,visa required
@@ -35955,7 +35955,7 @@ TTO,PAK,visa free
 TTO,PLW,visa on arrival
 TTO,PSE,visa free
 TTO,PAN,90
-TTO,PNG,e-visa
+TTO,PNG,visa required
 TTO,PRY,visa required
 TTO,PER,180
 TTO,PHL,30
@@ -36154,7 +36154,7 @@ TUN,PAK,e-visa
 TUN,PLW,visa on arrival
 TUN,PSE,visa free
 TUN,PAN,visa required
-TUN,PNG,e-visa
+TUN,PNG,visa required
 TUN,PRY,visa required
 TUN,PER,visa required
 TUN,PHL,30
@@ -36353,7 +36353,7 @@ TUR,PAK,e-visa
 TUR,PLW,visa on arrival
 TUR,PSE,visa free
 TUR,PAN,90
-TUR,PNG,e-visa
+TUR,PNG,visa required
 TUR,PRY,90
 TUR,PER,180
 TUR,PHL,30
@@ -36422,7 +36422,7 @@ TKM,AND,visa required
 TKM,AGO,visa required
 TKM,ATG,180
 TKM,ARG,visa required
-TKM,ARM,e-visa
+TKM,ARM,visa required
 TKM,AUS,e-visa
 TKM,AUT,visa required
 TKM,AZE,e-visa
@@ -36552,7 +36552,7 @@ TKM,PAK,e-visa
 TKM,PLW,visa on arrival
 TKM,PSE,visa free
 TKM,PAN,visa required
-TKM,PNG,e-visa
+TKM,PNG,visa required
 TKM,PRY,visa required
 TKM,PER,visa required
 TKM,PHL,30
@@ -36950,7 +36950,7 @@ UGA,PAK,e-visa
 UGA,PLW,visa on arrival
 UGA,PSE,visa required
 UGA,PAN,visa required
-UGA,PNG,e-visa
+UGA,PNG,visa required
 UGA,PRY,visa required
 UGA,PER,visa required
 UGA,PHL,30
@@ -37149,7 +37149,7 @@ UKR,PAK,e-visa
 UKR,PLW,visa on arrival
 UKR,PSE,visa free
 UKR,PAN,90
-UKR,PNG,e-visa
+UKR,PNG,visa required
 UKR,PRY,90
 UKR,PER,180
 UKR,PHL,visa required
@@ -37348,7 +37348,7 @@ ARE,PAK,e-visa
 ARE,PLW,visa on arrival
 ARE,PSE,visa free
 ARE,PAN,90
-ARE,PNG,e-visa
+ARE,PNG,visa required
 ARE,PRY,90
 ARE,PER,90
 ARE,PHL,30
@@ -37514,7 +37514,7 @@ GBR,LTU,90
 GBR,LUX,90
 GBR,MAC,180
 GBR,MDG,visa on arrival
-GBR,MWI,30
+GBR,MWI,visa on arrival
 GBR,MYS,90
 GBR,MDV,visa on arrival
 GBR,MLI,visa required
@@ -37713,7 +37713,7 @@ USA,LTU,90
 USA,LUX,90
 USA,MAC,30
 USA,MDG,visa on arrival
-USA,MWI,30
+USA,MWI,visa on arrival
 USA,MYS,90
 USA,MDV,visa on arrival
 USA,MLI,visa required
@@ -38144,7 +38144,7 @@ UZB,PAK,e-visa
 UZB,PLW,visa on arrival
 UZB,PSE,visa free
 UZB,PAN,visa required
-UZB,PNG,e-visa
+UZB,PNG,visa required
 UZB,PRY,visa required
 UZB,PER,visa required
 UZB,PHL,30
@@ -38194,7 +38194,7 @@ UZB,TUV,visa on arrival
 UZB,TUR,90
 UZB,UGA,e-visa
 UZB,UKR,visa free
-UZB,ARE,30
+UZB,ARE,visa required
 UZB,GBR,visa required
 UZB,USA,visa required
 UZB,URY,visa required
@@ -38741,7 +38741,7 @@ VEN,PAK,e-visa
 VEN,PLW,visa on arrival
 VEN,PSE,visa free
 VEN,PAN,visa required
-VEN,PNG,e-visa
+VEN,PNG,visa required
 VEN,PRY,90
 VEN,PER,visa required
 VEN,PHL,30
@@ -39139,7 +39139,7 @@ YEM,PAK,e-visa
 YEM,PLW,visa on arrival
 YEM,PSE,visa free
 YEM,PAN,visa required
-YEM,PNG,e-visa
+YEM,PNG,visa required
 YEM,PRY,visa required
 YEM,PER,visa required
 YEM,PHL,visa required
@@ -39537,7 +39537,7 @@ ZWE,PAK,e-visa
 ZWE,PLW,visa on arrival
 ZWE,PSE,visa free
 ZWE,PAN,visa required
-ZWE,PNG,e-visa
+ZWE,PNG,visa required
 ZWE,PRY,visa required
 ZWE,PER,visa required
 ZWE,PHL,30
