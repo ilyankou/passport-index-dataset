@@ -141,7 +141,7 @@ Afghanistan,Peru,visa required
 Afghanistan,Philippines,visa required
 Afghanistan,Poland,visa required
 Afghanistan,Portugal,visa required
-Afghanistan,Qatar,e-visa
+Afghanistan,Qatar,visa required
 Afghanistan,Romania,visa required
 Afghanistan,Russia,visa required
 Afghanistan,Rwanda,visa on arrival
@@ -340,7 +340,7 @@ Albania,Peru,visa required
 Albania,Philippines,visa required
 Albania,Poland,90
 Albania,Portugal,90
-Albania,Qatar,e-visa
+Albania,Qatar,visa required
 Albania,Romania,90
 Albania,Russia,visa required
 Albania,Rwanda,30
@@ -539,7 +539,7 @@ Algeria,Peru,visa required
 Algeria,Philippines,visa required
 Algeria,Poland,visa required
 Algeria,Portugal,visa required
-Algeria,Qatar,e-visa
+Algeria,Qatar,visa required
 Algeria,Romania,visa required
 Algeria,Russia,visa required
 Algeria,Rwanda,30
@@ -937,7 +937,7 @@ Angola,Peru,visa required
 Angola,Philippines,30
 Angola,Poland,visa required
 Angola,Portugal,visa required
-Angola,Qatar,e-visa
+Angola,Qatar,visa required
 Angola,Romania,visa required
 Angola,Russia,visa required
 Angola,Rwanda,90
@@ -1028,7 +1028,7 @@ Antigua and Barbuda,Cape Verde,visa on arrival
 Antigua and Barbuda,Central African Republic,visa required
 Antigua and Barbuda,Chad,visa required
 Antigua and Barbuda,Chile,90
-Antigua and Barbuda,China,30
+Antigua and Barbuda,China,visa required
 Antigua and Barbuda,Colombia,90
 Antigua and Barbuda,Comoros,visa on arrival
 Antigua and Barbuda,Congo,visa required
@@ -2728,7 +2728,7 @@ Bangladesh,Peru,visa required
 Bangladesh,Philippines,visa required
 Bangladesh,Poland,visa required
 Bangladesh,Portugal,visa required
-Bangladesh,Qatar,e-visa
+Bangladesh,Qatar,visa required
 Bangladesh,Romania,visa required
 Bangladesh,Russia,visa required
 Bangladesh,Rwanda,30
@@ -2927,7 +2927,7 @@ Barbados,Peru,180
 Barbados,Philippines,30
 Barbados,Poland,90
 Barbados,Portugal,90
-Barbados,Qatar,e-visa
+Barbados,Qatar,visa required
 Barbados,Romania,90
 Barbados,Russia,visa required
 Barbados,Rwanda,30
@@ -3524,7 +3524,7 @@ Belize,Peru,180
 Belize,Philippines,30
 Belize,Poland,visa required
 Belize,Portugal,visa required
-Belize,Qatar,e-visa
+Belize,Qatar,visa required
 Belize,Romania,visa required
 Belize,Russia,90
 Belize,Rwanda,30
@@ -3723,7 +3723,7 @@ Benin,Peru,visa required
 Benin,Philippines,30
 Benin,Poland,visa required
 Benin,Portugal,visa required
-Benin,Qatar,e-visa
+Benin,Qatar,visa required
 Benin,Romania,visa required
 Benin,Russia,visa required
 Benin,Rwanda,90
@@ -3922,7 +3922,7 @@ Bhutan,Peru,visa required
 Bhutan,Philippines,30
 Bhutan,Poland,visa required
 Bhutan,Portugal,visa required
-Bhutan,Qatar,e-visa
+Bhutan,Qatar,visa required
 Bhutan,Romania,visa required
 Bhutan,Russia,visa required
 Bhutan,Rwanda,visa on arrival
@@ -5315,7 +5315,7 @@ Burkina Faso,Peru,visa required
 Burkina Faso,Philippines,30
 Burkina Faso,Poland,visa required
 Burkina Faso,Portugal,visa required
-Burkina Faso,Qatar,e-visa
+Burkina Faso,Qatar,visa required
 Burkina Faso,Romania,visa required
 Burkina Faso,Russia,visa required
 Burkina Faso,Rwanda,30
@@ -5514,7 +5514,7 @@ Burundi,Peru,visa required
 Burundi,Philippines,30
 Burundi,Poland,visa required
 Burundi,Portugal,visa required
-Burundi,Qatar,e-visa
+Burundi,Qatar,visa required
 Burundi,Romania,visa required
 Burundi,Russia,visa required
 Burundi,Rwanda,180
@@ -5713,7 +5713,7 @@ Cambodia,Peru,visa required
 Cambodia,Philippines,30
 Cambodia,Poland,visa required
 Cambodia,Portugal,visa required
-Cambodia,Qatar,e-visa
+Cambodia,Qatar,visa required
 Cambodia,Romania,visa required
 Cambodia,Russia,e-visa
 Cambodia,Rwanda,30
@@ -5912,7 +5912,7 @@ Cameroon,Peru,visa required
 Cameroon,Philippines,30
 Cameroon,Poland,visa required
 Cameroon,Portugal,visa required
-Cameroon,Qatar,e-visa
+Cameroon,Qatar,visa required
 Cameroon,Romania,visa required
 Cameroon,Russia,visa required
 Cameroon,Rwanda,30
@@ -5936,7 +5936,7 @@ Cameroon,South Korea,e-visa
 Cameroon,South Sudan,e-visa
 Cameroon,Spain,visa required
 Cameroon,Sri Lanka,visa required
-Cameroon,Saint Vincent and the Grenadines,visa required
+Cameroon,Saint Vincent and the Grenadines,90
 Cameroon,Sudan,visa required
 Cameroon,Suriname,e-visa
 Cameroon,Sweden,visa required
@@ -6310,7 +6310,7 @@ Cape Verde,Peru,visa required
 Cape Verde,Philippines,30
 Cape Verde,Poland,visa required
 Cape Verde,Portugal,visa required
-Cape Verde,Qatar,e-visa
+Cape Verde,Qatar,visa required
 Cape Verde,Romania,visa required
 Cape Verde,Russia,60
 Cape Verde,Rwanda,30
@@ -6509,7 +6509,7 @@ Central African Republic,Peru,visa required
 Central African Republic,Philippines,30
 Central African Republic,Poland,visa required
 Central African Republic,Portugal,visa required
-Central African Republic,Qatar,e-visa
+Central African Republic,Qatar,visa required
 Central African Republic,Romania,visa required
 Central African Republic,Russia,visa required
 Central African Republic,Rwanda,90
@@ -6708,7 +6708,7 @@ Chad,Peru,visa required
 Chad,Philippines,30
 Chad,Poland,visa required
 Chad,Portugal,visa required
-Chad,Qatar,e-visa
+Chad,Qatar,visa required
 Chad,Romania,visa required
 Chad,Russia,visa required
 Chad,Rwanda,90
@@ -7504,7 +7504,7 @@ Comoros,Peru,visa required
 Comoros,Philippines,30
 Comoros,Poland,visa required
 Comoros,Portugal,visa required
-Comoros,Qatar,e-visa
+Comoros,Qatar,visa required
 Comoros,Romania,visa required
 Comoros,Russia,visa required
 Comoros,Rwanda,30
@@ -7703,7 +7703,7 @@ Congo,Peru,visa required
 Congo,Philippines,30
 Congo,Poland,visa required
 Congo,Portugal,visa required
-Congo,Qatar,e-visa
+Congo,Qatar,visa required
 Congo,Romania,visa required
 Congo,Russia,visa required
 Congo,Rwanda,30
@@ -7902,7 +7902,7 @@ DR Congo,Peru,visa required
 DR Congo,Philippines,30
 DR Congo,Poland,visa required
 DR Congo,Portugal,visa required
-DR Congo,Qatar,e-visa
+DR Congo,Qatar,visa required
 DR Congo,Romania,visa required
 DR Congo,Russia,visa required
 DR Congo,Rwanda,90
@@ -8300,7 +8300,7 @@ Ivory Coast,Peru,visa required
 Ivory Coast,Philippines,30
 Ivory Coast,Poland,visa required
 Ivory Coast,Portugal,visa required
-Ivory Coast,Qatar,e-visa
+Ivory Coast,Qatar,visa required
 Ivory Coast,Romania,visa required
 Ivory Coast,Russia,visa required
 Ivory Coast,Rwanda,90
@@ -9494,7 +9494,7 @@ Djibouti,Peru,visa required
 Djibouti,Philippines,30
 Djibouti,Poland,visa required
 Djibouti,Portugal,visa required
-Djibouti,Qatar,e-visa
+Djibouti,Qatar,visa required
 Djibouti,Romania,visa required
 Djibouti,Russia,visa required
 Djibouti,Rwanda,30
@@ -9693,7 +9693,7 @@ Dominica,Peru,180
 Dominica,Philippines,30
 Dominica,Poland,90
 Dominica,Portugal,90
-Dominica,Qatar,e-visa
+Dominica,Qatar,visa required
 Dominica,Romania,90
 Dominica,Russia,90
 Dominica,Rwanda,30
@@ -10290,7 +10290,7 @@ Egypt,Peru,visa required
 Egypt,Philippines,visa required
 Egypt,Poland,visa required
 Egypt,Portugal,visa required
-Egypt,Qatar,e-visa
+Egypt,Qatar,visa required
 Egypt,Romania,visa required
 Egypt,Russia,visa required
 Egypt,Rwanda,30
@@ -10489,7 +10489,7 @@ El Salvador,Peru,180
 El Salvador,Philippines,30
 El Salvador,Poland,90
 El Salvador,Portugal,90
-El Salvador,Qatar,e-visa
+El Salvador,Qatar,visa required
 El Salvador,Romania,90
 El Salvador,Russia,90
 El Salvador,Rwanda,visa on arrival
@@ -10688,7 +10688,7 @@ Equatorial Guinea,Peru,visa required
 Equatorial Guinea,Philippines,30
 Equatorial Guinea,Poland,visa required
 Equatorial Guinea,Portugal,visa required
-Equatorial Guinea,Qatar,e-visa
+Equatorial Guinea,Qatar,visa required
 Equatorial Guinea,Romania,visa required
 Equatorial Guinea,Russia,visa required
 Equatorial Guinea,Rwanda,30
@@ -10887,7 +10887,7 @@ Eritrea,Peru,visa required
 Eritrea,Philippines,30
 Eritrea,Poland,visa required
 Eritrea,Portugal,visa required
-Eritrea,Qatar,e-visa
+Eritrea,Qatar,visa required
 Eritrea,Romania,visa required
 Eritrea,Russia,visa required
 Eritrea,Rwanda,30
@@ -11285,7 +11285,7 @@ Swaziland,Peru,visa required
 Swaziland,Philippines,30
 Swaziland,Poland,visa required
 Swaziland,Portugal,visa required
-Swaziland,Qatar,e-visa
+Swaziland,Qatar,visa required
 Swaziland,Romania,visa required
 Swaziland,Russia,visa required
 Swaziland,Rwanda,30
@@ -11484,7 +11484,7 @@ Ethiopia,Peru,visa required
 Ethiopia,Philippines,30
 Ethiopia,Poland,visa required
 Ethiopia,Portugal,visa required
-Ethiopia,Qatar,e-visa
+Ethiopia,Qatar,visa required
 Ethiopia,Romania,visa required
 Ethiopia,Russia,visa required
 Ethiopia,Rwanda,30
@@ -11683,7 +11683,7 @@ Fiji,Peru,180
 Fiji,Philippines,30
 Fiji,Poland,visa required
 Fiji,Portugal,visa required
-Fiji,Qatar,e-visa
+Fiji,Qatar,visa required
 Fiji,Romania,visa required
 Fiji,Russia,90
 Fiji,Rwanda,30
@@ -12280,7 +12280,7 @@ Gabon,Peru,visa required
 Gabon,Philippines,30
 Gabon,Poland,visa required
 Gabon,Portugal,visa required
-Gabon,Qatar,e-visa
+Gabon,Qatar,visa required
 Gabon,Romania,visa required
 Gabon,Russia,visa required
 Gabon,Rwanda,30
@@ -12479,7 +12479,7 @@ Gambia,Peru,visa required
 Gambia,Philippines,30
 Gambia,Poland,visa required
 Gambia,Portugal,visa required
-Gambia,Qatar,e-visa
+Gambia,Qatar,visa required
 Gambia,Romania,visa required
 Gambia,Russia,visa required
 Gambia,Rwanda,30
@@ -13076,7 +13076,7 @@ Ghana,Peru,visa required
 Ghana,Philippines,30
 Ghana,Poland,visa required
 Ghana,Portugal,visa required
-Ghana,Qatar,e-visa
+Ghana,Qatar,visa required
 Ghana,Romania,visa required
 Ghana,Russia,visa required
 Ghana,Rwanda,90
@@ -13474,7 +13474,7 @@ Grenada,Peru,180
 Grenada,Philippines,30
 Grenada,Poland,90
 Grenada,Portugal,90
-Grenada,Qatar,e-visa
+Grenada,Qatar,visa required
 Grenada,Romania,90
 Grenada,Russia,90
 Grenada,Rwanda,30
@@ -13673,7 +13673,7 @@ Guatemala,Peru,90
 Guatemala,Philippines,30
 Guatemala,Poland,90
 Guatemala,Portugal,90
-Guatemala,Qatar,e-visa
+Guatemala,Qatar,visa required
 Guatemala,Romania,90
 Guatemala,Russia,90
 Guatemala,Rwanda,visa on arrival
@@ -13872,7 +13872,7 @@ Guinea,Peru,visa required
 Guinea,Philippines,30
 Guinea,Poland,visa required
 Guinea,Portugal,visa required
-Guinea,Qatar,e-visa
+Guinea,Qatar,visa required
 Guinea,Romania,visa required
 Guinea,Russia,visa required
 Guinea,Rwanda,90
@@ -14071,7 +14071,7 @@ Guinea-Bissau,Peru,visa required
 Guinea-Bissau,Philippines,30
 Guinea-Bissau,Poland,visa required
 Guinea-Bissau,Portugal,visa required
-Guinea-Bissau,Qatar,e-visa
+Guinea-Bissau,Qatar,visa required
 Guinea-Bissau,Romania,visa required
 Guinea-Bissau,Russia,visa required
 Guinea-Bissau,Rwanda,30
@@ -14469,7 +14469,7 @@ Haiti,Peru,visa required
 Haiti,Philippines,30
 Haiti,Poland,visa required
 Haiti,Portugal,visa required
-Haiti,Qatar,e-visa
+Haiti,Qatar,visa required
 Haiti,Romania,visa required
 Haiti,Russia,visa required
 Haiti,Rwanda,90
@@ -14668,7 +14668,7 @@ Honduras,Peru,180
 Honduras,Philippines,30
 Honduras,Poland,90
 Honduras,Portugal,90
-Honduras,Qatar,e-visa
+Honduras,Qatar,visa required
 Honduras,Romania,90
 Honduras,Russia,90
 Honduras,Rwanda,visa on arrival
@@ -15497,7 +15497,7 @@ India,Syria,visa required
 India,Taiwan,visa required
 India,Tajikistan,e-visa
 India,Tanzania,visa on arrival
-India,Thailand,visa required
+India,Thailand,30
 India,Timor-Leste,visa on arrival
 India,Togo,visa on arrival
 India,Tonga,visa required
@@ -16061,7 +16061,7 @@ Iraq,Peru,visa required
 Iraq,Philippines,visa required
 Iraq,Poland,visa required
 Iraq,Portugal,visa required
-Iraq,Qatar,e-visa
+Iraq,Qatar,visa required
 Iraq,Romania,visa required
 Iraq,Russia,visa required
 Iraq,Rwanda,visa on arrival
@@ -16459,7 +16459,7 @@ Israel,Peru,180
 Israel,Philippines,60
 Israel,Poland,90
 Israel,Portugal,90
-Israel,Qatar,e-visa
+Israel,Qatar,visa required
 Israel,Romania,90
 Israel,Russia,90
 Israel,Rwanda,visa on arrival
@@ -16857,7 +16857,7 @@ Jamaica,Peru,180
 Jamaica,Philippines,30
 Jamaica,Poland,visa required
 Jamaica,Portugal,visa required
-Jamaica,Qatar,e-visa
+Jamaica,Qatar,visa required
 Jamaica,Romania,visa required
 Jamaica,Russia,90
 Jamaica,Rwanda,30
@@ -17255,7 +17255,7 @@ Jordan,Peru,visa required
 Jordan,Philippines,visa required
 Jordan,Poland,visa required
 Jordan,Portugal,visa required
-Jordan,Qatar,e-visa
+Jordan,Qatar,visa required
 Jordan,Romania,visa required
 Jordan,Russia,visa required
 Jordan,Rwanda,visa on arrival
@@ -17653,7 +17653,7 @@ Kenya,Peru,visa required
 Kenya,Philippines,30
 Kenya,Poland,visa required
 Kenya,Portugal,visa required
-Kenya,Qatar,e-visa
+Kenya,Qatar,visa required
 Kenya,Romania,visa required
 Kenya,Russia,visa required
 Kenya,Rwanda,180
@@ -17852,7 +17852,7 @@ Kiribati,Peru,180
 Kiribati,Philippines,30
 Kiribati,Poland,90
 Kiribati,Portugal,90
-Kiribati,Qatar,e-visa
+Kiribati,Qatar,visa required
 Kiribati,Romania,90
 Kiribati,Russia,visa required
 Kiribati,Rwanda,30
@@ -18051,7 +18051,7 @@ Kosovo,Peru,visa required
 Kosovo,Philippines,visa required
 Kosovo,Poland,90
 Kosovo,Portugal,90
-Kosovo,Qatar,e-visa
+Kosovo,Qatar,visa required
 Kosovo,Romania,90
 Kosovo,Russia,visa required
 Kosovo,Rwanda,visa on arrival
@@ -18449,7 +18449,7 @@ Kyrgyzstan,Peru,visa required
 Kyrgyzstan,Philippines,30
 Kyrgyzstan,Poland,visa required
 Kyrgyzstan,Portugal,visa required
-Kyrgyzstan,Qatar,e-visa
+Kyrgyzstan,Qatar,visa required
 Kyrgyzstan,Romania,visa required
 Kyrgyzstan,Russia,visa free
 Kyrgyzstan,Rwanda,visa on arrival
@@ -18648,7 +18648,7 @@ Laos,Peru,visa required
 Laos,Philippines,30
 Laos,Poland,visa required
 Laos,Portugal,visa required
-Laos,Qatar,e-visa
+Laos,Qatar,visa required
 Laos,Romania,visa required
 Laos,Russia,30
 Laos,Rwanda,30
@@ -19245,7 +19245,7 @@ Lesotho,Peru,visa required
 Lesotho,Philippines,30
 Lesotho,Poland,visa required
 Lesotho,Portugal,visa required
-Lesotho,Qatar,e-visa
+Lesotho,Qatar,visa required
 Lesotho,Romania,visa required
 Lesotho,Russia,visa required
 Lesotho,Rwanda,30
@@ -19444,7 +19444,7 @@ Liberia,Peru,visa required
 Liberia,Philippines,30
 Liberia,Poland,visa required
 Liberia,Portugal,visa required
-Liberia,Qatar,e-visa
+Liberia,Qatar,visa required
 Liberia,Romania,visa required
 Liberia,Russia,visa required
 Liberia,Rwanda,e-visa
@@ -19643,7 +19643,7 @@ Libya,Peru,visa required
 Libya,Philippines,visa required
 Libya,Poland,visa required
 Libya,Portugal,visa required
-Libya,Qatar,e-visa
+Libya,Qatar,visa required
 Libya,Romania,visa required
 Libya,Russia,visa required
 Libya,Rwanda,30
@@ -20638,7 +20638,7 @@ Madagascar,Peru,visa required
 Madagascar,Philippines,30
 Madagascar,Poland,visa required
 Madagascar,Portugal,visa required
-Madagascar,Qatar,e-visa
+Madagascar,Qatar,visa required
 Madagascar,Romania,visa required
 Madagascar,Russia,visa required
 Madagascar,Rwanda,30
@@ -20837,7 +20837,7 @@ Malawi,Peru,visa required
 Malawi,Philippines,30
 Malawi,Poland,visa required
 Malawi,Portugal,visa required
-Malawi,Qatar,e-visa
+Malawi,Qatar,visa required
 Malawi,Romania,visa required
 Malawi,Russia,visa required
 Malawi,Rwanda,30
@@ -21434,7 +21434,7 @@ Mali,Peru,visa required
 Mali,Philippines,30
 Mali,Poland,visa required
 Mali,Portugal,visa required
-Mali,Qatar,e-visa
+Mali,Qatar,visa required
 Mali,Romania,visa required
 Mali,Russia,visa required
 Mali,Rwanda,30
@@ -21832,7 +21832,7 @@ Marshall Islands,Peru,180
 Marshall Islands,Philippines,30
 Marshall Islands,Poland,90
 Marshall Islands,Portugal,90
-Marshall Islands,Qatar,e-visa
+Marshall Islands,Qatar,visa required
 Marshall Islands,Romania,90
 Marshall Islands,Russia,visa required
 Marshall Islands,Rwanda,visa on arrival
@@ -22031,7 +22031,7 @@ Mauritania,Peru,visa required
 Mauritania,Philippines,30
 Mauritania,Poland,visa required
 Mauritania,Portugal,visa required
-Mauritania,Qatar,e-visa
+Mauritania,Qatar,visa required
 Mauritania,Romania,visa required
 Mauritania,Russia,visa required
 Mauritania,Rwanda,30
@@ -22628,7 +22628,7 @@ Micronesia,Peru,180
 Micronesia,Philippines,30
 Micronesia,Poland,90
 Micronesia,Portugal,90
-Micronesia,Qatar,e-visa
+Micronesia,Qatar,visa required
 Micronesia,Romania,90
 Micronesia,Russia,visa required
 Micronesia,Rwanda,visa on arrival
@@ -23225,7 +23225,7 @@ Mongolia,Peru,90
 Mongolia,Philippines,30
 Mongolia,Poland,visa required
 Mongolia,Portugal,visa required
-Mongolia,Qatar,e-visa
+Mongolia,Qatar,visa required
 Mongolia,Romania,visa required
 Mongolia,Russia,30
 Mongolia,Rwanda,visa on arrival
@@ -23623,7 +23623,7 @@ Morocco,Peru,visa required
 Morocco,Philippines,30
 Morocco,Poland,visa required
 Morocco,Portugal,visa required
-Morocco,Qatar,e-visa
+Morocco,Qatar,visa required
 Morocco,Romania,visa required
 Morocco,Russia,visa required
 Morocco,Rwanda,30
@@ -23822,7 +23822,7 @@ Mozambique,Peru,visa required
 Mozambique,Philippines,30
 Mozambique,Poland,visa required
 Mozambique,Portugal,visa required
-Mozambique,Qatar,e-visa
+Mozambique,Qatar,visa required
 Mozambique,Romania,visa required
 Mozambique,Russia,visa required
 Mozambique,Rwanda,30
@@ -24021,7 +24021,7 @@ Myanmar,Peru,visa required
 Myanmar,Philippines,30
 Myanmar,Poland,visa required
 Myanmar,Portugal,visa required
-Myanmar,Qatar,e-visa
+Myanmar,Qatar,visa required
 Myanmar,Romania,visa required
 Myanmar,Russia,e-visa
 Myanmar,Rwanda,visa on arrival
@@ -24220,7 +24220,7 @@ Namibia,Peru,visa required
 Namibia,Philippines,30
 Namibia,Poland,visa required
 Namibia,Portugal,visa required
-Namibia,Qatar,e-visa
+Namibia,Qatar,visa required
 Namibia,Romania,visa required
 Namibia,Russia,90
 Namibia,Rwanda,30
@@ -24419,7 +24419,7 @@ Nauru,Peru,180
 Nauru,Philippines,visa required
 Nauru,Poland,visa required
 Nauru,Portugal,visa required
-Nauru,Qatar,e-visa
+Nauru,Qatar,visa required
 Nauru,Romania,visa required
 Nauru,Russia,14
 Nauru,Rwanda,30
@@ -24618,7 +24618,7 @@ Nepal,Peru,visa required
 Nepal,Philippines,30
 Nepal,Poland,visa required
 Nepal,Portugal,visa required
-Nepal,Qatar,e-visa
+Nepal,Qatar,visa required
 Nepal,Romania,visa required
 Nepal,Russia,visa required
 Nepal,Rwanda,visa on arrival
@@ -25215,7 +25215,7 @@ Nicaragua,Peru,visa required
 Nicaragua,Philippines,30
 Nicaragua,Poland,90
 Nicaragua,Portugal,90
-Nicaragua,Qatar,e-visa
+Nicaragua,Qatar,visa required
 Nicaragua,Romania,90
 Nicaragua,Russia,90
 Nicaragua,Rwanda,visa on arrival
@@ -25414,7 +25414,7 @@ Niger,Peru,visa required
 Niger,Philippines,30
 Niger,Poland,visa required
 Niger,Portugal,visa required
-Niger,Qatar,e-visa
+Niger,Qatar,visa required
 Niger,Romania,visa required
 Niger,Russia,visa required
 Niger,Rwanda,30
@@ -25613,7 +25613,7 @@ Nigeria,Peru,visa required
 Nigeria,Philippines,visa required
 Nigeria,Poland,visa required
 Nigeria,Portugal,visa required
-Nigeria,Qatar,e-visa
+Nigeria,Qatar,visa required
 Nigeria,Romania,visa required
 Nigeria,Russia,visa required
 Nigeria,Rwanda,30
@@ -25812,7 +25812,7 @@ North Korea,Peru,visa required
 North Korea,Philippines,visa required
 North Korea,Poland,visa required
 North Korea,Portugal,visa required
-North Korea,Qatar,e-visa
+North Korea,Qatar,visa required
 North Korea,Romania,visa required
 North Korea,Russia,e-visa
 North Korea,Rwanda,visa on arrival
@@ -26807,7 +26807,7 @@ Palau,Peru,180
 Palau,Philippines,30
 Palau,Poland,90
 Palau,Portugal,90
-Palau,Qatar,e-visa
+Palau,Qatar,visa required
 Palau,Romania,90
 Palau,Russia,30
 Palau,Rwanda,visa on arrival
@@ -27006,7 +27006,7 @@ Palestine,Peru,visa required
 Palestine,Philippines,visa required
 Palestine,Poland,visa required
 Palestine,Portugal,visa required
-Palestine,Qatar,e-visa
+Palestine,Qatar,visa required
 Palestine,Romania,visa required
 Palestine,Russia,visa required
 Palestine,Rwanda,visa on arrival
@@ -27404,7 +27404,7 @@ Papua New Guinea,Peru,180
 Papua New Guinea,Philippines,30
 Papua New Guinea,Poland,visa required
 Papua New Guinea,Portugal,visa required
-Papua New Guinea,Qatar,e-visa
+Papua New Guinea,Qatar,visa required
 Papua New Guinea,Romania,visa required
 Papua New Guinea,Russia,visa required
 Papua New Guinea,Rwanda,30
@@ -28001,7 +28001,7 @@ Philippines,Peru,180
 Philippines,Philippines,-1
 Philippines,Poland,visa required
 Philippines,Portugal,visa required
-Philippines,Qatar,e-visa
+Philippines,Qatar,visa required
 Philippines,Romania,visa required
 Philippines,Russia,e-visa
 Philippines,Rwanda,90
@@ -29394,7 +29394,7 @@ Saint Kitts and Nevis,Peru,180
 Saint Kitts and Nevis,Philippines,30
 Saint Kitts and Nevis,Poland,90
 Saint Kitts and Nevis,Portugal,90
-Saint Kitts and Nevis,Qatar,e-visa
+Saint Kitts and Nevis,Qatar,visa required
 Saint Kitts and Nevis,Romania,90
 Saint Kitts and Nevis,Russia,90
 Saint Kitts and Nevis,Rwanda,90
@@ -29593,7 +29593,7 @@ Saint Lucia,Peru,180
 Saint Lucia,Philippines,30
 Saint Lucia,Poland,90
 Saint Lucia,Portugal,90
-Saint Lucia,Qatar,e-visa
+Saint Lucia,Qatar,visa required
 Saint Lucia,Romania,90
 Saint Lucia,Russia,visa required
 Saint Lucia,Rwanda,30
@@ -29792,7 +29792,7 @@ Samoa,Peru,180
 Samoa,Philippines,30
 Samoa,Poland,90
 Samoa,Portugal,90
-Samoa,Qatar,e-visa
+Samoa,Qatar,visa required
 Samoa,Romania,90
 Samoa,Russia,60
 Samoa,Rwanda,30
@@ -30190,7 +30190,7 @@ Sao Tome and Principe,Peru,visa required
 Sao Tome and Principe,Philippines,30
 Sao Tome and Principe,Poland,visa required
 Sao Tome and Principe,Portugal,visa required
-Sao Tome and Principe,Qatar,e-visa
+Sao Tome and Principe,Qatar,visa required
 Sao Tome and Principe,Romania,visa required
 Sao Tome and Principe,Russia,visa required
 Sao Tome and Principe,Rwanda,90
@@ -30588,7 +30588,7 @@ Senegal,Peru,visa required
 Senegal,Philippines,30
 Senegal,Poland,visa required
 Senegal,Portugal,visa required
-Senegal,Qatar,e-visa
+Senegal,Qatar,visa required
 Senegal,Romania,visa required
 Senegal,Russia,visa required
 Senegal,Rwanda,90
@@ -31185,7 +31185,7 @@ Sierra Leone,Peru,visa required
 Sierra Leone,Philippines,visa required
 Sierra Leone,Poland,visa required
 Sierra Leone,Portugal,visa required
-Sierra Leone,Qatar,e-visa
+Sierra Leone,Qatar,visa required
 Sierra Leone,Romania,visa required
 Sierra Leone,Russia,visa required
 Sierra Leone,Rwanda,90
@@ -31981,7 +31981,7 @@ Solomon Islands,Peru,180
 Solomon Islands,Philippines,30
 Solomon Islands,Poland,90
 Solomon Islands,Portugal,90
-Solomon Islands,Qatar,e-visa
+Solomon Islands,Qatar,visa required
 Solomon Islands,Romania,90
 Solomon Islands,Russia,visa required
 Solomon Islands,Rwanda,30
@@ -32180,7 +32180,7 @@ Somalia,Peru,visa required
 Somalia,Philippines,visa required
 Somalia,Poland,visa required
 Somalia,Portugal,visa required
-Somalia,Qatar,e-visa
+Somalia,Qatar,visa required
 Somalia,Romania,visa required
 Somalia,Russia,visa required
 Somalia,Rwanda,30
@@ -32777,7 +32777,7 @@ South Sudan,Peru,visa required
 South Sudan,Philippines,visa required
 South Sudan,Poland,visa required
 South Sudan,Portugal,visa required
-South Sudan,Qatar,e-visa
+South Sudan,Qatar,visa required
 South Sudan,Romania,visa required
 South Sudan,Russia,visa required
 South Sudan,Rwanda,180
@@ -33175,7 +33175,7 @@ Sri Lanka,Peru,visa required
 Sri Lanka,Philippines,visa required
 Sri Lanka,Poland,visa required
 Sri Lanka,Portugal,visa required
-Sri Lanka,Qatar,e-visa
+Sri Lanka,Qatar,visa required
 Sri Lanka,Romania,visa required
 Sri Lanka,Russia,visa required
 Sri Lanka,Rwanda,30
@@ -33374,7 +33374,7 @@ Saint Vincent and the Grenadines,Peru,180
 Saint Vincent and the Grenadines,Philippines,30
 Saint Vincent and the Grenadines,Poland,90
 Saint Vincent and the Grenadines,Portugal,90
-Saint Vincent and the Grenadines,Qatar,e-visa
+Saint Vincent and the Grenadines,Qatar,visa required
 Saint Vincent and the Grenadines,Romania,90
 Saint Vincent and the Grenadines,Russia,90
 Saint Vincent and the Grenadines,Rwanda,30
@@ -33573,7 +33573,7 @@ Sudan,Peru,visa required
 Sudan,Philippines,visa required
 Sudan,Poland,visa required
 Sudan,Portugal,visa required
-Sudan,Qatar,e-visa
+Sudan,Qatar,visa required
 Sudan,Romania,visa required
 Sudan,Russia,visa required
 Sudan,Rwanda,30
@@ -34369,7 +34369,7 @@ Syria,Peru,visa required
 Syria,Philippines,visa required
 Syria,Poland,visa required
 Syria,Portugal,visa required
-Syria,Qatar,e-visa
+Syria,Qatar,visa required
 Syria,Romania,visa required
 Syria,Russia,visa required
 Syria,Rwanda,visa on arrival
@@ -34601,7 +34601,7 @@ Taiwan,Syria,visa required
 Taiwan,Taiwan,-1
 Taiwan,Tajikistan,e-visa
 Taiwan,Tanzania,visa on arrival
-Taiwan,Thailand,visa required
+Taiwan,Thailand,30
 Taiwan,Timor-Leste,visa on arrival
 Taiwan,Togo,visa on arrival
 Taiwan,Tonga,visa required
@@ -34767,7 +34767,7 @@ Tajikistan,Peru,visa required
 Tajikistan,Philippines,30
 Tajikistan,Poland,visa required
 Tajikistan,Portugal,visa required
-Tajikistan,Qatar,e-visa
+Tajikistan,Qatar,visa required
 Tajikistan,Romania,visa required
 Tajikistan,Russia,90
 Tajikistan,Rwanda,visa on arrival
@@ -34966,7 +34966,7 @@ Tanzania,Peru,visa required
 Tanzania,Philippines,30
 Tanzania,Poland,visa required
 Tanzania,Portugal,visa required
-Tanzania,Qatar,e-visa
+Tanzania,Qatar,visa required
 Tanzania,Romania,visa required
 Tanzania,Russia,visa required
 Tanzania,Rwanda,180
@@ -35364,7 +35364,7 @@ Timor-Leste,Peru,visa required
 Timor-Leste,Philippines,visa required
 Timor-Leste,Poland,90
 Timor-Leste,Portugal,90
-Timor-Leste,Qatar,e-visa
+Timor-Leste,Qatar,visa required
 Timor-Leste,Romania,90
 Timor-Leste,Russia,visa required
 Timor-Leste,Rwanda,visa on arrival
@@ -35563,7 +35563,7 @@ Togo,Peru,visa required
 Togo,Philippines,30
 Togo,Poland,visa required
 Togo,Portugal,visa required
-Togo,Qatar,e-visa
+Togo,Qatar,visa required
 Togo,Romania,visa required
 Togo,Russia,visa required
 Togo,Rwanda,30
@@ -35762,7 +35762,7 @@ Tonga,Peru,180
 Tonga,Philippines,visa required
 Tonga,Poland,90
 Tonga,Portugal,90
-Tonga,Qatar,e-visa
+Tonga,Qatar,visa required
 Tonga,Romania,90
 Tonga,Russia,visa required
 Tonga,Rwanda,30
@@ -35961,7 +35961,7 @@ Trinidad and Tobago,Peru,180
 Trinidad and Tobago,Philippines,30
 Trinidad and Tobago,Poland,90
 Trinidad and Tobago,Portugal,90
-Trinidad and Tobago,Qatar,e-visa
+Trinidad and Tobago,Qatar,visa required
 Trinidad and Tobago,Romania,90
 Trinidad and Tobago,Russia,visa required
 Trinidad and Tobago,Rwanda,30
@@ -36160,7 +36160,7 @@ Tunisia,Peru,visa required
 Tunisia,Philippines,30
 Tunisia,Poland,visa required
 Tunisia,Portugal,visa required
-Tunisia,Qatar,e-visa
+Tunisia,Qatar,visa required
 Tunisia,Romania,visa required
 Tunisia,Russia,visa required
 Tunisia,Rwanda,30
@@ -36558,7 +36558,7 @@ Turkmenistan,Peru,visa required
 Turkmenistan,Philippines,30
 Turkmenistan,Poland,visa required
 Turkmenistan,Portugal,visa required
-Turkmenistan,Qatar,e-visa
+Turkmenistan,Qatar,visa required
 Turkmenistan,Romania,visa required
 Turkmenistan,Russia,visa required
 Turkmenistan,Rwanda,visa on arrival
@@ -36757,7 +36757,7 @@ Tuvalu,Peru,180
 Tuvalu,Philippines,30
 Tuvalu,Poland,90
 Tuvalu,Portugal,90
-Tuvalu,Qatar,e-visa
+Tuvalu,Qatar,visa required
 Tuvalu,Romania,90
 Tuvalu,Russia,visa required
 Tuvalu,Rwanda,e-visa
@@ -36956,7 +36956,7 @@ Uganda,Peru,visa required
 Uganda,Philippines,30
 Uganda,Poland,visa required
 Uganda,Portugal,visa required
-Uganda,Qatar,e-visa
+Uganda,Qatar,visa required
 Uganda,Romania,visa required
 Uganda,Russia,visa required
 Uganda,Rwanda,180
@@ -38349,7 +38349,7 @@ Vanuatu,Peru,180
 Vanuatu,Philippines,30
 Vanuatu,Poland,visa required
 Vanuatu,Portugal,visa required
-Vanuatu,Qatar,e-visa
+Vanuatu,Qatar,visa required
 Vanuatu,Romania,visa required
 Vanuatu,Russia,90
 Vanuatu,Rwanda,30
@@ -38946,7 +38946,7 @@ Vietnam,Peru,visa required
 Vietnam,Philippines,30
 Vietnam,Poland,visa required
 Vietnam,Portugal,visa required
-Vietnam,Qatar,e-visa
+Vietnam,Qatar,visa required
 Vietnam,Romania,visa required
 Vietnam,Russia,e-visa
 Vietnam,Rwanda,30
@@ -39145,7 +39145,7 @@ Yemen,Peru,visa required
 Yemen,Philippines,visa required
 Yemen,Poland,visa required
 Yemen,Portugal,visa required
-Yemen,Qatar,e-visa
+Yemen,Qatar,visa required
 Yemen,Romania,visa required
 Yemen,Russia,visa required
 Yemen,Rwanda,visa on arrival
@@ -39344,7 +39344,7 @@ Zambia,Peru,visa required
 Zambia,Philippines,30
 Zambia,Poland,visa required
 Zambia,Portugal,visa required
-Zambia,Qatar,e-visa
+Zambia,Qatar,visa required
 Zambia,Romania,visa required
 Zambia,Russia,visa required
 Zambia,Rwanda,30
@@ -39543,7 +39543,7 @@ Zimbabwe,Peru,visa required
 Zimbabwe,Philippines,30
 Zimbabwe,Poland,visa required
 Zimbabwe,Portugal,visa required
-Zimbabwe,Qatar,e-visa
+Zimbabwe,Qatar,visa required
 Zimbabwe,Romania,visa required
 Zimbabwe,Russia,visa required
 Zimbabwe,Rwanda,30

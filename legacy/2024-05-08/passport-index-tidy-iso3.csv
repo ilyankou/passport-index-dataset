@@ -141,7 +141,7 @@ AFG,PER,visa required
 AFG,PHL,visa required
 AFG,POL,visa required
 AFG,PRT,visa required
-AFG,QAT,e-visa
+AFG,QAT,visa required
 AFG,ROU,visa required
 AFG,RUS,visa required
 AFG,RWA,visa on arrival
@@ -340,7 +340,7 @@ ALB,PER,visa required
 ALB,PHL,visa required
 ALB,POL,90
 ALB,PRT,90
-ALB,QAT,e-visa
+ALB,QAT,visa required
 ALB,ROU,90
 ALB,RUS,visa required
 ALB,RWA,30
@@ -539,7 +539,7 @@ DZA,PER,visa required
 DZA,PHL,visa required
 DZA,POL,visa required
 DZA,PRT,visa required
-DZA,QAT,e-visa
+DZA,QAT,visa required
 DZA,ROU,visa required
 DZA,RUS,visa required
 DZA,RWA,30
@@ -937,7 +937,7 @@ AGO,PER,visa required
 AGO,PHL,30
 AGO,POL,visa required
 AGO,PRT,visa required
-AGO,QAT,e-visa
+AGO,QAT,visa required
 AGO,ROU,visa required
 AGO,RUS,visa required
 AGO,RWA,90
@@ -1028,7 +1028,7 @@ ATG,CPV,visa on arrival
 ATG,CAF,visa required
 ATG,TCD,visa required
 ATG,CHL,90
-ATG,CHN,30
+ATG,CHN,visa required
 ATG,COL,90
 ATG,COM,visa on arrival
 ATG,COG,visa required
@@ -2728,7 +2728,7 @@ BGD,PER,visa required
 BGD,PHL,visa required
 BGD,POL,visa required
 BGD,PRT,visa required
-BGD,QAT,e-visa
+BGD,QAT,visa required
 BGD,ROU,visa required
 BGD,RUS,visa required
 BGD,RWA,30
@@ -2927,7 +2927,7 @@ BRB,PER,180
 BRB,PHL,30
 BRB,POL,90
 BRB,PRT,90
-BRB,QAT,e-visa
+BRB,QAT,visa required
 BRB,ROU,90
 BRB,RUS,visa required
 BRB,RWA,30
@@ -3524,7 +3524,7 @@ BLZ,PER,180
 BLZ,PHL,30
 BLZ,POL,visa required
 BLZ,PRT,visa required
-BLZ,QAT,e-visa
+BLZ,QAT,visa required
 BLZ,ROU,visa required
 BLZ,RUS,90
 BLZ,RWA,30
@@ -3723,7 +3723,7 @@ BEN,PER,visa required
 BEN,PHL,30
 BEN,POL,visa required
 BEN,PRT,visa required
-BEN,QAT,e-visa
+BEN,QAT,visa required
 BEN,ROU,visa required
 BEN,RUS,visa required
 BEN,RWA,90
@@ -3922,7 +3922,7 @@ BTN,PER,visa required
 BTN,PHL,30
 BTN,POL,visa required
 BTN,PRT,visa required
-BTN,QAT,e-visa
+BTN,QAT,visa required
 BTN,ROU,visa required
 BTN,RUS,visa required
 BTN,RWA,visa on arrival
@@ -5315,7 +5315,7 @@ BFA,PER,visa required
 BFA,PHL,30
 BFA,POL,visa required
 BFA,PRT,visa required
-BFA,QAT,e-visa
+BFA,QAT,visa required
 BFA,ROU,visa required
 BFA,RUS,visa required
 BFA,RWA,30
@@ -5514,7 +5514,7 @@ BDI,PER,visa required
 BDI,PHL,30
 BDI,POL,visa required
 BDI,PRT,visa required
-BDI,QAT,e-visa
+BDI,QAT,visa required
 BDI,ROU,visa required
 BDI,RUS,visa required
 BDI,RWA,180
@@ -5713,7 +5713,7 @@ KHM,PER,visa required
 KHM,PHL,30
 KHM,POL,visa required
 KHM,PRT,visa required
-KHM,QAT,e-visa
+KHM,QAT,visa required
 KHM,ROU,visa required
 KHM,RUS,e-visa
 KHM,RWA,30
@@ -5912,7 +5912,7 @@ CMR,PER,visa required
 CMR,PHL,30
 CMR,POL,visa required
 CMR,PRT,visa required
-CMR,QAT,e-visa
+CMR,QAT,visa required
 CMR,ROU,visa required
 CMR,RUS,visa required
 CMR,RWA,30
@@ -5936,7 +5936,7 @@ CMR,KOR,e-visa
 CMR,SSD,e-visa
 CMR,ESP,visa required
 CMR,LKA,visa required
-CMR,VCT,visa required
+CMR,VCT,90
 CMR,SDN,visa required
 CMR,SUR,e-visa
 CMR,SWE,visa required
@@ -6310,7 +6310,7 @@ CPV,PER,visa required
 CPV,PHL,30
 CPV,POL,visa required
 CPV,PRT,visa required
-CPV,QAT,e-visa
+CPV,QAT,visa required
 CPV,ROU,visa required
 CPV,RUS,60
 CPV,RWA,30
@@ -6509,7 +6509,7 @@ CAF,PER,visa required
 CAF,PHL,30
 CAF,POL,visa required
 CAF,PRT,visa required
-CAF,QAT,e-visa
+CAF,QAT,visa required
 CAF,ROU,visa required
 CAF,RUS,visa required
 CAF,RWA,90
@@ -6708,7 +6708,7 @@ TCD,PER,visa required
 TCD,PHL,30
 TCD,POL,visa required
 TCD,PRT,visa required
-TCD,QAT,e-visa
+TCD,QAT,visa required
 TCD,ROU,visa required
 TCD,RUS,visa required
 TCD,RWA,90
@@ -7504,7 +7504,7 @@ COM,PER,visa required
 COM,PHL,30
 COM,POL,visa required
 COM,PRT,visa required
-COM,QAT,e-visa
+COM,QAT,visa required
 COM,ROU,visa required
 COM,RUS,visa required
 COM,RWA,30
@@ -7703,7 +7703,7 @@ COG,PER,visa required
 COG,PHL,30
 COG,POL,visa required
 COG,PRT,visa required
-COG,QAT,e-visa
+COG,QAT,visa required
 COG,ROU,visa required
 COG,RUS,visa required
 COG,RWA,30
@@ -7902,7 +7902,7 @@ COD,PER,visa required
 COD,PHL,30
 COD,POL,visa required
 COD,PRT,visa required
-COD,QAT,e-visa
+COD,QAT,visa required
 COD,ROU,visa required
 COD,RUS,visa required
 COD,RWA,90
@@ -8300,7 +8300,7 @@ CIV,PER,visa required
 CIV,PHL,30
 CIV,POL,visa required
 CIV,PRT,visa required
-CIV,QAT,e-visa
+CIV,QAT,visa required
 CIV,ROU,visa required
 CIV,RUS,visa required
 CIV,RWA,90
@@ -9494,7 +9494,7 @@ DJI,PER,visa required
 DJI,PHL,30
 DJI,POL,visa required
 DJI,PRT,visa required
-DJI,QAT,e-visa
+DJI,QAT,visa required
 DJI,ROU,visa required
 DJI,RUS,visa required
 DJI,RWA,30
@@ -9693,7 +9693,7 @@ DMA,PER,180
 DMA,PHL,30
 DMA,POL,90
 DMA,PRT,90
-DMA,QAT,e-visa
+DMA,QAT,visa required
 DMA,ROU,90
 DMA,RUS,90
 DMA,RWA,30
@@ -10290,7 +10290,7 @@ EGY,PER,visa required
 EGY,PHL,visa required
 EGY,POL,visa required
 EGY,PRT,visa required
-EGY,QAT,e-visa
+EGY,QAT,visa required
 EGY,ROU,visa required
 EGY,RUS,visa required
 EGY,RWA,30
@@ -10489,7 +10489,7 @@ SLV,PER,180
 SLV,PHL,30
 SLV,POL,90
 SLV,PRT,90
-SLV,QAT,e-visa
+SLV,QAT,visa required
 SLV,ROU,90
 SLV,RUS,90
 SLV,RWA,visa on arrival
@@ -10688,7 +10688,7 @@ GNQ,PER,visa required
 GNQ,PHL,30
 GNQ,POL,visa required
 GNQ,PRT,visa required
-GNQ,QAT,e-visa
+GNQ,QAT,visa required
 GNQ,ROU,visa required
 GNQ,RUS,visa required
 GNQ,RWA,30
@@ -10887,7 +10887,7 @@ ERI,PER,visa required
 ERI,PHL,30
 ERI,POL,visa required
 ERI,PRT,visa required
-ERI,QAT,e-visa
+ERI,QAT,visa required
 ERI,ROU,visa required
 ERI,RUS,visa required
 ERI,RWA,30
@@ -11285,7 +11285,7 @@ SWZ,PER,visa required
 SWZ,PHL,30
 SWZ,POL,visa required
 SWZ,PRT,visa required
-SWZ,QAT,e-visa
+SWZ,QAT,visa required
 SWZ,ROU,visa required
 SWZ,RUS,visa required
 SWZ,RWA,30
@@ -11484,7 +11484,7 @@ ETH,PER,visa required
 ETH,PHL,30
 ETH,POL,visa required
 ETH,PRT,visa required
-ETH,QAT,e-visa
+ETH,QAT,visa required
 ETH,ROU,visa required
 ETH,RUS,visa required
 ETH,RWA,30
@@ -11683,7 +11683,7 @@ FJI,PER,180
 FJI,PHL,30
 FJI,POL,visa required
 FJI,PRT,visa required
-FJI,QAT,e-visa
+FJI,QAT,visa required
 FJI,ROU,visa required
 FJI,RUS,90
 FJI,RWA,30
@@ -12280,7 +12280,7 @@ GAB,PER,visa required
 GAB,PHL,30
 GAB,POL,visa required
 GAB,PRT,visa required
-GAB,QAT,e-visa
+GAB,QAT,visa required
 GAB,ROU,visa required
 GAB,RUS,visa required
 GAB,RWA,30
@@ -12479,7 +12479,7 @@ GMB,PER,visa required
 GMB,PHL,30
 GMB,POL,visa required
 GMB,PRT,visa required
-GMB,QAT,e-visa
+GMB,QAT,visa required
 GMB,ROU,visa required
 GMB,RUS,visa required
 GMB,RWA,30
@@ -13076,7 +13076,7 @@ GHA,PER,visa required
 GHA,PHL,30
 GHA,POL,visa required
 GHA,PRT,visa required
-GHA,QAT,e-visa
+GHA,QAT,visa required
 GHA,ROU,visa required
 GHA,RUS,visa required
 GHA,RWA,90
@@ -13474,7 +13474,7 @@ GRD,PER,180
 GRD,PHL,30
 GRD,POL,90
 GRD,PRT,90
-GRD,QAT,e-visa
+GRD,QAT,visa required
 GRD,ROU,90
 GRD,RUS,90
 GRD,RWA,30
@@ -13673,7 +13673,7 @@ GTM,PER,90
 GTM,PHL,30
 GTM,POL,90
 GTM,PRT,90
-GTM,QAT,e-visa
+GTM,QAT,visa required
 GTM,ROU,90
 GTM,RUS,90
 GTM,RWA,visa on arrival
@@ -13872,7 +13872,7 @@ GIN,PER,visa required
 GIN,PHL,30
 GIN,POL,visa required
 GIN,PRT,visa required
-GIN,QAT,e-visa
+GIN,QAT,visa required
 GIN,ROU,visa required
 GIN,RUS,visa required
 GIN,RWA,90
@@ -14071,7 +14071,7 @@ GNB,PER,visa required
 GNB,PHL,30
 GNB,POL,visa required
 GNB,PRT,visa required
-GNB,QAT,e-visa
+GNB,QAT,visa required
 GNB,ROU,visa required
 GNB,RUS,visa required
 GNB,RWA,30
@@ -14469,7 +14469,7 @@ HTI,PER,visa required
 HTI,PHL,30
 HTI,POL,visa required
 HTI,PRT,visa required
-HTI,QAT,e-visa
+HTI,QAT,visa required
 HTI,ROU,visa required
 HTI,RUS,visa required
 HTI,RWA,90
@@ -14668,7 +14668,7 @@ HND,PER,180
 HND,PHL,30
 HND,POL,90
 HND,PRT,90
-HND,QAT,e-visa
+HND,QAT,visa required
 HND,ROU,90
 HND,RUS,90
 HND,RWA,visa on arrival
@@ -15497,7 +15497,7 @@ IND,SYR,visa required
 IND,TWN,visa required
 IND,TJK,e-visa
 IND,TZA,visa on arrival
-IND,THA,visa required
+IND,THA,30
 IND,TLS,visa on arrival
 IND,TGO,visa on arrival
 IND,TON,visa required
@@ -16061,7 +16061,7 @@ IRQ,PER,visa required
 IRQ,PHL,visa required
 IRQ,POL,visa required
 IRQ,PRT,visa required
-IRQ,QAT,e-visa
+IRQ,QAT,visa required
 IRQ,ROU,visa required
 IRQ,RUS,visa required
 IRQ,RWA,visa on arrival
@@ -16459,7 +16459,7 @@ ISR,PER,180
 ISR,PHL,60
 ISR,POL,90
 ISR,PRT,90
-ISR,QAT,e-visa
+ISR,QAT,visa required
 ISR,ROU,90
 ISR,RUS,90
 ISR,RWA,visa on arrival
@@ -16857,7 +16857,7 @@ JAM,PER,180
 JAM,PHL,30
 JAM,POL,visa required
 JAM,PRT,visa required
-JAM,QAT,e-visa
+JAM,QAT,visa required
 JAM,ROU,visa required
 JAM,RUS,90
 JAM,RWA,30
@@ -17255,7 +17255,7 @@ JOR,PER,visa required
 JOR,PHL,visa required
 JOR,POL,visa required
 JOR,PRT,visa required
-JOR,QAT,e-visa
+JOR,QAT,visa required
 JOR,ROU,visa required
 JOR,RUS,visa required
 JOR,RWA,visa on arrival
@@ -17653,7 +17653,7 @@ KEN,PER,visa required
 KEN,PHL,30
 KEN,POL,visa required
 KEN,PRT,visa required
-KEN,QAT,e-visa
+KEN,QAT,visa required
 KEN,ROU,visa required
 KEN,RUS,visa required
 KEN,RWA,180
@@ -17852,7 +17852,7 @@ KIR,PER,180
 KIR,PHL,30
 KIR,POL,90
 KIR,PRT,90
-KIR,QAT,e-visa
+KIR,QAT,visa required
 KIR,ROU,90
 KIR,RUS,visa required
 KIR,RWA,30
@@ -18051,7 +18051,7 @@ XKX,PER,visa required
 XKX,PHL,visa required
 XKX,POL,90
 XKX,PRT,90
-XKX,QAT,e-visa
+XKX,QAT,visa required
 XKX,ROU,90
 XKX,RUS,visa required
 XKX,RWA,visa on arrival
@@ -18449,7 +18449,7 @@ KGZ,PER,visa required
 KGZ,PHL,30
 KGZ,POL,visa required
 KGZ,PRT,visa required
-KGZ,QAT,e-visa
+KGZ,QAT,visa required
 KGZ,ROU,visa required
 KGZ,RUS,visa free
 KGZ,RWA,visa on arrival
@@ -18648,7 +18648,7 @@ LAO,PER,visa required
 LAO,PHL,30
 LAO,POL,visa required
 LAO,PRT,visa required
-LAO,QAT,e-visa
+LAO,QAT,visa required
 LAO,ROU,visa required
 LAO,RUS,30
 LAO,RWA,30
@@ -19245,7 +19245,7 @@ LSO,PER,visa required
 LSO,PHL,30
 LSO,POL,visa required
 LSO,PRT,visa required
-LSO,QAT,e-visa
+LSO,QAT,visa required
 LSO,ROU,visa required
 LSO,RUS,visa required
 LSO,RWA,30
@@ -19444,7 +19444,7 @@ LBR,PER,visa required
 LBR,PHL,30
 LBR,POL,visa required
 LBR,PRT,visa required
-LBR,QAT,e-visa
+LBR,QAT,visa required
 LBR,ROU,visa required
 LBR,RUS,visa required
 LBR,RWA,e-visa
@@ -19643,7 +19643,7 @@ LBY,PER,visa required
 LBY,PHL,visa required
 LBY,POL,visa required
 LBY,PRT,visa required
-LBY,QAT,e-visa
+LBY,QAT,visa required
 LBY,ROU,visa required
 LBY,RUS,visa required
 LBY,RWA,30
@@ -20638,7 +20638,7 @@ MDG,PER,visa required
 MDG,PHL,30
 MDG,POL,visa required
 MDG,PRT,visa required
-MDG,QAT,e-visa
+MDG,QAT,visa required
 MDG,ROU,visa required
 MDG,RUS,visa required
 MDG,RWA,30
@@ -20837,7 +20837,7 @@ MWI,PER,visa required
 MWI,PHL,30
 MWI,POL,visa required
 MWI,PRT,visa required
-MWI,QAT,e-visa
+MWI,QAT,visa required
 MWI,ROU,visa required
 MWI,RUS,visa required
 MWI,RWA,30
@@ -21434,7 +21434,7 @@ MLI,PER,visa required
 MLI,PHL,30
 MLI,POL,visa required
 MLI,PRT,visa required
-MLI,QAT,e-visa
+MLI,QAT,visa required
 MLI,ROU,visa required
 MLI,RUS,visa required
 MLI,RWA,30
@@ -21832,7 +21832,7 @@ MHL,PER,180
 MHL,PHL,30
 MHL,POL,90
 MHL,PRT,90
-MHL,QAT,e-visa
+MHL,QAT,visa required
 MHL,ROU,90
 MHL,RUS,visa required
 MHL,RWA,visa on arrival
@@ -22031,7 +22031,7 @@ MRT,PER,visa required
 MRT,PHL,30
 MRT,POL,visa required
 MRT,PRT,visa required
-MRT,QAT,e-visa
+MRT,QAT,visa required
 MRT,ROU,visa required
 MRT,RUS,visa required
 MRT,RWA,30
@@ -22628,7 +22628,7 @@ FSM,PER,180
 FSM,PHL,30
 FSM,POL,90
 FSM,PRT,90
-FSM,QAT,e-visa
+FSM,QAT,visa required
 FSM,ROU,90
 FSM,RUS,visa required
 FSM,RWA,visa on arrival
@@ -23225,7 +23225,7 @@ MNG,PER,90
 MNG,PHL,30
 MNG,POL,visa required
 MNG,PRT,visa required
-MNG,QAT,e-visa
+MNG,QAT,visa required
 MNG,ROU,visa required
 MNG,RUS,30
 MNG,RWA,visa on arrival
@@ -23623,7 +23623,7 @@ MAR,PER,visa required
 MAR,PHL,30
 MAR,POL,visa required
 MAR,PRT,visa required
-MAR,QAT,e-visa
+MAR,QAT,visa required
 MAR,ROU,visa required
 MAR,RUS,visa required
 MAR,RWA,30
@@ -23822,7 +23822,7 @@ MOZ,PER,visa required
 MOZ,PHL,30
 MOZ,POL,visa required
 MOZ,PRT,visa required
-MOZ,QAT,e-visa
+MOZ,QAT,visa required
 MOZ,ROU,visa required
 MOZ,RUS,visa required
 MOZ,RWA,30
@@ -24021,7 +24021,7 @@ MMR,PER,visa required
 MMR,PHL,30
 MMR,POL,visa required
 MMR,PRT,visa required
-MMR,QAT,e-visa
+MMR,QAT,visa required
 MMR,ROU,visa required
 MMR,RUS,e-visa
 MMR,RWA,visa on arrival
@@ -24220,7 +24220,7 @@ NAM,PER,visa required
 NAM,PHL,30
 NAM,POL,visa required
 NAM,PRT,visa required
-NAM,QAT,e-visa
+NAM,QAT,visa required
 NAM,ROU,visa required
 NAM,RUS,90
 NAM,RWA,30
@@ -24419,7 +24419,7 @@ NRU,PER,180
 NRU,PHL,visa required
 NRU,POL,visa required
 NRU,PRT,visa required
-NRU,QAT,e-visa
+NRU,QAT,visa required
 NRU,ROU,visa required
 NRU,RUS,14
 NRU,RWA,30
@@ -24618,7 +24618,7 @@ NPL,PER,visa required
 NPL,PHL,30
 NPL,POL,visa required
 NPL,PRT,visa required
-NPL,QAT,e-visa
+NPL,QAT,visa required
 NPL,ROU,visa required
 NPL,RUS,visa required
 NPL,RWA,visa on arrival
@@ -25215,7 +25215,7 @@ NIC,PER,visa required
 NIC,PHL,30
 NIC,POL,90
 NIC,PRT,90
-NIC,QAT,e-visa
+NIC,QAT,visa required
 NIC,ROU,90
 NIC,RUS,90
 NIC,RWA,visa on arrival
@@ -25414,7 +25414,7 @@ NER,PER,visa required
 NER,PHL,30
 NER,POL,visa required
 NER,PRT,visa required
-NER,QAT,e-visa
+NER,QAT,visa required
 NER,ROU,visa required
 NER,RUS,visa required
 NER,RWA,30
@@ -25613,7 +25613,7 @@ NGA,PER,visa required
 NGA,PHL,visa required
 NGA,POL,visa required
 NGA,PRT,visa required
-NGA,QAT,e-visa
+NGA,QAT,visa required
 NGA,ROU,visa required
 NGA,RUS,visa required
 NGA,RWA,30
@@ -25812,7 +25812,7 @@ PRK,PER,visa required
 PRK,PHL,visa required
 PRK,POL,visa required
 PRK,PRT,visa required
-PRK,QAT,e-visa
+PRK,QAT,visa required
 PRK,ROU,visa required
 PRK,RUS,e-visa
 PRK,RWA,visa on arrival
@@ -26807,7 +26807,7 @@ PLW,PER,180
 PLW,PHL,30
 PLW,POL,90
 PLW,PRT,90
-PLW,QAT,e-visa
+PLW,QAT,visa required
 PLW,ROU,90
 PLW,RUS,30
 PLW,RWA,visa on arrival
@@ -27006,7 +27006,7 @@ PSE,PER,visa required
 PSE,PHL,visa required
 PSE,POL,visa required
 PSE,PRT,visa required
-PSE,QAT,e-visa
+PSE,QAT,visa required
 PSE,ROU,visa required
 PSE,RUS,visa required
 PSE,RWA,visa on arrival
@@ -27404,7 +27404,7 @@ PNG,PER,180
 PNG,PHL,30
 PNG,POL,visa required
 PNG,PRT,visa required
-PNG,QAT,e-visa
+PNG,QAT,visa required
 PNG,ROU,visa required
 PNG,RUS,visa required
 PNG,RWA,30
@@ -28001,7 +28001,7 @@ PHL,PER,180
 PHL,PHL,-1
 PHL,POL,visa required
 PHL,PRT,visa required
-PHL,QAT,e-visa
+PHL,QAT,visa required
 PHL,ROU,visa required
 PHL,RUS,e-visa
 PHL,RWA,90
@@ -29394,7 +29394,7 @@ KNA,PER,180
 KNA,PHL,30
 KNA,POL,90
 KNA,PRT,90
-KNA,QAT,e-visa
+KNA,QAT,visa required
 KNA,ROU,90
 KNA,RUS,90
 KNA,RWA,90
@@ -29593,7 +29593,7 @@ LCA,PER,180
 LCA,PHL,30
 LCA,POL,90
 LCA,PRT,90
-LCA,QAT,e-visa
+LCA,QAT,visa required
 LCA,ROU,90
 LCA,RUS,visa required
 LCA,RWA,30
@@ -29792,7 +29792,7 @@ WSM,PER,180
 WSM,PHL,30
 WSM,POL,90
 WSM,PRT,90
-WSM,QAT,e-visa
+WSM,QAT,visa required
 WSM,ROU,90
 WSM,RUS,60
 WSM,RWA,30
@@ -30190,7 +30190,7 @@ STP,PER,visa required
 STP,PHL,30
 STP,POL,visa required
 STP,PRT,visa required
-STP,QAT,e-visa
+STP,QAT,visa required
 STP,ROU,visa required
 STP,RUS,visa required
 STP,RWA,90
@@ -30588,7 +30588,7 @@ SEN,PER,visa required
 SEN,PHL,30
 SEN,POL,visa required
 SEN,PRT,visa required
-SEN,QAT,e-visa
+SEN,QAT,visa required
 SEN,ROU,visa required
 SEN,RUS,visa required
 SEN,RWA,90
@@ -31185,7 +31185,7 @@ SLE,PER,visa required
 SLE,PHL,visa required
 SLE,POL,visa required
 SLE,PRT,visa required
-SLE,QAT,e-visa
+SLE,QAT,visa required
 SLE,ROU,visa required
 SLE,RUS,visa required
 SLE,RWA,90
@@ -31981,7 +31981,7 @@ SLB,PER,180
 SLB,PHL,30
 SLB,POL,90
 SLB,PRT,90
-SLB,QAT,e-visa
+SLB,QAT,visa required
 SLB,ROU,90
 SLB,RUS,visa required
 SLB,RWA,30
@@ -32180,7 +32180,7 @@ SOM,PER,visa required
 SOM,PHL,visa required
 SOM,POL,visa required
 SOM,PRT,visa required
-SOM,QAT,e-visa
+SOM,QAT,visa required
 SOM,ROU,visa required
 SOM,RUS,visa required
 SOM,RWA,30
@@ -32777,7 +32777,7 @@ SSD,PER,visa required
 SSD,PHL,visa required
 SSD,POL,visa required
 SSD,PRT,visa required
-SSD,QAT,e-visa
+SSD,QAT,visa required
 SSD,ROU,visa required
 SSD,RUS,visa required
 SSD,RWA,180
@@ -33175,7 +33175,7 @@ LKA,PER,visa required
 LKA,PHL,visa required
 LKA,POL,visa required
 LKA,PRT,visa required
-LKA,QAT,e-visa
+LKA,QAT,visa required
 LKA,ROU,visa required
 LKA,RUS,visa required
 LKA,RWA,30
@@ -33374,7 +33374,7 @@ VCT,PER,180
 VCT,PHL,30
 VCT,POL,90
 VCT,PRT,90
-VCT,QAT,e-visa
+VCT,QAT,visa required
 VCT,ROU,90
 VCT,RUS,90
 VCT,RWA,30
@@ -33573,7 +33573,7 @@ SDN,PER,visa required
 SDN,PHL,visa required
 SDN,POL,visa required
 SDN,PRT,visa required
-SDN,QAT,e-visa
+SDN,QAT,visa required
 SDN,ROU,visa required
 SDN,RUS,visa required
 SDN,RWA,30
@@ -34369,7 +34369,7 @@ SYR,PER,visa required
 SYR,PHL,visa required
 SYR,POL,visa required
 SYR,PRT,visa required
-SYR,QAT,e-visa
+SYR,QAT,visa required
 SYR,ROU,visa required
 SYR,RUS,visa required
 SYR,RWA,visa on arrival
@@ -34601,7 +34601,7 @@ TWN,SYR,visa required
 TWN,TWN,-1
 TWN,TJK,e-visa
 TWN,TZA,visa on arrival
-TWN,THA,visa required
+TWN,THA,30
 TWN,TLS,visa on arrival
 TWN,TGO,visa on arrival
 TWN,TON,visa required
@@ -34767,7 +34767,7 @@ TJK,PER,visa required
 TJK,PHL,30
 TJK,POL,visa required
 TJK,PRT,visa required
-TJK,QAT,e-visa
+TJK,QAT,visa required
 TJK,ROU,visa required
 TJK,RUS,90
 TJK,RWA,visa on arrival
@@ -34966,7 +34966,7 @@ TZA,PER,visa required
 TZA,PHL,30
 TZA,POL,visa required
 TZA,PRT,visa required
-TZA,QAT,e-visa
+TZA,QAT,visa required
 TZA,ROU,visa required
 TZA,RUS,visa required
 TZA,RWA,180
@@ -35364,7 +35364,7 @@ TLS,PER,visa required
 TLS,PHL,visa required
 TLS,POL,90
 TLS,PRT,90
-TLS,QAT,e-visa
+TLS,QAT,visa required
 TLS,ROU,90
 TLS,RUS,visa required
 TLS,RWA,visa on arrival
@@ -35563,7 +35563,7 @@ TGO,PER,visa required
 TGO,PHL,30
 TGO,POL,visa required
 TGO,PRT,visa required
-TGO,QAT,e-visa
+TGO,QAT,visa required
 TGO,ROU,visa required
 TGO,RUS,visa required
 TGO,RWA,30
@@ -35762,7 +35762,7 @@ TON,PER,180
 TON,PHL,visa required
 TON,POL,90
 TON,PRT,90
-TON,QAT,e-visa
+TON,QAT,visa required
 TON,ROU,90
 TON,RUS,visa required
 TON,RWA,30
@@ -35961,7 +35961,7 @@ TTO,PER,180
 TTO,PHL,30
 TTO,POL,90
 TTO,PRT,90
-TTO,QAT,e-visa
+TTO,QAT,visa required
 TTO,ROU,90
 TTO,RUS,visa required
 TTO,RWA,30
@@ -36160,7 +36160,7 @@ TUN,PER,visa required
 TUN,PHL,30
 TUN,POL,visa required
 TUN,PRT,visa required
-TUN,QAT,e-visa
+TUN,QAT,visa required
 TUN,ROU,visa required
 TUN,RUS,visa required
 TUN,RWA,30
@@ -36558,7 +36558,7 @@ TKM,PER,visa required
 TKM,PHL,30
 TKM,POL,visa required
 TKM,PRT,visa required
-TKM,QAT,e-visa
+TKM,QAT,visa required
 TKM,ROU,visa required
 TKM,RUS,visa required
 TKM,RWA,visa on arrival
@@ -36757,7 +36757,7 @@ TUV,PER,180
 TUV,PHL,30
 TUV,POL,90
 TUV,PRT,90
-TUV,QAT,e-visa
+TUV,QAT,visa required
 TUV,ROU,90
 TUV,RUS,visa required
 TUV,RWA,e-visa
@@ -36956,7 +36956,7 @@ UGA,PER,visa required
 UGA,PHL,30
 UGA,POL,visa required
 UGA,PRT,visa required
-UGA,QAT,e-visa
+UGA,QAT,visa required
 UGA,ROU,visa required
 UGA,RUS,visa required
 UGA,RWA,180
@@ -38349,7 +38349,7 @@ VUT,PER,180
 VUT,PHL,30
 VUT,POL,visa required
 VUT,PRT,visa required
-VUT,QAT,e-visa
+VUT,QAT,visa required
 VUT,ROU,visa required
 VUT,RUS,90
 VUT,RWA,30
@@ -38946,7 +38946,7 @@ VNM,PER,visa required
 VNM,PHL,30
 VNM,POL,visa required
 VNM,PRT,visa required
-VNM,QAT,e-visa
+VNM,QAT,visa required
 VNM,ROU,visa required
 VNM,RUS,e-visa
 VNM,RWA,30
@@ -39145,7 +39145,7 @@ YEM,PER,visa required
 YEM,PHL,visa required
 YEM,POL,visa required
 YEM,PRT,visa required
-YEM,QAT,e-visa
+YEM,QAT,visa required
 YEM,ROU,visa required
 YEM,RUS,visa required
 YEM,RWA,visa on arrival
@@ -39344,7 +39344,7 @@ ZMB,PER,visa required
 ZMB,PHL,30
 ZMB,POL,visa required
 ZMB,PRT,visa required
-ZMB,QAT,e-visa
+ZMB,QAT,visa required
 ZMB,ROU,visa required
 ZMB,RUS,visa required
 ZMB,RWA,30
@@ -39543,7 +39543,7 @@ ZWE,PER,visa required
 ZWE,PHL,30
 ZWE,POL,visa required
 ZWE,PRT,visa required
-ZWE,QAT,e-visa
+ZWE,QAT,visa required
 ZWE,ROU,visa required
 ZWE,RUS,visa required
 ZWE,RWA,30
