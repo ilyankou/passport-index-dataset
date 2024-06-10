@@ -176,7 +176,7 @@ AF,TJ,e-visa
 AF,TZ,e-visa
 AF,TH,visa required
 AF,TL,visa on arrival
-AF,TG,e-visa
+AF,TG,visa on arrival
 AF,TO,visa required
 AF,TT,visa required
 AF,TN,visa required
@@ -185,7 +185,7 @@ AF,TV,visa on arrival
 AF,TR,visa required
 AF,UG,e-visa
 AF,UA,visa required
-AF,AE,e-visa
+AF,AE,visa required
 AF,GB,visa required
 AF,US,visa required
 AF,UY,visa required
@@ -375,7 +375,7 @@ AL,TJ,e-visa
 AL,TZ,visa on arrival
 AL,TH,e-visa
 AL,TL,visa on arrival
-AL,TG,e-visa
+AL,TG,visa on arrival
 AL,TO,visa required
 AL,TT,30
 AL,TN,visa required
@@ -574,7 +574,7 @@ DZ,TJ,visa on arrival
 DZ,TZ,visa on arrival
 DZ,TH,e-visa
 DZ,TL,visa on arrival
-DZ,TG,e-visa
+DZ,TG,visa on arrival
 DZ,TO,visa required
 DZ,TT,visa required
 DZ,TN,90
@@ -583,7 +583,7 @@ DZ,TV,visa on arrival
 DZ,TR,visa required
 DZ,UG,e-visa
 DZ,UA,visa required
-DZ,AE,e-visa
+DZ,AE,visa required
 DZ,GB,visa required
 DZ,US,visa required
 DZ,UY,visa required
@@ -773,7 +773,7 @@ AD,TJ,30
 AD,TZ,visa on arrival
 AD,TH,30
 AD,TL,visa on arrival
-AD,TG,e-visa
+AD,TG,visa on arrival
 AD,TO,visa required
 AD,TT,visa required
 AD,TN,90
@@ -972,7 +972,7 @@ AO,TJ,e-visa
 AO,TZ,visa on arrival
 AO,TH,visa required
 AO,TL,visa on arrival
-AO,TG,e-visa
+AO,TG,visa on arrival
 AO,TO,visa required
 AO,TT,visa required
 AO,TN,90
@@ -981,7 +981,7 @@ AO,TV,visa on arrival
 AO,TR,visa required
 AO,UG,90
 AO,UA,visa required
-AO,AE,e-visa
+AO,AE,visa required
 AO,GB,visa required
 AO,US,visa required
 AO,UY,visa required
@@ -991,7 +991,7 @@ AO,VA,visa required
 AO,VE,visa required
 AO,VN,e-visa
 AO,YE,visa required
-AO,ZM,90
+AO,ZM,30
 AO,ZW,90
 AO,AF,visa required
 AG,AL,90
@@ -1171,7 +1171,7 @@ AG,TJ,e-visa
 AG,TZ,90
 AG,TH,e-visa
 AG,TL,visa on arrival
-AG,TG,e-visa
+AG,TG,visa on arrival
 AG,TO,visa required
 AG,TT,visa free
 AG,TN,90
@@ -1180,7 +1180,7 @@ AG,TV,visa on arrival
 AG,TR,visa on arrival
 AG,UG,90
 AG,UA,90
-AG,AE,e-visa
+AG,AE,visa required
 AG,GB,180
 AG,US,visa required
 AG,UY,visa required
@@ -1370,7 +1370,7 @@ AR,TJ,30
 AR,TZ,visa on arrival
 AR,TH,90
 AR,TL,visa on arrival
-AR,TG,e-visa
+AR,TG,visa on arrival
 AR,TO,visa required
 AR,TT,90
 AR,TN,90
@@ -1569,7 +1569,7 @@ AM,TJ,90
 AM,TZ,visa on arrival
 AM,TH,visa required
 AM,TL,visa on arrival
-AM,TG,e-visa
+AM,TG,visa on arrival
 AM,TO,visa required
 AM,TT,visa required
 AM,TN,visa required
@@ -1768,7 +1768,7 @@ AU,TJ,30
 AU,TZ,visa on arrival
 AU,TH,30
 AU,TL,visa on arrival
-AU,TG,e-visa
+AU,TG,visa on arrival
 AU,TO,visa on arrival
 AU,TT,visa on arrival
 AU,TN,90
@@ -1967,7 +1967,7 @@ AT,TJ,30
 AT,TZ,visa on arrival
 AT,TH,30
 AT,TL,90
-AT,TG,e-visa
+AT,TG,visa on arrival
 AT,TO,90
 AT,TT,90
 AT,TN,90
@@ -2166,7 +2166,7 @@ AZ,TJ,90
 AZ,TZ,e-visa
 AZ,TH,visa required
 AZ,TL,visa on arrival
-AZ,TG,e-visa
+AZ,TG,visa on arrival
 AZ,TO,visa required
 AZ,TT,visa required
 AZ,TN,visa required
@@ -2339,7 +2339,7 @@ BS,LC,42
 BS,WS,visa on arrival
 BS,SM,90
 BS,ST,e-visa
-BS,SA,visa on arrival
+BS,SA,visa required
 BS,SN,visa on arrival
 BS,RS,30
 BS,SC,90
@@ -2365,7 +2365,7 @@ BS,TJ,30
 BS,TZ,90
 BS,TH,e-visa
 BS,TL,visa on arrival
-BS,TG,e-visa
+BS,TG,visa on arrival
 BS,TO,visa on arrival
 BS,TT,visa free
 BS,TN,visa required
@@ -2564,7 +2564,7 @@ BH,TJ,30
 BH,TZ,visa on arrival
 BH,TH,30
 BH,TL,visa on arrival
-BH,TG,e-visa
+BH,TG,visa on arrival
 BH,TO,visa required
 BH,TT,visa required
 BH,TN,90
@@ -2763,7 +2763,7 @@ BD,TJ,e-visa
 BD,TZ,e-visa
 BD,TH,visa required
 BD,TL,visa on arrival
-BD,TG,e-visa
+BD,TG,visa on arrival
 BD,TO,visa required
 BD,TT,visa free
 BD,TN,visa required
@@ -2772,7 +2772,7 @@ BD,TV,visa on arrival
 BD,TR,visa required
 BD,UG,e-visa
 BD,UA,visa required
-BD,AE,e-visa
+BD,AE,visa required
 BD,GB,visa required
 BD,US,visa required
 BD,UY,visa required
@@ -2936,7 +2936,7 @@ BB,LC,42
 BB,WS,visa on arrival
 BB,SM,90
 BB,ST,e-visa
-BB,SA,visa on arrival
+BB,SA,visa required
 BB,SN,visa on arrival
 BB,RS,30
 BB,SC,90
@@ -2962,7 +2962,7 @@ BB,TJ,e-visa
 BB,TZ,90
 BB,TH,e-visa
 BB,TL,visa on arrival
-BB,TG,e-visa
+BB,TG,visa on arrival
 BB,TO,visa on arrival
 BB,TT,visa free
 BB,TN,90
@@ -3161,7 +3161,7 @@ BY,TJ,90
 BY,TZ,visa on arrival
 BY,TH,visa required
 BY,TL,visa on arrival
-BY,TG,e-visa
+BY,TG,visa on arrival
 BY,TO,visa required
 BY,TT,visa required
 BY,TN,visa on arrival
@@ -3360,7 +3360,7 @@ BE,TJ,30
 BE,TZ,visa on arrival
 BE,TH,30
 BE,TL,90
-BE,TG,e-visa
+BE,TG,visa on arrival
 BE,TO,90
 BE,TT,90
 BE,TN,90
@@ -3559,7 +3559,7 @@ BZ,TJ,e-visa
 BZ,TZ,90
 BZ,TH,visa required
 BZ,TL,visa on arrival
-BZ,TG,e-visa
+BZ,TG,visa on arrival
 BZ,TO,visa required
 BZ,TT,visa free
 BZ,TN,visa required
@@ -3568,7 +3568,7 @@ BZ,TV,visa on arrival
 BZ,TR,90
 BZ,UG,90
 BZ,UA,visa required
-BZ,AE,e-visa
+BZ,AE,visa required
 BZ,GB,180
 BZ,US,visa required
 BZ,UY,90
@@ -3767,7 +3767,7 @@ BJ,TV,visa on arrival
 BJ,TR,visa required
 BJ,UG,e-visa
 BJ,UA,visa required
-BJ,AE,e-visa
+BJ,AE,visa required
 BJ,GB,visa required
 BJ,US,visa required
 BJ,UY,visa required
@@ -3957,7 +3957,7 @@ BT,TJ,e-visa
 BT,TZ,visa on arrival
 BT,TH,visa on arrival
 BT,TL,visa on arrival
-BT,TG,e-visa
+BT,TG,visa on arrival
 BT,TO,visa required
 BT,TT,visa required
 BT,TN,visa required
@@ -3966,7 +3966,7 @@ BT,TV,visa on arrival
 BT,TR,visa required
 BT,UG,e-visa
 BT,UA,visa required
-BT,AE,e-visa
+BT,AE,visa required
 BT,GB,visa required
 BT,US,visa required
 BT,UY,visa required
@@ -4156,7 +4156,7 @@ BO,TJ,e-visa
 BO,TZ,visa on arrival
 BO,TH,visa required
 BO,TL,visa on arrival
-BO,TG,e-visa
+BO,TG,visa on arrival
 BO,TO,visa required
 BO,TT,visa required
 BO,TN,visa required
@@ -4165,7 +4165,7 @@ BO,TV,visa on arrival
 BO,TR,90
 BO,UG,e-visa
 BO,UA,visa required
-BO,AE,e-visa
+BO,AE,visa required
 BO,GB,visa required
 BO,US,visa required
 BO,UY,90
@@ -4355,7 +4355,7 @@ BA,TJ,30
 BA,TZ,visa on arrival
 BA,TH,e-visa
 BA,TL,visa on arrival
-BA,TG,e-visa
+BA,TG,visa on arrival
 BA,TO,visa required
 BA,TT,30
 BA,TN,90
@@ -4554,7 +4554,7 @@ BW,TJ,e-visa
 BW,TZ,90
 BW,TH,visa required
 BW,TL,visa on arrival
-BW,TG,e-visa
+BW,TG,visa on arrival
 BW,TO,visa required
 BW,TT,visa free
 BW,TN,visa required
@@ -4563,7 +4563,7 @@ BW,TV,visa on arrival
 BW,TR,visa required
 BW,UG,90
 BW,UA,visa required
-BW,AE,e-visa
+BW,AE,visa required
 BW,GB,180
 BW,US,visa required
 BW,UY,visa required
@@ -4753,7 +4753,7 @@ BR,TJ,30
 BR,TZ,visa on arrival
 BR,TH,90
 BR,TL,visa on arrival
-BR,TG,e-visa
+BR,TG,visa on arrival
 BR,TO,visa on arrival
 BR,TT,90
 BR,TN,90
@@ -4952,7 +4952,7 @@ BN,TJ,30
 BN,TZ,90
 BN,TH,30
 BN,TL,visa on arrival
-BN,TG,e-visa
+BN,TG,visa on arrival
 BN,TO,visa on arrival
 BN,TT,visa free
 BN,TN,90
@@ -4999,7 +4999,7 @@ BG,BW,90
 BG,BR,90
 BG,BN,90
 BG,BG,-1
-BG,BF,visa on arrival
+BG,BF,e-visa
 BG,BI,visa on arrival
 BG,KH,visa on arrival
 BG,CM,e-visa
@@ -5151,7 +5151,7 @@ BG,TJ,30
 BG,TZ,visa on arrival
 BG,TH,visa on arrival
 BG,TL,90
-BG,TG,e-visa
+BG,TG,visa on arrival
 BG,TO,90
 BG,TT,90
 BG,TN,60
@@ -5359,7 +5359,7 @@ BF,TV,visa on arrival
 BF,TR,visa required
 BF,UG,e-visa
 BF,UA,visa required
-BF,AE,e-visa
+BF,AE,visa required
 BF,GB,visa required
 BF,US,visa required
 BF,UY,visa required
@@ -5549,7 +5549,7 @@ BI,TJ,e-visa
 BI,TZ,90
 BI,TH,visa required
 BI,TL,visa on arrival
-BI,TG,e-visa
+BI,TG,visa on arrival
 BI,TO,visa required
 BI,TT,visa required
 BI,TN,visa required
@@ -5558,7 +5558,7 @@ BI,TV,visa on arrival
 BI,TR,visa required
 BI,UG,90
 BI,UA,visa required
-BI,AE,e-visa
+BI,AE,visa required
 BI,GB,visa required
 BI,US,visa required
 BI,UY,visa required
@@ -5748,7 +5748,7 @@ KH,TJ,e-visa
 KH,TZ,visa on arrival
 KH,TH,14
 KH,TL,visa on arrival
-KH,TG,e-visa
+KH,TG,visa on arrival
 KH,TO,visa required
 KH,TT,visa required
 KH,TN,visa required
@@ -5757,7 +5757,7 @@ KH,TV,visa on arrival
 KH,TR,visa required
 KH,UG,e-visa
 KH,UA,visa required
-KH,AE,e-visa
+KH,AE,visa required
 KH,GB,visa required
 KH,US,visa required
 KH,UY,visa required
@@ -5947,7 +5947,7 @@ CM,TJ,e-visa
 CM,TZ,visa on arrival
 CM,TH,visa required
 CM,TL,visa on arrival
-CM,TG,e-visa
+CM,TG,visa on arrival
 CM,TO,visa required
 CM,TT,visa required
 CM,TN,visa required
@@ -5956,7 +5956,7 @@ CM,TV,visa on arrival
 CM,TR,visa required
 CM,UG,e-visa
 CM,UA,visa required
-CM,AE,e-visa
+CM,AE,visa required
 CM,GB,visa required
 CM,US,visa required
 CM,UY,visa required
@@ -6146,7 +6146,7 @@ CA,TJ,30
 CA,TZ,visa on arrival
 CA,TH,30
 CA,TL,visa on arrival
-CA,TG,e-visa
+CA,TG,visa on arrival
 CA,TO,visa on arrival
 CA,TT,visa free
 CA,TN,120
@@ -6285,7 +6285,7 @@ CV,MD,e-visa
 CV,MC,visa required
 CV,MN,e-visa
 CV,ME,visa required
-CV,MA,90
+CV,MA,visa required
 CV,MZ,visa on arrival
 CV,MM,visa required
 CV,NA,visa on arrival
@@ -6354,7 +6354,7 @@ CV,TV,visa on arrival
 CV,TR,visa required
 CV,UG,e-visa
 CV,UA,visa required
-CV,AE,e-visa
+CV,AE,visa required
 CV,GB,visa required
 CV,US,visa required
 CV,UY,visa required
@@ -6544,7 +6544,7 @@ CF,TJ,e-visa
 CF,TZ,visa on arrival
 CF,TH,visa required
 CF,TL,visa on arrival
-CF,TG,e-visa
+CF,TG,visa on arrival
 CF,TO,visa required
 CF,TT,visa required
 CF,TN,visa required
@@ -6553,7 +6553,7 @@ CF,TV,visa on arrival
 CF,TR,visa required
 CF,UG,e-visa
 CF,UA,visa required
-CF,AE,e-visa
+CF,AE,visa required
 CF,GB,visa required
 CF,US,visa required
 CF,UY,visa required
@@ -6743,7 +6743,7 @@ TD,TJ,e-visa
 TD,TZ,e-visa
 TD,TH,visa required
 TD,TL,visa on arrival
-TD,TG,e-visa
+TD,TG,visa on arrival
 TD,TO,visa required
 TD,TT,visa required
 TD,TN,visa required
@@ -6752,7 +6752,7 @@ TD,TV,visa on arrival
 TD,TR,visa required
 TD,UG,e-visa
 TD,UA,visa required
-TD,AE,e-visa
+TD,AE,visa required
 TD,GB,visa required
 TD,US,visa required
 TD,UY,visa required
@@ -6942,7 +6942,7 @@ CL,TJ,30
 CL,TZ,visa on arrival
 CL,TH,90
 CL,TL,visa on arrival
-CL,TG,e-visa
+CL,TG,visa on arrival
 CL,TO,visa required
 CL,TT,90
 CL,TN,90
@@ -7141,7 +7141,7 @@ CN,TJ,e-visa
 CN,TZ,visa on arrival
 CN,TH,30
 CN,TL,visa on arrival
-CN,TG,e-visa
+CN,TG,visa on arrival
 CN,TO,visa on arrival
 CN,TT,visa required
 CN,TN,90
@@ -7340,7 +7340,7 @@ CO,TJ,e-visa
 CO,TZ,visa on arrival
 CO,TH,visa required
 CO,TL,visa on arrival
-CO,TG,e-visa
+CO,TG,visa on arrival
 CO,TO,visa required
 CO,TT,90
 CO,TN,visa required
@@ -7539,7 +7539,7 @@ KM,TJ,e-visa
 KM,TZ,visa on arrival
 KM,TH,visa required
 KM,TL,visa on arrival
-KM,TG,e-visa
+KM,TG,visa on arrival
 KM,TO,visa required
 KM,TT,visa required
 KM,TN,90
@@ -7548,7 +7548,7 @@ KM,TV,visa on arrival
 KM,TR,visa required
 KM,UG,90
 KM,UA,visa required
-KM,AE,e-visa
+KM,AE,visa required
 KM,GB,visa required
 KM,US,visa required
 KM,UY,visa required
@@ -7738,7 +7738,7 @@ CG,TJ,e-visa
 CG,TZ,visa on arrival
 CG,TH,e-visa
 CG,TL,visa on arrival
-CG,TG,e-visa
+CG,TG,visa on arrival
 CG,TO,visa required
 CG,TT,visa required
 CG,TN,visa required
@@ -7747,7 +7747,7 @@ CG,TV,visa on arrival
 CG,TR,visa required
 CG,UG,e-visa
 CG,UA,visa required
-CG,AE,e-visa
+CG,AE,visa required
 CG,GB,visa required
 CG,US,visa required
 CG,UY,visa required
@@ -7937,7 +7937,7 @@ CD,TJ,e-visa
 CD,TZ,visa on arrival
 CD,TH,visa required
 CD,TL,visa on arrival
-CD,TG,e-visa
+CD,TG,visa on arrival
 CD,TO,visa required
 CD,TT,visa required
 CD,TN,visa required
@@ -7946,7 +7946,7 @@ CD,TV,visa on arrival
 CD,TR,visa required
 CD,UG,90
 CD,UA,visa required
-CD,AE,e-visa
+CD,AE,visa required
 CD,GB,visa required
 CD,US,visa required
 CD,UY,visa required
@@ -8136,7 +8136,7 @@ CR,TJ,30
 CR,TZ,visa on arrival
 CR,TH,e-visa
 CR,TL,visa on arrival
-CR,TG,e-visa
+CR,TG,visa on arrival
 CR,TO,visa required
 CR,TT,90
 CR,TN,90
@@ -8344,7 +8344,7 @@ CI,TV,visa on arrival
 CI,TR,visa required
 CI,UG,e-visa
 CI,UA,visa required
-CI,AE,e-visa
+CI,AE,visa required
 CI,GB,visa required
 CI,US,visa required
 CI,UY,visa required
@@ -8534,7 +8534,7 @@ HR,TJ,30
 HR,TZ,visa on arrival
 HR,TH,e-visa
 HR,TL,90
-HR,TG,e-visa
+HR,TG,visa on arrival
 HR,TO,90
 HR,TT,90
 HR,TN,90
@@ -8733,7 +8733,7 @@ CU,TJ,30
 CU,TZ,visa on arrival
 CU,TH,visa required
 CU,TL,visa on arrival
-CU,TG,e-visa
+CU,TG,visa on arrival
 CU,TO,visa required
 CU,TT,90
 CU,TN,visa required
@@ -8742,7 +8742,7 @@ CU,TV,visa on arrival
 CU,TR,visa required
 CU,UG,e-visa
 CU,UA,visa required
-CU,AE,e-visa
+CU,AE,visa required
 CU,GB,visa required
 CU,US,visa required
 CU,UY,visa required
@@ -8932,7 +8932,7 @@ CY,TJ,30
 CY,TZ,90
 CY,TH,visa on arrival
 CY,TL,90
-CY,TG,e-visa
+CY,TG,visa on arrival
 CY,TO,90
 CY,TT,90
 CY,TN,visa required
@@ -9131,7 +9131,7 @@ CZ,TJ,30
 CZ,TZ,visa on arrival
 CZ,TH,30
 CZ,TL,90
-CZ,TG,e-visa
+CZ,TG,visa on arrival
 CZ,TO,90
 CZ,TT,90
 CZ,TN,90
@@ -9330,7 +9330,7 @@ DK,TJ,30
 DK,TZ,visa on arrival
 DK,TH,30
 DK,TL,90
-DK,TG,e-visa
+DK,TG,visa on arrival
 DK,TO,90
 DK,TT,90
 DK,TN,90
@@ -9529,7 +9529,7 @@ DJ,TJ,e-visa
 DJ,TZ,e-visa
 DJ,TH,visa required
 DJ,TL,visa on arrival
-DJ,TG,e-visa
+DJ,TG,visa on arrival
 DJ,TO,visa required
 DJ,TT,visa required
 DJ,TN,visa required
@@ -9538,7 +9538,7 @@ DJ,TV,visa on arrival
 DJ,TR,visa required
 DJ,UG,e-visa
 DJ,UA,visa required
-DJ,AE,e-visa
+DJ,AE,visa required
 DJ,GB,visa required
 DJ,US,visa required
 DJ,UY,visa required
@@ -9728,7 +9728,7 @@ DM,TJ,e-visa
 DM,TZ,90
 DM,TH,e-visa
 DM,TL,visa on arrival
-DM,TG,e-visa
+DM,TG,visa on arrival
 DM,TO,visa on arrival
 DM,TT,visa free
 DM,TN,visa required
@@ -9737,7 +9737,7 @@ DM,TV,visa on arrival
 DM,TR,visa required
 DM,UG,e-visa
 DM,UA,90
-DM,AE,e-visa
+DM,AE,visa required
 DM,GB,visa required
 DM,US,visa required
 DM,UY,90
@@ -9927,7 +9927,7 @@ DO,TJ,30
 DO,TZ,visa on arrival
 DO,TH,e-visa
 DO,TL,visa on arrival
-DO,TG,e-visa
+DO,TG,visa on arrival
 DO,TO,visa required
 DO,TT,90
 DO,TN,7
@@ -9936,7 +9936,7 @@ DO,TV,visa on arrival
 DO,TR,e-visa
 DO,UG,e-visa
 DO,UA,visa required
-DO,AE,e-visa
+DO,AE,visa required
 DO,GB,visa required
 DO,US,visa required
 DO,UY,visa required
@@ -10065,7 +10065,7 @@ EC,FM,30
 EC,MD,90
 EC,MC,visa required
 EC,MN,30
-EC,ME,visa required
+EC,ME,30
 EC,MA,visa required
 EC,MZ,visa on arrival
 EC,MM,e-visa
@@ -10126,7 +10126,7 @@ EC,TJ,30
 EC,TZ,visa on arrival
 EC,TH,visa required
 EC,TL,visa on arrival
-EC,TG,e-visa
+EC,TG,visa on arrival
 EC,TO,visa required
 EC,TT,90
 EC,TN,visa required
@@ -10135,7 +10135,7 @@ EC,TV,visa on arrival
 EC,TR,90
 EC,UG,e-visa
 EC,UA,90
-EC,AE,e-visa
+EC,AE,visa required
 EC,GB,visa required
 EC,US,visa required
 EC,UY,90
@@ -10245,7 +10245,7 @@ EG,LV,visa required
 EG,LB,visa on arrival
 EG,LS,e-visa
 EG,LR,visa required
-EG,LY,visa required
+EG,LY,e-visa
 EG,LI,visa required
 EG,LT,visa required
 EG,LU,visa required
@@ -10325,7 +10325,7 @@ EG,TJ,visa on arrival
 EG,TZ,visa on arrival
 EG,TH,visa required
 EG,TL,visa on arrival
-EG,TG,e-visa
+EG,TG,visa on arrival
 EG,TO,visa required
 EG,TT,visa required
 EG,TN,visa required
@@ -10334,7 +10334,7 @@ EG,TV,visa on arrival
 EG,TR,visa required
 EG,UG,e-visa
 EG,UA,visa required
-EG,AE,e-visa
+EG,AE,visa required
 EG,GB,visa required
 EG,US,visa required
 EG,UY,visa required
@@ -10524,7 +10524,7 @@ SV,TJ,e-visa
 SV,TZ,visa on arrival
 SV,TH,e-visa
 SV,TL,visa on arrival
-SV,TG,e-visa
+SV,TG,visa on arrival
 SV,TO,visa required
 SV,TT,90
 SV,TN,visa required
@@ -10723,7 +10723,7 @@ GQ,TJ,e-visa
 GQ,TZ,e-visa
 GQ,TH,visa required
 GQ,TL,visa on arrival
-GQ,TG,e-visa
+GQ,TG,visa on arrival
 GQ,TO,visa required
 GQ,TT,visa required
 GQ,TN,90
@@ -10732,7 +10732,7 @@ GQ,TV,visa on arrival
 GQ,TR,visa required
 GQ,UG,e-visa
 GQ,UA,visa required
-GQ,AE,e-visa
+GQ,AE,visa required
 GQ,GB,visa required
 GQ,US,visa required
 GQ,UY,visa required
@@ -10922,7 +10922,7 @@ ER,TJ,e-visa
 ER,TZ,e-visa
 ER,TH,visa required
 ER,TL,visa on arrival
-ER,TG,e-visa
+ER,TG,visa on arrival
 ER,TO,visa required
 ER,TT,visa required
 ER,TN,visa required
@@ -10931,7 +10931,7 @@ ER,TV,visa on arrival
 ER,TR,visa required
 ER,UG,90
 ER,UA,visa required
-ER,AE,e-visa
+ER,AE,visa required
 ER,GB,visa required
 ER,US,visa required
 ER,UY,visa required
@@ -11121,7 +11121,7 @@ EE,TJ,30
 EE,TZ,visa on arrival
 EE,TH,30
 EE,TL,90
-EE,TG,e-visa
+EE,TG,visa on arrival
 EE,TO,90
 EE,TT,90
 EE,TN,90
@@ -11320,7 +11320,7 @@ SZ,TJ,e-visa
 SZ,TZ,90
 SZ,TH,visa required
 SZ,TL,visa on arrival
-SZ,TG,e-visa
+SZ,TG,visa on arrival
 SZ,TO,visa required
 SZ,TT,visa free
 SZ,TN,visa required
@@ -11329,7 +11329,7 @@ SZ,TV,visa on arrival
 SZ,TR,visa required
 SZ,UG,90
 SZ,UA,visa required
-SZ,AE,e-visa
+SZ,AE,visa required
 SZ,GB,visa required
 SZ,US,visa required
 SZ,UY,visa required
@@ -11519,7 +11519,7 @@ ET,TJ,e-visa
 ET,TZ,visa on arrival
 ET,TH,visa on arrival
 ET,TL,visa on arrival
-ET,TG,e-visa
+ET,TG,visa on arrival
 ET,TO,visa required
 ET,TT,visa required
 ET,TN,visa required
@@ -11528,7 +11528,7 @@ ET,TV,visa on arrival
 ET,TR,visa required
 ET,UG,e-visa
 ET,UA,visa required
-ET,AE,e-visa
+ET,AE,visa required
 ET,GB,visa required
 ET,US,visa required
 ET,UY,visa required
@@ -11718,7 +11718,7 @@ FJ,TJ,e-visa
 FJ,TZ,visa on arrival
 FJ,TH,visa on arrival
 FJ,TL,visa on arrival
-FJ,TG,e-visa
+FJ,TG,visa on arrival
 FJ,TO,visa on arrival
 FJ,TT,visa required
 FJ,TN,90
@@ -11727,7 +11727,7 @@ FJ,TV,visa on arrival
 FJ,TR,e-visa
 FJ,UG,90
 FJ,UA,visa required
-FJ,AE,e-visa
+FJ,AE,visa required
 FJ,GB,visa required
 FJ,US,visa required
 FJ,UY,visa required
@@ -11917,7 +11917,7 @@ FI,TJ,30
 FI,TZ,visa on arrival
 FI,TH,30
 FI,TL,90
-FI,TG,e-visa
+FI,TG,visa on arrival
 FI,TO,90
 FI,TT,90
 FI,TN,90
@@ -12116,7 +12116,7 @@ FR,TJ,30
 FR,TZ,visa on arrival
 FR,TH,30
 FR,TL,90
-FR,TG,e-visa
+FR,TG,visa on arrival
 FR,TO,90
 FR,TT,90
 FR,TN,90
@@ -12315,7 +12315,7 @@ GA,TJ,e-visa
 GA,TZ,visa on arrival
 GA,TH,visa required
 GA,TL,visa on arrival
-GA,TG,e-visa
+GA,TG,visa on arrival
 GA,TO,visa required
 GA,TT,visa required
 GA,TN,90
@@ -12324,7 +12324,7 @@ GA,TV,visa on arrival
 GA,TR,visa required
 GA,UG,e-visa
 GA,UA,visa required
-GA,AE,e-visa
+GA,AE,visa required
 GA,GB,visa required
 GA,US,visa required
 GA,UY,visa required
@@ -12523,7 +12523,7 @@ GM,TV,visa on arrival
 GM,TR,visa required
 GM,UG,90
 GM,UA,visa required
-GM,AE,e-visa
+GM,AE,visa required
 GM,GB,visa required
 GM,US,visa required
 GM,UY,visa required
@@ -12570,7 +12570,7 @@ GE,CV,visa on arrival
 GE,CF,visa required
 GE,TD,visa required
 GE,CL,90
-GE,CN,30
+GE,CN,visa required
 GE,CO,90
 GE,KM,visa on arrival
 GE,CG,visa required
@@ -12713,7 +12713,7 @@ GE,TJ,visa free
 GE,TZ,visa on arrival
 GE,TH,visa on arrival
 GE,TL,visa on arrival
-GE,TG,e-visa
+GE,TG,visa on arrival
 GE,TO,visa required
 GE,TT,visa required
 GE,TN,visa required
@@ -12912,7 +12912,7 @@ DE,TJ,30
 DE,TZ,visa on arrival
 DE,TH,30
 DE,TL,90
-DE,TG,e-visa
+DE,TG,visa on arrival
 DE,TO,90
 DE,TT,90
 DE,TN,120
@@ -13108,7 +13108,7 @@ GH,CH,visa required
 GH,SY,visa required
 GH,TW,visa required
 GH,TJ,e-visa
-GH,TZ,90
+GH,TZ,visa free
 GH,TH,visa required
 GH,TL,visa on arrival
 GH,TG,visa free
@@ -13120,7 +13120,7 @@ GH,TV,visa on arrival
 GH,TR,visa required
 GH,UG,90
 GH,UA,visa required
-GH,AE,e-visa
+GH,AE,visa required
 GH,GB,visa required
 GH,US,visa required
 GH,UY,visa required
@@ -13310,7 +13310,7 @@ GR,TJ,30
 GR,TZ,visa on arrival
 GR,TH,30
 GR,TL,90
-GR,TG,e-visa
+GR,TG,visa on arrival
 GR,TO,90
 GR,TT,90
 GR,TN,30
@@ -13483,7 +13483,7 @@ GD,LC,visa free
 GD,WS,visa on arrival
 GD,SM,90
 GD,ST,e-visa
-GD,SA,visa on arrival
+GD,SA,visa required
 GD,SN,visa on arrival
 GD,RS,90
 GD,SC,90
@@ -13509,7 +13509,7 @@ GD,TJ,e-visa
 GD,TZ,90
 GD,TH,e-visa
 GD,TL,visa on arrival
-GD,TG,e-visa
+GD,TG,visa on arrival
 GD,TO,visa required
 GD,TT,visa free
 GD,TN,visa required
@@ -13518,7 +13518,7 @@ GD,TV,visa on arrival
 GD,TR,visa on arrival
 GD,UG,90
 GD,UA,90
-GD,AE,e-visa
+GD,AE,visa required
 GD,GB,180
 GD,US,visa required
 GD,UY,90
@@ -13708,7 +13708,7 @@ GT,TJ,e-visa
 GT,TZ,visa on arrival
 GT,TH,visa required
 GT,TL,visa on arrival
-GT,TG,e-visa
+GT,TG,visa on arrival
 GT,TO,visa required
 GT,TT,90
 GT,TN,visa required
@@ -13717,7 +13717,7 @@ GT,TV,visa on arrival
 GT,TR,90
 GT,UG,e-visa
 GT,UA,visa required
-GT,AE,e-visa
+GT,AE,visa required
 GT,GB,180
 GT,US,visa required
 GT,UY,90
@@ -13916,7 +13916,7 @@ GN,TV,visa on arrival
 GN,TR,visa required
 GN,UG,e-visa
 GN,UA,visa required
-GN,AE,e-visa
+GN,AE,visa required
 GN,GB,visa required
 GN,US,visa required
 GN,UY,visa required
@@ -14115,7 +14115,7 @@ GW,TV,visa on arrival
 GW,TR,visa required
 GW,UG,e-visa
 GW,UA,visa required
-GW,AE,e-visa
+GW,AE,visa required
 GW,GB,visa required
 GW,US,visa required
 GW,UY,visa required
@@ -14305,7 +14305,7 @@ GY,TJ,e-visa
 GY,TZ,90
 GY,TH,e-visa
 GY,TL,visa on arrival
-GY,TG,e-visa
+GY,TG,visa on arrival
 GY,TO,visa required
 GY,TT,visa free
 GY,TN,visa required
@@ -14314,7 +14314,7 @@ GY,TV,visa on arrival
 GY,TR,visa required
 GY,UG,e-visa
 GY,UA,visa required
-GY,AE,e-visa
+GY,AE,visa required
 GY,GB,180
 GY,US,visa required
 GY,UY,90
@@ -14504,7 +14504,7 @@ HT,TJ,e-visa
 HT,TZ,visa on arrival
 HT,TH,visa required
 HT,TL,visa on arrival
-HT,TG,e-visa
+HT,TG,visa on arrival
 HT,TO,visa required
 HT,TT,visa required
 HT,TN,visa required
@@ -14513,7 +14513,7 @@ HT,TV,visa on arrival
 HT,TR,visa on arrival
 HT,UG,e-visa
 HT,UA,visa required
-HT,AE,e-visa
+HT,AE,visa required
 HT,GB,visa required
 HT,US,visa required
 HT,UY,visa required
@@ -14703,7 +14703,7 @@ HN,TJ,e-visa
 HN,TZ,visa on arrival
 HN,TH,visa required
 HN,TL,visa on arrival
-HN,TG,e-visa
+HN,TG,visa on arrival
 HN,TO,visa required
 HN,TT,90
 HN,TN,90
@@ -14902,7 +14902,7 @@ HK,TJ,e-visa
 HK,TZ,90
 HK,TH,30
 HK,TL,visa on arrival
-HK,TG,e-visa
+HK,TG,visa on arrival
 HK,TO,visa on arrival
 HK,TT,visa free
 HK,TN,90
@@ -15101,7 +15101,7 @@ HU,TJ,30
 HU,TZ,visa on arrival
 HU,TH,30
 HU,TL,90
-HU,TG,e-visa
+HU,TG,visa on arrival
 HU,TO,90
 HU,TT,90
 HU,TN,90
@@ -15300,7 +15300,7 @@ IS,TJ,30
 IS,TZ,visa on arrival
 IS,TH,30
 IS,TL,90
-IS,TG,e-visa
+IS,TG,visa on arrival
 IS,TO,90
 IS,TT,90
 IS,TN,90
@@ -15497,9 +15497,9 @@ IN,SY,visa required
 IN,TW,visa required
 IN,TJ,e-visa
 IN,TZ,visa on arrival
-IN,TH,30
+IN,TH,visa required
 IN,TL,visa on arrival
-IN,TG,e-visa
+IN,TG,visa on arrival
 IN,TO,visa required
 IN,TT,90
 IN,TN,visa required
@@ -15508,7 +15508,7 @@ IN,TV,visa on arrival
 IN,TR,visa required
 IN,UG,e-visa
 IN,UA,visa required
-IN,AE,e-visa
+IN,AE,visa required
 IN,GB,visa required
 IN,US,visa required
 IN,UY,visa required
@@ -15698,7 +15698,7 @@ ID,TJ,30
 ID,TZ,visa on arrival
 ID,TH,30
 ID,TL,30
-ID,TG,e-visa
+ID,TG,visa on arrival
 ID,TO,visa required
 ID,TT,visa required
 ID,TN,90
@@ -15707,7 +15707,7 @@ ID,TV,visa on arrival
 ID,TR,30
 ID,UG,e-visa
 ID,UA,visa required
-ID,AE,e-visa
+ID,AE,visa required
 ID,GB,visa required
 ID,US,visa required
 ID,UY,visa required
@@ -15897,7 +15897,7 @@ IR,TJ,e-visa
 IR,TZ,e-visa
 IR,TH,visa required
 IR,TL,visa on arrival
-IR,TG,e-visa
+IR,TG,visa on arrival
 IR,TO,visa required
 IR,TT,visa required
 IR,TN,visa required
@@ -15906,7 +15906,7 @@ IR,TV,visa on arrival
 IR,TR,90
 IR,UG,e-visa
 IR,UA,visa required
-IR,AE,e-visa
+IR,AE,visa required
 IR,GB,visa required
 IR,US,visa required
 IR,UY,visa required
@@ -16096,7 +16096,7 @@ IQ,TJ,e-visa
 IQ,TZ,e-visa
 IQ,TH,visa required
 IQ,TL,visa on arrival
-IQ,TG,e-visa
+IQ,TG,visa on arrival
 IQ,TO,visa required
 IQ,TT,visa required
 IQ,TN,visa required
@@ -16105,7 +16105,7 @@ IQ,TV,visa on arrival
 IQ,TR,visa required
 IQ,UG,e-visa
 IQ,UA,visa required
-IQ,AE,e-visa
+IQ,AE,visa required
 IQ,GB,visa required
 IQ,US,visa required
 IQ,UY,visa required
@@ -16295,7 +16295,7 @@ IE,TJ,30
 IE,TZ,visa on arrival
 IE,TH,30
 IE,TL,visa on arrival
-IE,TG,e-visa
+IE,TG,visa on arrival
 IE,TO,visa on arrival
 IE,TT,visa free
 IE,TN,90
@@ -16494,7 +16494,7 @@ IL,TJ,visa on arrival
 IL,TZ,visa on arrival
 IL,TH,30
 IL,TL,visa on arrival
-IL,TG,e-visa
+IL,TG,visa on arrival
 IL,TO,visa on arrival
 IL,TT,90
 IL,TN,visa required
@@ -16693,7 +16693,7 @@ IT,TJ,30
 IT,TZ,visa on arrival
 IT,TH,30
 IT,TL,90
-IT,TG,e-visa
+IT,TG,visa on arrival
 IT,TO,90
 IT,TT,90
 IT,TN,90
@@ -16892,7 +16892,7 @@ JM,TJ,30
 JM,TZ,90
 JM,TH,e-visa
 JM,TL,visa on arrival
-JM,TG,e-visa
+JM,TG,visa on arrival
 JM,TO,visa required
 JM,TT,visa free
 JM,TN,visa required
@@ -16901,7 +16901,7 @@ JM,TV,visa on arrival
 JM,TR,visa on arrival
 JM,UG,90
 JM,UA,visa required
-JM,AE,e-visa
+JM,AE,visa required
 JM,GB,visa required
 JM,US,visa required
 JM,UY,90
@@ -17091,7 +17091,7 @@ JP,TJ,30
 JP,TZ,visa on arrival
 JP,TH,30
 JP,TL,visa on arrival
-JP,TG,e-visa
+JP,TG,visa on arrival
 JP,TO,visa on arrival
 JP,TT,90
 JP,TN,90
@@ -17290,7 +17290,7 @@ JO,TJ,30
 JO,TZ,visa on arrival
 JO,TH,visa required
 JO,TL,visa on arrival
-JO,TG,e-visa
+JO,TG,visa on arrival
 JO,TO,visa required
 JO,TT,visa required
 JO,TN,90
@@ -17299,7 +17299,7 @@ JO,TV,visa on arrival
 JO,TR,90
 JO,UG,e-visa
 JO,UA,visa required
-JO,AE,e-visa
+JO,AE,visa required
 JO,GB,e-visa
 JO,US,visa required
 JO,UY,visa required
@@ -17489,7 +17489,7 @@ KZ,TJ,visa free
 KZ,TZ,e-visa
 KZ,TH,30
 KZ,TL,visa on arrival
-KZ,TG,e-visa
+KZ,TG,visa on arrival
 KZ,TO,visa required
 KZ,TT,visa required
 KZ,TN,90
@@ -17506,7 +17506,7 @@ KZ,UZ,visa free
 KZ,VU,visa required
 KZ,VA,visa required
 KZ,VE,visa required
-KZ,VN,30
+KZ,VN,e-visa
 KZ,YE,visa required
 KZ,ZM,visa on arrival
 KZ,ZW,visa on arrival
@@ -17688,7 +17688,7 @@ KE,TJ,e-visa
 KE,TZ,90
 KE,TH,visa required
 KE,TL,visa on arrival
-KE,TG,e-visa
+KE,TG,visa on arrival
 KE,TO,visa required
 KE,TT,visa free
 KE,TN,visa required
@@ -17697,7 +17697,7 @@ KE,TV,visa on arrival
 KE,TR,visa required
 KE,UG,90
 KE,UA,visa required
-KE,AE,e-visa
+KE,AE,visa required
 KE,GB,visa required
 KE,US,visa required
 KE,UY,visa required
@@ -17887,7 +17887,7 @@ KI,TJ,e-visa
 KI,TZ,90
 KI,TH,e-visa
 KI,TL,visa on arrival
-KI,TG,e-visa
+KI,TG,visa on arrival
 KI,TO,visa on arrival
 KI,TT,visa free
 KI,TN,90
@@ -18086,7 +18086,7 @@ XK,TJ,visa required
 XK,TZ,visa on arrival
 XK,TH,e-visa
 XK,TL,visa on arrival
-XK,TG,e-visa
+XK,TG,visa on arrival
 XK,TO,visa required
 XK,TT,visa required
 XK,TN,visa required
@@ -18285,7 +18285,7 @@ KW,TJ,30
 KW,TZ,visa on arrival
 KW,TH,30
 KW,TL,visa on arrival
-KW,TG,e-visa
+KW,TG,visa on arrival
 KW,TO,visa required
 KW,TT,visa required
 KW,TN,90
@@ -18484,7 +18484,7 @@ KG,TJ,visa free
 KG,TZ,e-visa
 KG,TH,e-visa
 KG,TL,visa on arrival
-KG,TG,e-visa
+KG,TG,visa on arrival
 KG,TO,visa required
 KG,TT,visa required
 KG,TN,visa required
@@ -18493,7 +18493,7 @@ KG,TV,visa on arrival
 KG,TR,90
 KG,UG,e-visa
 KG,UA,90
-KG,AE,e-visa
+KG,AE,visa required
 KG,GB,visa required
 KG,US,visa required
 KG,UY,visa required
@@ -18683,7 +18683,7 @@ LA,TJ,e-visa
 LA,TZ,visa on arrival
 LA,TH,30
 LA,TL,visa on arrival
-LA,TG,e-visa
+LA,TG,visa on arrival
 LA,TO,visa required
 LA,TT,visa required
 LA,TN,visa required
@@ -18692,7 +18692,7 @@ LA,TV,visa on arrival
 LA,TR,visa required
 LA,UG,e-visa
 LA,UA,visa required
-LA,AE,e-visa
+LA,AE,visa required
 LA,GB,visa required
 LA,US,visa required
 LA,UY,visa required
@@ -18882,7 +18882,7 @@ LV,TJ,30
 LV,TZ,visa on arrival
 LV,TH,30
 LV,TL,90
-LV,TG,e-visa
+LV,TG,visa on arrival
 LV,TO,90
 LV,TT,90
 LV,TN,90
@@ -19081,7 +19081,7 @@ LB,TJ,visa on arrival
 LB,TZ,e-visa
 LB,TH,e-visa
 LB,TL,visa on arrival
-LB,TG,e-visa
+LB,TG,visa on arrival
 LB,TO,visa required
 LB,TT,visa required
 LB,TN,visa required
@@ -19090,7 +19090,7 @@ LB,TV,visa on arrival
 LB,TR,90
 LB,UG,e-visa
 LB,UA,visa required
-LB,AE,e-visa
+LB,AE,visa required
 LB,GB,visa required
 LB,US,visa required
 LB,UY,visa required
@@ -19280,7 +19280,7 @@ LS,TJ,e-visa
 LS,TZ,90
 LS,TH,visa required
 LS,TL,visa on arrival
-LS,TG,e-visa
+LS,TG,visa on arrival
 LS,TO,visa required
 LS,TT,visa free
 LS,TN,visa required
@@ -19289,7 +19289,7 @@ LS,TV,visa on arrival
 LS,TR,visa required
 LS,UG,90
 LS,UA,visa required
-LS,AE,e-visa
+LS,AE,visa required
 LS,GB,visa required
 LS,US,visa required
 LS,UY,visa required
@@ -19488,7 +19488,7 @@ LR,TV,visa on arrival
 LR,TR,visa required
 LR,UG,e-visa
 LR,UA,visa required
-LR,AE,e-visa
+LR,AE,visa required
 LR,GB,visa required
 LR,US,visa required
 LR,UY,visa required
@@ -19678,7 +19678,7 @@ LY,TJ,e-visa
 LY,TZ,visa on arrival
 LY,TH,e-visa
 LY,TL,visa on arrival
-LY,TG,e-visa
+LY,TG,visa on arrival
 LY,TO,visa required
 LY,TT,visa required
 LY,TN,90
@@ -19687,7 +19687,7 @@ LY,TV,visa on arrival
 LY,TR,visa required
 LY,UG,e-visa
 LY,UA,visa required
-LY,AE,e-visa
+LY,AE,visa required
 LY,GB,visa required
 LY,US,visa required
 LY,UY,visa required
@@ -19877,7 +19877,7 @@ LI,TJ,30
 LI,TZ,visa on arrival
 LI,TH,30
 LI,TL,90
-LI,TG,e-visa
+LI,TG,visa on arrival
 LI,TO,90
 LI,TT,90
 LI,TN,90
@@ -20076,7 +20076,7 @@ LT,TJ,30
 LT,TZ,visa on arrival
 LT,TH,30
 LT,TL,90
-LT,TG,e-visa
+LT,TG,visa on arrival
 LT,TO,90
 LT,TT,90
 LT,TN,90
@@ -20275,7 +20275,7 @@ LU,TJ,30
 LU,TZ,visa on arrival
 LU,TH,30
 LU,TL,90
-LU,TG,e-visa
+LU,TG,visa on arrival
 LU,TO,90
 LU,TT,90
 LU,TN,90
@@ -20474,7 +20474,7 @@ MO,TJ,e-visa
 MO,TZ,90
 MO,TH,30
 MO,TL,visa on arrival
-MO,TG,e-visa
+MO,TG,visa on arrival
 MO,TO,visa on arrival
 MO,TT,visa required
 MO,TN,visa required
@@ -20673,7 +20673,7 @@ MG,TJ,e-visa
 MG,TZ,90
 MG,TH,visa required
 MG,TL,visa on arrival
-MG,TG,e-visa
+MG,TG,visa on arrival
 MG,TO,visa required
 MG,TT,visa required
 MG,TN,visa required
@@ -20682,7 +20682,7 @@ MG,TV,visa on arrival
 MG,TR,visa required
 MG,UG,90
 MG,UA,visa required
-MG,AE,e-visa
+MG,AE,visa required
 MG,GB,visa required
 MG,US,visa required
 MG,UY,visa required
@@ -20872,7 +20872,7 @@ MW,TJ,e-visa
 MW,TZ,90
 MW,TH,visa required
 MW,TL,visa on arrival
-MW,TG,e-visa
+MW,TG,visa on arrival
 MW,TO,visa required
 MW,TT,visa free
 MW,TN,visa required
@@ -20881,7 +20881,7 @@ MW,TV,visa on arrival
 MW,TR,visa required
 MW,UG,90
 MW,UA,visa required
-MW,AE,e-visa
+MW,AE,visa required
 MW,GB,visa required
 MW,US,visa required
 MW,UY,visa required
@@ -21071,7 +21071,7 @@ MY,TJ,30
 MY,TZ,90
 MY,TH,30
 MY,TL,visa on arrival
-MY,TG,e-visa
+MY,TG,visa on arrival
 MY,TO,visa on arrival
 MY,TT,visa free
 MY,TN,90
@@ -21270,7 +21270,7 @@ MV,TJ,30
 MV,TZ,visa on arrival
 MV,TH,30
 MV,TL,visa on arrival
-MV,TG,e-visa
+MV,TG,visa on arrival
 MV,TO,visa required
 MV,TT,visa free
 MV,TN,90
@@ -21478,7 +21478,7 @@ ML,TV,visa on arrival
 ML,TR,visa required
 ML,UG,e-visa
 ML,UA,visa required
-ML,AE,e-visa
+ML,AE,visa required
 ML,GB,visa required
 ML,US,visa required
 ML,UY,visa required
@@ -21668,7 +21668,7 @@ MT,TJ,30
 MT,TZ,90
 MT,TH,visa on arrival
 MT,TL,90
-MT,TG,e-visa
+MT,TG,visa on arrival
 MT,TO,90
 MT,TT,90
 MT,TN,90
@@ -21867,7 +21867,7 @@ MH,TJ,30
 MH,TZ,visa on arrival
 MH,TH,e-visa
 MH,TL,visa on arrival
-MH,TG,e-visa
+MH,TG,visa on arrival
 MH,TO,visa on arrival
 MH,TT,visa required
 MH,TN,visa required
@@ -21876,7 +21876,7 @@ MH,TV,visa on arrival
 MH,TR,visa required
 MH,UG,e-visa
 MH,UA,90
-MH,AE,e-visa
+MH,AE,visa required
 MH,GB,180
 MH,US,visa free
 MH,UY,visa required
@@ -22075,7 +22075,7 @@ MR,TV,visa on arrival
 MR,TR,visa required
 MR,UG,e-visa
 MR,UA,visa required
-MR,AE,e-visa
+MR,AE,visa required
 MR,GB,visa required
 MR,US,visa required
 MR,UY,visa required
@@ -22265,7 +22265,7 @@ MU,TJ,e-visa
 MU,TZ,90
 MU,TH,30
 MU,TL,visa on arrival
-MU,TG,e-visa
+MU,TG,visa on arrival
 MU,TO,visa required
 MU,TT,visa free
 MU,TN,90
@@ -22464,7 +22464,7 @@ MX,TJ,30
 MX,TZ,visa on arrival
 MX,TH,visa on arrival
 MX,TL,visa on arrival
-MX,TG,e-visa
+MX,TG,visa on arrival
 MX,TO,visa required
 MX,TT,90
 MX,TN,90
@@ -22663,7 +22663,7 @@ FM,TJ,e-visa
 FM,TZ,visa on arrival
 FM,TH,e-visa
 FM,TL,visa on arrival
-FM,TG,e-visa
+FM,TG,visa on arrival
 FM,TO,visa on arrival
 FM,TT,visa required
 FM,TN,visa required
@@ -22672,7 +22672,7 @@ FM,TV,visa on arrival
 FM,TR,visa required
 FM,UG,e-visa
 FM,UA,visa required
-FM,AE,e-visa
+FM,AE,visa required
 FM,GB,180
 FM,US,visa free
 FM,UY,visa required
@@ -22862,7 +22862,7 @@ MD,TJ,visa free
 MD,TZ,visa on arrival
 MD,TH,visa required
 MD,TL,visa on arrival
-MD,TG,e-visa
+MD,TG,visa on arrival
 MD,TO,visa required
 MD,TT,visa required
 MD,TN,90
@@ -22871,7 +22871,7 @@ MD,TV,visa on arrival
 MD,TR,90
 MD,UG,e-visa
 MD,UA,visa free
-MD,AE,e-visa
+MD,AE,visa required
 MD,GB,visa required
 MD,US,visa required
 MD,UY,visa required
@@ -23061,7 +23061,7 @@ MC,TJ,30
 MC,TZ,visa on arrival
 MC,TH,30
 MC,TL,visa on arrival
-MC,TG,e-visa
+MC,TG,visa on arrival
 MC,TO,visa on arrival
 MC,TT,visa required
 MC,TN,90
@@ -23260,7 +23260,7 @@ MN,TJ,30
 MN,TZ,visa on arrival
 MN,TH,30
 MN,TL,visa on arrival
-MN,TG,e-visa
+MN,TG,visa on arrival
 MN,TO,visa required
 MN,TT,visa required
 MN,TN,visa required
@@ -23459,7 +23459,7 @@ ME,TJ,30
 ME,TZ,visa on arrival
 ME,TH,e-visa
 ME,TL,visa on arrival
-ME,TG,e-visa
+ME,TG,visa on arrival
 ME,TO,visa required
 ME,TT,90
 ME,TN,90
@@ -23511,7 +23511,7 @@ MA,BI,visa on arrival
 MA,KH,visa on arrival
 MA,CM,e-visa
 MA,CA,visa required
-MA,CV,90
+MA,CV,visa required
 MA,CF,visa required
 MA,TD,visa required
 MA,CL,visa required
@@ -23667,7 +23667,7 @@ MA,TV,visa on arrival
 MA,TR,90
 MA,UG,e-visa
 MA,UA,visa required
-MA,AE,e-visa
+MA,AE,visa required
 MA,GB,visa required
 MA,US,visa required
 MA,UY,visa required
@@ -23857,7 +23857,7 @@ MZ,TJ,e-visa
 MZ,TZ,90
 MZ,TH,visa required
 MZ,TL,visa on arrival
-MZ,TG,e-visa
+MZ,TG,visa on arrival
 MZ,TO,visa required
 MZ,TT,visa required
 MZ,TN,visa required
@@ -23866,7 +23866,7 @@ MZ,TV,visa on arrival
 MZ,TR,visa required
 MZ,UG,e-visa
 MZ,UA,visa required
-MZ,AE,e-visa
+MZ,AE,visa required
 MZ,GB,visa required
 MZ,US,visa required
 MZ,UY,visa required
@@ -24056,7 +24056,7 @@ MM,TJ,e-visa
 MM,TZ,visa on arrival
 MM,TH,14
 MM,TL,visa on arrival
-MM,TG,e-visa
+MM,TG,visa on arrival
 MM,TO,visa required
 MM,TT,visa required
 MM,TN,visa required
@@ -24065,7 +24065,7 @@ MM,TV,visa on arrival
 MM,TR,visa required
 MM,UG,e-visa
 MM,UA,visa required
-MM,AE,e-visa
+MM,AE,visa required
 MM,GB,visa required
 MM,US,visa required
 MM,UY,visa required
@@ -24255,7 +24255,7 @@ NA,TJ,e-visa
 NA,TZ,90
 NA,TH,visa required
 NA,TL,visa on arrival
-NA,TG,e-visa
+NA,TG,visa on arrival
 NA,TO,visa required
 NA,TT,visa free
 NA,TN,90
@@ -24264,7 +24264,7 @@ NA,TV,visa on arrival
 NA,TR,visa required
 NA,UG,e-visa
 NA,UA,visa required
-NA,AE,e-visa
+NA,AE,visa required
 NA,GB,visa required
 NA,US,visa required
 NA,UY,visa required
@@ -24274,7 +24274,7 @@ NA,VA,visa required
 NA,VE,visa required
 NA,VN,e-visa
 NA,YE,visa required
-NA,ZM,90
+NA,ZM,visa free
 NA,ZW,90
 NA,AF,visa required
 NR,AL,e-visa
@@ -24454,7 +24454,7 @@ NR,TJ,e-visa
 NR,TZ,90
 NR,TH,visa on arrival
 NR,TL,visa on arrival
-NR,TG,e-visa
+NR,TG,visa on arrival
 NR,TO,visa on arrival
 NR,TT,visa free
 NR,TN,visa required
@@ -24653,7 +24653,7 @@ NP,TJ,e-visa
 NP,TZ,visa on arrival
 NP,TH,visa required
 NP,TL,visa on arrival
-NP,TG,e-visa
+NP,TG,visa on arrival
 NP,TO,visa required
 NP,TT,visa required
 NP,TN,visa required
@@ -24662,7 +24662,7 @@ NP,TV,visa on arrival
 NP,TR,visa required
 NP,UG,e-visa
 NP,UA,visa required
-NP,AE,e-visa
+NP,AE,visa required
 NP,GB,visa required
 NP,US,visa required
 NP,UY,visa required
@@ -24852,7 +24852,7 @@ NL,TJ,30
 NL,TZ,visa on arrival
 NL,TH,30
 NL,TL,90
-NL,TG,e-visa
+NL,TG,visa on arrival
 NL,TO,90
 NL,TT,90
 NL,TN,90
@@ -25051,7 +25051,7 @@ NZ,TJ,30
 NZ,TZ,visa on arrival
 NZ,TH,30
 NZ,TL,visa on arrival
-NZ,TG,e-visa
+NZ,TG,visa on arrival
 NZ,TO,visa on arrival
 NZ,TT,visa on arrival
 NZ,TN,90
@@ -25250,7 +25250,7 @@ NI,TJ,e-visa
 NI,TZ,visa on arrival
 NI,TH,visa required
 NI,TL,visa on arrival
-NI,TG,e-visa
+NI,TG,visa on arrival
 NI,TO,visa required
 NI,TT,90
 NI,TN,visa required
@@ -25259,7 +25259,7 @@ NI,TV,visa on arrival
 NI,TR,90
 NI,UG,e-visa
 NI,UA,visa required
-NI,AE,e-visa
+NI,AE,visa required
 NI,GB,180
 NI,US,visa required
 NI,UY,90
@@ -25458,7 +25458,7 @@ NE,TV,visa on arrival
 NE,TR,visa required
 NE,UG,e-visa
 NE,UA,visa required
-NE,AE,e-visa
+NE,AE,visa required
 NE,GB,visa required
 NE,US,visa required
 NE,UY,visa required
@@ -25657,7 +25657,7 @@ NG,TV,visa on arrival
 NG,TR,visa required
 NG,UG,e-visa
 NG,UA,visa required
-NG,AE,e-visa
+NG,AE,visa required
 NG,GB,visa required
 NG,US,visa required
 NG,UY,visa required
@@ -25847,7 +25847,7 @@ KP,TJ,e-visa
 KP,TZ,visa on arrival
 KP,TH,e-visa
 KP,TL,visa on arrival
-KP,TG,e-visa
+KP,TG,visa on arrival
 KP,TO,visa required
 KP,TT,visa required
 KP,TN,visa required
@@ -25856,7 +25856,7 @@ KP,TV,visa on arrival
 KP,TR,visa required
 KP,UG,e-visa
 KP,UA,visa required
-KP,AE,e-visa
+KP,AE,visa required
 KP,GB,visa required
 KP,US,visa required
 KP,UY,visa required
@@ -26046,7 +26046,7 @@ MK,TJ,e-visa
 MK,TZ,visa on arrival
 MK,TH,visa required
 MK,TL,visa on arrival
-MK,TG,e-visa
+MK,TG,visa on arrival
 MK,TO,visa required
 MK,TT,visa required
 MK,TN,90
@@ -26055,7 +26055,7 @@ MK,TV,visa on arrival
 MK,TR,60
 MK,UG,e-visa
 MK,UA,90
-MK,AE,e-visa
+MK,AE,visa required
 MK,GB,visa required
 MK,US,visa required
 MK,UY,visa required
@@ -26245,7 +26245,7 @@ NO,TJ,30
 NO,TZ,visa on arrival
 NO,TH,30
 NO,TL,90
-NO,TG,e-visa
+NO,TG,visa on arrival
 NO,TO,90
 NO,TT,90
 NO,TN,90
@@ -26444,7 +26444,7 @@ OM,TJ,30
 OM,TZ,visa on arrival
 OM,TH,30
 OM,TL,visa on arrival
-OM,TG,e-visa
+OM,TG,visa on arrival
 OM,TO,visa required
 OM,TT,visa required
 OM,TN,90
@@ -26643,7 +26643,7 @@ PK,TJ,e-visa
 PK,TZ,e-visa
 PK,TH,visa required
 PK,TL,visa on arrival
-PK,TG,e-visa
+PK,TG,visa on arrival
 PK,TO,visa required
 PK,TT,visa free
 PK,TN,visa required
@@ -26652,7 +26652,7 @@ PK,TV,visa on arrival
 PK,TR,visa required
 PK,UG,e-visa
 PK,UA,visa required
-PK,AE,e-visa
+PK,AE,visa required
 PK,GB,visa required
 PK,US,visa required
 PK,UY,visa required
@@ -26842,7 +26842,7 @@ PW,TJ,e-visa
 PW,TZ,visa on arrival
 PW,TH,visa required
 PW,TL,visa on arrival
-PW,TG,e-visa
+PW,TG,visa on arrival
 PW,TO,visa on arrival
 PW,TT,visa required
 PW,TN,visa required
@@ -26851,7 +26851,7 @@ PW,TV,visa on arrival
 PW,TR,visa required
 PW,UG,e-visa
 PW,UA,visa required
-PW,AE,e-visa
+PW,AE,visa required
 PW,GB,180
 PW,US,visa free
 PW,UY,visa required
@@ -27041,7 +27041,7 @@ PS,TJ,e-visa
 PS,TZ,e-visa
 PS,TH,visa required
 PS,TL,visa on arrival
-PS,TG,e-visa
+PS,TG,visa on arrival
 PS,TO,visa required
 PS,TT,visa required
 PS,TN,visa required
@@ -27050,7 +27050,7 @@ PS,TV,visa on arrival
 PS,TR,visa required
 PS,UG,e-visa
 PS,UA,visa required
-PS,AE,e-visa
+PS,AE,visa required
 PS,GB,visa required
 PS,US,visa required
 PS,UY,visa required
@@ -27240,7 +27240,7 @@ PA,TJ,e-visa
 PA,TZ,visa on arrival
 PA,TH,e-visa
 PA,TL,visa on arrival
-PA,TG,e-visa
+PA,TG,visa on arrival
 PA,TO,visa required
 PA,TT,90
 PA,TN,visa required
@@ -27249,7 +27249,7 @@ PA,TV,visa on arrival
 PA,TR,90
 PA,UG,e-visa
 PA,UA,90
-PA,AE,e-visa
+PA,AE,visa required
 PA,GB,180
 PA,US,visa required
 PA,UY,90
@@ -27439,7 +27439,7 @@ PG,TJ,e-visa
 PG,TZ,90
 PG,TH,visa on arrival
 PG,TL,visa on arrival
-PG,TG,e-visa
+PG,TG,visa on arrival
 PG,TO,visa on arrival
 PG,TT,visa required
 PG,TN,visa required
@@ -27448,7 +27448,7 @@ PG,TV,visa on arrival
 PG,TR,visa required
 PG,UG,e-visa
 PG,UA,visa required
-PG,AE,e-visa
+PG,AE,visa required
 PG,GB,180
 PG,US,visa required
 PG,UY,visa required
@@ -27638,7 +27638,7 @@ PY,TJ,e-visa
 PY,TZ,visa on arrival
 PY,TH,e-visa
 PY,TL,visa on arrival
-PY,TG,e-visa
+PY,TG,visa on arrival
 PY,TO,visa required
 PY,TT,visa required
 PY,TN,visa required
@@ -27837,7 +27837,7 @@ PE,TJ,e-visa
 PE,TZ,visa on arrival
 PE,TH,90
 PE,TL,visa on arrival
-PE,TG,e-visa
+PE,TG,visa on arrival
 PE,TO,visa required
 PE,TT,90
 PE,TN,visa required
@@ -28036,7 +28036,7 @@ PH,TJ,30
 PH,TZ,visa on arrival
 PH,TH,30
 PH,TL,visa on arrival
-PH,TG,e-visa
+PH,TG,visa on arrival
 PH,TO,visa required
 PH,TT,visa on arrival
 PH,TN,visa required
@@ -28045,7 +28045,7 @@ PH,TV,visa on arrival
 PH,TR,visa required
 PH,UG,e-visa
 PH,UA,visa required
-PH,AE,e-visa
+PH,AE,visa required
 PH,GB,visa required
 PH,US,visa required
 PH,UY,visa required
@@ -28235,7 +28235,7 @@ PL,TJ,30
 PL,TZ,visa on arrival
 PL,TH,30
 PL,TL,90
-PL,TG,e-visa
+PL,TG,visa on arrival
 PL,TO,90
 PL,TT,90
 PL,TN,90
@@ -28434,7 +28434,7 @@ PT,TJ,30
 PT,TZ,visa on arrival
 PT,TH,30
 PT,TL,90
-PT,TG,e-visa
+PT,TG,visa on arrival
 PT,TO,90
 PT,TT,90
 PT,TN,90
@@ -28633,7 +28633,7 @@ QA,TJ,30
 QA,TZ,visa on arrival
 QA,TH,30
 QA,TL,visa on arrival
-QA,TG,e-visa
+QA,TG,visa on arrival
 QA,TO,visa required
 QA,TT,visa required
 QA,TN,90
@@ -28680,7 +28680,7 @@ RO,BW,90
 RO,BR,90
 RO,BN,90
 RO,BG,visa free
-RO,BF,visa on arrival
+RO,BF,e-visa
 RO,BI,visa on arrival
 RO,KH,visa on arrival
 RO,CM,e-visa
@@ -28832,7 +28832,7 @@ RO,TJ,30
 RO,TZ,90
 RO,TH,visa on arrival
 RO,TL,90
-RO,TG,e-visa
+RO,TG,visa on arrival
 RO,TO,90
 RO,TT,90
 RO,TN,90
@@ -29031,7 +29031,7 @@ RU,TJ,visa free
 RU,TZ,visa on arrival
 RU,TH,30
 RU,TL,visa on arrival
-RU,TG,e-visa
+RU,TG,visa on arrival
 RU,TO,visa on arrival
 RU,TT,90
 RU,TN,90
@@ -29230,7 +29230,7 @@ RW,TJ,e-visa
 RW,TZ,90
 RW,TH,visa required
 RW,TL,visa on arrival
-RW,TG,e-visa
+RW,TG,visa on arrival
 RW,TO,visa required
 RW,TT,visa required
 RW,TN,visa required
@@ -29239,7 +29239,7 @@ RW,TV,visa on arrival
 RW,TR,visa required
 RW,UG,90
 RW,UA,visa required
-RW,AE,e-visa
+RW,AE,visa required
 RW,GB,visa required
 RW,US,visa required
 RW,UY,visa required
@@ -29429,7 +29429,7 @@ KN,TJ,30
 KN,TZ,90
 KN,TH,e-visa
 KN,TL,visa on arrival
-KN,TG,e-visa
+KN,TG,visa on arrival
 KN,TO,visa on arrival
 KN,TT,visa free
 KN,TN,90
@@ -29438,7 +29438,7 @@ KN,TV,visa on arrival
 KN,TR,90
 KN,UG,e-visa
 KN,UA,90
-KN,AE,e-visa
+KN,AE,visa required
 KN,GB,180
 KN,US,visa required
 KN,UY,90
@@ -29628,7 +29628,7 @@ LC,TJ,30
 LC,TZ,90
 LC,TH,e-visa
 LC,TL,visa on arrival
-LC,TG,e-visa
+LC,TG,visa on arrival
 LC,TO,visa on arrival
 LC,TT,visa free
 LC,TN,90
@@ -29637,7 +29637,7 @@ LC,TV,visa on arrival
 LC,TR,visa on arrival
 LC,UG,e-visa
 LC,UA,visa required
-LC,AE,e-visa
+LC,AE,visa required
 LC,GB,180
 LC,US,visa required
 LC,UY,visa required
@@ -29827,7 +29827,7 @@ WS,TJ,e-visa
 WS,TZ,90
 WS,TH,e-visa
 WS,TL,visa on arrival
-WS,TG,e-visa
+WS,TG,visa on arrival
 WS,TO,visa on arrival
 WS,TT,visa free
 WS,TN,visa required
@@ -29836,7 +29836,7 @@ WS,TV,visa on arrival
 WS,TR,visa required
 WS,UG,e-visa
 WS,UA,visa required
-WS,AE,e-visa
+WS,AE,visa required
 WS,GB,180
 WS,US,visa required
 WS,UY,visa required
@@ -30026,7 +30026,7 @@ SM,TJ,30
 SM,TZ,visa on arrival
 SM,TH,30
 SM,TL,visa on arrival
-SM,TG,e-visa
+SM,TG,visa on arrival
 SM,TO,visa required
 SM,TT,visa required
 SM,TN,90
@@ -30225,7 +30225,7 @@ ST,TJ,e-visa
 ST,TZ,visa on arrival
 ST,TH,visa required
 ST,TL,visa on arrival
-ST,TG,e-visa
+ST,TG,visa on arrival
 ST,TO,visa required
 ST,TT,visa required
 ST,TN,visa required
@@ -30234,7 +30234,7 @@ ST,TV,visa on arrival
 ST,TR,visa required
 ST,UG,e-visa
 ST,UA,visa required
-ST,AE,e-visa
+ST,AE,visa required
 ST,GB,visa required
 ST,US,visa required
 ST,UY,visa required
@@ -30267,12 +30267,12 @@ SA,BZ,visa required
 SA,BJ,e-visa
 SA,BT,e-visa
 SA,BO,visa on arrival
-SA,BA,30
+SA,BA,visa required
 SA,BW,90
 SA,BR,visa required
 SA,BN,visa on arrival
 SA,BG,visa required
-SA,BF,30
+SA,BF,e-visa
 SA,BI,visa on arrival
 SA,KH,visa on arrival
 SA,CM,e-visa
@@ -30424,7 +30424,7 @@ SA,TJ,30
 SA,TZ,visa on arrival
 SA,TH,30
 SA,TL,visa on arrival
-SA,TG,e-visa
+SA,TG,visa on arrival
 SA,TO,visa required
 SA,TT,visa required
 SA,TN,90
@@ -30632,7 +30632,7 @@ SN,TV,visa on arrival
 SN,TR,visa required
 SN,UG,e-visa
 SN,UA,visa required
-SN,AE,e-visa
+SN,AE,visa required
 SN,GB,visa required
 SN,US,visa required
 SN,UY,visa required
@@ -30822,7 +30822,7 @@ RS,TJ,30
 RS,TZ,visa on arrival
 RS,TH,e-visa
 RS,TL,visa on arrival
-RS,TG,e-visa
+RS,TG,visa on arrival
 RS,TO,visa required
 RS,TT,30
 RS,TN,visa required
@@ -31021,7 +31021,7 @@ SC,TJ,e-visa
 SC,TZ,90
 SC,TH,visa required
 SC,TL,visa on arrival
-SC,TG,e-visa
+SC,TG,visa on arrival
 SC,TO,visa on arrival
 SC,TT,visa free
 SC,TN,90
@@ -31229,7 +31229,7 @@ SL,TV,visa on arrival
 SL,TR,visa required
 SL,UG,90
 SL,UA,visa required
-SL,AE,e-visa
+SL,AE,visa required
 SL,GB,visa required
 SL,US,visa required
 SL,UY,visa required
@@ -31419,7 +31419,7 @@ SG,TJ,30
 SG,TZ,90
 SG,TH,30
 SG,TL,visa on arrival
-SG,TG,e-visa
+SG,TG,visa on arrival
 SG,TO,visa on arrival
 SG,TT,visa free
 SG,TN,90
@@ -31618,7 +31618,7 @@ SK,TJ,30
 SK,TZ,visa on arrival
 SK,TH,30
 SK,TL,90
-SK,TG,e-visa
+SK,TG,visa on arrival
 SK,TO,90
 SK,TT,90
 SK,TN,90
@@ -31817,7 +31817,7 @@ SI,TJ,30
 SI,TZ,visa on arrival
 SI,TH,30
 SI,TL,90
-SI,TG,e-visa
+SI,TG,visa on arrival
 SI,TO,90
 SI,TT,90
 SI,TN,90
@@ -32016,7 +32016,7 @@ SB,TJ,30
 SB,TZ,90
 SB,TH,e-visa
 SB,TL,visa on arrival
-SB,TG,e-visa
+SB,TG,visa on arrival
 SB,TO,visa on arrival
 SB,TT,visa free
 SB,TN,visa required
@@ -32215,7 +32215,7 @@ SO,TJ,e-visa
 SO,TZ,e-visa
 SO,TH,visa required
 SO,TL,visa on arrival
-SO,TG,e-visa
+SO,TG,visa on arrival
 SO,TO,visa required
 SO,TT,visa required
 SO,TN,visa required
@@ -32224,7 +32224,7 @@ SO,TV,visa on arrival
 SO,TR,visa required
 SO,UG,e-visa
 SO,UA,visa required
-SO,AE,e-visa
+SO,AE,visa required
 SO,GB,visa required
 SO,US,visa required
 SO,UY,visa required
@@ -32414,7 +32414,7 @@ ZA,TJ,visa on arrival
 ZA,TZ,90
 ZA,TH,30
 ZA,TL,visa on arrival
-ZA,TG,e-visa
+ZA,TG,visa on arrival
 ZA,TO,visa required
 ZA,TT,90
 ZA,TN,90
@@ -32423,7 +32423,7 @@ ZA,TV,visa on arrival
 ZA,TR,e-visa
 ZA,UG,e-visa
 ZA,UA,visa required
-ZA,AE,e-visa
+ZA,AE,visa required
 ZA,GB,visa required
 ZA,US,visa required
 ZA,UY,90
@@ -32613,7 +32613,7 @@ KR,TJ,30
 KR,TZ,visa on arrival
 KR,TH,90
 KR,TL,visa on arrival
-KR,TG,e-visa
+KR,TG,visa on arrival
 KR,TO,visa on arrival
 KR,TT,90
 KR,TN,90
@@ -32812,7 +32812,7 @@ SS,TJ,e-visa
 SS,TZ,90
 SS,TH,visa required
 SS,TL,visa on arrival
-SS,TG,e-visa
+SS,TG,visa on arrival
 SS,TO,visa required
 SS,TT,visa required
 SS,TN,visa required
@@ -32821,7 +32821,7 @@ SS,TV,visa on arrival
 SS,TR,visa required
 SS,UG,180
 SS,UA,visa required
-SS,AE,e-visa
+SS,AE,visa required
 SS,GB,visa required
 SS,US,visa required
 SS,UY,visa required
@@ -32955,7 +32955,7 @@ ES,MA,90
 ES,MZ,30
 ES,MM,e-visa
 ES,NA,90
-ES,NR,visa on arrival
+ES,NR,visa required
 ES,NP,visa on arrival
 ES,NL,visa free
 ES,NZ,e-visa
@@ -33011,7 +33011,7 @@ ES,TJ,30
 ES,TZ,visa on arrival
 ES,TH,30
 ES,TL,90
-ES,TG,e-visa
+ES,TG,visa on arrival
 ES,TO,90
 ES,TT,90
 ES,TN,90
@@ -33210,7 +33210,7 @@ LK,TJ,30
 LK,TZ,e-visa
 LK,TH,visa required
 LK,TL,visa on arrival
-LK,TG,e-visa
+LK,TG,visa on arrival
 LK,TO,visa required
 LK,TT,visa required
 LK,TN,visa required
@@ -33219,7 +33219,7 @@ LK,TV,visa on arrival
 LK,TR,visa required
 LK,UG,e-visa
 LK,UA,visa required
-LK,AE,e-visa
+LK,AE,visa required
 LK,GB,visa required
 LK,US,visa required
 LK,UY,visa required
@@ -33409,7 +33409,7 @@ VC,TJ,30
 VC,TZ,90
 VC,TH,e-visa
 VC,TL,visa on arrival
-VC,TG,e-visa
+VC,TG,visa on arrival
 VC,TO,visa on arrival
 VC,TT,visa free
 VC,TN,visa required
@@ -33608,7 +33608,7 @@ SD,TJ,e-visa
 SD,TZ,visa on arrival
 SD,TH,visa required
 SD,TL,visa on arrival
-SD,TG,e-visa
+SD,TG,visa on arrival
 SD,TO,visa required
 SD,TT,visa required
 SD,TN,visa required
@@ -33617,7 +33617,7 @@ SD,TV,visa on arrival
 SD,TR,visa required
 SD,UG,e-visa
 SD,UA,visa required
-SD,AE,e-visa
+SD,AE,visa required
 SD,GB,visa required
 SD,US,visa required
 SD,UY,visa required
@@ -33807,7 +33807,7 @@ SR,TJ,e-visa
 SR,TZ,visa on arrival
 SR,TH,e-visa
 SR,TL,visa on arrival
-SR,TG,e-visa
+SR,TG,visa on arrival
 SR,TO,visa required
 SR,TT,visa free
 SR,TN,visa required
@@ -33816,7 +33816,7 @@ SR,TV,visa on arrival
 SR,TR,e-visa
 SR,UG,e-visa
 SR,UA,visa required
-SR,AE,e-visa
+SR,AE,visa required
 SR,GB,visa required
 SR,US,visa required
 SR,UY,visa required
@@ -34006,7 +34006,7 @@ SE,TJ,30
 SE,TZ,visa on arrival
 SE,TH,30
 SE,TL,90
-SE,TG,e-visa
+SE,TG,visa on arrival
 SE,TO,90
 SE,TT,90
 SE,TN,90
@@ -34205,7 +34205,7 @@ CH,TJ,30
 CH,TZ,visa on arrival
 CH,TH,30
 CH,TL,90
-CH,TG,e-visa
+CH,TG,visa on arrival
 CH,TO,90
 CH,TT,90
 CH,TN,90
@@ -34404,7 +34404,7 @@ SY,TJ,e-visa
 SY,TZ,e-visa
 SY,TH,visa required
 SY,TL,visa on arrival
-SY,TG,e-visa
+SY,TG,visa on arrival
 SY,TO,visa required
 SY,TT,visa required
 SY,TN,visa required
@@ -34413,7 +34413,7 @@ SY,TV,visa on arrival
 SY,TR,visa required
 SY,UG,e-visa
 SY,UA,visa required
-SY,AE,e-visa
+SY,AE,visa required
 SY,GB,visa required
 SY,US,visa required
 SY,UY,visa required
@@ -34601,9 +34601,9 @@ TW,SY,visa required
 TW,TW,-1
 TW,TJ,e-visa
 TW,TZ,visa on arrival
-TW,TH,30
+TW,TH,visa required
 TW,TL,visa on arrival
-TW,TG,e-visa
+TW,TG,visa on arrival
 TW,TO,visa required
 TW,TT,visa required
 TW,TN,visa required
@@ -34612,7 +34612,7 @@ TW,TV,90
 TW,TR,e-visa
 TW,UG,e-visa
 TW,UA,visa required
-TW,AE,e-visa
+TW,AE,visa required
 TW,GB,180
 TW,US,e-visa
 TW,UY,visa required
@@ -34802,7 +34802,7 @@ TJ,TJ,-1
 TJ,TZ,e-visa
 TJ,TH,e-visa
 TJ,TL,visa on arrival
-TJ,TG,e-visa
+TJ,TG,visa on arrival
 TJ,TO,visa required
 TJ,TT,visa required
 TJ,TN,visa required
@@ -34811,7 +34811,7 @@ TJ,TV,visa on arrival
 TJ,TR,visa required
 TJ,UG,e-visa
 TJ,UA,90
-TJ,AE,e-visa
+TJ,AE,visa required
 TJ,GB,visa required
 TJ,US,visa required
 TJ,UY,visa required
@@ -35001,7 +35001,7 @@ TZ,TJ,e-visa
 TZ,TZ,-1
 TZ,TH,visa required
 TZ,TL,visa on arrival
-TZ,TG,e-visa
+TZ,TG,visa on arrival
 TZ,TO,visa required
 TZ,TT,visa required
 TZ,TN,visa required
@@ -35010,7 +35010,7 @@ TZ,TV,visa on arrival
 TZ,TR,visa required
 TZ,UG,90
 TZ,UA,visa required
-TZ,AE,e-visa
+TZ,AE,visa required
 TZ,GB,visa required
 TZ,US,visa required
 TZ,UY,visa required
@@ -35200,7 +35200,7 @@ TH,TJ,30
 TH,TZ,visa on arrival
 TH,TH,-1
 TH,TL,visa on arrival
-TH,TG,e-visa
+TH,TG,visa on arrival
 TH,TO,visa required
 TH,TT,visa required
 TH,TN,visa required
@@ -35209,7 +35209,7 @@ TH,TV,visa on arrival
 TH,TR,30
 TH,UG,e-visa
 TH,UA,visa required
-TH,AE,e-visa
+TH,AE,visa required
 TH,GB,visa required
 TH,US,visa required
 TH,UY,visa required
@@ -35399,7 +35399,7 @@ TL,TJ,e-visa
 TL,TZ,visa on arrival
 TL,TH,visa required
 TL,TL,-1
-TL,TG,e-visa
+TL,TG,visa on arrival
 TL,TO,visa required
 TL,TT,visa required
 TL,TN,visa required
@@ -35408,7 +35408,7 @@ TL,TV,visa on arrival
 TL,TR,e-visa
 TL,UG,e-visa
 TL,UA,visa required
-TL,AE,e-visa
+TL,AE,visa required
 TL,GB,visa required
 TL,US,visa required
 TL,UY,visa required
@@ -35607,7 +35607,7 @@ TG,TV,visa on arrival
 TG,TR,visa required
 TG,UG,e-visa
 TG,UA,visa required
-TG,AE,e-visa
+TG,AE,visa required
 TG,GB,visa required
 TG,US,visa required
 TG,UY,visa required
@@ -35797,7 +35797,7 @@ TO,TJ,e-visa
 TO,TZ,90
 TO,TH,e-visa
 TO,TL,visa on arrival
-TO,TG,e-visa
+TO,TG,visa on arrival
 TO,TO,-1
 TO,TT,visa free
 TO,TN,visa required
@@ -35806,7 +35806,7 @@ TO,TV,visa on arrival
 TO,TR,visa required
 TO,UG,90
 TO,UA,visa required
-TO,AE,e-visa
+TO,AE,visa required
 TO,GB,180
 TO,US,visa required
 TO,UY,visa required
@@ -35996,7 +35996,7 @@ TT,TJ,e-visa
 TT,TZ,90
 TT,TH,e-visa
 TT,TL,visa on arrival
-TT,TG,e-visa
+TT,TG,visa on arrival
 TT,TO,visa required
 TT,TT,-1
 TT,TN,visa required
@@ -36005,7 +36005,7 @@ TT,TV,visa on arrival
 TT,TR,90
 TT,UG,e-visa
 TT,UA,visa required
-TT,AE,e-visa
+TT,AE,visa required
 TT,GB,180
 TT,US,visa required
 TT,UY,90
@@ -36195,7 +36195,7 @@ TN,TJ,visa on arrival
 TN,TZ,visa on arrival
 TN,TH,visa required
 TN,TL,visa on arrival
-TN,TG,e-visa
+TN,TG,visa on arrival
 TN,TO,visa required
 TN,TT,visa required
 TN,TN,-1
@@ -36204,7 +36204,7 @@ TN,TV,visa on arrival
 TN,TR,90
 TN,UG,e-visa
 TN,UA,visa required
-TN,AE,e-visa
+TN,AE,visa required
 TN,GB,visa required
 TN,US,visa required
 TN,UY,visa required
@@ -36394,7 +36394,7 @@ TR,TJ,e-visa
 TR,TZ,visa on arrival
 TR,TH,30
 TR,TL,visa on arrival
-TR,TG,e-visa
+TR,TG,visa on arrival
 TR,TO,visa on arrival
 TR,TT,90
 TR,TN,90
@@ -36403,7 +36403,7 @@ TR,TV,visa on arrival
 TR,TR,-1
 TR,UG,e-visa
 TR,UA,90
-TR,AE,e-visa
+TR,AE,visa required
 TR,GB,visa required
 TR,US,visa required
 TR,UY,90
@@ -36593,7 +36593,7 @@ TM,TJ,visa on arrival
 TM,TZ,e-visa
 TM,TH,visa required
 TM,TL,visa on arrival
-TM,TG,e-visa
+TM,TG,visa on arrival
 TM,TO,visa required
 TM,TT,visa required
 TM,TN,visa required
@@ -36602,7 +36602,7 @@ TM,TV,visa on arrival
 TM,TR,visa required
 TM,UG,e-visa
 TM,UA,visa required
-TM,AE,e-visa
+TM,AE,visa required
 TM,GB,visa required
 TM,US,visa required
 TM,UY,visa required
@@ -36792,7 +36792,7 @@ TV,TJ,e-visa
 TV,TZ,90
 TV,TH,e-visa
 TV,TL,visa on arrival
-TV,TG,e-visa
+TV,TG,visa on arrival
 TV,TO,visa on arrival
 TV,TT,visa free
 TV,TN,visa required
@@ -36801,7 +36801,7 @@ TV,TV,-1
 TV,TR,visa required
 TV,UG,e-visa
 TV,UA,visa required
-TV,AE,e-visa
+TV,AE,visa required
 TV,GB,180
 TV,US,visa required
 TV,UY,visa required
@@ -36991,7 +36991,7 @@ UG,TJ,e-visa
 UG,TZ,90
 UG,TH,visa required
 UG,TL,visa on arrival
-UG,TG,e-visa
+UG,TG,visa on arrival
 UG,TO,visa required
 UG,TT,visa required
 UG,TN,visa required
@@ -37000,7 +37000,7 @@ UG,TV,visa on arrival
 UG,TR,visa required
 UG,UG,-1
 UG,UA,visa required
-UG,AE,e-visa
+UG,AE,visa required
 UG,GB,visa required
 UG,US,visa required
 UG,UY,visa required
@@ -37190,7 +37190,7 @@ UA,TJ,90
 UA,TZ,visa on arrival
 UA,TH,30
 UA,TL,visa on arrival
-UA,TG,e-visa
+UA,TG,visa on arrival
 UA,TO,visa on arrival
 UA,TT,visa required
 UA,TN,90
@@ -37389,7 +37389,7 @@ AE,TJ,30
 AE,TZ,visa on arrival
 AE,TH,30
 AE,TL,visa on arrival
-AE,TG,e-visa
+AE,TG,visa on arrival
 AE,TO,60
 AE,TT,visa required
 AE,TN,90
@@ -37588,7 +37588,7 @@ GB,TJ,visa on arrival
 GB,TZ,visa on arrival
 GB,TH,30
 GB,TL,visa on arrival
-GB,TG,e-visa
+GB,TG,visa on arrival
 GB,TO,visa on arrival
 GB,TT,visa free
 GB,TN,90
@@ -37787,7 +37787,7 @@ US,TJ,30
 US,TZ,visa on arrival
 US,TH,30
 US,TL,visa on arrival
-US,TG,e-visa
+US,TG,visa on arrival
 US,TO,visa on arrival
 US,TT,90
 US,TN,120
@@ -37986,7 +37986,7 @@ UY,TJ,e-visa
 UY,TZ,visa on arrival
 UY,TH,e-visa
 UY,TL,visa on arrival
-UY,TG,e-visa
+UY,TG,visa on arrival
 UY,TO,visa required
 UY,TT,90
 UY,TN,visa required
@@ -38185,7 +38185,7 @@ UZ,TJ,30
 UZ,TZ,e-visa
 UZ,TH,visa on arrival
 UZ,TL,visa on arrival
-UZ,TG,e-visa
+UZ,TG,visa on arrival
 UZ,TO,visa required
 UZ,TT,visa required
 UZ,TN,visa required
@@ -38384,7 +38384,7 @@ VU,TJ,e-visa
 VU,TZ,90
 VU,TH,visa on arrival
 VU,TL,visa on arrival
-VU,TG,e-visa
+VU,TG,visa on arrival
 VU,TO,visa on arrival
 VU,TT,visa free
 VU,TN,visa required
@@ -38393,7 +38393,7 @@ VU,TV,visa on arrival
 VU,TR,visa required
 VU,UG,90
 VU,UA,visa required
-VU,AE,e-visa
+VU,AE,visa required
 VU,GB,visa required
 VU,US,visa required
 VU,UY,visa required
@@ -38583,7 +38583,7 @@ VA,TJ,30
 VA,TZ,visa on arrival
 VA,TH,e-visa
 VA,TL,visa on arrival
-VA,TG,e-visa
+VA,TG,visa on arrival
 VA,TO,visa required
 VA,TT,visa required
 VA,TN,90
@@ -38782,7 +38782,7 @@ VE,TJ,visa on arrival
 VE,TZ,visa on arrival
 VE,TH,visa required
 VE,TL,visa on arrival
-VE,TG,e-visa
+VE,TG,visa on arrival
 VE,TO,visa required
 VE,TT,visa required
 VE,TN,visa required
@@ -38791,7 +38791,7 @@ VE,TV,visa on arrival
 VE,TR,90
 VE,UG,e-visa
 VE,UA,visa required
-VE,AE,e-visa
+VE,AE,visa required
 VE,GB,visa required
 VE,US,visa required
 VE,UY,90
@@ -38981,7 +38981,7 @@ VN,TJ,visa on arrival
 VN,TZ,visa on arrival
 VN,TH,30
 VN,TL,visa on arrival
-VN,TG,e-visa
+VN,TG,visa on arrival
 VN,TO,visa required
 VN,TT,visa required
 VN,TN,visa required
@@ -38990,7 +38990,7 @@ VN,TV,visa on arrival
 VN,TR,visa required
 VN,UG,e-visa
 VN,UA,visa required
-VN,AE,e-visa
+VN,AE,visa required
 VN,GB,visa required
 VN,US,visa required
 VN,UY,visa required
@@ -39180,7 +39180,7 @@ YE,TJ,visa on arrival
 YE,TZ,e-visa
 YE,TH,visa required
 YE,TL,visa on arrival
-YE,TG,e-visa
+YE,TG,visa on arrival
 YE,TO,visa required
 YE,TT,visa required
 YE,TN,visa required
@@ -39189,7 +39189,7 @@ YE,TV,visa on arrival
 YE,TR,visa required
 YE,UG,e-visa
 YE,UA,visa required
-YE,AE,e-visa
+YE,AE,visa required
 YE,GB,visa required
 YE,US,visa required
 YE,UY,visa required
@@ -39379,7 +39379,7 @@ ZM,TJ,e-visa
 ZM,TZ,90
 ZM,TH,visa required
 ZM,TL,visa on arrival
-ZM,TG,e-visa
+ZM,TG,visa on arrival
 ZM,TO,visa required
 ZM,TT,visa free
 ZM,TN,visa required
@@ -39388,7 +39388,7 @@ ZM,TV,visa on arrival
 ZM,TR,visa required
 ZM,UG,90
 ZM,UA,visa required
-ZM,AE,e-visa
+ZM,AE,visa required
 ZM,GB,visa required
 ZM,US,visa required
 ZM,UY,visa required
@@ -39578,7 +39578,7 @@ ZW,TJ,e-visa
 ZW,TZ,90
 ZW,TH,visa required
 ZW,TL,visa on arrival
-ZW,TG,e-visa
+ZW,TG,visa on arrival
 ZW,TO,visa required
 ZW,TT,visa free
 ZW,TN,visa required
@@ -39587,7 +39587,7 @@ ZW,TV,visa on arrival
 ZW,TR,visa required
 ZW,UG,90
 ZW,UA,visa required
-ZW,AE,e-visa
+ZW,AE,visa required
 ZW,GB,visa required
 ZW,US,visa required
 ZW,UY,visa required
