@@ -83,7 +83,7 @@ AF,IE,visa required
 AF,IL,visa required
 AF,IT,visa required
 AF,JM,visa required
-AF,JP,visa required
+AF,JP,e-visa
 AF,JO,visa required
 AF,KZ,visa required
 AF,KE,e-visa
@@ -207,7 +207,7 @@ AL,AR,visa required
 AL,AM,180
 AL,AU,e-visa
 AL,AT,90
-AL,AZ,90
+AL,AZ,e-visa
 AL,BS,e-visa
 AL,BH,e-visa
 AL,BD,visa on arrival
@@ -249,7 +249,7 @@ AL,DM,21
 AL,DO,visa free
 AL,EC,e-visa
 AL,EG,visa on arrival
-AL,SV,180
+AL,SV,90
 AL,GQ,e-visa
 AL,ER,visa required
 AL,EE,90
@@ -282,7 +282,7 @@ AL,IE,visa required
 AL,IL,90
 AL,IT,90
 AL,JM,visa on arrival
-AL,JP,visa required
+AL,JP,e-visa
 AL,JO,visa on arrival
 AL,KZ,90
 AL,KE,e-visa
@@ -481,7 +481,7 @@ DZ,IE,visa required
 DZ,IL,visa required
 DZ,IT,visa required
 DZ,JM,visa required
-DZ,JP,visa required
+DZ,JP,e-visa
 DZ,JO,visa on arrival
 DZ,KZ,e-visa
 DZ,KE,e-visa
@@ -647,7 +647,7 @@ AD,DM,21
 AD,DO,visa free
 AD,EC,90
 AD,EG,visa on arrival
-AD,SV,180
+AD,SV,90
 AD,GQ,e-visa
 AD,ER,visa required
 AD,EE,90
@@ -879,7 +879,7 @@ AO,IE,visa required
 AO,IL,visa required
 AO,IT,visa required
 AO,JM,visa required
-AO,JP,visa required
+AO,JP,e-visa
 AO,JO,visa required
 AO,KZ,e-visa
 AO,KE,e-visa
@@ -1045,7 +1045,7 @@ AG,DM,visa free
 AG,DO,visa free
 AG,EC,90
 AG,EG,visa on arrival
-AG,SV,180
+AG,SV,90
 AG,GQ,e-visa
 AG,ER,visa required
 AG,EE,90
@@ -1078,7 +1078,7 @@ AG,IE,90
 AG,IL,visa required
 AG,IT,90
 AG,JM,visa free
-AG,JP,visa required
+AG,JP,e-visa
 AG,JO,visa on arrival
 AG,KZ,e-visa
 AG,KE,e-visa
@@ -1244,7 +1244,7 @@ AR,DM,180
 AR,DO,visa free
 AR,EC,90
 AR,EG,visa on arrival
-AR,SV,180
+AR,SV,90
 AR,GQ,e-visa
 AR,ER,visa required
 AR,EE,90
@@ -1476,7 +1476,7 @@ AM,IE,visa required
 AM,IL,visa required
 AM,IT,visa required
 AM,JM,visa on arrival
-AM,JP,visa required
+AM,JP,e-visa
 AM,JO,visa on arrival
 AM,KZ,90
 AM,KE,e-visa
@@ -1625,7 +1625,7 @@ AU,CV,visa on arrival
 AU,CF,visa required
 AU,TD,visa required
 AU,CL,e-visa
-AU,CN,15
+AU,CN,visa required
 AU,CO,90
 AU,KM,visa on arrival
 AU,CG,visa required
@@ -1642,7 +1642,7 @@ AU,DM,180
 AU,DO,visa free
 AU,EC,90
 AU,EG,visa on arrival
-AU,SV,180
+AU,SV,90
 AU,GQ,e-visa
 AU,ER,visa required
 AU,EE,90
@@ -1841,7 +1841,7 @@ AT,DM,180
 AT,DO,visa free
 AT,EC,90
 AT,EG,visa on arrival
-AT,SV,180
+AT,SV,90
 AT,GQ,e-visa
 AT,ER,visa required
 AT,EE,visa free
@@ -2073,7 +2073,7 @@ AZ,IE,visa required
 AZ,IL,visa required
 AZ,IT,visa required
 AZ,JM,visa on arrival
-AZ,JP,visa required
+AZ,JP,e-visa
 AZ,JO,visa on arrival
 AZ,KZ,30
 AZ,KE,e-visa
@@ -2239,7 +2239,7 @@ BS,DM,180
 BS,DO,visa free
 BS,EC,90
 BS,EG,visa on arrival
-BS,SV,180
+BS,SV,90
 BS,GQ,e-visa
 BS,ER,visa required
 BS,EE,90
@@ -2438,7 +2438,7 @@ BH,DM,21
 BH,DO,visa free
 BH,EC,90
 BH,EG,180
-BH,SV,180
+BH,SV,90
 BH,GQ,e-visa
 BH,ER,visa required
 BH,EE,visa required
@@ -2471,7 +2471,7 @@ BH,IE,visa required
 BH,IL,visa required
 BH,IT,visa required
 BH,JM,visa required
-BH,JP,visa required
+BH,JP,e-visa
 BH,JO,90
 BH,KZ,30
 BH,KE,e-visa
@@ -2670,7 +2670,7 @@ BD,IE,visa required
 BD,IL,visa required
 BD,IT,visa required
 BD,JM,visa free
-BD,JP,visa required
+BD,JP,e-visa
 BD,JO,visa required
 BD,KZ,e-visa
 BD,KE,e-visa
@@ -2836,7 +2836,7 @@ BB,DM,180
 BB,DO,visa free
 BB,EC,90
 BB,EG,visa on arrival
-BB,SV,180
+BB,SV,90
 BB,GQ,visa free
 BB,ER,visa required
 BB,EE,90
@@ -3068,7 +3068,7 @@ BY,IE,visa required
 BY,IL,90
 BY,IT,visa required
 BY,JM,visa on arrival
-BY,JP,visa required
+BY,JP,e-visa
 BY,JO,visa on arrival
 BY,KZ,90
 BY,KE,e-visa
@@ -3234,7 +3234,7 @@ BE,DM,180
 BE,DO,visa free
 BE,EC,90
 BE,EG,visa on arrival
-BE,SV,180
+BE,SV,90
 BE,GQ,e-visa
 BE,ER,visa required
 BE,EE,visa free
@@ -3433,7 +3433,7 @@ BZ,DM,180
 BZ,DO,visa free
 BZ,EC,90
 BZ,EG,visa on arrival
-BZ,SV,180
+BZ,SV,90
 BZ,GQ,e-visa
 BZ,ER,visa required
 BZ,EE,visa required
@@ -3466,7 +3466,7 @@ BZ,IE,90
 BZ,IL,90
 BZ,IT,visa required
 BZ,JM,visa free
-BZ,JP,visa required
+BZ,JP,e-visa
 BZ,JO,visa required
 BZ,KZ,e-visa
 BZ,KE,e-visa
@@ -3665,7 +3665,7 @@ BJ,IE,visa required
 BJ,IL,visa required
 BJ,IT,visa required
 BJ,JM,visa required
-BJ,JP,visa required
+BJ,JP,e-visa
 BJ,JO,visa required
 BJ,KZ,e-visa
 BJ,KE,e-visa
@@ -3864,7 +3864,7 @@ BT,IE,visa required
 BT,IL,visa required
 BT,IT,visa required
 BT,JM,visa required
-BT,JP,visa required
+BT,JP,e-visa
 BT,JO,visa on arrival
 BT,KZ,e-visa
 BT,KE,e-visa
@@ -4063,7 +4063,7 @@ BO,IE,visa required
 BO,IL,visa required
 BO,IT,visa required
 BO,JM,30
-BO,JP,visa required
+BO,JP,e-visa
 BO,JO,visa on arrival
 BO,KZ,e-visa
 BO,KE,e-visa
@@ -4262,7 +4262,7 @@ BA,IE,visa required
 BA,IL,visa required
 BA,IT,90
 BA,JM,visa on arrival
-BA,JP,visa required
+BA,JP,e-visa
 BA,JO,visa on arrival
 BA,KZ,e-visa
 BA,KE,e-visa
@@ -4461,7 +4461,7 @@ BW,IE,90
 BW,IL,90
 BW,IT,visa required
 BW,JM,visa free
-BW,JP,visa required
+BW,JP,e-visa
 BW,JO,visa required
 BW,KZ,e-visa
 BW,KE,e-visa
@@ -4627,7 +4627,7 @@ BR,DM,90
 BR,DO,visa free
 BR,EC,90
 BR,EG,visa on arrival
-BR,SV,180
+BR,SV,90
 BR,GQ,e-visa
 BR,ER,visa required
 BR,EE,90
@@ -4826,7 +4826,7 @@ BN,DM,180
 BN,DO,visa free
 BN,EC,90
 BN,EG,visa on arrival
-BN,SV,180
+BN,SV,90
 BN,GQ,e-visa
 BN,ER,visa required
 BN,EE,90
@@ -5025,7 +5025,7 @@ BG,DM,180
 BG,DO,visa free
 BG,EC,90
 BG,EG,visa on arrival
-BG,SV,180
+BG,SV,90
 BG,GQ,e-visa
 BG,ER,visa required
 BG,EE,visa free
@@ -5257,7 +5257,7 @@ BF,IE,visa required
 BF,IL,visa required
 BF,IT,visa required
 BF,JM,visa required
-BF,JP,visa required
+BF,JP,e-visa
 BF,JO,visa required
 BF,KZ,e-visa
 BF,KE,e-visa
@@ -5456,7 +5456,7 @@ BI,IE,visa required
 BI,IL,visa required
 BI,IT,visa required
 BI,JM,visa required
-BI,JP,visa required
+BI,JP,e-visa
 BI,JO,visa required
 BI,KZ,e-visa
 BI,KE,visa free
@@ -5854,7 +5854,7 @@ CM,IE,visa required
 CM,IL,visa required
 CM,IT,visa required
 CM,JM,visa required
-CM,JP,visa required
+CM,JP,e-visa
 CM,JO,visa required
 CM,KZ,e-visa
 CM,KE,e-visa
@@ -6020,7 +6020,7 @@ CA,DM,180
 CA,DO,visa free
 CA,EC,90
 CA,EG,visa required
-CA,SV,180
+CA,SV,90
 CA,GQ,e-visa
 CA,ER,visa required
 CA,EE,90
@@ -6252,7 +6252,7 @@ CV,IE,visa required
 CV,IL,visa required
 CV,IT,visa required
 CV,JM,visa required
-CV,JP,visa required
+CV,JP,e-visa
 CV,JO,visa on arrival
 CV,KZ,visa required
 CV,KE,e-visa
@@ -6451,7 +6451,7 @@ CF,IE,visa required
 CF,IL,visa required
 CF,IT,visa required
 CF,JM,visa required
-CF,JP,visa required
+CF,JP,e-visa
 CF,JO,visa required
 CF,KZ,e-visa
 CF,KE,e-visa
@@ -6650,7 +6650,7 @@ TD,IE,visa required
 TD,IL,visa required
 TD,IT,visa required
 TD,JM,visa required
-TD,JP,visa required
+TD,JP,e-visa
 TD,JO,visa required
 TD,KZ,e-visa
 TD,KE,e-visa
@@ -6816,7 +6816,7 @@ CL,DM,21
 CL,DO,visa free
 CL,EC,90
 CL,EG,visa on arrival
-CL,SV,180
+CL,SV,90
 CL,GQ,e-visa
 CL,ER,visa required
 CL,EE,90
@@ -7013,7 +7013,7 @@ CN,DK,visa required
 CN,DJ,visa on arrival
 CN,DM,180
 CN,DO,visa required
-CN,EC,visa required
+CN,EC,90
 CN,EG,visa on arrival
 CN,SV,e-visa
 CN,GQ,e-visa
@@ -7214,7 +7214,7 @@ CO,DM,21
 CO,DO,30
 CO,EC,90
 CO,EG,visa on arrival
-CO,SV,180
+CO,SV,90
 CO,GQ,e-visa
 CO,ER,visa required
 CO,EE,90
@@ -7247,7 +7247,7 @@ CO,IE,visa required
 CO,IL,90
 CO,IT,90
 CO,JM,30
-CO,JP,visa required
+CO,JP,e-visa
 CO,JO,visa on arrival
 CO,KZ,30
 CO,KE,e-visa
@@ -7446,7 +7446,7 @@ KM,IE,visa required
 KM,IL,visa required
 KM,IT,visa required
 KM,JM,visa required
-KM,JP,visa required
+KM,JP,e-visa
 KM,JO,visa required
 KM,KZ,e-visa
 KM,KE,e-visa
@@ -7542,7 +7542,7 @@ KM,TL,visa on arrival
 KM,TG,e-visa
 KM,TO,visa required
 KM,TT,visa required
-KM,TN,visa required
+KM,TN,90
 KM,TM,visa required
 KM,TV,visa on arrival
 KM,TR,visa required
@@ -7645,7 +7645,7 @@ CG,IE,visa required
 CG,IL,visa required
 CG,IT,visa required
 CG,JM,visa required
-CG,JP,visa required
+CG,JP,e-visa
 CG,JO,visa required
 CG,KZ,e-visa
 CG,KE,e-visa
@@ -7844,7 +7844,7 @@ CD,IE,visa required
 CD,IL,visa required
 CD,IT,visa required
 CD,JM,visa required
-CD,JP,visa required
+CD,JP,e-visa
 CD,JO,visa required
 CD,KZ,visa required
 CD,KE,visa free
@@ -8010,7 +8010,7 @@ CR,DM,180
 CR,DO,visa free
 CR,EC,90
 CR,EG,visa on arrival
-CR,SV,180
+CR,SV,90
 CR,GQ,e-visa
 CR,ER,visa required
 CR,EE,90
@@ -8242,7 +8242,7 @@ CI,IE,visa required
 CI,IL,visa required
 CI,IT,visa required
 CI,JM,visa required
-CI,JP,visa required
+CI,JP,e-visa
 CI,JO,visa required
 CI,KZ,e-visa
 CI,KE,e-visa
@@ -8408,7 +8408,7 @@ HR,DM,180
 HR,DO,visa free
 HR,EC,90
 HR,EG,visa on arrival
-HR,SV,180
+HR,SV,90
 HR,GQ,e-visa
 HR,ER,visa required
 HR,EE,visa free
@@ -8640,7 +8640,7 @@ CU,IE,visa required
 CU,IL,visa required
 CU,IT,visa required
 CU,JM,visa required
-CU,JP,visa required
+CU,JP,e-visa
 CU,JO,visa required
 CU,KZ,e-visa
 CU,KE,e-visa
@@ -8806,7 +8806,7 @@ CY,DM,180
 CY,DO,visa free
 CY,EC,90
 CY,EG,visa on arrival
-CY,SV,180
+CY,SV,90
 CY,GQ,e-visa
 CY,ER,visa required
 CY,EE,visa free
@@ -9005,7 +9005,7 @@ CZ,DM,180
 CZ,DO,visa free
 CZ,EC,90
 CZ,EG,visa on arrival
-CZ,SV,180
+CZ,SV,90
 CZ,GQ,e-visa
 CZ,ER,visa required
 CZ,EE,visa free
@@ -9204,7 +9204,7 @@ DK,DM,180
 DK,DO,visa free
 DK,EC,90
 DK,EG,visa on arrival
-DK,SV,180
+DK,SV,90
 DK,GQ,e-visa
 DK,ER,visa required
 DK,EE,visa free
@@ -9436,7 +9436,7 @@ DJ,IE,visa required
 DJ,IL,visa required
 DJ,IT,visa required
 DJ,JM,visa required
-DJ,JP,visa required
+DJ,JP,e-visa
 DJ,JO,visa required
 DJ,KZ,e-visa
 DJ,KE,e-visa
@@ -9635,7 +9635,7 @@ DM,IE,visa required
 DM,IL,90
 DM,IT,90
 DM,JM,visa free
-DM,JP,visa required
+DM,JP,e-visa
 DM,JO,visa on arrival
 DM,KZ,e-visa
 DM,KE,e-visa
@@ -9801,7 +9801,7 @@ DO,DM,visa required
 DO,DO,-1
 DO,EC,90
 DO,EG,visa on arrival
-DO,SV,180
+DO,SV,90
 DO,GQ,e-visa
 DO,ER,visa required
 DO,EE,visa required
@@ -10000,7 +10000,7 @@ EC,DM,21
 EC,DO,visa free
 EC,EC,-1
 EC,EG,visa on arrival
-EC,SV,180
+EC,SV,90
 EC,GQ,e-visa
 EC,ER,visa required
 EC,EE,visa required
@@ -10033,7 +10033,7 @@ EC,IE,visa required
 EC,IL,90
 EC,IT,visa required
 EC,JM,30
-EC,JP,visa required
+EC,JP,e-visa
 EC,JO,visa on arrival
 EC,KZ,30
 EC,KE,e-visa
@@ -10232,7 +10232,7 @@ EG,IE,visa required
 EG,IL,visa required
 EG,IT,visa required
 EG,JM,visa required
-EG,JP,visa required
+EG,JP,e-visa
 EG,JO,30
 EG,KZ,e-visa
 EG,KE,e-visa
@@ -10630,7 +10630,7 @@ GQ,IE,visa required
 GQ,IL,visa required
 GQ,IT,visa required
 GQ,JM,visa required
-GQ,JP,visa required
+GQ,JP,e-visa
 GQ,JO,visa required
 GQ,KZ,visa required
 GQ,KE,e-visa
@@ -10829,7 +10829,7 @@ ER,IE,visa required
 ER,IL,visa required
 ER,IT,visa required
 ER,JM,visa required
-ER,JP,visa required
+ER,JP,e-visa
 ER,JO,visa required
 ER,KZ,e-visa
 ER,KE,e-visa
@@ -10995,7 +10995,7 @@ EE,DM,180
 EE,DO,visa free
 EE,EC,90
 EE,EG,visa on arrival
-EE,SV,180
+EE,SV,90
 EE,GQ,e-visa
 EE,ER,visa required
 EE,EE,-1
@@ -11227,7 +11227,7 @@ SZ,IE,90
 SZ,IL,90
 SZ,IT,visa required
 SZ,JM,visa free
-SZ,JP,visa required
+SZ,JP,e-visa
 SZ,JO,visa on arrival
 SZ,KZ,e-visa
 SZ,KE,e-visa
@@ -11426,7 +11426,7 @@ ET,IE,visa required
 ET,IL,visa required
 ET,IT,visa required
 ET,JM,visa required
-ET,JP,visa required
+ET,JP,e-visa
 ET,JO,visa required
 ET,KZ,e-visa
 ET,KE,e-visa
@@ -11592,7 +11592,7 @@ FJ,DM,21
 FJ,DO,visa free
 FJ,EC,90
 FJ,EG,visa on arrival
-FJ,SV,180
+FJ,SV,90
 FJ,GQ,e-visa
 FJ,ER,visa required
 FJ,EE,visa required
@@ -11625,7 +11625,7 @@ FJ,IE,90
 FJ,IL,90
 FJ,IT,visa required
 FJ,JM,visa free
-FJ,JP,visa required
+FJ,JP,e-visa
 FJ,JO,visa on arrival
 FJ,KZ,e-visa
 FJ,KE,e-visa
@@ -11791,7 +11791,7 @@ FI,DM,180
 FI,DO,visa free
 FI,EC,90
 FI,EG,visa on arrival
-FI,SV,180
+FI,SV,90
 FI,GQ,e-visa
 FI,ER,visa required
 FI,EE,visa free
@@ -11990,7 +11990,7 @@ FR,DM,180
 FR,DO,visa free
 FR,EC,90
 FR,EG,visa on arrival
-FR,SV,180
+FR,SV,90
 FR,GQ,e-visa
 FR,ER,visa required
 FR,EE,visa free
@@ -12222,7 +12222,7 @@ GA,IE,visa required
 GA,IL,visa required
 GA,IT,visa required
 GA,JM,visa required
-GA,JP,visa required
+GA,JP,e-visa
 GA,JO,visa required
 GA,KZ,e-visa
 GA,KE,e-visa
@@ -12421,7 +12421,7 @@ GM,IE,visa required
 GM,IL,visa required
 GM,IT,visa required
 GM,JM,visa free
-GM,JP,visa required
+GM,JP,e-visa
 GM,JO,visa required
 GM,KZ,e-visa
 GM,KE,e-visa
@@ -12609,7 +12609,7 @@ GE,GW,visa on arrival
 GE,GY,visa required
 GE,HT,90
 GE,HN,visa required
-GE,HK,e-visa
+GE,HK,30
 GE,HU,90
 GE,IS,90
 GE,IN,e-visa
@@ -12620,7 +12620,7 @@ GE,IE,visa required
 GE,IL,90
 GE,IT,90
 GE,JM,visa on arrival
-GE,JP,visa required
+GE,JP,e-visa
 GE,JO,visa on arrival
 GE,KZ,90
 GE,KE,e-visa
@@ -12786,7 +12786,7 @@ DE,DM,180
 DE,DO,visa free
 DE,EC,90
 DE,EG,visa on arrival
-DE,SV,180
+DE,SV,90
 DE,GQ,e-visa
 DE,ER,visa required
 DE,EE,visa free
@@ -13018,7 +13018,7 @@ GH,IE,visa required
 GH,IL,visa required
 GH,IT,visa required
 GH,JM,visa free
-GH,JP,visa required
+GH,JP,e-visa
 GH,JO,visa on arrival
 GH,KZ,e-visa
 GH,KE,e-visa
@@ -13184,7 +13184,7 @@ GR,DM,180
 GR,DO,visa free
 GR,EC,90
 GR,EG,visa on arrival
-GR,SV,180
+GR,SV,90
 GR,GQ,e-visa
 GR,ER,visa required
 GR,EE,visa free
@@ -13416,7 +13416,7 @@ GD,IE,90
 GD,IL,90
 GD,IT,90
 GD,JM,visa free
-GD,JP,visa required
+GD,JP,e-visa
 GD,JO,visa on arrival
 GD,KZ,e-visa
 GD,KE,e-visa
@@ -13582,7 +13582,7 @@ GT,DM,21
 GT,DO,visa free
 GT,EC,90
 GT,EG,visa required
-GT,SV,180
+GT,SV,90
 GT,GQ,e-visa
 GT,ER,visa required
 GT,EE,90
@@ -13814,7 +13814,7 @@ GN,IE,visa required
 GN,IL,visa required
 GN,IT,visa required
 GN,JM,visa required
-GN,JP,visa required
+GN,JP,e-visa
 GN,JO,visa required
 GN,KZ,e-visa
 GN,KE,e-visa
@@ -14013,7 +14013,7 @@ GW,IE,visa required
 GW,IL,visa required
 GW,IT,visa required
 GW,JM,visa required
-GW,JP,visa required
+GW,JP,e-visa
 GW,JO,visa required
 GW,KZ,e-visa
 GW,KE,e-visa
@@ -14212,7 +14212,7 @@ GY,IE,90
 GY,IL,visa required
 GY,IT,visa required
 GY,JM,visa free
-GY,JP,visa required
+GY,JP,e-visa
 GY,JO,visa on arrival
 GY,KZ,e-visa
 GY,KE,e-visa
@@ -14411,7 +14411,7 @@ HT,IE,visa required
 HT,IL,90
 HT,IT,visa required
 HT,JM,visa required
-HT,JP,visa required
+HT,JP,e-visa
 HT,JO,visa on arrival
 HT,KZ,e-visa
 HT,KE,e-visa
@@ -14577,7 +14577,7 @@ HN,DM,21
 HN,DO,visa free
 HN,EC,90
 HN,EG,visa required
-HN,SV,180
+HN,SV,90
 HN,GQ,e-visa
 HN,ER,visa required
 HN,EE,90
@@ -14975,7 +14975,7 @@ HU,DM,180
 HU,DO,visa free
 HU,EC,90
 HU,EG,visa on arrival
-HU,SV,180
+HU,SV,90
 HU,GQ,e-visa
 HU,ER,visa required
 HU,EE,visa free
@@ -15174,7 +15174,7 @@ IS,DM,21
 IS,DO,visa free
 IS,EC,90
 IS,EG,visa on arrival
-IS,SV,180
+IS,SV,90
 IS,GQ,e-visa
 IS,ER,visa required
 IS,EE,visa free
@@ -15373,7 +15373,7 @@ IN,DM,180
 IN,DO,visa required
 IN,EC,e-visa
 IN,EG,e-visa
-IN,SV,180
+IN,SV,90
 IN,GQ,e-visa
 IN,ER,visa required
 IN,EE,visa required
@@ -15804,7 +15804,7 @@ IR,IE,visa required
 IR,IL,visa required
 IR,IT,visa required
 IR,JM,visa required
-IR,JP,visa required
+IR,JP,e-visa
 IR,JO,visa required
 IR,KZ,14
 IR,KE,e-visa
@@ -15900,7 +15900,7 @@ IR,TL,visa on arrival
 IR,TG,e-visa
 IR,TO,visa required
 IR,TT,visa required
-IR,TN,15
+IR,TN,visa required
 IR,TM,visa required
 IR,TV,visa on arrival
 IR,TR,90
@@ -16003,7 +16003,7 @@ IQ,IE,visa required
 IQ,IL,visa required
 IQ,IT,visa required
 IQ,JM,visa required
-IQ,JP,visa required
+IQ,JP,e-visa
 IQ,JO,visa required
 IQ,KZ,visa required
 IQ,KE,e-visa
@@ -16099,7 +16099,7 @@ IQ,TL,visa on arrival
 IQ,TG,e-visa
 IQ,TO,visa required
 IQ,TT,visa required
-IQ,TN,15
+IQ,TN,visa required
 IQ,TM,visa required
 IQ,TV,visa on arrival
 IQ,TR,visa required
@@ -16169,7 +16169,7 @@ IE,DM,180
 IE,DO,visa free
 IE,EC,90
 IE,EG,visa on arrival
-IE,SV,180
+IE,SV,90
 IE,GQ,e-visa
 IE,ER,visa required
 IE,EE,visa free
@@ -16368,7 +16368,7 @@ IL,DM,180
 IL,DO,visa free
 IL,EC,90
 IL,EG,visa required
-IL,SV,180
+IL,SV,90
 IL,GQ,e-visa
 IL,ER,visa required
 IL,EE,90
@@ -16567,7 +16567,7 @@ IT,DM,180
 IT,DO,visa free
 IT,EC,90
 IT,EG,visa on arrival
-IT,SV,180
+IT,SV,90
 IT,GQ,e-visa
 IT,ER,visa required
 IT,EE,visa free
@@ -16799,7 +16799,7 @@ JM,IE,visa required
 JM,IL,90
 JM,IT,visa required
 JM,JM,-1
-JM,JP,visa required
+JM,JP,e-visa
 JM,JO,visa on arrival
 JM,KZ,e-visa
 JM,KE,e-visa
@@ -16965,7 +16965,7 @@ JP,DM,180
 JP,DO,visa free
 JP,EC,90
 JP,EG,visa on arrival
-JP,SV,180
+JP,SV,90
 JP,GQ,e-visa
 JP,ER,visa required
 JP,EE,90
@@ -17197,7 +17197,7 @@ JO,IE,visa required
 JO,IL,visa required
 JO,IT,visa required
 JO,JM,visa required
-JO,JP,visa required
+JO,JP,e-visa
 JO,JO,-1
 JO,KZ,visa required
 JO,KE,e-visa
@@ -17396,7 +17396,7 @@ KZ,IE,visa required
 KZ,IL,visa required
 KZ,IT,visa required
 KZ,JM,visa on arrival
-KZ,JP,visa required
+KZ,JP,e-visa
 KZ,JO,visa on arrival
 KZ,KZ,-1
 KZ,KE,e-visa
@@ -17595,7 +17595,7 @@ KE,IE,visa required
 KE,IL,visa required
 KE,IT,visa required
 KE,JM,visa free
-KE,JP,visa required
+KE,JP,e-visa
 KE,JO,visa on arrival
 KE,KZ,e-visa
 KE,KE,-1
@@ -17794,7 +17794,7 @@ KI,IE,90
 KI,IL,visa required
 KI,IT,90
 KI,JM,visa free
-KI,JP,visa required
+KI,JP,e-visa
 KI,JO,visa on arrival
 KI,KZ,e-visa
 KI,KE,e-visa
@@ -17993,7 +17993,7 @@ XK,IE,visa required
 XK,IL,visa required
 XK,IT,90
 XK,JM,visa on arrival
-XK,JP,visa required
+XK,JP,e-visa
 XK,JO,visa on arrival
 XK,KZ,visa required
 XK,KE,e-visa
@@ -18159,7 +18159,7 @@ KW,DM,21
 KW,DO,visa free
 KW,EC,90
 KW,EG,180
-KW,SV,180
+KW,SV,90
 KW,GQ,e-visa
 KW,ER,visa required
 KW,EE,visa required
@@ -18192,7 +18192,7 @@ KW,IE,visa required
 KW,IL,visa required
 KW,IT,visa required
 KW,JM,visa required
-KW,JP,visa required
+KW,JP,e-visa
 KW,JO,90
 KW,KZ,30
 KW,KE,e-visa
@@ -18391,7 +18391,7 @@ KG,IE,visa required
 KG,IL,visa required
 KG,IT,visa required
 KG,JM,visa on arrival
-KG,JP,visa required
+KG,JP,e-visa
 KG,JO,visa on arrival
 KG,KZ,90
 KG,KE,e-visa
@@ -18590,7 +18590,7 @@ LA,IE,visa required
 LA,IL,visa required
 LA,IT,visa required
 LA,JM,visa required
-LA,JP,visa required
+LA,JP,e-visa
 LA,JO,visa required
 LA,KZ,e-visa
 LA,KE,e-visa
@@ -18756,7 +18756,7 @@ LV,DM,180
 LV,DO,visa free
 LV,EC,90
 LV,EG,visa on arrival
-LV,SV,180
+LV,SV,90
 LV,GQ,e-visa
 LV,ER,visa required
 LV,EE,visa free
@@ -18988,7 +18988,7 @@ LB,IE,visa required
 LB,IL,visa required
 LB,IT,visa required
 LB,JM,visa required
-LB,JP,visa required
+LB,JP,e-visa
 LB,JO,90
 LB,KZ,e-visa
 LB,KE,e-visa
@@ -19386,7 +19386,7 @@ LR,IE,visa required
 LR,IL,visa required
 LR,IT,visa required
 LR,JM,visa required
-LR,JP,visa required
+LR,JP,e-visa
 LR,JO,visa required
 LR,KZ,e-visa
 LR,KE,e-visa
@@ -19585,7 +19585,7 @@ LY,IE,visa required
 LY,IL,visa required
 LY,IT,visa required
 LY,JM,visa required
-LY,JP,visa required
+LY,JP,e-visa
 LY,JO,visa required
 LY,KZ,visa required
 LY,KE,e-visa
@@ -19751,7 +19751,7 @@ LI,DM,21
 LI,DO,visa free
 LI,EC,90
 LI,EG,visa on arrival
-LI,SV,180
+LI,SV,90
 LI,GQ,e-visa
 LI,ER,visa required
 LI,EE,visa free
@@ -19950,7 +19950,7 @@ LT,DM,180
 LT,DO,visa free
 LT,EC,90
 LT,EG,visa on arrival
-LT,SV,180
+LT,SV,90
 LT,GQ,e-visa
 LT,ER,visa required
 LT,EE,visa free
@@ -20149,7 +20149,7 @@ LU,DM,180
 LU,DO,visa free
 LU,EC,90
 LU,EG,visa on arrival
-LU,SV,180
+LU,SV,90
 LU,GQ,e-visa
 LU,ER,visa required
 LU,EE,visa free
@@ -20547,7 +20547,7 @@ MG,DM,21
 MG,DO,visa required
 MG,EC,90
 MG,EG,visa required
-MG,SV,180
+MG,SV,90
 MG,GQ,e-visa
 MG,ER,visa required
 MG,EE,visa required
@@ -20580,7 +20580,7 @@ MG,IE,visa required
 MG,IL,visa required
 MG,IT,visa required
 MG,JM,visa required
-MG,JP,visa required
+MG,JP,e-visa
 MG,JO,visa required
 MG,KZ,e-visa
 MG,KE,e-visa
@@ -20779,7 +20779,7 @@ MW,IE,visa required
 MW,IL,90
 MW,IT,visa required
 MW,JM,visa free
-MW,JP,visa required
+MW,JP,e-visa
 MW,JO,visa on arrival
 MW,KZ,e-visa
 MW,KE,e-visa
@@ -20945,7 +20945,7 @@ MY,DM,180
 MY,DO,visa free
 MY,EC,90
 MY,EG,visa on arrival
-MY,SV,180
+MY,SV,90
 MY,GQ,e-visa
 MY,ER,visa required
 MY,EE,90
@@ -21177,7 +21177,7 @@ MV,IE,90
 MV,IL,visa required
 MV,IT,visa required
 MV,JM,visa free
-MV,JP,visa required
+MV,JP,e-visa
 MV,JO,visa on arrival
 MV,KZ,30
 MV,KE,e-visa
@@ -21376,7 +21376,7 @@ ML,IE,visa required
 ML,IL,visa required
 ML,IT,visa required
 ML,JM,visa required
-ML,JP,visa required
+ML,JP,e-visa
 ML,JO,visa required
 ML,KZ,e-visa
 ML,KE,e-visa
@@ -21542,7 +21542,7 @@ MT,DM,180
 MT,DO,visa free
 MT,EC,90
 MT,EG,visa on arrival
-MT,SV,180
+MT,SV,90
 MT,GQ,e-visa
 MT,ER,visa required
 MT,EE,visa free
@@ -21741,7 +21741,7 @@ MH,DM,21
 MH,DO,visa free
 MH,EC,90
 MH,EG,visa on arrival
-MH,SV,180
+MH,SV,90
 MH,GQ,e-visa
 MH,ER,visa required
 MH,EE,90
@@ -21774,7 +21774,7 @@ MH,IE,visa required
 MH,IL,visa required
 MH,IT,90
 MH,JM,visa required
-MH,JP,visa required
+MH,JP,e-visa
 MH,JO,visa on arrival
 MH,KZ,e-visa
 MH,KE,e-visa
@@ -21973,7 +21973,7 @@ MR,IE,visa required
 MR,IL,visa required
 MR,IT,visa required
 MR,JM,visa required
-MR,JP,visa required
+MR,JP,e-visa
 MR,JO,visa required
 MR,KZ,e-visa
 MR,KE,e-visa
@@ -22338,7 +22338,7 @@ MX,DM,180
 MX,DO,visa free
 MX,EC,90
 MX,EG,visa on arrival
-MX,SV,180
+MX,SV,90
 MX,GQ,e-visa
 MX,ER,visa required
 MX,EE,90
@@ -22570,7 +22570,7 @@ FM,IE,visa required
 FM,IL,90
 FM,IT,90
 FM,JM,visa required
-FM,JP,visa required
+FM,JP,e-visa
 FM,JO,visa required
 FM,KZ,e-visa
 FM,KE,e-visa
@@ -22769,7 +22769,7 @@ MD,IE,visa required
 MD,IL,90
 MD,IT,90
 MD,JM,visa on arrival
-MD,JP,visa required
+MD,JP,e-visa
 MD,JO,visa required
 MD,KZ,90
 MD,KE,e-visa
@@ -22935,7 +22935,7 @@ MC,DM,21
 MC,DO,visa free
 MC,EC,90
 MC,EG,visa on arrival
-MC,SV,180
+MC,SV,90
 MC,GQ,e-visa
 MC,ER,visa required
 MC,EE,90
@@ -23366,7 +23366,7 @@ ME,IE,visa required
 ME,IL,90
 ME,IT,90
 ME,JM,visa on arrival
-ME,JP,visa required
+ME,JP,e-visa
 ME,JO,visa on arrival
 ME,KZ,e-visa
 ME,KE,e-visa
@@ -23565,7 +23565,7 @@ MA,IE,visa required
 MA,IL,visa required
 MA,IT,visa required
 MA,JM,visa required
-MA,JP,visa required
+MA,JP,e-visa
 MA,JO,visa on arrival
 MA,KZ,e-visa
 MA,KE,e-visa
@@ -23764,7 +23764,7 @@ MZ,IE,visa required
 MZ,IL,visa required
 MZ,IT,visa required
 MZ,JM,visa free
-MZ,JP,visa required
+MZ,JP,e-visa
 MZ,JO,visa required
 MZ,KZ,e-visa
 MZ,KE,e-visa
@@ -23963,7 +23963,7 @@ MM,IE,visa required
 MM,IL,visa required
 MM,IT,visa required
 MM,JM,visa required
-MM,JP,visa required
+MM,JP,e-visa
 MM,JO,visa on arrival
 MM,KZ,e-visa
 MM,KE,e-visa
@@ -24162,7 +24162,7 @@ NA,IE,visa required
 NA,IL,visa required
 NA,IT,visa required
 NA,JM,visa free
-NA,JP,visa required
+NA,JP,e-visa
 NA,JO,visa required
 NA,KZ,e-visa
 NA,KE,e-visa
@@ -24361,7 +24361,7 @@ NR,IE,90
 NR,IL,90
 NR,IT,visa required
 NR,JM,visa free
-NR,JP,visa required
+NR,JP,e-visa
 NR,JO,visa on arrival
 NR,KZ,e-visa
 NR,KE,e-visa
@@ -24560,7 +24560,7 @@ NP,IE,visa required
 NP,IL,visa required
 NP,IT,visa required
 NP,JM,visa required
-NP,JP,visa required
+NP,JP,e-visa
 NP,JO,visa required
 NP,KZ,e-visa
 NP,KE,e-visa
@@ -24726,7 +24726,7 @@ NL,DM,180
 NL,DO,visa free
 NL,EC,90
 NL,EG,visa on arrival
-NL,SV,180
+NL,SV,90
 NL,GQ,e-visa
 NL,ER,visa required
 NL,EE,visa free
@@ -24908,7 +24908,7 @@ NZ,CV,visa on arrival
 NZ,CF,visa required
 NZ,TD,visa required
 NZ,CL,90
-NZ,CN,15
+NZ,CN,visa required
 NZ,CO,90
 NZ,KM,visa on arrival
 NZ,CG,visa required
@@ -24925,7 +24925,7 @@ NZ,DM,180
 NZ,DO,visa free
 NZ,EC,90
 NZ,EG,visa on arrival
-NZ,SV,180
+NZ,SV,90
 NZ,GQ,e-visa
 NZ,ER,visa required
 NZ,EE,90
@@ -25124,7 +25124,7 @@ NI,DM,21
 NI,DO,visa free
 NI,EC,90
 NI,EG,visa on arrival
-NI,SV,180
+NI,SV,90
 NI,GQ,e-visa
 NI,ER,visa required
 NI,EE,90
@@ -25157,7 +25157,7 @@ NI,IE,90
 NI,IL,visa required
 NI,IT,90
 NI,JM,visa required
-NI,JP,visa required
+NI,JP,e-visa
 NI,JO,visa on arrival
 NI,KZ,e-visa
 NI,KE,e-visa
@@ -25356,7 +25356,7 @@ NE,IE,visa required
 NE,IL,visa required
 NE,IT,visa required
 NE,JM,visa required
-NE,JP,visa required
+NE,JP,e-visa
 NE,JO,visa required
 NE,KZ,e-visa
 NE,KE,e-visa
@@ -25555,7 +25555,7 @@ NG,IE,visa required
 NG,IL,visa required
 NG,IT,visa required
 NG,JM,visa required
-NG,JP,visa required
+NG,JP,e-visa
 NG,JO,visa required
 NG,KZ,e-visa
 NG,KE,e-visa
@@ -25920,7 +25920,7 @@ MK,DM,21
 MK,DO,visa free
 MK,EC,90
 MK,EG,visa on arrival
-MK,SV,180
+MK,SV,90
 MK,GQ,e-visa
 MK,ER,visa required
 MK,EE,90
@@ -26119,7 +26119,7 @@ NO,DM,180
 NO,DO,visa free
 NO,EC,90
 NO,EG,visa on arrival
-NO,SV,180
+NO,SV,90
 NO,GQ,e-visa
 NO,ER,visa required
 NO,EE,visa free
@@ -26351,7 +26351,7 @@ OM,IE,visa required
 OM,IL,visa required
 OM,IT,visa required
 OM,JM,visa required
-OM,JP,visa required
+OM,JP,e-visa
 OM,JO,90
 OM,KZ,30
 OM,KE,e-visa
@@ -26550,7 +26550,7 @@ PK,IE,visa required
 PK,IL,visa required
 PK,IT,visa required
 PK,JM,visa required
-PK,JP,visa required
+PK,JP,e-visa
 PK,JO,visa required
 PK,KZ,visa required
 PK,KE,e-visa
@@ -26749,7 +26749,7 @@ PW,IE,visa required
 PW,IL,90
 PW,IT,90
 PW,JM,visa required
-PW,JP,visa required
+PW,JP,e-visa
 PW,JO,visa on arrival
 PW,KZ,e-visa
 PW,KE,e-visa
@@ -26948,7 +26948,7 @@ PS,IE,visa required
 PS,IL,visa required
 PS,IT,visa required
 PS,JM,visa required
-PS,JP,visa required
+PS,JP,e-visa
 PS,JO,30
 PS,KZ,visa required
 PS,KE,e-visa
@@ -27114,7 +27114,7 @@ PA,DM,21
 PA,DO,visa free
 PA,EC,90
 PA,EG,visa on arrival
-PA,SV,180
+PA,SV,90
 PA,GQ,e-visa
 PA,ER,visa required
 PA,EE,90
@@ -27346,7 +27346,7 @@ PG,IE,visa required
 PG,IL,90
 PG,IT,visa required
 PG,JM,visa free
-PG,JP,visa required
+PG,JP,e-visa
 PG,JO,visa required
 PG,KZ,e-visa
 PG,KE,e-visa
@@ -27512,7 +27512,7 @@ PY,DM,21
 PY,DO,90
 PY,EC,90
 PY,EG,visa on arrival
-PY,SV,180
+PY,SV,90
 PY,GQ,e-visa
 PY,ER,visa required
 PY,EE,90
@@ -27545,7 +27545,7 @@ PY,IE,90
 PY,IL,90
 PY,IT,90
 PY,JM,30
-PY,JP,visa required
+PY,JP,e-visa
 PY,JO,visa on arrival
 PY,KZ,e-visa
 PY,KE,e-visa
@@ -27722,7 +27722,7 @@ PE,FI,90
 PE,FR,90
 PE,GA,e-visa
 PE,GM,visa required
-PE,GE,90
+PE,GE,e-visa
 PE,DE,90
 PE,GH,visa required
 PE,GR,90
@@ -27744,7 +27744,7 @@ PE,IE,visa required
 PE,IL,90
 PE,IT,90
 PE,JM,30
-PE,JP,visa required
+PE,JP,e-visa
 PE,JO,visa on arrival
 PE,KZ,e-visa
 PE,KE,e-visa
@@ -27943,7 +27943,7 @@ PH,IE,visa required
 PH,IL,90
 PH,IT,visa required
 PH,JM,visa required
-PH,JP,visa required
+PH,JP,e-visa
 PH,JO,visa required
 PH,KZ,30
 PH,KE,e-visa
@@ -28092,7 +28092,7 @@ PL,CV,30
 PL,CF,visa required
 PL,TD,visa required
 PL,CL,90
-PL,CN,15
+PL,CN,visa required
 PL,CO,90
 PL,KM,visa on arrival
 PL,CG,visa required
@@ -28109,7 +28109,7 @@ PL,DM,180
 PL,DO,visa free
 PL,EC,90
 PL,EG,visa on arrival
-PL,SV,180
+PL,SV,90
 PL,GQ,e-visa
 PL,ER,visa required
 PL,EE,visa free
@@ -28308,7 +28308,7 @@ PT,DM,180
 PT,DO,visa free
 PT,EC,90
 PT,EG,visa on arrival
-PT,SV,180
+PT,SV,90
 PT,GQ,e-visa
 PT,ER,visa required
 PT,EE,visa free
@@ -28507,7 +28507,7 @@ QA,DM,21
 QA,DO,visa free
 QA,EC,90
 QA,EG,180
-QA,SV,180
+QA,SV,90
 QA,GQ,e-visa
 QA,ER,visa required
 QA,EE,visa required
@@ -28706,7 +28706,7 @@ RO,DM,180
 RO,DO,visa free
 RO,EC,90
 RO,EG,visa on arrival
-RO,SV,180
+RO,SV,90
 RO,GQ,e-visa
 RO,ER,visa required
 RO,EE,visa free
@@ -28905,7 +28905,7 @@ RU,DM,21
 RU,DO,visa free
 RU,EC,90
 RU,EG,visa on arrival
-RU,SV,180
+RU,SV,90
 RU,GQ,e-visa
 RU,ER,visa required
 RU,EE,visa required
@@ -28938,7 +28938,7 @@ RU,IE,visa required
 RU,IL,90
 RU,IT,visa required
 RU,JM,90
-RU,JP,visa required
+RU,JP,e-visa
 RU,JO,visa on arrival
 RU,KZ,90
 RU,KE,e-visa
@@ -29137,7 +29137,7 @@ RW,IE,visa required
 RW,IL,visa required
 RW,IT,visa required
 RW,JM,visa required
-RW,JP,visa required
+RW,JP,e-visa
 RW,JO,visa on arrival
 RW,KZ,e-visa
 RW,KE,visa free
@@ -29303,7 +29303,7 @@ KN,DM,visa free
 KN,DO,visa free
 KN,EC,90
 KN,EG,visa required
-KN,SV,180
+KN,SV,90
 KN,GQ,e-visa
 KN,ER,visa required
 KN,EE,90
@@ -29336,7 +29336,7 @@ KN,IE,90
 KN,IL,90
 KN,IT,90
 KN,JM,visa free
-KN,JP,visa required
+KN,JP,e-visa
 KN,JO,visa on arrival
 KN,KZ,e-visa
 KN,KE,e-visa
@@ -29502,7 +29502,7 @@ LC,DM,visa free
 LC,DO,visa free
 LC,EC,90
 LC,EG,visa on arrival
-LC,SV,180
+LC,SV,90
 LC,GQ,e-visa
 LC,ER,visa required
 LC,EE,90
@@ -29535,7 +29535,7 @@ LC,IE,90
 LC,IL,90
 LC,IT,90
 LC,JM,visa free
-LC,JP,visa required
+LC,JP,e-visa
 LC,JO,visa on arrival
 LC,KZ,e-visa
 LC,KE,e-visa
@@ -29734,7 +29734,7 @@ WS,IE,90
 WS,IL,visa required
 WS,IT,90
 WS,JM,visa free
-WS,JP,visa required
+WS,JP,e-visa
 WS,JO,visa on arrival
 WS,KZ,e-visa
 WS,KE,e-visa
@@ -29900,7 +29900,7 @@ SM,DM,21
 SM,DO,visa free
 SM,EC,90
 SM,EG,visa on arrival
-SM,SV,180
+SM,SV,90
 SM,GQ,e-visa
 SM,ER,visa required
 SM,EE,90
@@ -30099,7 +30099,7 @@ ST,DM,21
 ST,DO,visa required
 ST,EC,90
 ST,EG,visa on arrival
-ST,SV,180
+ST,SV,90
 ST,GQ,e-visa
 ST,ER,visa required
 ST,EE,visa required
@@ -30132,7 +30132,7 @@ ST,IE,visa required
 ST,IL,visa required
 ST,IT,visa required
 ST,JM,visa required
-ST,JP,visa required
+ST,JP,e-visa
 ST,JO,visa on arrival
 ST,KZ,e-visa
 ST,KE,e-visa
@@ -30298,7 +30298,7 @@ SA,DM,21
 SA,DO,visa required
 SA,EC,90
 SA,EG,180
-SA,SV,180
+SA,SV,90
 SA,GQ,e-visa
 SA,ER,visa required
 SA,EE,visa required
@@ -30363,7 +30363,7 @@ SA,FM,30
 SA,MD,e-visa
 SA,MC,visa required
 SA,MN,e-visa
-SA,ME,30
+SA,ME,visa required
 SA,MA,90
 SA,MZ,30
 SA,MM,e-visa
@@ -30530,7 +30530,7 @@ SN,IE,visa required
 SN,IL,visa required
 SN,IT,visa required
 SN,JM,visa required
-SN,JP,visa required
+SN,JP,e-visa
 SN,JO,visa required
 SN,KZ,e-visa
 SN,KE,e-visa
@@ -30928,7 +30928,7 @@ SC,IE,90
 SC,IL,visa required
 SC,IT,90
 SC,JM,visa free
-SC,JP,visa required
+SC,JP,e-visa
 SC,JO,visa on arrival
 SC,KZ,e-visa
 SC,KE,e-visa
@@ -31127,7 +31127,7 @@ SL,IE,visa required
 SL,IL,visa required
 SL,IT,visa required
 SL,JM,visa free
-SL,JP,visa required
+SL,JP,e-visa
 SL,JO,visa required
 SL,KZ,e-visa
 SL,KE,e-visa
@@ -31293,7 +31293,7 @@ SG,DM,180
 SG,DO,visa free
 SG,EC,90
 SG,EG,visa on arrival
-SG,SV,180
+SG,SV,90
 SG,GQ,e-visa
 SG,ER,visa required
 SG,EE,90
@@ -31492,7 +31492,7 @@ SK,DM,180
 SK,DO,visa free
 SK,EC,90
 SK,EG,visa on arrival
-SK,SV,180
+SK,SV,90
 SK,GQ,e-visa
 SK,ER,visa required
 SK,EE,visa free
@@ -31691,7 +31691,7 @@ SI,DM,180
 SI,DO,visa free
 SI,EC,90
 SI,EG,visa on arrival
-SI,SV,180
+SI,SV,90
 SI,GQ,e-visa
 SI,ER,visa required
 SI,EE,visa free
@@ -31890,7 +31890,7 @@ SB,DM,180
 SB,DO,visa free
 SB,EC,90
 SB,EG,visa on arrival
-SB,SV,180
+SB,SV,90
 SB,GQ,e-visa
 SB,ER,visa required
 SB,EE,90
@@ -31923,7 +31923,7 @@ SB,IE,90
 SB,IL,90
 SB,IT,90
 SB,JM,visa free
-SB,JP,visa required
+SB,JP,e-visa
 SB,JO,visa on arrival
 SB,KZ,visa required
 SB,KE,e-visa
@@ -32122,7 +32122,7 @@ SO,IE,visa required
 SO,IL,visa required
 SO,IT,visa required
 SO,JM,visa required
-SO,JP,visa required
+SO,JP,e-visa
 SO,JO,visa required
 SO,KZ,visa required
 SO,KE,visa free
@@ -32288,7 +32288,7 @@ ZA,DM,180
 ZA,DO,visa free
 ZA,EC,90
 ZA,EG,visa on arrival
-ZA,SV,180
+ZA,SV,90
 ZA,GQ,e-visa
 ZA,ER,visa required
 ZA,EE,visa required
@@ -32487,7 +32487,7 @@ KR,DM,180
 KR,DO,visa free
 KR,EC,90
 KR,EG,visa on arrival
-KR,SV,180
+KR,SV,90
 KR,GQ,e-visa
 KR,ER,visa required
 KR,EE,90
@@ -32719,7 +32719,7 @@ SS,IE,visa required
 SS,IL,visa required
 SS,IT,visa required
 SS,JM,visa required
-SS,JP,visa required
+SS,JP,e-visa
 SS,JO,visa required
 SS,KZ,visa required
 SS,KE,visa free
@@ -32885,7 +32885,7 @@ ES,DM,180
 ES,DO,visa free
 ES,EC,90
 ES,EG,visa on arrival
-ES,SV,180
+ES,SV,90
 ES,GQ,e-visa
 ES,ER,visa required
 ES,EE,visa free
@@ -33117,7 +33117,7 @@ LK,IE,visa required
 LK,IL,visa required
 LK,IT,visa required
 LK,JM,visa required
-LK,JP,visa required
+LK,JP,e-visa
 LK,JO,visa required
 LK,KZ,e-visa
 LK,KE,e-visa
@@ -33283,7 +33283,7 @@ VC,DM,visa free
 VC,DO,visa free
 VC,EC,90
 VC,EG,visa on arrival
-VC,SV,180
+VC,SV,90
 VC,GQ,e-visa
 VC,ER,visa required
 VC,EE,90
@@ -33316,7 +33316,7 @@ VC,IE,90
 VC,IL,90
 VC,IT,90
 VC,JM,visa free
-VC,JP,visa required
+VC,JP,e-visa
 VC,JO,visa on arrival
 VC,KZ,e-visa
 VC,KE,e-visa
@@ -33515,7 +33515,7 @@ SD,IE,visa required
 SD,IL,visa required
 SD,IT,visa required
 SD,JM,visa required
-SD,JP,visa required
+SD,JP,e-visa
 SD,JO,visa required
 SD,KZ,visa required
 SD,KE,e-visa
@@ -33880,7 +33880,7 @@ SE,DM,180
 SE,DO,visa free
 SE,EC,90
 SE,EG,visa on arrival
-SE,SV,180
+SE,SV,90
 SE,GQ,e-visa
 SE,ER,visa required
 SE,EE,visa free
@@ -34079,7 +34079,7 @@ CH,DM,180
 CH,DO,visa free
 CH,EC,90
 CH,EG,visa on arrival
-CH,SV,180
+CH,SV,90
 CH,GQ,e-visa
 CH,ER,visa required
 CH,EE,visa free
@@ -34311,7 +34311,7 @@ SY,IE,visa required
 SY,IL,visa required
 SY,IT,visa required
 SY,JM,visa required
-SY,JP,visa required
+SY,JP,e-visa
 SY,JO,visa required
 SY,KZ,visa required
 SY,KE,e-visa
@@ -34709,7 +34709,7 @@ TJ,IE,visa required
 TJ,IL,visa required
 TJ,IT,visa required
 TJ,JM,visa on arrival
-TJ,JP,visa required
+TJ,JP,e-visa
 TJ,JO,visa on arrival
 TJ,KZ,30
 TJ,KE,e-visa
@@ -34908,7 +34908,7 @@ TZ,IE,visa required
 TZ,IL,visa required
 TZ,IT,visa required
 TZ,JM,visa free
-TZ,JP,visa required
+TZ,JP,e-visa
 TZ,JO,visa required
 TZ,KZ,e-visa
 TZ,KE,visa free
@@ -35306,7 +35306,7 @@ TL,IE,visa required
 TL,IL,visa required
 TL,IT,90
 TL,JM,visa required
-TL,JP,visa required
+TL,JP,e-visa
 TL,JO,visa on arrival
 TL,KZ,visa required
 TL,KE,e-visa
@@ -35505,7 +35505,7 @@ TG,IE,visa required
 TG,IL,visa required
 TG,IT,visa required
 TG,JM,visa required
-TG,JP,visa required
+TG,JP,e-visa
 TG,JO,visa required
 TG,KZ,e-visa
 TG,KE,e-visa
@@ -35571,7 +35571,7 @@ TG,KN,e-visa
 TG,LC,visa on arrival
 TG,WS,visa on arrival
 TG,SM,visa required
-TG,ST,90
+TG,ST,e-visa
 TG,SA,visa required
 TG,SN,90
 TG,RS,visa required
@@ -35704,7 +35704,7 @@ TO,IE,90
 TO,IL,90
 TO,IT,90
 TO,JM,visa free
-TO,JP,visa required
+TO,JP,e-visa
 TO,JO,visa on arrival
 TO,KZ,e-visa
 TO,KE,e-visa
@@ -35870,7 +35870,7 @@ TT,DM,180
 TT,DO,visa free
 TT,EC,90
 TT,EG,visa on arrival
-TT,SV,180
+TT,SV,90
 TT,GQ,e-visa
 TT,ER,visa required
 TT,EE,90
@@ -35903,7 +35903,7 @@ TT,IE,90
 TT,IL,90
 TT,IT,90
 TT,JM,visa free
-TT,JP,visa required
+TT,JP,e-visa
 TT,JO,visa on arrival
 TT,KZ,e-visa
 TT,KE,e-visa
@@ -36268,7 +36268,7 @@ TR,DM,21
 TR,DO,visa free
 TR,EC,90
 TR,EG,visa on arrival
-TR,SV,180
+TR,SV,90
 TR,GQ,90
 TR,ER,visa required
 TR,EE,visa required
@@ -36500,7 +36500,7 @@ TM,IE,visa required
 TM,IL,visa required
 TM,IT,visa required
 TM,JM,visa on arrival
-TM,JP,visa required
+TM,JP,e-visa
 TM,JO,visa on arrival
 TM,KZ,e-visa
 TM,KE,e-visa
@@ -36666,7 +36666,7 @@ TV,DM,180
 TV,DO,visa free
 TV,EC,90
 TV,EG,visa on arrival
-TV,SV,180
+TV,SV,90
 TV,GQ,e-visa
 TV,ER,visa required
 TV,EE,90
@@ -36699,7 +36699,7 @@ TV,IE,90
 TV,IL,visa required
 TV,IT,90
 TV,JM,visa free
-TV,JP,visa required
+TV,JP,e-visa
 TV,JO,visa on arrival
 TV,KZ,e-visa
 TV,KE,e-visa
@@ -36898,7 +36898,7 @@ UG,IE,visa required
 UG,IL,visa required
 UG,IT,visa required
 UG,JM,visa free
-UG,JP,visa required
+UG,JP,e-visa
 UG,JO,visa required
 UG,KZ,e-visa
 UG,KE,visa free
@@ -37064,7 +37064,7 @@ UA,DM,90
 UA,DO,visa free
 UA,EC,90
 UA,EG,visa on arrival
-UA,SV,180
+UA,SV,90
 UA,GQ,e-visa
 UA,ER,visa required
 UA,EE,90
@@ -37097,7 +37097,7 @@ UA,IE,90
 UA,IL,90
 UA,IT,90
 UA,JM,30
-UA,JP,visa required
+UA,JP,e-visa
 UA,JO,visa on arrival
 UA,KZ,90
 UA,KE,e-visa
@@ -37263,7 +37263,7 @@ AE,DM,180
 AE,DO,visa free
 AE,EC,90
 AE,EG,180
-AE,SV,180
+AE,SV,90
 AE,GQ,90
 AE,ER,visa required
 AE,EE,90
@@ -37462,7 +37462,7 @@ GB,DM,180
 GB,DO,visa free
 GB,EC,90
 GB,EG,visa on arrival
-GB,SV,180
+GB,SV,90
 GB,GQ,e-visa
 GB,ER,visa required
 GB,EE,90
@@ -37661,7 +37661,7 @@ US,DM,180
 US,DO,visa free
 US,EC,90
 US,EG,visa on arrival
-US,SV,180
+US,SV,90
 US,GQ,e-visa
 US,ER,visa required
 US,EE,90
@@ -37860,7 +37860,7 @@ UY,DM,21
 UY,DO,visa free
 UY,EC,90
 UY,EG,visa on arrival
-UY,SV,180
+UY,SV,90
 UY,GQ,e-visa
 UY,ER,visa required
 UY,EE,90
@@ -38092,7 +38092,7 @@ UZ,IE,visa required
 UZ,IL,visa required
 UZ,IT,visa required
 UZ,JM,visa on arrival
-UZ,JP,visa required
+UZ,JP,e-visa
 UZ,JO,visa on arrival
 UZ,KZ,30
 UZ,KE,e-visa
@@ -38258,7 +38258,7 @@ VU,DM,180
 VU,DO,visa free
 VU,EC,90
 VU,EG,visa on arrival
-VU,SV,180
+VU,SV,90
 VU,GQ,e-visa
 VU,ER,visa required
 VU,EE,visa required
@@ -38291,7 +38291,7 @@ VU,IE,visa required
 VU,IL,90
 VU,IT,visa required
 VU,JM,visa free
-VU,JP,visa required
+VU,JP,e-visa
 VU,JO,visa on arrival
 VU,KZ,e-visa
 VU,KE,e-visa
@@ -38457,7 +38457,7 @@ VA,DM,21
 VA,DO,visa free
 VA,EC,90
 VA,EG,visa on arrival
-VA,SV,180
+VA,SV,90
 VA,GQ,e-visa
 VA,ER,visa required
 VA,EE,90
@@ -38490,7 +38490,7 @@ VA,IE,90
 VA,IL,90
 VA,IT,90
 VA,JM,visa required
-VA,JP,visa required
+VA,JP,e-visa
 VA,JO,visa on arrival
 VA,KZ,30
 VA,KE,e-visa
@@ -38689,7 +38689,7 @@ VE,IE,visa required
 VE,IL,visa required
 VE,IT,90
 VE,JM,30
-VE,JP,visa required
+VE,JP,e-visa
 VE,JO,visa on arrival
 VE,KZ,e-visa
 VE,KE,e-visa
@@ -39087,7 +39087,7 @@ YE,IE,visa required
 YE,IL,visa required
 YE,IT,visa required
 YE,JM,visa required
-YE,JP,visa required
+YE,JP,e-visa
 YE,JO,visa required
 YE,KZ,visa required
 YE,KE,e-visa
@@ -39286,7 +39286,7 @@ ZM,IE,visa required
 ZM,IL,visa required
 ZM,IT,visa required
 ZM,JM,visa free
-ZM,JP,visa required
+ZM,JP,e-visa
 ZM,JO,visa required
 ZM,KZ,e-visa
 ZM,KE,e-visa
@@ -39485,7 +39485,7 @@ ZW,IE,visa required
 ZW,IL,visa required
 ZW,IT,visa required
 ZW,JM,visa required
-ZW,JP,visa required
+ZW,JP,e-visa
 ZW,JO,visa on arrival
 ZW,KZ,e-visa
 ZW,KE,e-visa
