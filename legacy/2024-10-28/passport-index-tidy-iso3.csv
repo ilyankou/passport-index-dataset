@@ -630,7 +630,7 @@ AND,CPV,30
 AND,CAF,visa required
 AND,TCD,visa required
 AND,CHL,90
-AND,CHN,15
+AND,CHN,visa required
 AND,COL,90
 AND,COM,visa on arrival
 AND,COG,visa required
@@ -682,7 +682,7 @@ AND,ITA,90
 AND,JAM,visa on arrival
 AND,JPN,90
 AND,JOR,visa on arrival
-AND,KAZ,90
+AND,KAZ,e-visa
 AND,KEN,e-visa
 AND,KIR,visa required
 AND,XKX,90
@@ -1508,7 +1508,7 @@ ARM,FSM,30
 ARM,MDA,90
 ARM,MCO,visa required
 ARM,MNG,e-visa
-ARM,MNE,visa required
+ARM,MNE,30
 ARM,MAR,visa required
 ARM,MOZ,visa on arrival
 ARM,MMR,visa required
@@ -9187,7 +9187,7 @@ DNK,CPV,30
 DNK,CAF,visa required
 DNK,TCD,visa required
 DNK,CHL,90
-DNK,CHN,15
+DNK,CHN,visa required
 DNK,COL,90
 DNK,COM,visa on arrival
 DNK,COG,visa required
@@ -11774,7 +11774,7 @@ FIN,CPV,30
 FIN,CAF,visa required
 FIN,TCD,visa required
 FIN,CHL,90
-FIN,CHN,15
+FIN,CHN,visa required
 FIN,COL,90
 FIN,COM,visa on arrival
 FIN,COG,visa required
@@ -15157,7 +15157,7 @@ ISL,CPV,30
 ISL,CAF,visa required
 ISL,TCD,visa required
 ISL,CHL,90
-ISL,CHN,15
+ISL,CHN,visa required
 ISL,COL,90
 ISL,COM,visa on arrival
 ISL,COG,visa required
@@ -17413,7 +17413,7 @@ KAZ,LBY,e-visa
 KAZ,LIE,visa required
 KAZ,LTU,visa required
 KAZ,LUX,visa required
-KAZ,MAC,14
+KAZ,MAC,visa on arrival
 KAZ,MDG,visa on arrival
 KAZ,MWI,e-visa
 KAZ,MYS,30
@@ -17428,7 +17428,7 @@ KAZ,FSM,30
 KAZ,MDA,90
 KAZ,MCO,visa required
 KAZ,MNG,90
-KAZ,MNE,visa required
+KAZ,MNE,30
 KAZ,MAR,visa required
 KAZ,MOZ,visa on arrival
 KAZ,MMR,e-visa
@@ -19586,7 +19586,7 @@ LBY,ISR,visa required
 LBY,ITA,visa required
 LBY,JAM,visa required
 LBY,JPN,visa required
-LBY,JOR,visa on arrival
+LBY,JOR,visa required
 LBY,KAZ,visa required
 LBY,KEN,e-visa
 LBY,KIR,visa required
@@ -19734,7 +19734,7 @@ LIE,CPV,30
 LIE,CAF,visa required
 LIE,TCD,visa required
 LIE,CHL,90
-LIE,CHN,15
+LIE,CHN,visa required
 LIE,COL,90
 LIE,COM,visa on arrival
 LIE,COG,visa required
@@ -20383,7 +20383,7 @@ MAC,ITA,90
 MAC,JAM,visa required
 MAC,JPN,90
 MAC,JOR,visa on arrival
-MAC,KAZ,14
+MAC,KAZ,e-visa
 MAC,KEN,e-visa
 MAC,KIR,90
 MAC,XKX,90
@@ -22918,7 +22918,7 @@ MCO,CPV,30
 MCO,CAF,visa required
 MCO,TCD,visa required
 MCO,CHL,90
-MCO,CHN,15
+MCO,CHN,visa required
 MCO,COL,90
 MCO,COM,visa on arrival
 MCO,COG,visa required
@@ -26102,7 +26102,7 @@ NOR,CPV,30
 NOR,CAF,visa required
 NOR,TCD,visa required
 NOR,CHL,90
-NOR,CHN,15
+NOR,CHN,visa required
 NOR,COL,90
 NOR,COM,visa on arrival
 NOR,COG,visa required
@@ -27640,7 +27640,7 @@ PRY,THA,visa on arrival
 PRY,TLS,visa on arrival
 PRY,TGO,e-visa
 PRY,TON,visa required
-PRY,TTO,visa on arrival
+PRY,TTO,visa required
 PRY,TUN,visa required
 PRY,TKM,visa required
 PRY,TUV,visa on arrival
@@ -30363,7 +30363,7 @@ SAU,FSM,30
 SAU,MDA,e-visa
 SAU,MCO,visa required
 SAU,MNG,e-visa
-SAU,MNE,visa required
+SAU,MNE,30
 SAU,MAR,90
 SAU,MOZ,30
 SAU,MMR,e-visa
@@ -31475,7 +31475,7 @@ SVK,CPV,30
 SVK,CAF,visa required
 SVK,TCD,visa required
 SVK,CHL,90
-SVK,CHN,15
+SVK,CHN,visa required
 SVK,COL,90
 SVK,COM,visa on arrival
 SVK,COG,visa required
@@ -32470,7 +32470,7 @@ KOR,CPV,visa on arrival
 KOR,CAF,visa required
 KOR,TCD,visa required
 KOR,CHL,90
-KOR,CHN,15
+KOR,CHN,visa required
 KOR,COL,90
 KOR,COM,visa on arrival
 KOR,COG,visa required
