@@ -1,6 +1,6 @@
-# 2024 Passport Index Dataset
+# 2025 Passport Index Dataset
 ## Travel visa requirements for 199 countries, in .csv
-Last updated on 4 December 2024. Check out the `/legacy` folder for earlier versions.
+Last updated on 2 January 2025. Check out the `/legacy` folder for earlier versions.
 
 ![Passport](passport.png)
 
@@ -20,7 +20,7 @@ For visa-free regimes, the number of days (a positive integer) is specified when
 |`7`-`360`| Number of visa-free days, where available |
 |`visa free`| Visa-free travel (where number of days is unknown or not applicable, such as freedom of movement), including tourist registration requirement for Seychelles, e-tickets (Dominican Republic), and (digital) arrival cards (Singapore, Malaysia)|
 |`visa on arrival`| Destinations that grant visa on arrival, basically visa-free |
-|`e-visa`| Includes  [ESTA](https://esta.cbp.dhs.gov/) (Electronic System for Travel Authorization for the USA) and [eTA](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta.html) (Electronic Travel Authorization for Canada), eVisas, [eVisitors](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/evisitor-651) in Australia, [eTourist cards](https://www.surinametourism.sr/tourist-card/) for Suriname, pre-enrollment for Ivory Coast, and UK's [electronic visa waivers](https://www.gov.uk/get-electronic-visa-waiver) |
+|`e-visa`| Includes  [ESTA](https://esta.cbp.dhs.gov/) (Electronic System for Travel Authorization for the USA) and [eTA](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta.html) (Electronic Travel Authorization for Canada), eVisas, [eVisitors](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/evisitor-651) in Australia, [eTourist cards](https://www.surinametourism.sr/tourist-card/) for Suriname, pre-enrollment for Ivory Coast, and UK's [electronic visa waivers](https://www.gov.uk/get-electronic-visa-waiver) and [electronic visa authorisation (ETA)](https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta) |
 |`visa required`| Obtaining a visa is required for travel. Includes Cuba's tourist cards and China's Exit-Entry permits for Macau and Hong Kong |
 |`covid ban`| Travelling is banned for most people. This is perhaps the most dynamic category right now, with varying exemptions|
 |`no admission`| Includes rare tricky situations, such as war conflicts |
