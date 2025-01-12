@@ -1,6 +1,6 @@
 # 2025 Passport Index Dataset
 ## Travel visa requirements for 199 countries, in .csv
-Last updated on 2 January 2025. Check out the `/legacy` folder for earlier versions.
+Last updated on 12 January 2025. Check out the `/legacy` folder for earlier versions.
 
 ![Passport](passport.png)
 
@@ -20,12 +20,15 @@ For visa-free regimes, the number of days (a positive integer) is specified when
 |`7`-`360`| Number of visa-free days, where available |
 |`visa free`| Visa-free travel (where number of days is unknown or not applicable, such as freedom of movement), including tourist registration requirement for Seychelles, e-tickets (Dominican Republic), and (digital) arrival cards (Singapore, Malaysia)|
 |`visa on arrival`| Destinations that grant visa on arrival, basically visa-free |
-|`e-visa`| Includes  [ESTA](https://esta.cbp.dhs.gov/) (Electronic System for Travel Authorization for the USA) and [eTA](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta.html) (Electronic Travel Authorization for Canada), eVisas, [eVisitors](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/evisitor-651) in Australia, [eTourist cards](https://www.surinametourism.sr/tourist-card/) for Suriname, pre-enrollment for Ivory Coast, and UK's [electronic visa waivers](https://www.gov.uk/get-electronic-visa-waiver) and [electronic visa authorisation (ETA)](https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta) |
-|`visa required`| Obtaining a visa is required for travel. Includes Cuba's tourist cards and China's Exit-Entry permits for Macau and Hong Kong |
-|`covid ban`| Travelling is banned for most people. This is perhaps the most dynamic category right now, with varying exemptions|
-|`no admission`| Includes rare tricky situations, such as war conflicts |
-|`Hayya Entry Permit`| Fan ID for the FIFA World Cup 2022 to enter Qatar in Nov-Dec 2022 |
+|`eta`| *(new in dataset from 12 January 2025)* Electronic travel authorisation, usually easier to get than e-visas. Includes [ESTA](https://en.wikipedia.org/wiki/Electronic_System_for_Travel_Authorization) (Electronic System for Travel Authorization for the USA), [eTA](https://www.canada.ca/en/immigration-refugees-citizenship/services/visit-canada/eta.html) (Electronic Travel Authorization for Canada), [eVisitors](https://immi.homeaffairs.gov.au/visas/getting-a-visa/visa-listing/evisitor-651) in Australia, [eTourist cards](https://www.surinametourism.sr/tourist-card/) for Suriname, pre-enrollment for Ivory Coast, and UK's [electronic visa waivers](https://www.gov.uk/get-electronic-visa-waiver) (legacy) and [electronic travel authorisation (ETA)](https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta) |
+|`e-visa`| e-Visas. *From 12 January 2025 this category excludes ETAs* |
+|`visa required`| Obtaining a visa is required for travel. Includes [Cuba's tourist cards](https://en.wikipedia.org/wiki/Visa_policy_of_Cuba#Tourist_card) and China's [Exit-Entry permits](https://en.wikipedia.org/wiki/Mainland_Travel_Permit_for_Hong_Kong_and_Macao_Resident) for Macau and Hong Kong |
+|`no admission`| Includes rare tricky situations, such as war conflicts or previously [Trump travel bans](https://en.wikipedia.org/wiki/Trump_travel_ban) |
 |`-1`| where passport=destination|
+| **Legacy Value** | **Explanation** |
+|`Hayya Entry Permit`| Fan ID for the FIFA World Cup 2022 to enter Qatar in Nov-Dec 2022 |
+|`covid ban`| Travelling is banned for most people due to Covid-19 restrictions |
+
 
 ### Update data with Jupyter notebook
 You should be able to run the Jupyter notebook to update datasets whenever you want.
